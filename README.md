@@ -167,3 +167,142 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 10. [http://agusbeee.rf.gd/]  
     **Beeeee**
     Halo smua, saya agus rukanda, izin share web portfolio saya yang menampilkan profile singkat serta skill yang saya miliki
+
+### 28 November 2020
+
+1. [https://elanghda.000webhostapp.com/]  
+    **elanghda**
+    Hallo semuanya , saya elang Mansyur Huda, izin share web sederhana portofolio pertama kali saya bikin dan hasil belajar html CSS di channel Web programming unpas 
+
+2. [https://bouncer.studiocloud.site/]  
+   [https://play.google.com/store/apps/details?id=site.studiocloud.bouncer]
+    **Ya'suf Dany**
+    Halo semua salam kenal, mau share web game pake flutter hehe
+
+3. [https://maba.my.id/]  
+    **kewcode**
+    Halo saya Ari Bahtiar , saya membuat website maba.my.id bisa Juga di download di play store namanya aplikasi maba, ini Sosial Media seperti Twitter, blm terkenal sih soalnya masih baru,saya Juga pengen dapet Kritik dan sarannya.. terimakasih :)
+   
+    Teknologi yang digunakan : Nuxt Js, Laravel Api, Express Js, Socket Io dan Webrtc :)
+    
+    Frond end ya pakai Tailwind Css, untuk dark theme dan custom color it CSS biasa.. :)
+    
+    Icon pakai Bootstrap Icon
+
+    Untuk fitur :
+   1. Bisa posting pribadi, foto / text / audio
+   2. Bisa Posting sebagai Anonim
+   3. Fitur group
+   4. Membuat acara dan otomatis dibikin group chat nya
+   5. Chatting / DM user
+   6. Fitur FYP / Trending Postingan
+   7. Fitur buat chattingan sebagai anonim
+   8. Masih dikembangin :) kalau fiturnya kebanyakan juga malah jadi ribet sih
+
+   Saya bikin aplikasi sendiri selama 3 bulan :v kali aja ada yang mau bantu ngembangin atau kerjasam bikin startup lain .. hehe saya subriber wpu dari smk udah lama , terimakasih Pak dika
+
+
+4. [https://evoting-school.spektaweb.com/]  
+    **Yuda**
+    Hallo teman2 .. ini project laravel yang sedang saya kembangkan, yaitu E-voting 
+    Demo nya bisa di lihat disini ya 
+
+5. [http://host.hartonomotor.xyz/quiz]  
+    **Johansen Junias**
+    halo teman-teman, saya sedang belajar membuat quiz online realtime seperti Kahoot,
+    Teman-teman bisa coba membuat quiz sendiri di sana dan juga bisa bermain langsung dengan teman-teman kalian
+   
+    untuk Front-End saya menggunakan:
+      -Bootstrap 4
+      -HTML & CSS & JS
+      -Jquery
+    untuk Back-End saya menggunakan:
+      -PHP
+      -Node Js (websocket)
+      -MySQL
+    link hanya bisa diakses jam 9.00 sampai 23.00 dikarenakan saya host sendiri.
+   
+    masih dalam tahap pengembangan. Mohon kritik dan saran thx
+
+6. [https://doddyapa.github.io/]  
+    **Doddy**
+    Halo teman-teman, ijin share hasil personal website saya. Personal website ini dibuat menggunakan react js (styled components) mohon kritik dan sarannya jika ada yang kurang.
+    Terimakasih sebelumnya
+
+7. [https://www.dedeard.my.id/]  
+    **dedeardiansya**
+    Halo semua, aku punya design portfolio dengan tema glitch nihh.. kira kira bagai mana mnurut kalian, portfolio ini aku buat dengan menghunakan p5.js (webgl).
+    source codenya boleh cek github aku dedeardiansya/dedeard.my.id (link github ada di dalam web portfolio).
+
+8. [https://dindatiwi.github.io/STMTawor/]  
+    **tiwi**
+    Halo guys, Aku mau share project kecil-kecilan untuk belajar OOP javascript
+
+9.  [https://photosheets.web.app/]  
+    **Naveta Candra**
+    Halo teman teman, aku mau share project iseng yg ceritany mau clone facebook ( walau gk mirip sih:sweat_smile:)
+    Jadi aku bikinnya make :
+       - React JS,
+       - Bootstrap 4 (CSS only),
+       - Bootsrap 5 (Js only) karena mau nyoba gk pake JQuery ceritanya,
+       - Firebase (Auth, Realtime database, Storage, dan Hosting),
+    
+10. [https://intermovie-1f6e3.web.app/]
+    [https://github.com/bagasnur/Intermovie]
+    **Exagas**
+    Jadi, saya buatnya pakai Framework ReactJs sama Ant-Design
+    Untuk fitur nya sendiri yaitu:
+   - Rekomendasi Film dengan rating tertinggi
+   - Fitur Search film
+   - Detail Film
+   - Kategori
+   Walau masih terbilang kurang bagus, tapi masih progress menuju bagus :laughing: :sweat_smile:
+
+11. [https://github.com/mpampamdev/m-code]
+    **mpampamdev**
+    halo semuanya. saya baru saja selesaikan admin panel dan tools crud generator menggunakan framework codeigniter 3. 
+      >M-CRUD Generator
+      >manage user
+      >manage group
+      >manage permission
+      >RBAC
+      >manage menu
+      >setting system
+      >ajax crud
+      >Serverside datatable
+      >Bulilt in PHP V.7.4
+
+12. [https://semuatau.net/]
+    **nothing02**
+    Halo, saya membuat website sederhana. Sebenarnya saya minder, lihat hasil teman teman yang sangat bagus,,,oleh karena itu saya ingin memiinta saran dari teman teman.
+
+    Saya buat menggunakan ci4+bootstrap
+
+13. [https://haizim.one/iseng/trend-history/analytics]
+    **haizim**
+    Hai.. ijin bagiin projek coba2 saya.. ini niatnya mau bikin ala-ala Drone Emprit tapi basisnya web. Jadi buat pemrosesan datanya pakai PHP kemudian untuk diagram2nya saya pakai:
+    - line : chart.js
+    - wordcloud : amcharts
+    - network : vis.js
+
+    datanya tweet diambil secara berkala setiap satu menit sekali tiap keywordnya. Sedangkan untuk trending topic diambil tiap setengah jam sekali.
+
+    kekurangnnya adlah saat menampilkan wordcloud dan network diagramnya lama, dikarenakan banyaknya jumlah data yang dirender
+
+14. [https://haikalfikri.com/pilkasis]
+    **haikalfiikrii**
+    Assalamualaikum wr wb slamat malam, saya mau menunjukan hasil project saya dari 6 bulan yang lalu pas awal awal terjangkitnya virus corona, yaitu web pemilihan osis situs web ini dapat mengumpulkan hak suara siswa dan guru.
+    
+    saya membangun project ini menggunakan PHP, tolong masukkannya jika ada bug atau fitur fitur yang kurang yang dianggap pnting
+
+15. [https://bocahgabut.github.io/colordetections]
+    **boch_gabut**
+    Assalamualaikum wr wb
+   Halo semuanya..... Ijin bagiin project iseng saya. Jadi project ini adalah website untuk mengetahui warna dari sebuah object menggunakan camera atau webcam laptop atau sejenisnya.
+   Website ini saya buat menggunakan Reactjs 
+
+
+
+
+
+
