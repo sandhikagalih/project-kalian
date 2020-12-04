@@ -12,7 +12,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    **Meiske**  
    Mobile Banking App  
    [https://www.behance.net/gallery/106502227/About-Money-Lovers-App]  
-   Money Lovers App  
+   Money Lovers App
 
 2. [https://whatsy.now.sh/]  
    **burhanahmed**  
@@ -20,7 +20,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
 3. [http://japannest.glitch.me/]  
    **Kyo**  
-   masih baru bljr, web statis... single page, hasil bljr dari wpu  
+   masih baru bljr, web statis... single page, hasil bljr dari wpu
 
 4. [https://dbyjar.com/]  
    **CookieJar**  
@@ -43,7 +43,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    **Uzumaki Bayu**
 
 9. [https://gunawanahmad.github.io/]  
-   **GunOne**  
+   **GunOne**
 
 10. [https://sumbar-pedia.com/]  
     Hehe. Belajar 7 bulan dh bisa bikin kek gini.
@@ -68,7 +68,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Bahasa yang digunakan : PHP Native + bootstrap 4
 
 4. [http://nunnaa.com/desa/]  
-   **nahers24**  
+   **nahers24**
 
 5. [https://satrianet.com/]  
    **SATRIA**  
@@ -171,25 +171,26 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 ### 28 November 2020
 
 1. [https://elanghda.000webhostapp.com/]  
-    **elanghda**
-    Hallo semuanya , saya elang Mansyur Huda, izin share web sederhana portofolio pertama kali saya bikin dan hasil belajar html CSS di channel Web programming unpas 
+   **elanghda**
+   Hallo semuanya , saya elang Mansyur Huda, izin share web sederhana portofolio pertama kali saya bikin dan hasil belajar html CSS di channel Web programming unpas
 
 2. [https://bouncer.studiocloud.site/]  
    [https://play.google.com/store/apps/details?id=site.studiocloud.bouncer]
-    **Ya'suf Dany**
-    Halo semua salam kenal, mau share web game pake flutter hehe
+   **Ya'suf Dany**
+   Halo semua salam kenal, mau share web game pake flutter hehe
 
 3. [https://maba.my.id/]  
     **kewcode**
-    Halo saya Ari Bahtiar , saya membuat website maba.my.id bisa Juga di download di play store namanya aplikasi maba, ini Sosial Media seperti Twitter, blm terkenal sih soalnya masih baru,saya Juga pengen dapet Kritik dan sarannya.. terimakasih :)
-   
-    Teknologi yang digunakan : Nuxt Js, Laravel Api, Express Js, Socket Io dan Webrtc :)
-    
-    Frond end ya pakai Tailwind Css, untuk dark theme dan custom color it CSS biasa.. :)
-    
-    Icon pakai Bootstrap Icon
+   Halo saya Ari Bahtiar , saya membuat website maba.my.id bisa Juga di download di play store namanya aplikasi maba, ini Sosial Media seperti Twitter, blm terkenal sih soalnya masih baru,saya Juga pengen dapet Kritik dan sarannya.. terimakasih :)
 
-    Untuk fitur :
+   Teknologi yang digunakan : Nuxt Js, Laravel Api, Express Js, Socket Io dan Webrtc :)
+
+   Frond end ya pakai Tailwind Css, untuk dark theme dan custom color it CSS biasa.. :)
+
+   Icon pakai Bootstrap Icon
+
+   Untuk fitur :
+
    1. Bisa posting pribadi, foto / text / audio
    2. Bisa Posting sebagai Anonim
    3. Fitur group
@@ -201,76 +202,76 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    Saya bikin aplikasi sendiri selama 3 bulan :v kali aja ada yang mau bantu ngembangin atau kerjasam bikin startup lain .. hehe saya subriber wpu dari smk udah lama , terimakasih Pak dika
 
-
 4. [https://evoting-school.spektaweb.com/]  
-    **Yuda**
-    Hallo teman2 .. ini project laravel yang sedang saya kembangkan, yaitu E-voting 
-    Demo nya bisa di lihat disini ya 
+   **Yuda**
+   Hallo teman2 .. ini project laravel yang sedang saya kembangkan, yaitu E-voting
+   Demo nya bisa di lihat disini ya
 
 5. [http://host.hartonomotor.xyz/quiz]  
-    **Johansen Junias**
-    halo teman-teman, saya sedang belajar membuat quiz online realtime seperti Kahoot,
-    Teman-teman bisa coba membuat quiz sendiri di sana dan juga bisa bermain langsung dengan teman-teman kalian
-   
-    untuk Front-End saya menggunakan:
-      -Bootstrap 4
-      -HTML & CSS & JS
-      -Jquery
-    untuk Back-End saya menggunakan:
-      -PHP
-      -Node Js (websocket)
-      -MySQL
-    link hanya bisa diakses jam 9.00 sampai 23.00 dikarenakan saya host sendiri.
-   
-    masih dalam tahap pengembangan. Mohon kritik dan saran thx
+   **Johansen Junias**
+   halo teman-teman, saya sedang belajar membuat quiz online realtime seperti Kahoot,
+   Teman-teman bisa coba membuat quiz sendiri di sana dan juga bisa bermain langsung dengan teman-teman kalian
+
+   untuk Front-End saya menggunakan:
+   -Bootstrap 4
+   -HTML & CSS & JS
+   -Jquery
+   untuk Back-End saya menggunakan:
+   -PHP
+   -Node Js (websocket)
+   -MySQL
+   link hanya bisa diakses jam 9.00 sampai 23.00 dikarenakan saya host sendiri.
+
+   masih dalam tahap pengembangan. Mohon kritik dan saran thx
 
 6. [https://doddyapa.github.io/]  
-    **Doddy**
-    Halo teman-teman, ijin share hasil personal website saya. Personal website ini dibuat menggunakan react js (styled components) mohon kritik dan sarannya jika ada yang kurang.
-    Terimakasih sebelumnya
+   **Doddy**
+   Halo teman-teman, ijin share hasil personal website saya. Personal website ini dibuat menggunakan react js (styled components) mohon kritik dan sarannya jika ada yang kurang.
+   Terimakasih sebelumnya
 
 7. [https://www.dedeard.my.id/]  
-    **dedeardiansya**
-    Halo semua, aku punya design portfolio dengan tema glitch nihh.. kira kira bagai mana mnurut kalian, portfolio ini aku buat dengan menghunakan p5.js (webgl).
-    source codenya boleh cek github aku dedeardiansya/dedeard.my.id (link github ada di dalam web portfolio).
+   **dedeardiansya**
+   Halo semua, aku punya design portfolio dengan tema glitch nihh.. kira kira bagai mana mnurut kalian, portfolio ini aku buat dengan menghunakan p5.js (webgl).
+   source codenya boleh cek github aku dedeardiansya/dedeard.my.id (link github ada di dalam web portfolio).
 
 8. [https://dindatiwi.github.io/STMTawor/]  
-    **tiwi**
-    Halo guys, Aku mau share project kecil-kecilan untuk belajar OOP javascript
+   **tiwi**
+   Halo guys, Aku mau share project kecil-kecilan untuk belajar OOP javascript
 
-9.  [https://photosheets.web.app/]  
-    **Naveta Candra**
-    Halo teman teman, aku mau share project iseng yg ceritany mau clone facebook ( walau gk mirip sih:sweat_smile:)
-    Jadi aku bikinnya make :
-       - React JS,
-       - Bootstrap 4 (CSS only),
-       - Bootsrap 5 (Js only) karena mau nyoba gk pake JQuery ceritanya,
-       - Firebase (Auth, Realtime database, Storage, dan Hosting),
-    
+9. [https://photosheets.web.app/]  
+   **Naveta Candra**
+   Halo teman teman, aku mau share project iseng yg ceritany mau clone facebook ( walau gk mirip sih:sweat_smile:)
+   Jadi aku bikinnya make :
+   - React JS,
+   - Bootstrap 4 (CSS only),
+   - Bootsrap 5 (Js only) karena mau nyoba gk pake JQuery ceritanya,
+   - Firebase (Auth, Realtime database, Storage, dan Hosting),
 10. [https://intermovie-1f6e3.web.app/]
     [https://github.com/bagasnur/Intermovie]
     **Exagas**
     Jadi, saya buatnya pakai Framework ReactJs sama Ant-Design
     Untuk fitur nya sendiri yaitu:
-   - Rekomendasi Film dengan rating tertinggi
-   - Fitur Search film
-   - Detail Film
-   - Kategori
-   Walau masih terbilang kurang bagus, tapi masih progress menuju bagus :laughing: :sweat_smile:
+
+- Rekomendasi Film dengan rating tertinggi
+- Fitur Search film
+- Detail Film
+- Kategori
+  Walau masih terbilang kurang bagus, tapi masih progress menuju bagus :laughing: :sweat_smile:
 
 11. [https://github.com/mpampamdev/m-code]
     **mpampamdev**
-    halo semuanya. saya baru saja selesaikan admin panel dan tools crud generator menggunakan framework codeigniter 3. 
-      >M-CRUD Generator
-      >manage user
-      >manage group
-      >manage permission
-      >RBAC
-      >manage menu
-      >setting system
-      >ajax crud
-      >Serverside datatable
-      >Bulilt in PHP V.7.4
+    halo semuanya. saya baru saja selesaikan admin panel dan tools crud generator menggunakan framework codeigniter 3.
+
+    > M-CRUD Generator
+    > manage user
+    > manage group
+    > manage permission
+    > RBAC
+    > manage menu
+    > setting system
+    > ajax crud
+    > Serverside datatable
+    > Bulilt in PHP V.7.4
 
 12. [https://semuatau.net/]
     **nothing02**
@@ -281,6 +282,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 13. [https://haizim.one/iseng/trend-history/analytics]
     **haizim**
     Hai.. ijin bagiin projek coba2 saya.. ini niatnya mau bikin ala-ala Drone Emprit tapi basisnya web. Jadi buat pemrosesan datanya pakai PHP kemudian untuk diagram2nya saya pakai:
+
     - line : chart.js
     - wordcloud : amcharts
     - network : vis.js
@@ -292,17 +294,113 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 14. [https://haikalfikri.com/pilkasis]
     **haikalfiikrii**
     Assalamualaikum wr wb slamat malam, saya mau menunjukan hasil project saya dari 6 bulan yang lalu pas awal awal terjangkitnya virus corona, yaitu web pemilihan osis situs web ini dapat mengumpulkan hak suara siswa dan guru.
-    
+
     saya membangun project ini menggunakan PHP, tolong masukkannya jika ada bug atau fitur fitur yang kurang yang dianggap pnting
 
 15. [https://bocahgabut.github.io/colordetections]
     **boch_gabut**
     Assalamualaikum wr wb
-   Halo semuanya..... Ijin bagiin project iseng saya. Jadi project ini adalah website untuk mengetahui warna dari sebuah object menggunakan camera atau webcam laptop atau sejenisnya.
-   Website ini saya buat menggunakan Reactjs 
+    Halo semuanya..... Ijin bagiin project iseng saya. Jadi project ini adalah website untuk mengetahui warna dari sebuah object menggunakan camera atau webcam laptop atau sejenisnya.
+    Website ini saya buat menggunakan Reactjs
 
+### 5 Desember 2020
 
+1. [https://mziaulhaq.com/]  
+    **elanghda**
+   assalamualaikum pak Sandika dan semuanya..
+   ceritanya malam kemarin saya iseng telusuri github untuk kepoin landing page orang-orang, lalu saya jumpa dengan landing page ini https://sroberts.io/, saya tertarik dan mencoba membuat yang serupa.
+   memanfaatkan template zinzer (basis bootstrap 4) yang saya punyai dan menggunakan moving letters dari https://tobiasahlin.com/moving-letters/ untuk animasi pada tampilan nama, pengerjaannya sekesai dalam semalam.
 
+   sarannya pak Sandika dan semuanya, apa yang harus diperbaiki lagi, dan sekalian saya bisa menggunakan teknologi apa ya pak (selain wordpress) utk membuat blog yang memanfaatkan template yang sudah ada ini, biar sekilas mirip dengan https://sroberts.io/blog/ ataupun https://pulo.dev/.
 
+   terimakasih banyak.
 
+2. [https://play.google.com/store/apps/details?id=com.ajailani.casher]  
+    **Ajailani**
+   Halo semua, saya mau share project aplikasi Android saya. Beberapa fitur memang belum saya buat.
+   Untuk source codenya bisa lihat di sini https://github.com/ajailani4/casher-android . Terimakasih
 
+3. [https://covid19tracker-fdc17.web.app/]  
+    **Rambe**
+   Halo semuanya,
+   Saya membuat project yang menampilkan data Covid-19 di Indonesia secara nasional dan setiap provinsi.
+
+   Dibuat menggunakan :
+
+   - HTML
+   - CSS
+   - JavaScript
+   - Bootstrap
+
+4. [https://calcall.netlify.app/]  
+    **Wahyu.All**
+   Izin share project kecil-kecilan.
+   Fitur:
+   • Kalkulator (seperti biasa)
+   • Konversi Mata Uang
+   • Konversi Suhu
+   • Konversi Sistem Bilangan
+
+   Dibuat menggunakan HTML, CSS, JavaScript, dan sedikit jQuery
+   Mohon maaf kalo ada bug
+   Disarankan menggunakan hp
+
+5. [http://andibahtiar.epizy.com/]  
+    **Andi Bahtiar**
+   Assalamu'alaikum pak Sandika dan semuanya pagi, Mohon maaf izin share project saya bisa di sebut jga web pribadi atau portfolio, mohon maaf saya masih pemula dan saya ucapkan terimakasih kepada pak Sandika atas ilmu pemprograman nya
+
+   http://andibahtiar.epizy.com/
+
+   Dibuat menggunakan HTML,CSS,Bootstrap 4, dan Javascript
+
+6. [https://p34c3-khyrein.linuxploit.com/covid/]  
+    **P34C3_KHYREIN**
+   izin share ulang pak @sandhikagalih
+   [Clone Tech] ~ Website Monitor & Implant Biology Chip with Demonstration Device
+   Peragaan On YouTube: https://youtu.be/YkRimr85FjU?t=1274
+
+   Tech:
+
+   - menggunakan TTS (Text To Speech) [boleh dicoba di console nya ketik: tts('hello world') ]
+   - Chip Reader Demonstration Device yang sudah terkoneksi dengan website (lihat di peragaan YouTube menit ke 15:26)
+   - Information Gathering Display (Website) from implant biology chip (future) (peragaan ada di youtube menit ke 21:14)
+   - REST-API from Arduino / NodeMCU board to Database
+   - IoT Technology (penjelasan ada di youtube menit ke 01:00)
+   - Support CCTV Camera & GPS base station (future)
+
+7. [https://cdn.discordapp.com/attachments/758600947692732436/782862694851936266/e-commerce.jpg]  
+    **synx-**
+   Tools : Figma and remove.bg
+
+   Fonts : Open sans,Source Code Pro,Advent Pro,Arial.
+
+   coba iseng-iseng desain web olshop , itu ada foto sepatu setengah di bawah maksudnya nanti kalo di implementasi ke code ada transisi scroll foto sepatunya, kritik dan sarannya bisa langung reply post-an ini
+
+8. [https://demo-vote.netlify.app/]  
+    **Hendra Agil**
+   Izin share project E-Voting
+
+   - 1 user hanya bisa vote 1 kali
+   - Unique username
+
+   Dibuat dengan:
+
+   - ReactJS
+   - TailwindCSS
+   - ExpressJS
+   - Node.js
+   - MongoDB
+
+   Link repository:
+   https://github.com/hendraaagil/vote-server
+   https://github.com/hendraaagil/vote-client
+
+9. [https://arrahgallery.netlify.app/]  
+    **Hendra Agil**
+   Hallo semuanya, selamat malam. Izin share web portofolio ya. Dibuatnya pake VueJs, tampilan dan animasi rata-rata pake CSS + JS kecuali dibagian skill pake library "kinesis-element".
+
+   Kritik atau saran akan sangat membantu, Terimakasih.
+
+10. [https://ilham25.github.io/]  
+     **Aoi~**
+    Share web portfolio saya di github, bikinnya cmn pake html css(sass) js dasar, rencana pengen tambahin animasi pake gsap
