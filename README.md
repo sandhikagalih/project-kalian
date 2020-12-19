@@ -535,9 +535,9 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    nyoba share buat nambah temen
    <br />
 
-10. [http://ariefsn.my.id/]  
+10. [https://www.ajarbelajar.com/]  
      **dedeardiansya**  
-     Halo semuanya aku ada web kecil-kecilan nihh.
+    Halo semuanya aku ada web kecil-kecilan nihh.
     sebenranya inituh project aku bulan lalu tapi aku posting disini sekarang buat minta pendapat teman-teman semua karna webnya lagi mau update sekalian ikutan showcase-project hehehe.
     siapa tau ada pendapat atau saran dari teman-teman semua, apa yang perlu aku update.
 
@@ -546,3 +546,98 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
     - vue.js (Nuxt.js)
     - Laravel
       <br />
+
+### 19 Desember 2020
+
+1. [https://mnhjddn.github.io/work.html?code=layout-builder]  
+    **mnhjddn**  
+   Halo semuanya..
+
+   Ijin share layout builder sederhama mas/mba sekalian. Saya buat pakai javascript, bootstrap, fontawesome. Untuk live demo bisa dilihat di sini:
+   <br />
+
+2. [https://skytours.netlify.app/]  
+    **! .Ariq Jusuf**  
+   Halo semuanya. Ijin share Progressive Web App saya, ini adalah hasil project travel agency from scratch yang telah diikutsertakan di Itexpo UNJ 2020. 
+
+   Bagi yang ingin memakai endpoint dari Rest API yang telah kami buat, ini link-nya :
+   [https://peaceful-river-55348.herokuapp.com/]
+   <br />
+
+3. [https://e-learning-frontend.tegar.me/]  
+    **tegar akmal**  
+   Halo semuanya.
+   Ijin share Aplikasi e-learning hasil dari tugas sekolah ,Aplikasi ini mirip sekali alurnya seperti google class,di web itu ada fitur basis basic dari e-learning seperti join kelas , buat kelas, buat pengumuman , buat tugas,komentar,kumpulkan tugas,nilai tugas,dll.
+   web ini dibuat dengan teknologi
+   -React js
+   -Apollo
+   -Material ui
+   -Express js
+   -Graphql
+   -Typescript
+   -Typegraphql
+   -mongodb
+   -dll
+
+   Source Code : [https://github.com/tegar97/e-learning]
+   <br />
+
+4. [https://weneeddev.netlify.app/]  
+    **Edwin Tantawi**  
+   Hallo Teman teman
+   Izin Share Project saya berupa UI Web (company web).
+
+   Tools: Figma
+   Web: Html,Css,Js,Bootstrap,Sass
+
+   Terimakasih atas kesempatannya
+
+   Bagi teman teman yang mau source UI design, Icons, Image nya untuk latihan boleh di ambil di :
+   [https://github.com/edwintantawi/FrontendPack-weneeddev]
+   <br />
+
+5. [https://bitxtchatanalyzer.tibudiyanto.repl.co/]  
+    **tibudiyanto**  
+   Ngitung jumlah tanda tanya dari exportan whatsapp. Kalo tanda tanya doi lebih dikit berarti ...... isi sndiri :)
+   
+   Code : [https://repl.it/@tibudiyanto/BitxtChatAnalyzer#main.py]
+   Library: [https://github.com/gitfarhan/chat_analytics]
+   <br />
+
+6. [https://play.google.com/store/apps/details?id=site.studiocloud.appcraft]  
+    **Ya'suf Dany**  
+   Cobain guys, ini tools buat bangun UI Flutter tanpa coding, penggunaannya masih susah sih, masih perlu feedback buat lebih gampang soalnya masih harus paham basic widget tree di flutter
+   <br />
+
+7. [https://play.google.com/store/apps/details?id=site.studiocloud.appcraft]  
+    **𝑀𝒾𝓀𝓊 𝒩𝒶𝓀𝒶𝓃𝑜**  
+   izin share project blog.
+   Blog Pribadi dengan menggunakan teknologi Headless-cms
+   Backend : Strapi 
+   Frontend : GatsbyJs
+   <br />
+
+8. [http://if.undiksha.ac.id/]  
+    **jeprikusuma_**  
+   Halo temen temen, izin share projek kita dari tim development HMJ TI Undiksha. Ini halaman guestnya itu kita buat sambil nonton tutorial pak galih
+   
+   Untuk webnya sendiri dibuat dari CI 3, Bootstrap, Vanilla Js. Disana sudah ada 3 sistem dan masih ada beberapa sistem yang belum dibuat. Btw kita ngadain event nasional buat IT juga lo, bisa di cek di sanaa. Terimakasih ilmunya Pak Galih dan semoga sukses semua
+   <br />
+
+9. [https://watchinema.web.app/]  
+    **panacea**  
+   Halo guys, izin share project pribadi, siapatau bermanfaat
+
+   Nama project : Watchinema
+   Platform : Website
+   Tech Stack : Vue, Firebase
+   Description : Watchinema adalah platform hiburan yang menyajikan berbagai data film-film yang diambil dari TMDB API, dapat menampilkan detail sebuah film, fitur yang disediakan, pada website dapat melihat trailer sebuah film, dan memfavoritkan filmnya seperti wishlist yang akan ditonton nantinya
+   <br />
+
+10. [https://ayoshop.ayoboga.com/]  
+    **randynetworks**  
+   Website Front-end E-Commerce
+   Temanya, simple Responsive dan Elegant
+   Dibuat menggunakan full Bootstrap versi 4.5
+   Udah Progressive Web App alias PWA, Pake Javascript Vanilla
+   <br />
