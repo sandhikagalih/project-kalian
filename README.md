@@ -641,3 +641,74 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Dibuat menggunakan full Bootstrap versi 4.5
    Udah Progressive Web App alias PWA, Pake Javascript Vanilla
    <br />
+
+### 26 Desember 2020
+
+1. [http://thandoko.epizy.com/]  
+    **thandoko17**  
+   Izin share min web portfolio ane :
+
+   saya menggunakan bootstrap v4
+   terimakasih
+   <br />
+
+2. [https://mnhjddn.github.io/work.html?code=layout-builder]  
+    **Andre Rio**  
+   Landing page - Pokemons 
+   <br />
+
+3. [https://zulkamaula.github.io/]  
+    **Zulkariski Mauladi**  
+   Halo, izin share web portfolio sederhana hasil pembelajaran dari channel youtube WPU :slight_smile:
+
+   Keterangan Web :
+
+   - Web portfolio ZRM V.01 (nama web) 
+   - Didalam section Work  terdapat beberapa tampilan project eksplore hasil belajar dari WPU
+   - Based on static website
+   - Responsive untuk berbagai ukuran layar digital (Dekstop, Tablet & Mobile) 
+   - Teknologi yg digunakan HTML5, CSS3 & Javascript
+   - Di buat menggunakan bantuan framework MaterializeCSS
+   - Refferensi Brittany Chang web portfolio V.1
+   <br />
+
+4. [https://danoobboii.github.io/]  
+    **Handsome_Hanz**  
+   Helo Izin bagi project portofolio
+   ini di buat pake CSS doang, untuk JS aku pake framework type.js aku ga bisa JS makanya banyak contekan hehe....
+
+   untuk yang lain2 aku kerjain sendiri
+   <br />
+
+5. [http://syahrulramadhan.epizy.com/]  
+    **syahrul**  
+   lagi coba coba buat portofolio nih gimana menurut pendapat kalian guyss
+   Apa aja yg kurang 
+   <br />
+
+6. [https://azharizkita.github.io/]  
+    **Credibility**  
+   Aplikasi monitoring covid 19. Studi kasus menggunakan array sort dan pagination filter. Dibuat pakai reactjs
+   <br />
+
+7. [https://muhammadzulfa.github.io/]  
+    **muhammadzulfa**  
+   Halo semua. Mau izin share web portfolio dibuat dengan Bootstrap dan library Particle js
+   source : [https://github.com/muhammadzulfa/muhammadzulfa.github.io]
+   <br />
+
+8. [https://spacesal.github.io/screen/]  
+    **SpaceSal**  
+   ikut showcase project juga ah.., hasil belajar front-end web dari dicoding kemarin (program prakerja)
+   <br />
+
+9. [https://parawisely.netlify.app/]  
+    **Syaufy**  
+   Ini project ku yang aku kirim buat lomba di ITEXPO UNJ dan berhasil memenangkan juara 2. aku kerjain bareng 2 temen ku juga
+   <br />
+
+10. [https://andre12001.github.io/]  
+    **andreww**  
+   hallo semuanya, saya ingin share web dashboard DWAdmin, dibuat dengan bootstrap 4,css dan lainnya.
+   Download : [https://github.com/andre12001/DWAdmin-Template.git]
+   <br />
