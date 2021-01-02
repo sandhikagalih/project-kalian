@@ -712,3 +712,107 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    hallo semuanya, saya ingin share web dashboard DWAdmin, dibuat dengan bootstrap 4,css dan lainnya.
    Download : [https://github.com/andre12001/DWAdmin-Template.git]
    <br />
+
+
+### 2 Januari 2021
+
+1. [https://budiono.my.id/]  
+    **Ade Budiono**  
+   Hallo semua....
+   Izin share web portfolio.
+
+   -Html
+   -Css
+   -Js
+
+   Library :
+   -Aos Js
+   <br />
+
+2. [https://tiyoy.netlify.app/]  
+    **Cecep Maulanaツ**  
+   Izin share pak web portfolio sederhana saya..
+   Jgn di bully ya masih belajar soalnya..
+
+   Dibuat menggunakan HTML, CSS & Vanilla Javascript..
+   <br />
+
+3. [https://sort-css.netlify.app/]  
+    **farhan**  
+   Kalau mau mengurutkan css property biar enak dibaca.
+
+   Vscode extension nya masih process (
+   [https://github.com/apriliandi246/vscode-sort-it]
+   mungkin bisa bantu saya contribute wkwk
+   <br />
+
+4. [https://haizim.one/]  
+    **haizim**  
+   Ijin share web portfolio saya.. ini konsepnya ala-ala tampilan desktop PC dengan window-windownya yang bisa digeser-geser, close dan dipanggil lagi.
+
+   Juga bisa ganti tema lewat pilihan di kanan atas itu..
+
+   Dibuat dengan:
+   - HTML & CSS
+   - Vanilla Javascript (karna belum pernah belajar framework ehe)
+   - Bootstrap (minjem class yang buat bikin flexbox responsif)
+   - JQuery (minjem ajax-nya)
+
+   klo ada kritik dan saran monggo..
+
+   dan..
+
+   Enjoy it ^_^
+   <br />
+
+5. [https://elfaritsi.github.io/]  
+    **El Faritsi**  
+   Izin share web portfolio saya pak, untuk framework css nya saya pake Bootstrap dan ada sedikit vanila javascript, 
+   humberger menu nya nyontek dari channel WPU.
+   <br />
+
+6. [https://cdn.discordapp.com/attachments/758600947692732436/786144016952983563/Kenal_Alumni_One_Page.png]  
+    **AbonSapi**  
+   Hallo kawan, mohon kritik dan sarannya yang membangun untuk design ini, saya baru coba belajar untuk membuat design web dengan menggunakan Figma. Terimakasih.
+   <br />
+
+7. [https://carousnap.github.io/]  
+    **cholis04**  
+   Izin share project tentang Carousel Photos .. 
+
+   Dimana kita dapat dengan mudah membuat sebuah carousel yang ringan dan cepat .
+
+   Project ini dibuat dengan menggunakan Vanilla JavaScript dan CSS
+
+   Dan juga menggunakan Event Bubbling sehingga element baru akan tetap berfungsi. Didalamnya terdapat property CSS Scroll Snap yang membuat posisi scroll menjadi otomatis.
+
+   Terima Kasih
+   <br />
+
+8. [https://itsfaqih.vercel.app/]  
+    **nearsky_**  
+   dibuat menggunakan React, TailwindCSS, dan Framer Motion.
+   template ini saya buat open source berlisensi MIT, jadi feel free buat memakai dan modifikasi template ini:
+   [https://github.com/itsfaqih/fama]
+   <br />
+
+9. [https://eloquent-jennings-367bd3.netlify.app/]  
+    **BerserkUselesss**  
+   Asalamualaikum izin share karya, ini hasil belajar saya di WPU dan beberapa source lain, saya bikin web portofolio pakai bootstrap, valina js dan beberapa package, sebenarnya bikinnya udah lama dan bar skillnya belum saya ganti hehe
+   mohon masukan dan sarannya terimakasih...
+   <br />
+
+10. [https://website-serbaguna.racyete.repl.co/]  
+    **Rayyan M**  
+   Halo semua
+
+   Saya izin share website namanya "Website Serbaguna", website ini fungsinnya untuk mendapatkan info dari API yang saya dapatkan
+
+   Website ini dibuat dengan
+   - Node.js
+   - Html
+   - Javascript
+   - Bootstrap
+
+   Source Code: [https://github.com/EmangGek/Website-Serbaguna]
+   <br />
