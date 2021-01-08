@@ -816,3 +816,166 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    Source Code: [https://github.com/EmangGek/Website-Serbaguna]
    <br />
+
+### 8 Januari 2021
+
+1. [https://github.com/ichsansaid/Codeigniter3-RoomLibrary]  
+    **Said**  
+   Selamat malam teman teman sekalian, kalian pernah nyoba CI4 ? Pengen nyoba fitur View Layouts di CI4  tapi pengennya CI 3 ?
+
+   Saya kemarin baru buat library bernama "Room" yang memiliki fitur yang sama dengan View Layouts di CI4
+
+   <br />
+   
+2. [https://dribbble.com/shots/14762829-Freelance-App-UI-UX-Design?utm_source=Clipboard_Shot&utm_campaign=Ade_Yusuf&utm_content=Freelance%20App%20UI%2FUX%20Design&utm_medium=Social_Share]  
+    **adeyusuf**  
+   Assalamualaikum, saya Ade Yusuf ingin memamerkan karya UI UX pertama saya.
+
+   Ini adalah sebuah UI design mobile application untuk sebuah platform freelance yang dibuat menggunakan Adobe XD.
+
+   Menggunakan warna ungu dan merah sebagai dasar dan terinspirasi dari aplikasi Freelancer dan juga UpWork. Dengan asset yang diambil dari freepik untuk gambar covernya dan juga icon yang diambil dari situs font awesome.
+
+   <br />
+
+3. [https://anime-quote-generator.netlify.app/]  
+    **Indrico**  
+   Halo semuanya,
+   Saya membuat Random Quote Generator
+
+   Dibuat dengan:
+   - HTML
+   - CSS
+   - Javascript (Fetch).
+   - Data Quote yang diambil dengan API yang berasal dari [https://animechanapi.xyz/]
+   - 
+   <br />
+   
+4. [https://gedeyoga.github.io/dalank/]  
+    **BotakBerjubah**  
+   Halo semuanya,
+
+   disini saya akan membagikan hasil project landing page saya. web yang saya buat bertemakan promotion online product dan disini product yang saya angkat adalah produk lokal yakni wayang. alasan mengambil produk wayang adalah saya ingin membuat anak remaja di indonesia lebih menyukai wayang buatan indonesia sama seprti mereka menyukai action figure dari negara luar.kebetulan web ini sudah mendapatkan juara 2 :joy:
+
+   Dibuat dengan: 
+   -Bootstrap
+   -AOS
+   -sass
+   -jquery
+   -figma
+
+   <br />
+
+5. [**https://budiono.my.id/**]  
+    **iCE**  
+   Landing page buat lab
+
+   Develop web ini cuma pengen nyobain SSG next.js di github pages sebenarnya, eh keterusan.
+
+   Sekarang dipake buat ngeshare resource NLP/CV(masih dikit sih), sama ngumpulin playground AI, tujuannya biar orang awam kenal apa itu AI dan gimana cara bikinnya.
+
+   Jadi pas ada orang nanya, "AI tuh ginana sih?" Kasih ini aja [https://ailabtelkom.github.io/playground] wkwkwk
+
+   Tech-stack:
+   - Next.js :sunglasses:
+   - Chakra-ui :fire:
+   - Framer motion :sparkles:
+   - github pages :gear:
+
+   <br />
+
+6. [https://npmjs.com/package/rumus-bdr]  
+    **SadesXD**  
+   [ Hallo sobat-sobat indonesia ]
+   Saya mau memberi tau kepada kalian apalagi khususnya untuk para developer javascript dan lainnya yaitu sebuah npm package bernama ( Rumus-bdr )
+
+   [ Rumus-bdr ]
+
+   ( Instalasi )
+   npm i rumus-bdr
+
+
+   ( About )
+   Rumus-bdr adalah sebuah npm package yang dapat mempermudah kawan-kawan untuk mempelajari atau membantu menyelesaikan masalah mengenai sebuah luas atau keliling bangun datar & sebuah luas permukaan dan volume bangun ruang
+
+   Rumus-bdr juga dapat menyelesaikan rumus matematika yang lain seperti:
+   - Rumus Pythagoras
+   - Rumus Perkalian
+   - Rumus Kuadrat & Kubik
+
+   Contoh Code:
+   const bdr = require("rumus-bdr")
+
+   const persegi = bdr.datar.keliling.persegi(5,false)
+   console.log(persegi)
+   /*
+      Output -> 20
+   */
+
+   const caraPersegi = bdr.datar.keliling.persegi(5,true)
+   console.log(caraPersegi)
+   /*
+      Output -> Keliling = 4 x sisi
+                        = 4 x 5
+                        = 20
+   */
+
+   <br />
+
+7. [https://reinaldousadani.github.io/]  
+    **Reivanrulloff(Arte)**  
+   slamat malamm :smile: , mau izin showcase project. Ceritanya lagi latian desain dengan pure html,css dan GSAP nih. jadi iseng-iseng buat portofolio wkwk. Mohon minta saran dan kritik nya yaa teman2,berhubung saya juga masih harus belajar banyak tentang layout design.
+
+
+   <br />
+
+8. [https://tmviz.vercel.app/]  
+    **resir014**  
+   Halo semuanya :wave: izin showcase project yang baru aja kemarin diupdate: TMViz 
+
+   Buat yang main Trackmania, atau game balapan lainnya, aku bikin overlay buat men-display input controller pas saat livestreaming. Bisa langsung dipasang di OBS sebagai browser source.
+
+   Awalnya aku cuman bikin ini karena banyak yang streaming TrackMania pake overlay yang serupa, cuman aku gak pernah tau nama overlay yang mereka pake apa, jadinya aku bikin sendiri, haha. Cuman ternyata kepake juga karena setelah ditelusuri, ada beberapa controller yang gak di-support oleh overlay tersebut (e.g. PS4 controller + Stadia controller).
+
+   Akhirnya aku bikinin versi standalone-nya yang bisa di-configure sendiri. Sekarang pun sudah dipake sama dua streamer Trackmania lain yang angka viewer-nya lumayan.
+
+   Dan karena web-based pake Gamepad API (https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API/Using_the_Gamepad_API), pastinya support semua controller yang bisa dicolok ke komputer masing-masing.
+
+   Stack: Next.js, chakra-ui, TypeScript
+   Hosting: Vercel
+
+   Source code juga bisa dilihat di sini: https://github.com/resir014/TMViz
+
+   Ada demo video juga buat yang mau liat project ini in action kayak gimana:
+
+   https://cdn.discordapp.com/attachments/758600947692732436/790113025054343228/2020-12-20_13-53-21.mp4
+
+   <br />
+
+9. [https://app.isfidev.net/isfidevpost]  
+    **Ahmad Sofyan**
+   slamat malamm , mau izin showcase project.
+   Isfidevpost untuk distributor celana, di buat dengan php native  dan lain-lain.
+   Menggunakan template Adminlte, Alhamdulillah aplikasi ini sudah di gunakan oleh w Distributor celana di Tanah abang dan Cipulir.
+   Silahkan bro sis yang mau coba demonya disini 
+
+   Informasi login ada di halaman login.
+
+   Tolong kasih masukan ya kawan, karena saya berniat ingin mengupdate aplikasi ini jadi saya butuh masukan kalian kawan.
+   Terimakasih
+
+   <br />
+
+10. [https://hwi-2021.000webhostapp.com/]  
+    **dicancut**  
+   Pagi, perkenalkan saya dicha, saya seorang graphic design, pengen share project kecil sebuah web portal untuk event, saya bikin sendirian back end dan  front end, material yang digunakan simple, cuma HTML, CSS, PHP Native, bootstrap
+
+   dashboardnya : /admin
+
+   user untuk mau liat ada apa aja di dalemnya :
+   user: demo@demo.com
+   pass: as
+
+   terimakasih
+
+   <br />
+
