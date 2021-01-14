@@ -979,3 +979,166 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    <br />
 
+### 15 Januari 2021
+
+1. [https://suratpad.com]  
+    **mr_idha**  
+   Halo teman-teman ^^
+   Saya mau share projek saya nih. 
+
+   Namanya Suratpad[dot]com
+   Situs generator Surat resmi.
+
+   Ada beberapa Fitur yang lumayan menarik, diantaranya: 
+   - Generator surat to PDF
+   - Login / register
+   - Custom Template Surat Sendiri
+   - Link Saring Surat.
+   - Signature pad
+
+   Dibuat dengan:
+   - Laravel 7
+   - DomPDF
+   - Bootstrap 4
+   - jQuery
+
+   Note : 
+   Beberapa fitur masih versi Beta, Jadi sangat menerima Kritik dan Saran dari teman-teman.
+
+
+   <br />
+ 
+2. [https://gift-store-landing-page.netlify.app/]  
+    **Hendra Agil**  
+   Haloo
+   Izin share project landing page iseng - iseng, sekalian main animasi
+   Dapet desain web gratis + file figma nya dari dribbble, hehe.
+
+   Dibuat dengan:
+   - React
+   - Framer Motion
+
+   Pada bagian Services dan Blogs saya menggunakan data json yang saya buat sendiri. Lalu datanya di looping dan dimasukkan ke template component Card & Post, sehingga pada bagian Services bisa menghasilkan 4 cards dengan layout sama dan juga pada Blogs menghasilkan 2 posts dengan layout sama juga.
+
+   Lalu, juga menggunakan custom hooks agar hamburger icon & dropdown menu hanya muncul saat versi mobile.
+
+   Karena saya malas bikin hamburger icon, saya pakai package hamburger-react Untuk smooth scroll, saya menggunakan package react-scroll.
+
+   Repository:
+   [https://github.com/hendraaagil/gift-store-landing-page]
+
+   <br />
+ 
+3. [https://studiocloud.dev/]  
+    **Ya'suf Dany**  
+   Halo ijin share web portfolio saya, belum mobile friendly sih :pray: 
+
+   <br />
+ 
+4. [https://app.daftarbelanja.com/]  
+    **PUYUP**  
+   Izin berbagi ya, semoga bermanfaat bwat semua.,
+
+   Pencatat Daftar Balanja., jadi sering kali kita lupa nih duit 1 juta habis buat beli apa saja., terus pas lagi belanja di swalayan, eh sudah sampe rumah baru inget tadi lupa beli ini dan itu., :weary: 
+
+   Masalah sederhana itu coba saya selesaikan dengan apps Daftar Belanja sederhana. (apps Android nya on progress).,
+
+   Tech:
+   --------
+   Backend
+   - Django
+   - DRF
+   - NGINX
+   - WebSocket
+   - Django Channels
+   - MySQL
+
+   Frontend
+   - IONIC 5 (Angular)
+   - Firebase hosting
+
+   <br />
+ 
+5. [https://ilhamhafidz404.github.io/my_Portfolio/]  
+    **Ilham Hafidz**  
+   Halo selamat siang,,
+   Salam kenal saya Ilham Hafidz siswa SMK PERTIWI Kuningan...
+   Saya mau coba share web portfolio saya,, masih sangat sederhana dan butuh perbaikan...
+
+   Disini saya menggunakan :
+   - BOOTSRAP
+   - SASS
+   - Javascript
+
+   Ada juga beberapa tool js yang saya gunakan seperti :
+   - Page Pilling
+   - Typed JS
+   - Tilt JS
+   - Lightbox JS
+   -  Mocassin CSS
+
+   Mohon untuk kritik dan saran nya dari pak dika dan temen temen:pray:
+
+   <br />
+ 
+6. [https://github.com/codestronaut/resto-submission-1]  
+    **Aditya Rohman**  
+   Assalamualaikum..wr..wb
+   Mau izin showcase ya teman-teman. Maaf sebelumnya OOT. Aplikasi ini bukan web tapi mobile app yang didevelop dengan Flutter. Nama aplikasinya adalah Resto. Aplikasi ini berisikan list restoran yang ada di Indonesia.
+   Fitur-fitur aplikasinya:
+   - List Restoran
+   - Cari Restoran
+   - Detail Restoran
+   - Cart (Dalam Proses Develop)
+
+   Source Code:
+   [https://github.com/codestronaut/resto-submission-1]
+
+   Proses Pengerjaan Aplikasi (Video):
+   [https://youtu.be/yzwWRteUfaM]
+
+   Tampilan Aplikasi ada dibawah sini
+   [https://cdn.discordapp.com/attachments/758600947692732436/791851328040730674/iphone_xr__xs_max__11___7.jpg]
+
+   [https://cdn.discordapp.com/attachments/758600947692732436/791851358574870558/iphone_xr__xs_max__11___15.jpg]
+
+   <br />
+ 
+7. [https://github.com/ichsansaid/Codeigniter3-RoomLibrary]  
+    **adeyusuf**  
+   Hai, saya mau share karya saya yang lain. Kali ini saya membuat sebuah UI design untuk web portofolio saya sendiri. 
+
+   Dibuat dengan software Adobe XD, dengan pilihan warna - warna cerah, untuk font saya menggunakan "Poppins" sebagai font utama dan ilustrasinya saya ambil dari situs undraw.co
+
+   Oh ya, untuk desainnya baru bagian header aja karena masih dalam tahap perancangan
+
+   [https://www.behance.net/gallery/110159225/UI-Portfolio-Web-Design?share=1]
+
+
+   <br />
+ 
+8. [https://anitop.vercel.app/]  
+    **Satya W**  
+   Hai guys, ini ada API yang sudah aku buat untuk menampilkan data-data tentang trending anime, lagu, karakter, dll. Untuk datanya sendiri aku scrape website https://anitrendz.net/ untuk mendapatkan data-data nya, dan data-data tersebut aku simpan ke dalam sebuah file .json. Data tersebut akan di update secara berkala dan otomatis dengan menggunakan github action yang didalamnya sudah ada sistem scheduling untuk menjalankan perintah scrapingnya
+
+   Untuk teknologinya aku pakai Typescript, axios, cheerio, vercel, dll, this project is open source, feel free to use it :)
+
+   Link API: [https://anitop.vercel.app/]
+   Repository github: [https://github.com/satyawikananda/anitop]
+
+   <br />
+ 
+9. [https://www.alquran.digital/]  
+    **Novv**  
+   Permisi selamat siang, izin showcase project saya yg baru selesai, mohon kritik dan sarannya
+
+
+   <br />
+ 
+10. [https://indraarsy.wtf/]  
+    **Loka**  
+   haloo izin share web portofolio saya. saya buatnya pakai next js, tailwind, dan framer motion
+
+   <br />
+ 
+   
