@@ -558,7 +558,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
 2. [https://skytours.netlify.app/]  
     **! .Ariq Jusuf**  
-   Halo semuanya. Ijin share Progressive Web App saya, ini adalah hasil project travel agency from scratch yang telah diikutsertakan di Itexpo UNJ 2020. 
+   Halo semuanya. Ijin share Progressive Web App saya, ini adalah hasil project travel agency from scratch yang telah diikutsertakan di Itexpo UNJ 2020.
 
    Bagi yang ingin memakai endpoint dari Rest API yang telah kami buat, ini link-nya :
    [https://peaceful-river-55348.herokuapp.com/]
@@ -599,7 +599,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 5. [https://bitxtchatanalyzer.tibudiyanto.repl.co/]  
     **tibudiyanto**  
    Ngitung jumlah tanda tanya dari exportan whatsapp. Kalo tanda tanya doi lebih dikit berarti ...... isi sndiri :)
-   
+
    Code : [https://repl.it/@tibudiyanto/BitxtChatAnalyzer#main.py]
    Library: [https://github.com/gitfarhan/chat_analytics]
    <br />
@@ -613,14 +613,14 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
     **𝑀𝒾𝓀𝓊 𝒩𝒶𝓀𝒶𝓃𝑜**  
    izin share project blog.
    Blog Pribadi dengan menggunakan teknologi Headless-cms
-   Backend : Strapi 
+   Backend : Strapi
    Frontend : GatsbyJs
    <br />
 
 8. [http://if.undiksha.ac.id/]  
-    **jeprikusuma_**  
+    **jeprikusuma\_**  
    Halo temen temen, izin share projek kita dari tim development HMJ TI Undiksha. Ini halaman guestnya itu kita buat sambil nonton tutorial pak galih
-   
+
    Untuk webnya sendiri dibuat dari CI 3, Bootstrap, Vanilla Js. Disana sudah ada 3 sistem dan masih ada beberapa sistem yang belum dibuat. Btw kita ngadain event nasional buat IT juga lo, bisa di cek di sanaa. Terimakasih ilmunya Pak Galih dan semoga sukses semua
    <br />
 
@@ -635,12 +635,12 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    <br />
 
 10. [https://ayoshop.ayoboga.com/]  
-    **randynetworks**  
-   Website Front-end E-Commerce
-   Temanya, simple Responsive dan Elegant
-   Dibuat menggunakan full Bootstrap versi 4.5
-   Udah Progressive Web App alias PWA, Pake Javascript Vanilla
-   <br />
+     **randynetworks**  
+    Website Front-end E-Commerce
+    Temanya, simple Responsive dan Elegant
+    Dibuat menggunakan full Bootstrap versi 4.5
+    Udah Progressive Web App alias PWA, Pake Javascript Vanilla
+    <br />
 
 ### 26 Desember 2020
 
@@ -654,7 +654,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
 2. [https://mnhjddn.github.io/work.html?code=layout-builder]  
     **Andre Rio**  
-   Landing page - Pokemons 
+   Landing page - Pokemons
    <br />
 
 3. [https://zulkamaula.github.io/]  
@@ -663,14 +663,14 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    Keterangan Web :
 
-   - Web portfolio ZRM V.01 (nama web) 
-   - Didalam section Work  terdapat beberapa tampilan project eksplore hasil belajar dari WPU
+   - Web portfolio ZRM V.01 (nama web)
+   - Didalam section Work terdapat beberapa tampilan project eksplore hasil belajar dari WPU
    - Based on static website
-   - Responsive untuk berbagai ukuran layar digital (Dekstop, Tablet & Mobile) 
+   - Responsive untuk berbagai ukuran layar digital (Dekstop, Tablet & Mobile)
    - Teknologi yg digunakan HTML5, CSS3 & Javascript
    - Di buat menggunakan bantuan framework MaterializeCSS
    - Refferensi Brittany Chang web portfolio V.1
-   <br />
+     <br />
 
 4. [https://danoobboii.github.io/]  
     **Handsome_Hanz**  
@@ -683,7 +683,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 5. [http://syahrulramadhan.epizy.com/]  
     **syahrul**  
    lagi coba coba buat portofolio nih gimana menurut pendapat kalian guyss
-   Apa aja yg kurang 
+   Apa aja yg kurang
    <br />
 
 6. [https://azharizkita.github.io/]  
@@ -708,11 +708,10 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    <br />
 
 10. [https://andre12001.github.io/]  
-    **andreww**  
-   hallo semuanya, saya ingin share web dashboard DWAdmin, dibuat dengan bootstrap 4,css dan lainnya.
-   Download : [https://github.com/andre12001/DWAdmin-Template.git]
-   <br />
-
+     **andreww**  
+    hallo semuanya, saya ingin share web dashboard DWAdmin, dibuat dengan bootstrap 4,css dan lainnya.
+    Download : [https://github.com/andre12001/DWAdmin-Template.git]
+    <br />
 
 ### 2 Januari 2021
 
@@ -730,7 +729,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    <br />
 
 2. [https://tiyoy.netlify.app/]  
-    **Cecep Maulanaツ**  
+    **Cecep Maulana ツ**  
    Izin share pak web portfolio sederhana saya..
    Jgn di bully ya masih belajar soalnya..
 
@@ -753,6 +752,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Juga bisa ganti tema lewat pilihan di kanan atas itu..
 
    Dibuat dengan:
+
    - HTML & CSS
    - Vanilla Javascript (karna belum pernah belajar framework ehe)
    - Bootstrap (minjem class yang buat bikin flexbox responsif)
@@ -762,12 +762,12 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    dan..
 
-   Enjoy it ^_^
+   Enjoy it ^\_^
    <br />
 
 5. [https://elfaritsi.github.io/]  
     **El Faritsi**  
-   Izin share web portfolio saya pak, untuk framework css nya saya pake Bootstrap dan ada sedikit vanila javascript, 
+   Izin share web portfolio saya pak, untuk framework css nya saya pake Bootstrap dan ada sedikit vanila javascript,
    humberger menu nya nyontek dari channel WPU.
    <br />
 
@@ -778,7 +778,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
 7. [https://carousnap.github.io/]  
     **cholis04**  
-   Izin share project tentang Carousel Photos .. 
+   Izin share project tentang Carousel Photos ..
 
    Dimana kita dapat dengan mudah membuat sebuah carousel yang ringan dan cepat .
 
@@ -790,7 +790,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    <br />
 
 8. [https://itsfaqih.vercel.app/]  
-    **nearsky_**  
+    **nearsky\_**  
    dibuat menggunakan React, TailwindCSS, dan Framer Motion.
    template ini saya buat open source berlisensi MIT, jadi feel free buat memakai dan modifikasi template ini:
    [https://github.com/itsfaqih/fama]
@@ -803,30 +803,31 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    <br />
 
 10. [https://website-serbaguna.racyete.repl.co/]  
-    **Rayyan M**  
-   Halo semua
+     **Rayyan M**  
+    Halo semua
 
-   Saya izin share website namanya "Website Serbaguna", website ini fungsinnya untuk mendapatkan info dari API yang saya dapatkan
+Saya izin share website namanya "Website Serbaguna", website ini fungsinnya untuk mendapatkan info dari API yang saya dapatkan
 
-   Website ini dibuat dengan
-   - Node.js
-   - Html
-   - Javascript
-   - Bootstrap
+Website ini dibuat dengan
 
-   Source Code: [https://github.com/EmangGek/Website-Serbaguna]
-   <br />
+- Node.js
+- Html
+- Javascript
+- Bootstrap
+
+Source Code: [https://github.com/EmangGek/Website-Serbaguna]
+<br />
 
 ### 8 Januari 2021
 
 1. [https://github.com/ichsansaid/Codeigniter3-RoomLibrary]  
     **Said**  
-   Selamat malam teman teman sekalian, kalian pernah nyoba CI4 ? Pengen nyoba fitur View Layouts di CI4  tapi pengennya CI 3 ?
+   Selamat malam teman teman sekalian, kalian pernah nyoba CI4 ? Pengen nyoba fitur View Layouts di CI4 tapi pengennya CI 3 ?
 
    Saya kemarin baru buat library bernama "Room" yang memiliki fitur yang sama dengan View Layouts di CI4
 
    <br />
-   
+
 2. [https://dribbble.com/shots/14762829-Freelance-App-UI-UX-Design?utm_source=Clipboard_Shot&utm_campaign=Ade_Yusuf&utm_content=Freelance%20App%20UI%2FUX%20Design&utm_medium=Social_Share]  
     **adeyusuf**  
    Assalamualaikum, saya Ade Yusuf ingin memamerkan karya UI UX pertama saya.
@@ -843,20 +844,20 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Saya membuat Random Quote Generator
 
    Dibuat dengan:
+
    - HTML
    - CSS
    - Javascript (Fetch).
    - Data Quote yang diambil dengan API yang berasal dari [https://animechanapi.xyz/]
-   - 
-   <br />
-   
+   - <br />
+
 4. [https://gedeyoga.github.io/dalank/]  
     **BotakBerjubah**  
    Halo semuanya,
 
    disini saya akan membagikan hasil project landing page saya. web yang saya buat bertemakan promotion online product dan disini product yang saya angkat adalah produk lokal yakni wayang. alasan mengambil produk wayang adalah saya ingin membuat anak remaja di indonesia lebih menyukai wayang buatan indonesia sama seprti mereka menyukai action figure dari negara luar.kebetulan web ini sudah mendapatkan juara 2 :joy:
 
-   Dibuat dengan: 
+   Dibuat dengan:
    -Bootstrap
    -AOS
    -sass
@@ -876,6 +877,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Jadi pas ada orang nanya, "AI tuh ginana sih?" Kasih ini aja [https://ailabtelkom.github.io/playground] wkwkwk
 
    Tech-stack:
+
    - Next.js :sunglasses:
    - Chakra-ui :fire:
    - Framer motion :sparkles:
@@ -893,11 +895,11 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    ( Instalasi )
    npm i rumus-bdr
 
-
    ( About )
    Rumus-bdr adalah sebuah npm package yang dapat mempermudah kawan-kawan untuk mempelajari atau membantu menyelesaikan masalah mengenai sebuah luas atau keliling bangun datar & sebuah luas permukaan dan volume bangun ruang
 
    Rumus-bdr juga dapat menyelesaikan rumus matematika yang lain seperti:
+
    - Rumus Pythagoras
    - Rumus Perkalian
    - Rumus Kuadrat & Kubik
@@ -907,17 +909,17 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    const persegi = bdr.datar.keliling.persegi(5,false)
    console.log(persegi)
-   /*
-      Output -> 20
-   */
+   /_
+   Output -> 20
+   _/
 
    const caraPersegi = bdr.datar.keliling.persegi(5,true)
    console.log(caraPersegi)
-   /*
-      Output -> Keliling = 4 x sisi
-                        = 4 x 5
-                        = 20
-   */
+   /_
+   Output -> Keliling = 4 x sisi
+   = 4 x 5
+   = 20
+   _/
 
    <br />
 
@@ -925,12 +927,11 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
     **Reivanrulloff(Arte)**  
    slamat malamm :smile: , mau izin showcase project. Ceritanya lagi latian desain dengan pure html,css dan GSAP nih. jadi iseng-iseng buat portofolio wkwk. Mohon minta saran dan kritik nya yaa teman2,berhubung saya juga masih harus belajar banyak tentang layout design.
 
-
    <br />
 
 8. [https://tmviz.vercel.app/]  
     **resir014**  
-   Halo semuanya :wave: izin showcase project yang baru aja kemarin diupdate: TMViz 
+   Halo semuanya :wave: izin showcase project yang baru aja kemarin diupdate: TMViz
 
    Buat yang main Trackmania, atau game balapan lainnya, aku bikin overlay buat men-display input controller pas saat livestreaming. Bisa langsung dipasang di OBS sebagai browser source.
 
@@ -954,9 +955,9 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 9. [https://app.isfidev.net/isfidevpost]  
     **Ahmad Sofyan**
    slamat malamm , mau izin showcase project.
-   Isfidevpost untuk distributor celana, di buat dengan php native  dan lain-lain.
+   Isfidevpost untuk distributor celana, di buat dengan php native dan lain-lain.
    Menggunakan template Adminlte, Alhamdulillah aplikasi ini sudah di gunakan oleh w Distributor celana di Tanah abang dan Cipulir.
-   Silahkan bro sis yang mau coba demonya disini 
+   Silahkan bro sis yang mau coba demonya disini
 
    Informasi login ada di halaman login.
 
@@ -966,16 +967,16 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    <br />
 
 10. [https://hwi-2021.000webhostapp.com/]  
-    **dicancut**  
-   Pagi, perkenalkan saya dicha, saya seorang graphic design, pengen share project kecil sebuah web portal untuk event, saya bikin sendirian back end dan  front end, material yang digunakan simple, cuma HTML, CSS, PHP Native, bootstrap
+     **dicancut**  
+    Pagi, perkenalkan saya dicha, saya seorang graphic design, pengen share project kecil sebuah web portal untuk event, saya bikin sendirian back end dan front end, material yang digunakan simple, cuma HTML, CSS, PHP Native, bootstrap
 
-   dashboardnya : /admin
+dashboardnya : /admin
 
-   user untuk mau liat ada apa aja di dalemnya :
-   user: demo@demo.com
-   pass: as
+user untuk mau liat ada apa aja di dalemnya :
+user: demo@demo.com
+pass: as
 
-   terimakasih
+terimakasih
 
    <br />
 
@@ -984,12 +985,13 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 1. [https://suratpad.com]  
     **mr_idha**  
    Halo teman-teman ^^
-   Saya mau share projek saya nih. 
+   Saya mau share projek saya nih.
 
    Namanya Suratpad[dot]com
    Situs generator Surat resmi.
 
-   Ada beberapa Fitur yang lumayan menarik, diantaranya: 
+   Ada beberapa Fitur yang lumayan menarik, diantaranya:
+
    - Generator surat to PDF
    - Login / register
    - Custom Template Surat Sendiri
@@ -997,17 +999,17 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    - Signature pad
 
    Dibuat dengan:
+
    - Laravel 7
    - DomPDF
    - Bootstrap 4
    - jQuery
 
-   Note : 
+   Note :
    Beberapa fitur masih versi Beta, Jadi sangat menerima Kritik dan Saran dari teman-teman.
 
-
    <br />
- 
+
 2. [https://gift-store-landing-page.netlify.app/]  
     **Hendra Agil**  
    Haloo
@@ -1015,6 +1017,7 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Dapet desain web gratis + file figma nya dari dribbble, hehe.
 
    Dibuat dengan:
+
    - React
    - Framer Motion
 
@@ -1028,24 +1031,25 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    [https://github.com/hendraaagil/gift-store-landing-page]
 
    <br />
- 
+
 3. [https://studiocloud.dev/]  
     **Ya'suf Dany**  
-   Halo ijin share web portfolio saya, belum mobile friendly sih :pray: 
+   Halo ijin share web portfolio saya, belum mobile friendly sih :pray:
 
    <br />
- 
+
 4. [https://app.daftarbelanja.com/]  
     **PUYUP**  
    Izin berbagi ya, semoga bermanfaat bwat semua.,
 
-   Pencatat Daftar Balanja., jadi sering kali kita lupa nih duit 1 juta habis buat beli apa saja., terus pas lagi belanja di swalayan, eh sudah sampe rumah baru inget tadi lupa beli ini dan itu., :weary: 
+   Pencatat Daftar Balanja., jadi sering kali kita lupa nih duit 1 juta habis buat beli apa saja., terus pas lagi belanja di swalayan, eh sudah sampe rumah baru inget tadi lupa beli ini dan itu., :weary:
 
    Masalah sederhana itu coba saya selesaikan dengan apps Daftar Belanja sederhana. (apps Android nya on progress).,
 
-   Tech:
-   --------
+   ## Tech:
+
    Backend
+
    - Django
    - DRF
    - NGINX
@@ -1054,11 +1058,12 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    - MySQL
 
    Frontend
+
    - IONIC 5 (Angular)
    - Firebase hosting
 
    <br />
- 
+
 5. [https://ilhamhafidz404.github.io/my_Portfolio/]  
     **Ilham Hafidz**  
    Halo selamat siang,,
@@ -1066,26 +1071,29 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Saya mau coba share web portfolio saya,, masih sangat sederhana dan butuh perbaikan...
 
    Disini saya menggunakan :
+
    - BOOTSRAP
    - SASS
    - Javascript
 
    Ada juga beberapa tool js yang saya gunakan seperti :
+
    - Page Pilling
    - Typed JS
    - Tilt JS
    - Lightbox JS
-   -  Mocassin CSS
+   - Mocassin CSS
 
    Mohon untuk kritik dan saran nya dari pak dika dan temen temen:pray:
 
    <br />
- 
+
 6. [https://github.com/codestronaut/resto-submission-1]  
     **Aditya Rohman**  
    Assalamualaikum..wr..wb
    Mau izin showcase ya teman-teman. Maaf sebelumnya OOT. Aplikasi ini bukan web tapi mobile app yang didevelop dengan Flutter. Nama aplikasinya adalah Resto. Aplikasi ini berisikan list restoran yang ada di Indonesia.
    Fitur-fitur aplikasinya:
+
    - List Restoran
    - Cari Restoran
    - Detail Restoran
@@ -1103,10 +1111,10 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    [https://cdn.discordapp.com/attachments/758600947692732436/791851358574870558/iphone_xr__xs_max__11___15.jpg]
 
    <br />
- 
+
 7. [https://github.com/ichsansaid/Codeigniter3-RoomLibrary]  
     **adeyusuf**  
-   Hai, saya mau share karya saya yang lain. Kali ini saya membuat sebuah UI design untuk web portofolio saya sendiri. 
+   Hai, saya mau share karya saya yang lain. Kali ini saya membuat sebuah UI design untuk web portofolio saya sendiri.
 
    Dibuat dengan software Adobe XD, dengan pilihan warna - warna cerah, untuk font saya menggunakan "Poppins" sebagai font utama dan ilustrasinya saya ambil dari situs undraw.co
 
@@ -1114,9 +1122,8 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
 
    [https://www.behance.net/gallery/110159225/UI-Portfolio-Web-Design?share=1]
 
-
    <br />
- 
+
 8. [https://anitop.vercel.app/]  
     **Satya W**  
    Hai guys, ini ada API yang sudah aku buat untuk menampilkan data-data tentang trending anime, lagu, karakter, dll. Untuk datanya sendiri aku scrape website https://anitrendz.net/ untuk mendapatkan data-data nya, dan data-data tersebut aku simpan ke dalam sebuah file .json. Data tersebut akan di update secara berkala dan otomatis dengan menggunakan github action yang didalamnya sudah ada sistem scheduling untuk menjalankan perintah scrapingnya
@@ -1127,18 +1134,115 @@ setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
    Repository github: [https://github.com/satyawikananda/anitop]
 
    <br />
- 
+
 9. [https://www.alquran.digital/]  
     **Novv**  
    Permisi selamat siang, izin showcase project saya yg baru selesai, mohon kritik dan sarannya
 
-
    <br />
- 
+
 10. [https://indraarsy.wtf/]  
-    **Loka**  
-   haloo izin share web portofolio saya. saya buatnya pakai next js, tailwind, dan framer motion
+     **Loka**  
+    haloo izin share web portofolio saya. saya buatnya pakai next js, tailwind, dan framer motion
 
    <br />
- 
-   
+
+### 23 Januari 2021
+
+1. [https://ari-rudiana.netlify.app/]  
+    **arirudianaa**  
+   haloo izin share web portofolio saya, pakai reactjs
+
+   <br>
+
+2. [https://github.com/sekilas13/nva13]  
+    **reacto_mecha!**  
+    Halo,
+   Izin share aplikasi web voting
+
+   Ini dibuat pake : - Express - MongoDB - ExpressJS - Bootstrap - jQuery - Socket.io
+   Pastiin udah ada MongoDB yang udah ke install dan jalan.
+
+   Halaman utamanya ada dua
+
+   1. [http://localhost:3000/] => untuk voting
+   2. [http://localhost:3000/admin] => Halaman untuk admin
+
+   Cara pakenya udah dicantumin di Readme
+   Mohon kritik dan sarannya dari temen-temen :pray: .
+
+   Project gabut selama libur abis pembagian rapot. Ini open source, jadi silahkan ubah sesuka hati.
+
+   <br>
+
+3. [https://danoobboii.github.io/Portofolio-v2/index.html]  
+    **DaNoobBoii**  
+   Helo gais, disini aku pengen bagi portofolioku lagi nih, walaupun sebelumnya udah tapi aku msih kurang "srek" gitu jadi aku bikin v2 nya, ada beberapa fitur yang nambah dari :
+   | Project
+   | Contact Bisa Dikirim (jangan spam itu masuk ke emailku soalnya)
+   | Dan Kemajuan dari Tamplate
+
+   <br>
+
+4. [https://team-dev.herokuapp.com/]  
+    **bry**  
+   Halo share project landing page statis yang bernama
+   Team.dev
+   Project ini merupakan implementasi dari hasil desain saya yang pernah di pamerkan di sini.
+
+   Menggunakan bootstrap v4
+
+   Maaf masih kurang mirip ama design :face_with_hand_over_mouth:
+
+   <br>
+
+5. [https://haizim.one/iseng/cek-typo/]  
+    **haizim**  
+   Soree.. ijin share aja aplikasi buat cek typo bahasa indo
+   jadi ceritanya ini saya bikin karena pas skripsian dicek dosen katanya banyak yang typo wkwk
+   yaudah mumpung pas itu weekend bikin aja gitu hehe
+
+   oya.. ini dibikin pake vanilla js, css trus minjem flexboxnya bootstrap sama ajax-nya jquery. buat backendnya pake PHP Native
+   kesulitan utama pas ngumpulin data kata-kata.. karena males ngumpulin seluruh varian kata2nya akhirnya tak bikin algoritma sederhana buat ngambil kata dasarnya trus baru dicocokin ke database kata2nya
+
+   <br>
+
+6. [https://profile-portfolio.netlify.app/]  
+    **rizal_grandonk**  
+   Izin share project
+   lagi belajar React, ini project web pertama pake React, mungkin ada yang mau kasih masukan
+   https://profile-portfolio.netlify.app/
+
+   <br>
+
+7. [https://nimedesuv2.herokuapp.com/]  
+    **Aquin**  
+   hasil belajar 5 bulan front end sama backend
+   masih dalam pengembangan
+
+   <br>
+
+8. [https://titik-koma.netlify.app/]  
+    **Widi kidiw**  
+   Malamm.. izin share hasil 2 bulan ngerjain ceritanya buat company profile buat satu cafe
+   ini dibikinnya html, css dan pake jquery untuk slider productnya. dan untuk animation cardnya aku pake library AOS. Terima Kasih
+
+   <br>
+
+9. [https://mwafa.net/]  
+    **mwafa**  
+   Izin share project yang udah lama belum dilanjutin lagi
+
+   Framework: NextJS,
+   Banner: ParticleJS
+   Chart: ChartJS
+
+   Backend: GithubAPI
+
+   <br>
+
+10. [https://geraimuthukodedemo.000webhostapp.com/muthukode.html]  
+     **RizkiRb**  
+    assalamualaikum kak jadi ini website saya tapi masih demo jadi sebelum saya kasih nama domain saya mau minta saran apa ada yang kurang gitu atau gimana.
+
+    <br>
