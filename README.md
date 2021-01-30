@@ -1246,3 +1246,118 @@ terimakasih
     assalamualaikum kak jadi ini website saya tapi masih demo jadi sebelum saya kasih nama domain saya mau minta saran apa ada yang kurang gitu atau gimana.
 
     <br>
+
+### 23 Januari 2021
+
+1. [https://joonacode.github.io/woocommerce-landing/]  
+    **cepgunz**  
+   Izin share project hasil latihan Tailwindcss
+
+   [https://jtimeline.netlify.app/]
+
+   [https://joonacode.github.io/react-datawarehouse/]
+
+   [https://joonacode.github.io/react-ecocabins/]
+
+   [https://joonacode.github.io/react-smartwatch/]
+
+   <br>
+
+2. [https://oasis-clothing.herokuapp.com/]  
+    **shintia zhou**  
+   Halo
+   saya mau share project e-commerce App dgn nama oasis clothing
+
+   Fitur yang tersedia
+   -user bisa login/register
+   -user bisa pilih item yang ingin dibeli , memasukan item ke cart dan checkout item
+
+   Tools yang saya gunakan
+   -React js
+   -firebase (oAuth, cloud firestore)
+   -redux, redux saga
+   -react router
+   -motion framer
+   -styled component
+   Dll
+
+   Masih ada beberapa bug hehe:sweat_smile:
+
+   Design visual saya tiru dari website
+   [https://www.getwelly.com/]
+
+   <br>
+
+3. [https://adhywiranto44.github.io/]  
+    **adhywiranto44**  
+   Saya mau nitip web profil saya hehe
+
+   <br>
+
+4. [https://gajahorangsemut-multiplayer.racyete.repl.co/]  
+    **Rayyan M**  
+   Halo Semua,
+   Saya izin share game "Gajah Orang Semut" yang bisa di mainin online
+
+   Website dibuat dengan
+
+   - Node.js
+   - HTML
+   - CSS
+   - Javascript
+   - Bootstrap
+
+   <br>
+
+5. [http://race211.bitbucket.io/]  
+    **Sulistio**  
+   ikut partisipasi. Ini awal saya membuat web masih sederhana banget. masih statis.
+   dibuat dengan :
+   HTML
+   CSS
+   JQuery
+
+   <br>
+
+6. [https://line.me/R/ti/p/@668xctgv]  
+    **YehezkielGunawan**  
+   I'd like to introduce my first ever LINE chatbot, DeMangan. It's a bot that can do a simple count and you can order food or drinks thereby choose the menu and send your location so the bot can summarize your order.
+
+   You can try to add this bot by scan the QR Code or by add @668xctgv to your LINE app. You also can add this bot by click this link
+   [https://cdn.discordapp.com/attachments/758600947692732436/795585622756687892/unknown.png]
+
+   <br>
+
+7. [https://makan-dikita.herokuapp.com/]  
+    **Toyohisa**  
+   halo teman" saya mau share aplikasi pesan makanan
+   tools :
+   Vanilla JavaScript
+   LIFF
+   Bootstrap
+
+   <br>
+
+8. [https://todol.rf.gd/]  
+    **Mawang_Yegaah**  
+   Login System. Full ikut tutorial php pak dhika. Buatan sendiri tapi design nya punya orang. Masih SMP. Email sama password bisa di awur.
+
+   Pakai Vanilla javascript, Bootstrap, GSAP js.
+
+   Kendala nya diwaktu sama pusing 1000 malam
+
+   <br>
+
+9. [https://hudadamar21.netlify.app/]  
+    **hudadamar21**  
+   share Web Portfolio saya, masih dikembangin.:grin:
+   web ini di buat pake Vuejs 3 (Vite) + Tailwindcss
+
+   <br>
+
+10. [https://weatherind.netlify.app/]  
+     **Arif Rahman**  
+     Hallo guys izin share web perkiraan cuaca sederhana
+    yang dibuat pake VueJs, bootstrap dan firebase.
+
+   <br>
