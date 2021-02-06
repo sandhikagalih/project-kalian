@@ -1247,7 +1247,7 @@ terimakasih
 
     <br>
 
-### 23 Januari 2021
+### 29 Januari 2021
 
 1. [https://joonacode.github.io/woocommerce-landing/]  
     **cepgunz**  
@@ -1361,3 +1361,166 @@ terimakasih
     yang dibuat pake VueJs, bootstrap dan firebase.
 
    <br>
+
+### 6 Februari 2021
+
+1. [https://belajar-online.ridoananda.my.id/]  
+    **Rido Ananda**  
+    Assalamualaikum,
+   Halo teman teman.
+   Saya ingin bagikan web Belajar Online.
+   dibuat dengan:
+
+   - bootstrap
+   - Codeigniter 4
+   - jQuery
+   - SASS
+
+   Untuk fiturnya sangat banyak,...
+
+Ada 3 Role/Aturan Pengguna dan Setiap Pengguna Memiliki Hak Akses Masing Masing…
+
+GURU
+~ Tugas
+
+- Membuat Tugas, Menghapus, Melihat Data Pengumpulan Tugas, Dan Mengubahnya.
+  ~ Absen
+- Membuat Absensi Harian, Menghapus, Mengubah, dan Melihat Data Absen Siswanya.
+  ~ Artikel
+- Membuat Artikel, Menghapus, Mengubah, Dan Berkomentar
+
+SISWA
+~ Tugas
+
+- Menerima Tugas dan Mengumpulkan Tugas.
+  ~ Absen
+- Menerima Absen Harian dan Melakukan Absen (Hadir, Sakit, Izin).
+  ~ Artikel
+- Melihat Artikel dan Berkomentar.
+
+  ADMINISTRATOR
+  ~ Role Access
+
+  - Menambahkan Role, Memberi Hak Akses Setiap Role, Mengubah dan Menghapus.
+    ~ User Mapel
+  - Menambahkan Mata Pelajaran Guru dan Kelas / Jurusan Siswa, Mengubah, dan Menghapus.
+    ~ Laporan
+  - Menerima Laporan Dari Guru dan Siswa Apabila Seorang Pengguna Melalukan Hal yang Semena mena.
+    ~ Hubungi
+  - Menerima Laporan Dari Seseorang Yang Mengunjungi Website.
+    ~ DATA
+  - Melihat Data Guru, Siswa, Artikel. Mengubah dan Menghapus Data.
+    ~ MENU
+  - Membuat Menu dan Submenu Baru, Mengubah dan Menghapus Menu dan Submenu
+
+  Itulah Fitur-fitur Yang Tersedia.
+  Setiap Pengguna Dapat Akses PROFIL dan NOTIFIKASI.
+
+  Terimakasih Sudah Membaca nya.
+  <br>
+
+2. [https://reksaandhika.com/]  
+    **Reksa**  
+    Halo, izin share web portfolio saya.
+   Teknologi: ReactJS (NextJS), SVG, GSAP, Lottie, Bootstrap Grid.
+
+   Pembuatan 3 minggu, cukup struggle karena saya anaknya ga puasan sama hasil.
+
+   Tujuan buat web ini berharap HRD ngelirik buat hire kerjaan atau setidaknya narik client baru.
+
+   Best experience dibuka via desktop karena ada interaksi hover & slide mouse
+
+   <br>
+
+3. [https://weebflix.netlify.app/]  
+   **damnbucky**  
+   Halo semuanya, izin share project saya sekedar latihan mengambil API sederhana untuk front end development yaitu Website daftar Anime. Tech yang digunakan adalah NuxtJS dan TailwindCSS.
+
+   Repo github nya: [https://github.com/buckypinkman/nuxt-weebflix-animelist]
+
+   <br>
+
+4. [https://foundation.supryantowp.tech/]  
+   **Karube**  
+   Izin Share
+   saya mau share hasil slicing design Tito Tri Atmojo
+   yang dibuat pakai nextjs sama chakra ui. buat mobile masih belum rapih kalau dilihat dari desktop mungkin lebih bagus.
+   saya ngerjain ini 1 hari kwkw di potong sama waktu tidur. puas banget akhirnya selesai juga dalam waktu cepet.
+   design : Tito Tri Atmojo
+   repository: [https://github.com/supryantowp/foundation]
+
+   <br>
+
+5. [https://endabelyu.github.io/]  
+    **Endabelyu**  
+    Halo pak, saya mau showcase web portofolio saya setelah belajar playlist sampe css grid, aku pake html, css , vanilla javascript dan jquery,
+   Walaupun untuk javascript dan jquery saya masih ikutin tutorial aja belum terlalu paham,
+
+   1. vanilla js buat nav on scoll
+   2. Jquery buat smooth scroll
+   3. Tilt js untuk heronya
+
+   Selebihnya pake html dan css
+   Untuk icon socmed github dan yang lain nya saya ngambil dari w33 school , ada yang dari icon8 dan flaticon juga pak.
+
+   Mohon kritik dan sarannya agar saya bisa membuat yang lebih keren, dan makasih banyak pak dika buat ilmunya
+
+   <br>
+
+6. [http://bagikelompok.rf.gd/]  
+   **ogiSukses**  
+   Assalamualaikum, Halo Pak Dika, saya mau share hasil implementasi ilmu website dari pak Dika.
+
+   Saya membuat web tool untuk pembagian kelompok,Web tool ini terinspirasi saat disuruh bagi kelompok di kampus saya, terus saya buat deh hehehe. saya menggunakan bootstrap, vanilla js, vanilla php yang semua-nya belajar di website WPU.
+
+   <br>
+
+7. [https://do-time.netlify.app/]  
+   **Wahyu.All**  
+   Hai Semuanya.
+   Izin showcase project Saya yaitu web app yang saya beri nama Do Time.
+   Web app ini memiliki fitur yaitu:
+
+   1. Kalender
+   2. Jam Dunia
+   3. Stopwatch
+   4. Timer
+
+   HTML, CSS, JS
+   Utk library nya pakai list js sama picker js
+
+   <br>
+
+8. [https://dimas-ngoding.github.io/blog-portfolio/]  
+   **!dimas.andhk**  
+   Halo assalamualaikum salken semua, aku mau share web portfolio, hasil belajar dari channel wpu
+
+   Dibuat pakai html, scss, javascript, bootstrap.
+   Librarynya aos dan typed js
+   waktu pengerjaan 3-5 Jam
+
+   <br>
+
+9. [https://anggihseptiawan.netlify.app/]  
+   **asdevv**  
+   Hallo, selamat siang semuanya,
+   Mau izin share web portfolio saya
+
+   Tech stack yg dipake :
+
+   - React JS
+   - React reveal (animasi)
+   - Nodesass (styling)
+   - i18next (internationalization)
+
+   <br>
+
+10. [http://www.covid19worldview.cyou/ ]  
+    **Ryuuga**  
+    Halo, izin share hasil website buatan saya. Sekalian buat kompetisi, sekalian buat di showcase aja disini.
+
+    COVID 19 WORLVIEW adalah sebuah website yang memiliki tujuan untuk menampilkan data-data seputar COVID-19 di seluruh dunia. Terinspirasi dari website WHO dan dibantu dengan API seperti covid19api, oxford covid 19 tracker, dan rest countries.
+
+    Saya menggunakan ReactJS sebagai JavaScript library dibantu dengan CSS Framework dari Material-UI. Lalu beberapa module tambahan seperti react-simple-maps, chartjs, material-table, dan scroll animation dari aos
+
+      <br>
