@@ -1515,7 +1515,7 @@ SISWA
 
    <br>
 
-10. [http://www.covid19worldview.cyou/ ]  
+10. [http://www.covid19worldview.cyou/]  
     **Ryuuga**  
     Halo, izin share hasil website buatan saya. Sekalian buat kompetisi, sekalian buat di showcase aja disini.
 
@@ -1524,3 +1524,146 @@ SISWA
     Saya menggunakan ReactJS sebagai JavaScript library dibantu dengan CSS Framework dari Material-UI. Lalu beberapa module tambahan seperti react-simple-maps, chartjs, material-table, dan scroll animation dari aos
 
       <br>
+
+### 13 Februari 2021
+
+1. [https://www.maiundangan.com/]  
+   **ekasapta**  
+   Selamat Siang!
+
+   Ijin share temen-temen, Maiundangan adalah jasa undangan online yang menggunakan web based sebagai undangannya.
+
+   Menggunakan laravel, S3 dari biznetgio untuk menyimpan static file, style bootstrap (custom) dan figma untuk design prototypenya.
+
+   Demo Undangan: [https://www.maiundangan.com/demo/black-lava]
+
+   <br>
+
+2. [https://tegar-deyustian.netlify.app/]  
+   **Kyo**  
+   Website static sederhana saya, mencoba implementasi hasil belajar tailwind css dan vanilla javascript
+
+   GitHub: [https://github.com/lynxeevnxx/portfolio]
+
+   <br>
+
+3. [https://sharp-pasteur-52eaa7.netlify.app/]  
+   **abdul aziz**  
+   Izin ikutan showcase-project saya buat tribute-page menggunakan html, css, vanilla js.
+
+   GitHub : [https://github.com/polongaziz/tribute-page]
+
+   terimakasih ilmunya pak semoga berkah
+
+   <br>
+
+4. [https://moladev20.github.io/Foodpedia.github.io/]  
+   **Sabil**  
+   Halo temen temen semuanya, Izinkan saya membagikan showcase-project saya di sini untuk yang pertama kalinya. Ini merupakan Project landing page pertama kali menggunakan CSS murni yang saya buat.
+
+   GitHub : [https://github.com/MOLAdev20/Foodpedia.github.io]
+
+   <br>
+
+5. [https://bookmark-website.netlify.app/]  
+   **indraadikusuma**  
+   halo semuanya, ijin share showcase project pertama saya
+
+   Responsive Bookmark landing page
+   Dibuat munggunakan HTML, SCSS, JavaScript & Webpack 5
+   (tanpa menggunakan framework css & javascript).
+
+   Sumber Design : [https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158]
+
+   GitHub : [https://github.com/indraAK/bookmark-landing-page]
+
+   <br>
+
+6. [https://kikiding.space/]  
+   **Kiki**  
+   Halo semua izin share website personal saya
+   Dibuat pakai Next.js, Tailwindcss, DatoCMS
+
+   GitHub : [https://github.com/codingki/personal-site]
+   <br>
+
+7. [https://fikrimulyanasetiawan.github.io/]  
+   **Cadis Etrama Di Raizel**  
+   Permisi semuanya, saya mau menunjukkan proyek yang saya buat
+
+   Website ini awalnya saya buat cuma untuk post blog berbasis sains, tapi seiring perkembangan saya dalam belajar bahasa pemrograman javascript, saya mulai menambahkan beberapa hal, diantaranya :
+
+   - kalkulator sederhana yang bisa melakukan operasi perkalian, pembagian, penjumlahan, pengurangan, dan menghitung sisa pembagian
+
+   - game "donkey game". Tau kan? Game dengan judul dan konsep yang sama dengan game yang pernah dibuat bill gates ( tapi tentu saja game saya masih banyak kekurangannya)
+
+   - ChatBot. Chatbot yang saya buat adalah chatbot yang sering disebut dengan "rule-based chatbot" .
+
+   - game tebak angka
+
+   - mesin enkripsi caesar. Anda tau metode enkripsi caesar? Jika anda melakukan enkripsi pesan dengan metode ini secara manual, maka akan memerlukan waktu yang cukup lama (buang buang waktu). Karen itu saya ingin mengotomatisasi proses ini melalui program komputer. Input dari mesin ini berupa plain text dan jumlah pergeseran huruf yang anda inginkan, lalu output nya adalah encryptex text ( teks yang sudah terenkripsi)
+
+   - Math solver . Walau namanya adalah math solver, proyek yang saya buat ini tidak bisa menyelesaikan semua masalah matematika. Program ini hanya bisa menemukan solusi persamaan linear 2 variabel dan 3 variabel. Sejauh ini tidak ada error pada program ini. Hanya saja anda perlu menulis "+-" jika ingin menuliskan angka bernilai "-". Misalnya anda harus menulis "-3" sebagai "+-3"
+
+   - dan proyek lain yang tidak saya ingat
+
+   Segala sesuatu yang ada di website ink saya buat hanya dengan menggunakan HTML, CSS, Bootstrap, dan Javascript ( vanilla javascript)
+
+   Untuk melihat proyek javascript saya, anda dapat melihatnya di navbar, klik "javascript project"
+
+   Terimakasih sebelumnya
+
+   GitHub : [https://github.com/fikrimulyanasetiawan/fikrimulyanasetiawan.github.io]
+
+   <br>
+
+8. [https://alwaysngoding.com/]  
+   **Muhammad Erlangga**  
+   Halo semuanyaa, izin share proyek saya dan tim saya ya :smile:
+
+   Proyeknya berupa website untuk belajar pemrograman dan pengembangan website secara online, banyak sekali cerita & tantangan dalam pengerjaannya diantaranya:
+
+   - 2017 sampai awal 2020 websitenya dikerjakan hanya sendiri (belum ada tim)
+   - memikirkan dan mencari teknologi apa saja yang ingin dipakai sampai-sampai menghabiskan banyak waktu
+   - masalah pada desain dan alur website, sampai-sampai harus diulang pengerjaannya dari awal lagi (3 kali ulang)
+   - beberapa kali merombak basis data agar terstruktur dan rapih
+   - harus memperdalam ilmu untuk membuat kelas-kelas supaya mudah dipahami dan berkualitas (ini lumayan menghabiskan banyak waktu)
+   - mengecek ulang setiap kelas yang sudah dibuat sampai beberapa kali pengecekan (butuh ketelitian, kesabaran dan kontrol emosi)
+   - membuat website sedinamis mungkin untuk semua device
+   - sering mengerjakan di warnet karena saat saya masih sekolah di rumah belum ada akses koneksi internet (jadi saya mengerjakan di laptop pun kalo saya sedang berada di sekolah memanfaatkan wifi yang ada)
+   - laptop yang saya pakai sangat lemot pada waktu itu (ini tantangan untuk menguji kesabaran)
+   - banyak logika-logika atau alur yang rumit yang harus bisa dicari dan diselesaikan
+   - beberapa kali sempat ingin menyerah karena mentok pada satu hal yang susah untuk diselesaikan
+
+   mungkin itu hanya beberapa dari sekian banyaknya problem dan tantangan, mungkin jika di ingat-ingat lebih dalam ada banyak sekali problem dan tantangan saat mengerjakan proyek ini.
+
+   teknologi yang dipakai untuk pembuatan website ini bisa dilihat menggunakan ekstensi Webapplyzr, teknologi yang dipakai diantaranya:
+
+   - HTML, CSS, PHP (:fire: Web Framework), JS, SQL
+   - Node.js (Express) & Socket.IO
+   - Bootstrap
+   - jQuery
+   - Dan lain-lain
+
+   <br>
+
+9. [https://kawanpeduli.site/]  
+   **GahasaPurba**  
+   Mempersembahkan "KawanPeduli" Sebagai Website Informasi Perkembangan COVID-19 di Indonesia.
+   Silahkan Kunjungi Website Tersebut, Anda Bisa Melihat Blog, Melihat Statistik COVID-19 di Indonesia dan Dunia, Memberikan Pertanyaan Dan Membahas Sesuatu di Forum, dll. Kami Akan Selalu Ada Untuk Membantu Anda.
+
+   Silahkan dikunjungi ya, teman-teman, kalau ada masukan atau saran dengan senang hati menerima :blush:
+
+   Website ini dibangun menggunakan Framework PHP yaitu Laravel, lalu untuk menampilkan statistik nya kami menggunakan API dari KawalCorona, lalu ada beberapa packages Laravel yang digunakan seperti Laravel Socialite untuk Integrasi Sign In dan Sign Up menggunakan Google dan GitHub, Laravel Comments untuk membuat kolom komentar dan diskusi, Laravel Excel dan PDF untuk reporting di Dashboard Admin, dan Sweet Alert untuk menampilkan alertnya.
+
+   <br>
+
+10. [https://saiful-akbar13.web.app/]  
+    **saiful-akbar**  
+    Hai semua, izin share design personal website pribadi saya. Masih belajar jadi masih web statis dan masih simple banget, kedepannya mau dibuat dinamis.
+
+    Disini saya menggunakan react js & material-ui
+
+    GitHub : [https://github.com/saiful-akbar/saiful-akbar]
+
+    <br>
