@@ -1618,7 +1618,7 @@ SISWA
    <br>
 
 8. [https://alwaysngoding.com/]  
-   **Muhammad Erlangga**  
+   **ZihxS**  
    Halo semuanyaa, izin share proyek saya dan tim saya ya :smile:
 
    Proyeknya berupa website untuk belajar pemrograman dan pengembangan website secara online, banyak sekali cerita & tantangan dalam pengerjaannya diantaranya:
