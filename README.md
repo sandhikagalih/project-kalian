@@ -1667,3 +1667,25 @@ SISWA
     GitHub : [https://github.com/saiful-akbar/saiful-akbar]
 
     <br>
+
+
+### 15 Februari 2021
+  1. [https://istilahtify.vercel.app/]
+  
+  **Izzudin Ar Rafiq**
+  
+  halo semua, izin share personal project mini saya, yaitu Istilahtify yang berfungsi untuk melakukan pencarian istilah bahasa indonesia dari sumber KBBI dan WIKIPEDIA
+  
+    saya menggunakan stack teknologi antara lain:
+  - NodeJS
+  - Javascript
+  - Typescript
+  - ExpressJS
+  - VueJS
+  - Vuetify
+  - axios
+  - Cheerio
+  
+  Github : [https://github.com/izzudin26]
+  
+  Portofolio : [https://izzudin26.github.io/]
