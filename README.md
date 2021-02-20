@@ -1783,7 +1783,7 @@ SISWA
 
    <br>
     
-    10. [https://hymos.github.io/ekskresi]  
+10. [https://hymos.github.io/ekskresi]  
     **hymos**  
     almaas izdihar
     halo semua :wave:
@@ -1800,7 +1800,7 @@ SISWA
     pa dosen @sandhikagalih
     <br>
     
-    11. [https://valclass-1.vercel.app]  
+11. [https://valclass-1.vercel.app]  
     
     Muhammad Khoirul Huda - developervalclass@gmail.com / muhammadkhoirulhuda.1903@gmail.com
 
