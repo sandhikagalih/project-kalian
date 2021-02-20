@@ -1782,8 +1782,8 @@ SISWA
    Terimakasih Atas Partisipasinya saya terima kritik dan sarannya
 
    <br>
-
-10. [https://hymos.github.io/ekskresi]  
+    
+    10. [https://hymos.github.io/ekskresi]  
     **hymos**  
     almaas izdihar
     halo semua :wave:
@@ -1798,4 +1798,21 @@ SISWA
 
     special thanks :
     pa dosen @sandhikagalih
+    <br>
+    
+    11. [https://valclass-1.vercel.app]  
+    
+    Muhammad Khoirul Huda - developervalclass@gmail.com / muhammadkhoirulhuda.1903@gmail.com
+
+    Hallo, pak dhika. Saya mau share framework css yang bernama Valclass. 
+    
+    Valclass merupakan framework css terbaru karya Muhammad Khoirul Huda(saya sendiri) seorang pelajar asal SMKN 1 KOTA CIREBON (Kelas 12 - 2021).
+    Valclass hadir dengan berbagai fitur terbaru seperti v-sosmed, v-mode, v-increment, v-office dan fitur-fitur lainnya.
+    
+    *catatan
+    Valclass2 saat ini sudah dirancang dan akan memiliki berbagai fitur baru serta cara penggunaan valclass yang sedkit berbeda namun tentunya akan lebih mempermudah.
+  
+
+    terima kasih kepada :
+    pa dhika @sandhikagalih
     <br>
