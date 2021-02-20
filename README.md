@@ -1656,6 +1656,8 @@ SISWA
 
    Website ini dibangun menggunakan Framework PHP yaitu Laravel, lalu untuk menampilkan statistik nya kami menggunakan API dari KawalCorona, lalu ada beberapa packages Laravel yang digunakan seperti Laravel Socialite untuk Integrasi Sign In dan Sign Up menggunakan Google dan GitHub, Laravel Comments untuk membuat kolom komentar dan diskusi, Laravel Excel dan PDF untuk reporting di Dashboard Admin, dan Sweet Alert untuk menampilkan alertnya.
 
+   GitHub : [https://github.com/GahasaPurba/kawanpeduli]
+
    <br>
 
 10. [https://saiful-akbar13.web.app/]  
@@ -1666,4 +1668,134 @@ SISWA
 
     GitHub : [https://github.com/saiful-akbar/saiful-akbar]
 
+    <br>
+
+### 20 Februari 2021
+
+1. [https://fyfirman.tech/]  
+   **fyfirman**  
+   Halo Pak Sandhika & Temen-temen.
+   Izin share website pribadi saya. Website ini dibuat menggunakan Gatsby (React.js). Fiturnya masih sederhana, hanya sebagai portofolio saya pribadi. Terimakasih semuanya.
+
+   <br>
+
+2. [https://xhry.github.io/]  
+   **Harya**  
+   Halo semuanya, izin share web portfolio sederhana saya dengan tema neumorphism karena tema ini sedang banyak digunanakan oleh front end developer, pembuatan web portfolio dengan bahasa program HTML, CSS, Javascript dan framework Bootstrap4, parallax.js dan typed.js untuk animasi di header, library animate.css untuk lazy loading, waypoint.js untuk progress bar di menu About Me, jQuery Fancy Box untuk menampilkan Project saya yang masih on progress di menu Portfolio, Formspree.io untuk form backend yang sudah terhubung Gmail pada menu Contact, dan Google Analytics untuk tracking pengunjung ke web portfolio saya.
+
+   GitHub : [https://github.com/xhry/xhry.github.io]
+
+   <br>
+
+3. [https://akornime.site/]  
+   **siapa saya**  
+   Halo semua saya ingin menshare hasil project saya,awal mula saya membuat project ini karena ingin membuat website spetuar anime dan drakor waktu itu saya menonton tutorial wordpress tapi gak paham, eh nemu channel wpu saya melihat list membuat website dengan ci 4,wah kayanya bisa nih saya buat website yang saya inginkan pake ci 4 oh ya sebelum nya saya sudah nonton list css,js, php, dan bootstap,dan alhamdulillah mendapat hasil yang saya inginkan namun masih banyak kekurangan.
+
+   Oh ya pas minggu kemarin saya ingin mencoba buat apk,dan lihat tutorial orang India pake flutter. saya tiru dan modifikasi sedikit ini hasil projectnya
+
+   [https://apkpure.com/u/14774479/post/10807903]
+
+   <br>
+
+4. [https://devnazir.github.io/movietrailer/]  
+   **Nazir Bahrul Ulum**  
+   Halo, saya mau share project lama saya yaitu Web Movie. Dibuat menggunakan HTML, SASS, JS, Webpack.
+
+   Source Code: [https://github.com/devnazir/movietrailer]
+   <br>
+
+5. [https://intip.in/heart2heart]  
+   **aff**  
+   Selamat Malam teman-teman, saya ingin share website buatan saya (Affan Abiyyu) dan teman saya Nova Andre Saputra yang bernama Heart2Heart, sebuah aplikasi permainan sederhana berbasis web.
+
+   Bisa diakses di sini: [http://47.254.250.47/]
+   (atau lewat shortlink [https://intip.in/heart2heart])
+
+   Website dibuat menggunakan Framework: Sapper (Svelte) JS, untuk CSS (kami pakai SCSS)-nya menggunakan Bulma CSS.
+   Website nya masih full statis, dan di hosting di Alibaba Cloud sebagai partisipan dalam lomba Re-Cloud Challenges Indonesia.
+
+   (Dikerjakan seminggu lebih, penuh dengan begadang) :''')
+   terima kasiih banyakk
+
+   <br>
+
+6. [https://elwinmusadi.github.io/travel-queen]  
+   **Elwin Musadi**  
+   Selamat siang teman-teman, perkenalkan nama saya Elwin Musadi. Saya ingin share project Front-End saya yaitu TravelQueen. Website statis ini dibuat menggunakan HTML, CSS, Flexbox, SASS, Javascript dan Framework Bootstrap 4. Di project ini saya baru belajar menerapkan responsive menggunakan media query, jadi untuk responsive-nya belum optimal.
+
+   Untuk source code: [https://github.com/ElwinMusadi/travel-queen]
+
+   Mohon kritik dan sarannya. Jika berkenan dapat berkontribusi langsung ke repository-nya. Terima kasih
+
+   <br>
+
+7. [https://zikircounter.netlify.app/]  
+   **A-10 Warthog**  
+   izin share project kecil dengan javascript
+   namanya dzikir counter
+   bagi yang mau sourcodenya :
+   [https://github.com/haniframadhani/dzikircounter]
+
+   <br>
+
+8. [https://pengaduan-smkn2kra.netlify.app/]  
+   **Hendra Agil**  
+   Halo semua,
+   Izin share project tim, yaitu Sistem Pengaduan Sekolah.
+
+   Awalnya cuma pakai Laravel untuk backend dan TailwindCSS untuk frontendnya -> [http://pengaduansmkn2kradev.herokuapp.com/] (bisa login sebagai admin, petugas, dan user).
+
+   Tapi akhirnya dibikin lagi frontendnya lagi pakai React + Chakra UI dan jadilah -> [https://pengaduan-smkn2kra.netlify.app/] sebagai yang utama sekarang (hanya bisa login sebagai user, selain user pakainya link yang diatas tadi).
+
+   - Untuk alurnya sudah ada di website.
+   - Yang bisa mengelola akun user adalah admin.
+   - Yang bisa menanggapi pengaduan adalah admin & petugas.
+   - Sebenarnya bisa dapat notifikasi melalui email jika user menggunakan akun Gmail.
+   - Informasi lebih lanjut bisa kunjungi websitenya, hehe.
+
+   Untuk detail projectnya dan siapa saja kontributornya bisa cek di :
+
+   - Backend -> [https://github.com/erpeel-a/Sistem-Pengaduan-Sekolah-SMKN2Karanganyar]
+   - Frontend -> [https://github.com/erpeel-a/Sistem-Pengaduan-Sekolah-SMKN2Karanganyar-Frontend]
+
+   Untuk akun yang bisa dipakai login :
+   Email -> user@user.com
+   Password -> user123
+
+   Kritik dan saran bisa disampaikan di sini atau bisa open issue di repository github tadi, hehe. Terima kasih
+
+   <br>
+
+9. [https://ghazthiskc19.github.io/Project-Bootsrap-3]  
+   **GHAZTHISKC**  
+   Assalamualaikum Izin share Sebuah Project yang di buat sekitar 2 mingguan dengan menggunakan :
+   :bootstrap: = Bootstrap 3
+   :html: dan :css:
+
+   ini Source Code nya = [https://github.com/ghazthiskc19/Project-Bootsrap-3]
+
+   Penjelasan dari web nya tentang ajakan untuk menjadi pecinta alam agar alam kita bisa menjadi asri kembali kenapa? Karena Siapa lagi yang akan menjaga lingkungan ini kecuali KITA, jika alam ini tidak di jaga maka akan terjadi bencana - bencana alam yang tidak di inginkan oleh kita dan bahkan sering terjadi seperti Banjir dan Kebakaran Hutan hal tersebut adalah ulah manusia Dan Siapa Lagi yang akan Menyelamatkan Alam Ini ?
+
+   Dan Mohon untuk MEM VOTING dengan link di bawah ini
+   [http://bit.ly/Website_Rating]
+   Mohon sebisa mungkin untuk mengvote agar saya bisa mengetahui sejauh apa website yang saya buat
+   Terimakasih Atas Partisipasinya saya terima kritik dan sarannya
+
+   <br>
+
+10. [https://hymos.github.io/ekskresi]  
+    **hymos**  
+    almaas izdihar
+    halo semua :wave:
+
+    izin share project web sederhana saya, hasil belajar sampai materi DOM di WPU sekalian buat tugas biologi
+
+    dibangun menggunakan HTML CSS dan Javascript (tanpa framework) selama kurang lebih 5 hari, mulai dari bikin desain UI, ilustrasi, sampai implementasi kodenya
+
+    dan kodenya mungkin masih bar-bar, kalo temen-temen ingin membuat kodenya lebih efektif, bisa ambil source code nya di repo github saya [https://github.com/hymos/ekskresi]
+
+    dan buat temen-temen yang mau mampir ke webnya bisa kunjungi
+
+    special thanks :
+    pa dosen @sandhikagalih
     <br>
