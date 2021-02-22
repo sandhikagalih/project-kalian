@@ -1799,3 +1799,11 @@ SISWA
     special thanks :
     pa dosen @sandhikagalih
     <br>
+    
+11. [https://orandorisk.github.io]
+    "orlando"
+    halo semua mau ngeshare website tantangan dari frontendmentor.io 
+    
+    ini tantangan pertama saya yang saya kerjakan selama 2 minggu 
+    
+    <br>
