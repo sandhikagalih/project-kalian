@@ -1799,3 +1799,117 @@ SISWA
     special thanks :
     pa dosen @sandhikagalih
     <br>
+
+### 27 Februari 2021
+
+1. [https://endeavour821.github.io/]  
+   **TheWitness**  
+   pagi semua mau share portfolio saya, minta kritik dan sarannya, dibuat menggunakan bootstrap 4.6, html,css,sedikit js , lalu ada typed.js dan aos.js, untuk versi mobilenya saya disable aosnya agar bisa responsive
+
+   GitHub : [https://github.com/Endeavour821/Endeavour821.github.io]
+   <br>
+
+2. [https://fyfirman.tech/]  
+   **fyfirman**  
+   Halo Pak Sandhika & Temen-temen.
+   Izin share website pribadi saya. Website ini dibuat menggunakan Gatsby (React.js). Fiturnya masih sederhana, hanya sebagai portofolio saya pribadi. Terimakasih semuanya.
+
+   <br>
+
+3. [https://fyfirman.tech/]  
+   **Mawang_Patron**  
+   web portfolio buatan sendiri. iseng aja karena lagi luang. waktu pengerjaan nya 2 minggu di bawa santai. maaf kalo kurang optimal. score nya kecil soalnya hehe. :sweat_smile:
+
+   Tools :
+   CSS , Vanilla JS , GSAP JS, PHP , Chart JS , Bootstrap.
+
+   <br>
+
+4. [https://flipcard.xyz/]  
+   **cholis04**  
+   Hallo semua :wave:, Izin Berbagi Project Web Aplikasi Sederhana mengenai Contact Profile Card dengan judul Flipcard .
+
+   Project ini memungkinkan pengguna berbagi informasi tentang dirinya dan meletakkan beberapa akun hanya dalam satu link.
+
+   Teknologi yang digunakan :
+
+   Front End
+
+   - Create React App - React JS
+   - CSS
+     Back End
+   - Firebase as a Backend Service.
+
+   Check My Flipcard : [https://flipcard.xyz/cholis04]
+
+   Sebelum Link Flipcard dibagikan, pastikan status akun sudah aktif. Pengguna hanya bisa menambahkan beberapa akun yang telah disediakan dengan maksimal 12 Link.
+
+   Kritik dan Saran sangat membantu pengembangan project ini.
+
+   Hope it works
+
+   <br>
+
+5. [https://sukistore.netlify.app/]  
+   **A-10 Warthog**  
+   izin share project kelas full-stack web designer dari builtwith angga
+   yaitu project ecommer untuk fashion
+   di design dengan Adobe XD dan dibangun dengan
+   HTML
+   CSS
+   BOOTSTRAP 4.3
+
+   <br>
+
+6. [https://eliezerdev.github.io/]  
+   **Eliezer**  
+   zin share project , baru 3 minggu belajar bikin web dari channelnya padika, dan ini adalah project portfolio dari challenge freecodecamp
+
+   GitHub : [https://github.com/EliezerDev/EliezerDev.github.io]
+
+   <br>
+
+7. [https://crypto-market-navy.vercel.app/]  
+   **yusufsryd**  
+   Perkenalkan Nama saya Yusup supriyadi seorang Front end developer Dan Fullstack web developer
+
+   Saya mau memperkenalkan website live harga cryptocurrensi pengambilan data dari API COINGECKO.COM
+
+   Note:
+   NEXT JS
+   REACT QUERY
+   CAKRA UI
+   TAILWIND CSS
+
+   Source Code: [https://github.com/yusupsupriyadi/COIN-MARKET-CAP]
+
+   Terimakasih
+
+   <br>
+
+8. [https://fyfirman.tech/]  
+   **Wahyu.All**  
+   Hallo semuanya, izin share project website islami yg saya beri nama Islamic Bit.
+   Fiturnya antara lain:
+   • Baca Alquran
+   • Doa2 harian
+   • Info jadwal sholat
+   • Asmaul Husna
+   • Sholawat nabi
+   • Dll
+   Dibuat menggunakan html, css, js, jquery, serta list.js. Untuk plugin nya saya pakai hjjri-date.js
+
+   <br>
+
+9. [https://fyfirman.tech/]  
+   **fyfirman**  
+   Halo Pak Sandhika & Temen-temen.
+   Izin share website pribadi saya. Website ini dibuat menggunakan Gatsby (React.js). Fiturnya masih sederhana, hanya sebagai portofolio saya pribadi. Terimakasih semuanya.
+
+   <br>
+
+10. [https://eripurniawan.great-site.net/]  
+    **eri_purniawan**  
+    Hallo semua, izin share Project website Portfolio saya sendiri. Ini website pertama saya setelah belajar dari WPU
+
+    <br>
