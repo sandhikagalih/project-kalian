@@ -1816,7 +1816,7 @@ SISWA
 
    <br>
 
-3. [https://fyfirman.tech/]  
+3. [https://faeest.rf.gd/]  
    **Mawang_Patron**  
    web portfolio buatan sendiri. iseng aja karena lagi luang. waktu pengerjaan nya 2 minggu di bawa santai. maaf kalo kurang optimal. score nya kecil soalnya hehe. :sweat_smile:
 
@@ -1887,7 +1887,7 @@ SISWA
 
    <br>
 
-8. [https://fyfirman.tech/]  
+8. [https://islamic-bit.netlify.app/]  
    **Wahyu.All**  
    Hallo semuanya, izin share project website islami yg saya beri nama Islamic Bit.
    Fiturnya antara lain:
@@ -1901,10 +1901,15 @@ SISWA
 
    <br>
 
-9. [https://fyfirman.tech/]  
-   **fyfirman**  
-   Halo Pak Sandhika & Temen-temen.
-   Izin share website pribadi saya. Website ini dibuat menggunakan Gatsby (React.js). Fiturnya masih sederhana, hanya sebagai portofolio saya pribadi. Terimakasih semuanya.
+9. [https://mnhjddn.github.io/work.html?code=layout-builder]  
+   **mnhjddn**  
+   Halo semuanya, izin share update dari project saya sebelumnya. 
+
+   Beberapa waktu lalu saya share project Bootstrap 4 Layout Builder, nah sekarang project itu sudah saya perbarui sehingga ada fitur untuk save, load, dan get kode html dari layout yang dibuat.
+
+   Script ini saya buat menggunakan javascript. Sebagian besar menggunakan vanilla JS tapi karena masih pakai bootstrap 4, ada beberapa aspek yang perlu menggunakan JQuery.
+
+   Logika pembuatannya sebenarnya mudah, hanya simpan data sebagai object json dan diparse untuk jadi html. Yang tricky mungkin di bagian animasi dan validasi-validasinya.
 
    <br>
 
