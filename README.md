@@ -1903,7 +1903,7 @@ SISWA
 
 9. [https://mnhjddn.github.io/work.html?code=layout-builder]  
    **mnhjddn**  
-   Halo semuanya, izin share update dari project saya sebelumnya. 
+   Halo semuanya, izin share update dari project saya sebelumnya.
 
    Beberapa waktu lalu saya share project Bootstrap 4 Layout Builder, nah sekarang project itu sudah saya perbarui sehingga ada fitur untuk save, load, dan get kode html dari layout yang dibuat.
 
@@ -1918,3 +1918,108 @@ SISWA
     Hallo semua, izin share Project website Portfolio saya sendiri. Ini website pertama saya setelah belajar dari WPU
 
     <br>
+
+### 5 Maret 2021
+
+1. [https://iqballbayhaqi.github.io/]  
+    **Balee**  
+    izin share web game dibuat dengan vanilla js
+
+   <br>
+
+2. [https://ramsonrajagukguk.github.io/pw_LandingPageGlassmorphis/]  
+   **ramson**  
+   Halo semua :wave: ,
+   Izin share project Landing Page Portfolio yang sederhana.
+
+   Awalnya landing page portfolio ini saya buat setelah belajar dari youtubenya Web Programming UNPAS dan beberapa sumber lainnya.
+
+   Dari tahun 2019 saya buat landing page mengikuti ui design yang trends di tahun itu, landing page ini udah ada 3 versi. jadi tahun ini saya buat Portfolio Glassmorphism.
+
+   Dibuat pake :
+
+   - HTML
+   - CSS
+   - Vanilla Js
+   - Bootstrap
+   - Jquery
+   - FontAwesome
+   - aos.js (animasi scroll)
+
+   Source code : [https://github.com/ramsonrajagukguk/pw_LandingPageGlassmorphis]
+
+3. [https://esteh.skom.id/]  
+   **5l4p3r**  
+   assalamualaikum warohmatullahi wabarrakatuh
+   izin share Portfolio sederhana,
+   Dibuat pakai : ReactJS, Bootstrap 5, ditambah particleJS
+   Sebelumnya sudah pernah posting tapi kena saring mungkin kurang prolognya.
+   setelah melihat NGOBAR#27 - Membuat Website Portfolio dengan BOOTSTRAP 5 jadi pengen lagi memperbaiki Portfolionya.
+   Terakhir saya ucapkan Terima Kasih.
+   Source: [https://github.com/5l4p3r/ememceha]
+
+4. [https://izfan.netlify.app/]  
+   **Robi Sasaki**  
+   Assalamu'alaikum, izin share project website statis.
+   website ini terinspirasi dari video livenya pak Dhika saat buat web tribute page Twice.
+   web ini dibuat menggunakan Vanilla HTML, CSS, JS dan library JS yaitu Swiper.js
+   buka di desktop lebih baik
+   terima kasih
+
+5. [https://akmalkhair.cf/]  
+   **Akmal Khair**  
+   assalamu'alaikum semua mau share portfolio saya, minta kritik dan sarannya, dibuat menggunakan bootstrap 4, html,css,sedikit js dan codeigniter 3
+
+6. [https://faeest.rf.gd/janken]  
+   **Mawang_Patron**  
+   mau share web game buatan sendiri. Game suit melawan bot. Belum kompatibel di layar menengah kebawah .Bukan lagi iseng, emang masih pelajar jadi ndak ada kerjaan. Saran nya kawan
+   Tools: Vanilla JS, CSS, HTML, GSAP.JS
+
+7. [https://ridhoadtyaa.github.io/cek-resi/]  
+   **MAUNG**  
+   Halo Pak Dhika dan teman-teman, izin share hasil dari belajar rest API di WPU, dan ketika itu saya kepikiran buat bikin cek resi paket.
+
+   Dibuat dengan :
+
+   - Bootstrap
+   - jQuery
+   - AJAX
+   - Aos.js
+     Demo resi : 8825112045716759 ( JNE )
+
+   Yang mau source code dan docs API nya bisa main ke repo saya : [https://github.com/ridhoadtyaa/cek-resi]
+
+8. [https://tausos.netlify.app/]  
+   **rnb**  
+   Share project Tausos
+
+   Made by: html css js bootstrap
+
+   Description: Tausos adalah website untuk menyimpan link sosial media, terinspirasi dari website ini.space punya bang hilmangrin
+
+9. [http://adeyusuf-portfolio.000webhostapp.com/]  
+   **adeyusuf**  
+   Assalamualaikum semua.. saya mau share web portofolio pribadi saya.
+
+   Ini adalah sebuah website portofolio yang menampung semua project yang telah saya buat baik berupa web design, mobile app design dll.
+
+   Sebenernya web ini telah saya rancang sejak tahun lalu, namun karena saya tengah fokus membuat program untuk tugas akhir jadi web ini sempat "terabaikan" selama beberapa bulan.
+
+   Untuk teknologi yang dipakai semuanya menggunakan native html, CSS dan juga javascript tanpa framework atau library sedikitpun. Oleh karena itu web ini masih sangat sederhana dan masih memiliki banyak kekurangan.
+
+   Dan ini adalah repository githubnya:
+   [https://github.com/adeyusuf211/web-portfolio]
+
+   Mohon masukannya apabila ada yang perlu diperbaiki.
+
+   Terimakasih
+
+10. [https://eliezerdev.github.io/Quotes/]  
+     **Ardhi as Eliezer**  
+     Hii semua,
+    saya mau share project sederhana saya setelah beberapa hari belajar ajax, ini adalah project untuk memberikan sebuah quotes secara acak.
+
+    Project ini saya buat menggunakan bootstrap 5, dan saya memakai API dari [https://goquotes.docs.apiary.io/]
+
+    Source Code:
+    [https://github.com/EliezerDev/Quotes]
