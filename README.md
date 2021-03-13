@@ -2023,3 +2023,179 @@ SISWA
 
     Source Code:
     [https://github.com/EliezerDev/Quotes]
+
+### 13 Maret 2021
+
+1. [https://fajarfirdaus.now.sh/]  
+    **Udin**  
+    Assalamualaikum semuanya, izin share web portofolio hasil belajar nodejs
+
+   Framework :
+
+   - NextJS
+   - ReactJS
+   - Tailwindcss
+   - NodeJS
+
+   <br>
+
+2. [https://halamanku.web.id/]  
+    **haizim**
+
+   Sore gan.. mau share projek yang saya bikin bulan lalu..
+   Cerita dikit..
+   Jadi saya kan baru lulus pertengahan 2020 kemaren. Dan sambil nunggu wisuda saya nerima beberapa projek web gitu.. Nah, ada tuh temen yang baru aja mulai usahanya, masih baru beberapa bulan waktu itu. Dia minta minta dibikinin landing page ke saya.. yaudah saya bikinin dan saya patok tarif biasa. Ternyata, dia bikin landing page tuh sebenernya buat biar FB ads-nya lebih maksimal gitu katanya.(Saya gak terlalu paham juga soal Ads-ads gitu siih). Dan kasusnya itu ada beberapa temen gitu yang order ke saya buat bikinin landing page. Yang minta dibikinin landing page tuh biasanya usaha2 yang walau baru, tapi udah punya "penyandang dana" gitu.. jadinya mereka berani spend buat promosi lebih gede.
+   Tapi, ternyata temen saya yang coba buka usaha ada lebih banyak lagi yang emang ngerintis sendiri(gak punya "penyandang dana"). Alhasil mereka gak terlalu berani spend lebih buat promosi. Padahal ada beberapa yang produknya menarik (menurut saya).
+   Nah, di sini nih saya ngerasa harusnya mereka juga bisa punya kesempatan buat promo lebih baik lagi..
+
+   Jadilah saya bikin aplikasi web ini
+
+   Jadi melalui web ini, mereka bisa bikin landing page mereka sendiri, tentunya klo mau buat ditaroh FB Ads, IG Ads, Google Analytics gitu juga bisa.. Tentunya GRATIS
+
+   Yah, walaupun masih belum WAH banget. Tapi paling gak cukup lah buat bikin basic landing page
+
+   Stack yang saya pake :
+
+   - HTML
+   - CSS
+   - Vanilla Js (90%an)
+   - Bootstrap
+   - Jquery (buat Summernote)
+   - Summernote (big thanks to it)
+   - FontAwesome
+   - PHP Native
+   - MySQL
+
+   Juga udah dilengkapi sama analytics sederhana yang mencakup :
+
+   - traffic pengunjung 30 hari terakhir (ChartJS)
+   - device yang banyak digunakan (ChartJS)
+   - Pixel chart untuk aktivitas pekanan (manual)
+   - interaksi terbanyak
+   - URL asal terbanyak
+   - IP terbanyak
+
+   oiya, buat contoh yang pernah dibuat : [https://halamanku.web.id/enzowedding2]
+
+   Silahkan klo mau dishare.. semoga membantu
+
+      <br>
+
+3. [https://wesee.tegar.me/]  
+   **tegar akmal**  
+   Sore semuanya , disini saya mau share project web yang kemarin di lomba kan di event re-cloud dan alhamdulilah ranking 8 dari 1000 peserta lebih yang ikut
+
+   Disini saya membuat aplikasi web confrence seperti zoom atau google meet , nah dengan website ini kita bisa melakukan video call lebih dari 2 orang dengan hanya 1 kali klik.
+
+   ada beberapa fitur dari web ini seperti :
+   1.realtime video call
+   2.realtime group chat
+   3.share screen
+   4.setting audio
+   4.setting video
+   5.mute video
+   7.mute audio
+   8 login dan daftar
+   10.join room dengan link atau kode
+   12.live whiteboard seperti jamboard google
+   11.dan lain lain
+
+   Teknologi Yang dipakai :
+   1.React js
+   2.Express js
+   3.socket io
+   4.webrtc
+   5.Typescript
+   6.Peerjs
+   7.firebase
+
+   Maaf kalau belum sempurna, saya baru belajar website developer kelas 2 smk tahun kemarin jadi belum banyak pengalaman .
+
+   ===== Disarankan Testing lewat Dekstop dan menggunakan crome , soalnya ada beberapa fitur yang tidak support di android seperti sharescreen dan live whiteboard ====
+
+   Waktu pengerjaan : 2 - 3 minggu
+   Github : [https://github.com/tegar97]
+
+   Terima kasih
+
+   <br>
+
+4. [https://almed-std.github.io/]  
+    **Almed.STD**  
+    Baru belajar bikin web... Mohon bimbingan, kritik dan sarannya
+   Source Code : [https://github.com/almed-std/almed-std.github.io]
+   <br>
+
+5. [https://moladev20.github.io/learnio.github.io/]  
+    **Sabil**  
+    Assalamualaikum, kali ini saya mau showcase projek saya , sebuah landing page minimalis yang di buat dengan html, css, dan library" JS.
+
+   Website landing page pembelajaran pemrograman ( Learn.io )
+
+   Silahkan bagi temen-temen yang mau ambil SCnya bsa ke github saya => [https://www.github.com/moladev20]
+
+   Semoga bermanfaat. dan untuk pak Dika, saya merasa sangat senang sekali jika bapak ada kesempatan mereview projek saya
+
+   <br>
+
+6. [https://madkod.my.id/]  
+    **rnb**  
+    Izin share karya
+   Madkod | Mading Koding
+   Kalian bisa memperlihatkan karya, buka jasa, dan mencari atau menyediakan lowongan pekerjaan khususnya dibidang programming.
+
+   Jika kalian kurang nyaman dengan tampilan cerah maka kalian bisa nyalakan mode malam pada bagian footer.
+
+   <br>
+
+7. [https://kuchingneko28.github.io/landing-page/src/]  
+    **Maika Chan (nobodyxxx2)**  
+    Izin share project landing page
+   Dibuat dengan:
+
+   - Html
+   - Tailwind Css
+
+   Source code: [https://github.com/kuchingneko28/landing-page]
+
+   Mohon kritik dan saran nya baru belajar front end
+
+   <br>
+
+8. [http://rijal.epizy.com/]  
+    **bebs21**  
+    izin share project web pribadi pak, perkembangan dari web pribadi v1.0 ke 2.0, framework: bootstrap 4
+
+   boleh kritik dan sarannya, sangat membantu sekali pak, terima kasih
+
+   <br>
+
+9. [https://alquranku.netlify.app/]  
+    **Kyo**  
+    izin share project sederhana, semacam website islami yg isinya :
+
+   1. al - quran, termasuk (audio, teks dalam latin, terjemahan ke english indonesia, tafsiran dalam bhs indonesia)
+   2. doa sehari - hari (contoh : doa makan, doa sebelum tidur, doa mengenakan baju dll)
+   3. kisah - kisah nabi, yg cukup lengkap.
+
+   teknologi yang digunakan :
+   -untuk kerangka dan styling saya masih menggunakan html dan css native
+   -untuk library nya saya menggunakan vue.js (website ini sebnarnya hasil dari latihan saya menggunakan vue js)
+
+   - vue router dari vue js
+   - js vanilla (sedikit)
+
+   untuk source datanya saya dapat dari public API, untuk source API nya dan informasi lebih lanjut bisa ke : [https://alquranku.netlify.app/about]
+
+   (untuk bagian mobilenya seperti ada beberapa bug :sweat_smile: )
+
+   <br>
+
+10. [https://github.com/satyawikananda/awesome-loker-it-indonesia]  
+    **Satya W**
+
+    Halo semua, ijin share projek open source yang baru saja aku bikin. Projek ini bertujuan untuk memberitahu lowongan kerja IT yang ada di provinsi provinsi di seluruh Indonesia dan setiap lowongan kerja akan di tampilkan dalam format markdown.
+
+    Sistemnya itu setiap harinya akan di update terus dengan bantuan github actions yang sudah ada penjadwalannya, serta datanya sendiri diambil dari API GraphQL yang ada di Jobstreet (mungkin kedepannya API nya akan aku update atau tambah lagi). Bahasa pemrograman yang dipakai untuk projek ini adalah Typescript.
+
+   <br>
