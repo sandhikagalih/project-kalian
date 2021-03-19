@@ -4,7 +4,7 @@
 
 Setiap minggunya akan ditampilkan kurang lebih 10 project
 silahkan saksikan di twitch.tv/sandhikagalih
-setiap hari Sabtu, pukul 13.00WIB (jika tidak ada perubahan :p)
+setiap hari Sabtu, pukul 14.00WIB (jika tidak ada perubahan :p)
 
 ### 31 Oktober 2020
 
@@ -2199,3 +2199,174 @@ SISWA
     Sistemnya itu setiap harinya akan di update terus dengan bantuan github actions yang sudah ada penjadwalannya, serta datanya sendiri diambil dari API GraphQL yang ada di Jobstreet (mungkin kedepannya API nya akan aku update atau tambah lagi). Bahasa pemrograman yang dipakai untuk projek ini adalah Typescript.
 
    <br>
+
+### 20 Maret 2021
+
+1. [https://antonwiji.github.io/]  
+   **antonwiji**  
+   Assalamu'alaikum pak dika, izin share website portofolio saya yang terinspirasi dari tutorial youtube pak Dika membuat website portofolio Menggunakan Bootstrap v5.
+   Saya membuat website menggunakan.
+
+   - HTML
+   - CSS
+   - JavaScript
+   - Bootstrap v5
+   - Figma(Redesign)
+
+   Serta Penambahan Kirim Pesan Email. Silahkan kritik dan saran dari pak dika.
+   Wassalamu'alaikum wr.wb
+
+   <br>
+
+2. [https://nicofzzn-typemaster.netlify.app/]  
+   **nicofz**  
+   Halo semua, izin share website sederhana untuk melatih keceepatan mengetik. Website ini mirip seperti 10fastfingers dan dibuat menggunakan typescript dan reactjs
+
+   terimakasih
+
+   GitHub : [https://github.com/nicofzzn/typemaster]
+
+   <br>
+
+3. [https://yanamaulana.github.io/]  
+   **yana69**  
+   Halo bapak dika , dan kawan kawan semua,
+   Izin share portfolio sederhana diri saya, yang saya buat menggunakan html ,css dan ES6 , saya hosting di github pages
+   Over all masih statik , tapi ucapan selamat datang nya sudah saya generate bersarkan waktu akses.
+   Terimakasih.
+
+   GitHub : [https://github.com/yanamaulana/yanamaulana.github.io]
+
+   <br>
+
+4. [https://faeest.rf.gd/card-flip]  
+   **Mawang_Patron**  
+   mau share game web buatan sendiri lagi. Namanya Flip the Card. Dilayar menengah ke bawah harusnya kompatibel kalau masih di level rendah. Saran nya kawan.
+
+   Tools : HTML, CSS, Vanilla JS, GSAP, Bootstrap, FontAwesome
+
+   Note :
+
+   - Cara main nya tinggal mencocok kan kartu yang diberikan
+   - Suaranya ( harusnya ) udah ngak ngagetin
+   - Data game disimpan di local storage
+   - Bisa di edit sesuka hati ( level max : 200 )
+   - Selamat mancoba
+
+   GitHub : [https://github.com/SiMamank115/card-flip.git]
+
+   <br>
+
+5. [https://adhywiranto44.herokuapp.com/]  
+   **adhywiranto44**  
+   Halo guys, mau share website portfolio sederhana saya. Jadi web static ini udah dibuat dari tahun lalu dihosting pakai Github Pages, tapi saya ingin mengembangkannya lagi biar bisa ngelakuin CRUD sebagai blog web juga, maka dari itu saya pake Runtime Node.js biar bisa melakukan hal tersebut. Nah platformnya sekarang sudah pindah ke Heroku.
+
+   Stack:
+
+   - Node.js
+   - Bootstrap 4
+   - JQuer
+
+   <br>
+
+6. [https://rafaelbrahmantya.github.io/]  
+   **RafaelBrahmantya**  
+   Selamat malam,
+   Ijin share website portofolio, website ini saya buat sebagai latihan dan projek agar bisa saya masukan ke website utama saya,
+   Website ini saya buat dengan :
+   Bootstrap 5
+   HTML
+   dan Javascript (Serta Popper).
+
+   GitHub : [https://github.com/rafaelbrahmantya/rafaelbrahmantya.github.io]
+
+   <br>
+
+7. [https://rakit.esyede.my.id/]  
+    **esyede**  
+    Selamat malam teman-teman, izin share sebuah project yang saya beri nama rakit.
+
+   Ide project ini berawal saat saya merasa kesulitan untuk deploy dan update aplikasi yang saya buat menggunakan laravel (ya, saya juga pengguna laravel) yang ukurannya sampai 100-an MB ke shared hosting murah langganan saya yang hanya punya fitur ftp.
+
+   Cara kerjanya dibuat mirip laravel agar lebih mudah dipelajari oleh teman-teman yang sudah pernah mencoba laravel.
+
+   Fitur
+
+   - Ukuran relatif kecil (< 1MB sudah termasuk dokumentasi offline).
+   - Bisa berjalan di PHP 5.4 sampai PHP 8 (unit-tested)
+   - Bisa digunakan dengan ataupun tanpa Composer.
+   - Routing via Closure maupun Controller (MVC).
+   - View dan templating (native / blade).
+   - Abstraksi database (ORM dan Query Builder).
+   - Schema builder.
+   - Migrasi database.
+   - Otentikasi sederhana.
+   - CLI tool.
+   - Dan masih banyak lagi..
+
+   Links
+
+   - Website: [https://rakit.esyede.my.id/]
+   - Dokumentasi: [https://rakit.esyede.my.id/docs]
+   - Forum: [https://rakit.esyede.my.id/forum]
+   - Github: [https://github.com/esyede/rakit]
+
+   Stack:
+
+   - Website: PHP, Bulma CSS dan Vanilla javascript
+   - Rakit: PHP, Bulma CSS dan Vanilla javascript untuk dokumentasi offline
+   - Github Actions untuk automatic build
+
+   PS: Tolong bantu spread the word ya teman - teman! Buat teman - teman yang ingin berkontribusi, silahkan kirim PR ataupun open issue. Sangat saya apresiasi kritik dan sarannya.
+   Terimkasih banyak teman-teman.
+
+      <br>
+
+8. [https://tiyoy.github.io/responsive-resume-cv/]  
+   **Cecep Maulana ツ**  
+   Assalamualaikum pak Dhika, Saya mau share project sederhana berupa resume ( CV ) berbasis website statis & insya allah sudah responsive..
+
+   Saya menggunakan :
+
+   - HTML
+   - CSS
+   - Javascript ( Vanilla )
+
+   Untuk Library nya Saya menggunakan :
+
+   - Library html2pdf
+
+   Fitur dari web sederhana ini :
+
+   - Download Resume menjadi format PDF ( Mode Desktop / Mode Mobile )
+   - Dark / Light Mode
+
+   Dsini saya tidak menggunakan Framework sama sekali kecuali library yg sudah saya sebutkan diatas..
+
+   Cukup sekian penjelasan dari saya kurang lebih nya saya mohon maaf apabila masih ada kekurangan dari website ini..
+
+   Wassalamualaikum wr wb
+
+   GitHub : [https://github.com/tiyoy/responsive-resume-cv]
+
+   <br>
+
+9. [https://tulusibrahim.github.io/portfolio/]  
+   **tulusibrahim**  
+   Halo semua, mau share portfolio saya. Bikin website ini buat ngelatih fundamental css, js saya biar lebih kuat lagi, dan supaya bisa dilirik recruiter soalnya udah mau magang.
+
+   Dibikin dengan html, css, js, gsap.
+
+   Minta kritik, saran biar design nya bisa lebih bagus lagi, terima kasihh.
+
+   GitHub : [https://github.com/tulusibrahim/portfolio]
+
+   <br>
+
+10. [https://haniframadhani.github.io/]  
+    **A-10 Warthog**  
+    Halo semua, saya mau share website portofolio saya. Didesain dengan figma dibuat dengan html, css, vanila javascript, bootstrap dan nyontek sedikit di youtube untuk resposive navbar di kanal dev ed.
+
+    Mohon kritik dan saran serta beritahu saya jika ada yang bermasalah dengan website saya.
+
+    <br>
