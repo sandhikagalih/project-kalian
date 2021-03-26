@@ -2364,9 +2364,107 @@ SISWA
    <br>
 
 10. [https://haniframadhani.github.io/]  
-    **A-10 Warthog**  
+    **Mie Kocok**  
     Halo semua, saya mau share website portofolio saya. Didesain dengan figma dibuat dengan html, css, vanila javascript, bootstrap dan nyontek sedikit di youtube untuk resposive navbar di kanal dev ed.
 
     Mohon kritik dan saran serta beritahu saya jika ada yang bermasalah dengan website saya.
 
     <br>
+
+### 27 Maret 2021
+
+1. [https://climher.netlify.app/]  
+   **Wahyu.All**  
+   Halo semuanya, izin showcase proyek web prakiraan cuaca. Saya buatnya pakai HTML, CSS, Javascript, dan sedikit Bootstrap.
+
+   Untuk API nya saya pakai OpenWeatherMap.
+   Tema web nya juga akan berganti otomatis saat siang dan malam.
+
+2. [https://fajarr-m.github.io/]  
+   **MlkyWayy.**  
+   Assalamualaikum, Halo semua izin share website portfolio sederhana saya, web masih statis, untuk form contactnya sudah jalan
+
+   Saya menggunakan:
+
+   - html
+   - css
+   - js
+   - bootstrap 5
+   - parallax.js (Untuk membuat efek parallax)
+   - Crisp (Membuat chatbox)
+
+   Silahkan kritik dan sarannya dari pak dhika dan teman teman semua,
+   Terimakasih.
+
+   GitHub: [https://github.com/Fajarr-M/Fajarr-M.github.i]
+
+3. [https://beaunature.netlify.app/]  
+   **gilangcsy**  
+   Assalamu'alaikum. Halo semuanya, saya izin share web landing page buatan saya. Ini buatnya pake react.js dan bootstrap. Mohon kritik dan sarannya. Terima kasih.
+
+   GitHub: [https://github.com/gilangcsy/beaunature]
+
+4. [https://ghazthiskc19.github.io/Project-Bootsrap-3]  
+   **GHAZTHISKC**  
+   Assalamualaikum Izin share Sebuah Project yang di buat sekitar 2 mingguan dengan menggunakan :
+   Bootstrap, HTML dan CSS
+
+   Penjelasan dari web nya tentang ajakan untuk menjadi pecinta alam agar alam kita bisa menjadi asri kembali kenapa? Karena Siapa lagi yang akan menjaga lingkungan ini kecuali KITA, jika alam ini tidak di jaga maka akan terjadi bencana - bencana alam yang tidak di inginkan oleh kita dan bahkan sering terjadi seperti Banjir dan Kebakaran Hutan hal tersebut adalah ulah manusia Dan Siapa Lagi yang akan Menyelamatkan Alam Ini ?
+
+   GitHub: [https://github.com/ghazthiskc19/Project-Bootsrap-3]
+
+5. [https://hudadamar21.github.io/miku-hitme/]  
+   **hudadamar21**  
+   share hasil belajar dari pak dhika, yang pukul tikus.
+   Miku: Hit me!
+
+   GitHub: [https://github.com/hudadamar21/miku-hitme]
+
+6. [https://kewcoder.github.io/]  
+   **kewcode**  
+   Assalamu'alaikum. Halo semuanya, saya izin share web Personal portfolio Website dengan HTML CSS JS native
+
+   GitHub: [https://github.com/kewcoder/kewcoder.github.io]
+
+7. [https://brondok.chanofficial.com/]  
+   **fajar-chan**  
+   assalamuaikum
+
+   showcase project
+   Web for fun
+   web ini saya buat sendiri yang terinspirasi dari web secreto.site , kita bisa buat pesan kemudian orang lain dapat mengirim feedback ke kita secara anonim dari link yg kita bagikan.
+   brondok diambil dari istilah bahasa dimedan, artinya sembunyi.
+   web ini dibuat dengan bootstrap 5, php, library sweetalert
+
+8. [https://blogzen.surge.sh/]  
+   **catatanzen.my.id**  
+   Blog sederhana. Dibuat dengan Bootstrap, Purge CSS untuk menghapus style yang nggak dipakai, dan Svelte Kit
+
+9. [https://ramsonrajagukguk.github.io/pw_hutacase/]  
+   **ramson**  
+   Hallo semua,
+   Ijin share website landing page tentang project toko casing handphone, website ini saya buat sebagai latihan agar bisa lebih mahir tentang web, dan mecoba menggabungkan Boostrap5 dan Tailwindcss. sekaligun mencoba form yang bisa kirim pesan ke google sheet dan menambahkan validasi form . bolah juga kirim pesan-pesan melalui formnya ya... .Terimakasih Atas Partisipasinya saya terima kritik dan sarannya agar lebih bagus lagi kedepanya.
+   Website ini saya buat dengan :
+
+   - HTML
+   - Bootstrap 5
+   - Tailwindcss
+   - CSS
+   - Javascript
+
+   GitHub: [https://github.com/ramsonrajagukguk/pw_hutacase]
+
+10. [https://cept.github.io/GithubUser/]  
+    **AcepR**  
+    Assalamu'alaikum
+    Izin share project nya, apk sederhana Github User untuk mencari pengguna yg ada d github, ngambil API nya langsung dri github. untuk setiap pencarian list d batas sma github smpai 30 list.
+    Web ini d buat tanpa framework menggunakan :
+
+    - HTML
+    - CSS Vanilla
+    - Javascript Vanilla
+
+    Web ini merupakan implementasi hasil belajar di kampus online tercinta Web Programming Unpas. Playlist(Javascript Lanjutan, Rest API, dll).
+    Trimakasih Pa Sandhika :)
+
+    GitHub: [https://github.com/cept/GithubUser]
