@@ -2380,6 +2380,8 @@ SISWA
    Untuk API nya saya pakai OpenWeatherMap.
    Tema web nya juga akan berganti otomatis saat siang dan malam.
 
+   <br>
+
 2. [https://fajarr-m.github.io/]  
    **MlkyWayy.**  
    Assalamualaikum, Halo semua izin share website portfolio sederhana saya, web masih statis, untuk form contactnya sudah jalan
@@ -2398,11 +2400,15 @@ SISWA
 
    GitHub: [https://github.com/Fajarr-M/Fajarr-M.github.i]
 
+   <br>
+
 3. [https://beaunature.netlify.app/]  
    **gilangcsy**  
    Assalamu'alaikum. Halo semuanya, saya izin share web landing page buatan saya. Ini buatnya pake react.js dan bootstrap. Mohon kritik dan sarannya. Terima kasih.
 
    GitHub: [https://github.com/gilangcsy/beaunature]
+
+   <br>
 
 4. [https://ghazthiskc19.github.io/Project-Bootsrap-3]  
    **GHAZTHISKC**  
@@ -2413,6 +2419,8 @@ SISWA
 
    GitHub: [https://github.com/ghazthiskc19/Project-Bootsrap-3]
 
+   <br>
+
 5. [https://hudadamar21.github.io/miku-hitme/]  
    **hudadamar21**  
    share hasil belajar dari pak dhika, yang pukul tikus.
@@ -2420,11 +2428,15 @@ SISWA
 
    GitHub: [https://github.com/hudadamar21/miku-hitme]
 
+   <br>
+
 6. [https://kewcoder.github.io/]  
    **kewcode**  
    Assalamu'alaikum. Halo semuanya, saya izin share web Personal portfolio Website dengan HTML CSS JS native
 
    GitHub: [https://github.com/kewcoder/kewcoder.github.io]
+
+   <br>
 
 7. [https://brondok.chanofficial.com/]  
    **fajar-chan**  
@@ -2436,9 +2448,13 @@ SISWA
    brondok diambil dari istilah bahasa dimedan, artinya sembunyi.
    web ini dibuat dengan bootstrap 5, php, library sweetalert
 
+   <br>
+
 8. [https://blogzen.surge.sh/]  
    **catatanzen.my.id**  
    Blog sederhana. Dibuat dengan Bootstrap, Purge CSS untuk menghapus style yang nggak dipakai, dan Svelte Kit
+
+   <br>
 
 9. [https://ramsonrajagukguk.github.io/pw_hutacase/]  
    **ramson**  
@@ -2454,6 +2470,8 @@ SISWA
 
    GitHub: [https://github.com/ramsonrajagukguk/pw_hutacase]
 
+   <br>
+
 10. [https://cept.github.io/GithubUser/]  
     **AcepR**  
     Assalamu'alaikum
@@ -2468,3 +2486,188 @@ SISWA
     Trimakasih Pa Sandhika :)
 
     GitHub: [https://github.com/cept/GithubUser]
+
+    <br><br>
+
+### 3 April 2021
+
+1.  [https://rapi-ui.kikiding.space/]  
+    **Kiki**  
+    Halo semua, mau share library/npm package UI yang saya buat. siapa tau disini ada yang pakai react native ini saya bikin UI components library yang tinggal pakai
+    Webnya sendiri dibuat pakai docusaurus kalau librarynya sudah pakai typescript
+
+    Demo : [https://expo.io/@kidingki/projects/react-native-rapi-ui-showcase]
+    Github : [https://github.com/codingki/react-native-rapi-ui]
+
+    <br>
+
+2.  [https://ditttt.github.io/dittttlinktree.github.io/]  
+    **Ditttt**  
+    Hallo Semua,
+    Izin Share Website LinkTree Sederhana
+    Website LinkTree Yang Saya Buat Hanya Menggunakan :
+
+    1. HTML
+    2. CSS
+    3. Bootstrap
+    4. Google Fonts
+
+    Github : [https://github.com/Ditttt/dittttlinktree.github.io]
+
+    <br>
+
+3.  [https://ryuuwiz.github.io/team-generator/]  
+    **ryuuwiz**  
+    Halo Semua, Saya izin share project Random Team Generator dengan Menggunakan Vanilla Javascript dan Bootstrap 5.
+
+    Project ini saya buat karena selalu melihat Pembagian Kelompok yang kurang adil.
+
+    Github : [https://github.com/ryuuwiz/team-generator]
+
+    <br>
+
+4.  [https://fiqriardiansyah-82a2c.web.app/]  
+    **fiqriardians**  
+    Pagi semua ,saya mau izin share project web portfolio sederhana saya dan didalam nya ada beberapa link web saya yang lainnya.
+    Untuk web portfolio ini saya bangun dengan:
+
+    - Html
+    - scss
+    - Javascript
+    - Menerapkan web component
+    - Library: animejs, dll
+      Untuk web project yang lainnya saya bangun menggunakan reactjs + firebase sebagai backend
+
+    Github: [https://github.com/fiqriardiansyah/readme]
+
+    <br>
+
+5.  [https://aufarijaal.github.io/home/]  
+    **aufarijaal**  
+    Halo teman-teman semua, numpang show project sederhana saya.
+    Project yang saya buat awalnya terinspirasi dari sebuah chrome extension yang namanya Momentum. nah project ini yaitu sebuah halaman Homepage / Startup Page / New Tab Page untuk browser yang ditampilkan ketika kita buka tab baru atau ketika baru buka browser dan bisa nyimpan link/web yang sering kita kunjungi.
+
+    fitur:
+
+    1. Menyimpan bookmark / link yang sering dikunjungi
+    2. Memberi warna untuk setiap bookmark / link yang baru disimpan
+    3. Toggle dark / light mode
+    4. Greeting berdasarkan waktu.
+    5. Show waktu dan tanggal realtime.
+
+    teknologi yang digunakan:
+
+    - HTML :html:
+    - SCSS + Autoprefixer :sass:
+    - Vanilla Javascript + localStorage :js:
+
+    Resource:
+
+    - Heroicons
+    - Hero Patterns
+    - Tailwind css colors
+    - Animista
+
+    Cara pakai:
+
+    1. Download ZIPnya atau Clone dari github
+    2. ekstrak
+    3. Buka index.html dibrowser
+    4. Install New tab redirect di chrome web store [https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna]
+    5. copy url index.html yang tadi ke pengaturan New Tab redirect nya lalu save
+
+    Github: [https://github.com/aufarijaal/home]
+
+    Terimakasih. btw barangkali nemuin "hama" mon maap yak, masih belajar juga hehe
+
+    <br>
+
+6.  [https://gunawanahmad.github.io/pathfinding-visualizer/#/]  
+    **GunOne**  
+    Hallo Semuanya
+    Perkenalkan saya Gunawan dari Lampung
+    saya ingin share project yang saya buat yaitu Sebuah Pathfinding Visualizer.
+    Pathfinding adalah sebuah teknik dimana kita diminta untuk menemukan jarak terpendek
+    diantara dua buah titik. Ada cukup banyak Algoritma pathfinding yang dapat menyelesaikan
+    masalah ini. Nah di project ini saya memvisualisasikan algoritma-algoritma
+    pathfinding ini. di project ini saya baru buat dua algoritma saja yaitu Dijkstra Algorithm
+    dan A\* (A star) Algorithm dan insha Allah akan membuat algoritma yang lain
+    seperti Bidirectional, Sample, dll. Buka nya di Dekstop ya karena memang tidak dibuat untuk mobile device :slight_smile:.
+
+    Untuk tools Pake Vue JS dan SCSS
+
+    Link GITHUB : [https://github.com/GunawanAhmad/pathfinding-visualizer]
+    Link Portfolio : [https://gunawanahmad.github.io/]
+
+    Terimakasih Semuanya
+
+    <br>
+
+7.  [https://project-kalian.githubpage.my.id/]  
+    **Mart**  
+    Halo semua,
+
+    Ijin ikutan show case project.
+    Ide project ini yaitu untuk menampilkan list dari project yang ada di repo [https://github.com/sandhikagalih/project-kalian] agar lebih rapi dan mudah di filter berdasarkan periode. projectnya sangat simpel hanya menggunakan API dari GitHub untuk akses file README.md dari repo Project Kalian terus di ekstrak mengikuti pola tertentu menggunakan library [https://github.com/symfony/dom-crawler] menjadi JSON yang berisikan list project. sederhananya project ini hanya scrapping aja.
+
+    Library yg dipakai
+    KnpLabs/php-github-api => GitHub API Wrapper untuk php
+    erusev/parsedown => Parsing Markdown ke HTML
+    symfony/dom-crawler => Untuk crawling
+
+    GitHub : [https://github.com/gladmartin/project-kalian-mirror]
+
+    Sekian.
+
+    <br>
+
+8.  [https://peterchristoval.github.io/]  
+    **Peter Christoval**  
+    Halo semua, izin showcase project web portfolio saya, website ini saya bikin menggunakan html, css dan bootstrap saja. Untuk inspirasi website saya lihat dari dribbble.com, untuk web hosting saya pelajari dari channel WPU dan mohon maaf sebesar besarnya apabila website ini tidak terlalu bagus dan terlalu sederhana. Terima kasih, mohon nilai dan kritiknya
+
+    Github: [https://github.com/PeterChristoval/peterchristoval.github.io]
+    Design :
+    [https://www.figma.com/file/IlQYcR2kZKWDxRvxq5suqP/Web-Portfolio?node-id=0%3A1]
+    [https://www.figma.com/proto/IlQYcR2kZKWDxRvxq5suqP/Web-Portfolio?node-id=1%3A2&scaling=min-zoom]
+
+    <br>
+
+9.  [http://pondok.airdev.tech/#/]  
+    **IrvanThole**  
+    Hallo semua saya irvan dari pasuruan jawa timur,
+    saya ingin share hasil belajar saya, sebenarnya saya mendesain ui untuk mobile apps dan mengimplementasikan untuk aplikasi, tapi saya pas saya run web ternyata bisa jalan dengan baik.
+    web ini saya buat dengan flutter. untuk data nya saya ambil dari open api milik Zhirrr.
+
+    link GITHUB : [https://github.com/cv-irvan/islamapps]
+    link PROFILE : [http://www.airdev.tech/]
+
+    <br>
+
+10. [https://haizim.one/blog]  
+     **haizim**  
+     Sore gan.. ijin share percobaan pertama habis belajar ReactJS -+ 1 pekan
+    Jadi ini ceritanya saya mbikin blog gitu..
+
+        fiturnya:
+
+        - single page
+        - bisa dibookmark
+
+        Dibikin pake:
+
+        - ReactJS
+        - HTML
+        - CSS
+        - JSX
+
+        Waktu pembuatan:
+
+        - Nyari inspirasi & desain : 1 hari
+        - Coding : 2 hari
+
+        Buat ilustrasinya juga seluruhnya saya bikin sendiri pake inkscape
+
+         Oiya, buat inspirasinya saya dapet dari
+         [http://www.rleonardi.com/interactive-resume/]
+
+    <br><br>
