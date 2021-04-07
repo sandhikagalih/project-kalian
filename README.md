@@ -2671,3 +2671,19 @@ SISWA
          [http://www.rleonardi.com/interactive-resume/]
 
     <br><br>
+
+   ### 7 April 2021
+
+   1.  [https://valclass-dev-v1.vercel.app]  
+      **Muhammad Khoirul Huda**  
+
+     Hallo...Saya mau share framework UI & JS yang sudah saya buat sendiri menggunakan vanilla javascript. Framework valclass ini benar benar saya buat seorang diri dan sekarang valclass
+     memiliki berbagai fitur dan class yang bisa digunakan dalam penciptaan UI.
+
+     Dibuat Menggunakan :
+     - Vanilla javascript
+
+     Documentation : [https://valclass-dev-v1.vercel.app]
+     Github : [https://github.com/valclassdevelop/valclasssave]
+
+      <br>
