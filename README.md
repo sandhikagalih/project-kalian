@@ -2671,3 +2671,171 @@ SISWA
          [http://www.rleonardi.com/interactive-resume/]
 
     <br><br>
+
+### 10 April 2021
+
+1.  [https://fs-15.github.io/portofolio/]  
+    **FS_15**
+
+    **Fanni Syarifudin**
+
+    Assalamualaikum pak Dhika, Saya mau share project porofolio saya, hasil belajar dari Youtube WebProgrammingUnpas NGOBAR#27
+    meskipun untuk contact form belum bisa di akses
+
+    Saya menggunakan :
+
+    - HTML
+    - CSS
+    - Javascript
+    - AOS.js
+
+    GitHub: [https://github.com/fs-15/portofolio]
+
+    Terimakasih banyak
+    Mohon kritik dan sarannya
+
+   <br>
+
+2.  [https://shell-game-4e62b.web.app/]  
+    **eja**  
+    Assalamualaikum semuanya, mau share project game pertama yang sangat sederhana hasil dari belajar react
+
+    cara mainnya cari bola kuning diantara 3 kotak
+    bisa publish score
+    kalo ingin update score, masukkan nama yg sama dan score harus lebih besar dari yg score sebelumnya
+
+    teknologi yang digunakan :
+
+    - front end : React Js
+    - design : TailwindCSS
+    - back end : firebase
+
+    GitHub: [https://github.com/ezza022/Shell-Game]
+
+   <br>
+
+3.  [https://hudadamar21.github.io/saxtile]  
+     **hudadamar21**  
+     Share project webapp yang dibuat karena permasalahan pribadi.
+
+    Latar belakangnya ketika saya menemukan sebuah link yang menarik ataupun link download film/games/anime di hp, dan ingin membukanya di laptop saya. sebelum saya membuat webapp ini saya ketika seluruh url pada link tsb, dan itu sangat merepotkan.
+
+    Oleh karena itu saya membuat web aplikasi untuk menyimpan text dan bisa mengcopy atau langsung membuka link tsb.
+
+    - Web App ini bernama Saxtile.
+    - Singkatan dari Save Text & File.
+
+      Saya jg menambah save file karena males ketika ingin mengcopy file yg ukurannya cuma kurang dari 3mb ke laptop.
+
+    harus colok kabel atau buka shareit trus sinkronisasi. pokoknya males
+    dan tentu sudah PWA agar bisa dengan mudah diakses tanpa internet (kalo save file engga bisa).
+
+    fungsi utama dari web app ini memang simple, tpi sangat usefull untuk saya
+
+    Webapp ini dibuat dengan.
+
+    - Vuejs | Vuex | VueRouter
+    - Firebase Cloud Firestore
+    - TailwindCSS
+    - VueClipboard2
+    - Progress Web App
+
+      GitHub : [https://github.com/hudadamar21/saxtile]
+
+   <br>
+
+4.  [https://kodekuy.github.io/]  
+    **aageboi**  
+    Halo semua, ijin share web kumpulan project2 supaya lebih menarik dilihat dan memudahkan dalam pengelompokkan jenis projectnya.
+
+    Dibuat hanya dengan HTML, Bootrstrap, Javascript.
+    Data source menggunakan API Github.
+
+   <br>
+
+5.  [https://gustibagusbayu.github.io/]  
+    **Bayu Adi**  
+    Halo semua, ijin share web portofolio dibuat dengan :
+    - bootstrap
+    - jarallax plugin untuk effect parallax
+    - GSAP untuk animasi loadingnya
+
+   <br>
+
+6.  [http://tatsturaq.getenjoyment.net/]  
+     **muhammad tatas maulana**  
+     Halo semua, perkenalkan nama saya muhammad tatas maulana asal lombok kelas 7, saya ijin share web ppdb online yang dibuat dengan :
+
+    - bootstrap
+    - php
+    - java script
+
+    Mohon sarannya kepada teman teman semua, terima kasih
+    <br>
+
+7.  [http://u-restaurant.netlify.app/]  
+    **adeyusuf**  
+    Assalamualaikum, saya izin mau share karya saya..
+
+    Ini adalah sebuah website untuk restoran / penjualan makanan yang saya buat dengan menggunakan:
+
+    - HTML
+    - CSS
+    - Vanilla JS
+
+    Jadi ceritanya, karena saya sedang tidak ada kegiatan dan saya ingat kalau saya pernah membuat sebuah desain website yang belum di slicing, jadi desain itu saya convert menjadi sebuah website.
+
+    Web ini saya kasih nama "uRestaurant" (dibaca yu-restaurant), yang merupakan sebuah website untuk usaha dibidang restoran atau penjualan makanan. Website ini dapat anda gunakan secara GRATIS jika anda memiliki bisnis dibidang serupa, namun belum mempunyai website untuk mempromosikannya.
+
+    GitHub: [https://github.com/adeyusuf211/uRestaurant-Food-Web-Design]
+
+    <br>
+
+8.  [https://github.com/DeriFirgiawan/facebook-clone]  
+     **Ei_kan_Saja**  
+     Assamualaikum semuanya, izin share Repository github
+    Saya mencoba membuat clone Facebook dengan React JS & Firebase. Namun sayangnya setelah saya bertanya tanya di komunitas, ini tidak bisa di publish dikarenakan takut terkena copyright oleh pihak yang terkait. Jadi saya hnya simpan di github saja
+
+    Teknologi Yang digunakan:
+
+    - React JS
+    - Firebase
+    - Redux / thunk
+    - Bootstrap V.5
+    - Boxicons
+    - node-sass
+
+   <br>
+
+9.  [https://davin.id/]  
+     **Davin Wardana**  
+     Halo teman - teman, disini saya membuat project dengan fungsi wallet atau berbagai macam pembayaran didalamnya, dapat untuk menyimpan deposit dan juga membeli layanan seperti gopay, dana, wifi id, voucher game, pusla, data dan lainnya menggunakan system API.
+
+    Untuk melakukan login bisa daftar account terlebih dahulu di halaman [https://davin.id/auth/register] dan login langsung setelah daftar. Atau menggunakan demo
+
+    user : demo
+    pass : demo
+
+    Dibuat dengan
+
+    - html, php, css, js
+    - MySQL
+    - API
+      <br>
+
+10. [https://almed-std.github.io/]  
+    **Almed.STD**  
+    Assalamualaikum pak dhika dan teman teman semua....
+    Saya mau share web portfolio sederhana saya...
+
+    Web ini dibuat menggunakan :
+    -bootstrap
+    -fontawesome
+    -AOS (Animate On Scroll) Library
+
+    GitHub: [https://github.com/almed-std/almed-std.github.io]
+
+    Ditunggu Kritik dan sarannya...
+    Terima Kasih...
+
+<br><br>
