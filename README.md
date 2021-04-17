@@ -2839,3 +2839,175 @@ SISWA
     Terima Kasih...
 
 <br><br>
+
+### 17 April 2021
+
+1.  [https://cirsqu.dedeard.my.id/]  
+    **dedeardiansya**
+
+    vue js - realtime post system
+
+    Website simpel ini dibuat dengan:
+
+    - vuejs
+    - socket.io
+    - mongodb
+    - expressjs
+    - google cloud storage
+
+    Link:
+
+    <br>
+
+2.  [https://shoes-commerce-iamyuu.vercel.app/]  
+    **iamyuu**
+
+    Halo man teman, saya mau membagikan mini projek saya, ini projek hasil belajar redux
+
+    Dibuat dengan:
+
+    - React (Next.js) as JavaScript library
+    - Chakra UI as UI component
+    - SWR as remote data fetching
+    - Redux Toolkit as state management
+
+    GitHub: [https://github.com/iamyuu/shoes-commerce]
+
+   <br>
+
+3.  [http://maajid.herokuapp.com/]  
+    **athallahmaajid**
+
+    Halo teman-teman, saya mau membagikan web portofolio saya
+    pada web ini terdapat fungsi register, login, dan juga news bagi yang sudah login
+
+    Dibuat Dengan:
+
+    - html, css
+    - bootstrap 4
+    - PostgreSQL
+    - Django
+
+    Source: [https://github.com/athallahmaajid/My_Portfolio]
+
+    <br>
+
+4.  [https://s-codedev.github.io/]  
+    **semydelavega**
+
+    Halo teman-teman, saya mau membagikan Company Profile yang saya buat untuk memulai usaha di bidang web development. Mohon kritik dan sarannya teman-teman,
+    Company Profile ini saya buat dengan menggunakan :
+
+    - HTML, CSS
+    - Bootstrap5
+    - AOS.JS
+    - Parallax.JS (Inspirasi dari MilkyWay)
+    - SweetAlert
+      Sama form contactnya udah connect ke google sheet
+
+    GitHub: [https://github.com/s-codedev/s-codedev.github.io]
+
+    <br>
+
+5.  [https://ggquiz.netlify.app/]  
+    **erikdh**
+
+    Assalamualaikum, salam kenal temen-temen semua..
+    Punten ijin ikutan show case project pertama saya disini
+
+    Project nya adalah game kuis sederhana, namanya GGQuiz. Jadi game kuis ini terinspirasi dari acara kuis legendaris 'Who Wants to Be a Millionaire'. Game ini mengadopsi rules permainan yang hampir sama dengan acara tersebut, dan didalamnya memiliki fitur yang beragam supaya membuat game ini terasa lebih fun!
+
+    Ada banyak kategori pertanyaan yang bisa dipilih, tapi bakal ditampilkan secara random dalam sekali permainan, dan tingkat kesulitannya akan selalu mengikuti sesuai tingkatan levelnya.
+
+    Game nya cuma dibuat pake HTML, Bootstrap, JS vanilla, API. Desainnya dibuat pake XD
+    Khusus dipake main di desktop/pc, belum optimal buat mobile
+
+    Untuk rules game yang lebih jelasnya bisa langsung cek di gamenya
+
+    source : [https://github.com/erikhant/GGQuiz-game]
+
+    Mohon mangap kalo ada bug, masih belajar soalnya hehe
+
+    NOTE : karna pertanyaan nya hasil terjemahan, kalian mungkin akan menemukan opsi jawaban yang terkadang kurang nyambung dengan pertanyaannya, karena ada kata-kata dari bahasa inggris yang sebenarnya tidak memerlukan translasi seperti: judul film, nama sebutan dll. Saya sendiri belum tau cara fix nya, tapi untuk sementara saya solving hal itu dengan membuat tombol switch language ke bahasa defaultnya (english) supaya nyambung dibacanya.
+
+    Mungkin para gg coding disini bisa kasih saran yang membangun.
+
+    <br>
+
+6.  [https://nekotoon.com/kalkulator]  
+    **KuchingNeko**
+
+    Izin share project iseng" buat kalkulator versi web :laughing:
+    Dibuat dengan:
+
+    - PHP
+    - CSS Native
+
+    Source: [https://github.com/kuchingneko28/kalkulator-php]
+
+    <br>
+
+7.  [https://gilangramadhanhatno.github.io/grh/]  
+    **Ngale**
+
+    assalamualaikum wr.wb
+
+    Halloo semuaaa, izin share project hasil belajar di web programming unpas dan kelasnya pak dhika di kelas bwa full stack designer.
+    Web ini saya buat menggunakan:
+
+    - HTML
+    - CSS
+    - JAVASCRIPT
+
+    Mohon kritik dan sarannya dari pak dhika dan teman-teman semua. Terimakasih.
+
+    source: [https://github.com/gilangramadhanhatno/grh]
+
+    <br>
+
+8.  [http://rafieaydin.rf.gd/]  
+    **Yuhnpa**
+
+    Halo teman-teman, saya mau membagikan web portofolio saya
+    pada web ini terdapat fungsi register, login, dan admin
+
+    - HTML, CSS
+    - Bootstrap5
+    - PHP
+    - MySQL
+
+    Source: [https://github.com/Rafieaydin/Portofolio-saya]
+    <br>
+
+9.  [https://kyraongithub.github.io/portofolio/]  
+    **FS_15**
+
+    Halo teman-teman, izin share project portfolio saya yaa, web ini dibuat menggunakan:
+
+    - Reactjs
+    - Bootstrap4:bootstrap:
+
+    Boleh dikasih kritik dan saran hehe:smile:
+    Terimakasih
+
+    GitHub: [https://github.com/Kyraongithub/portofolio]
+
+    <br>
+
+10. [https://amienulrana.github.io/healthysalads/]  
+    **Amienul rana**
+
+    Selamat siang kawan-kawan,
+    Izin share website yang saya buat hasil dari pembelajaran dari pak sandhika, baik yang gratis atau pun yang Premium(bwa).
+
+    Website landing page ini saya contoh dari desain dribble [https://dribbble.com/shots/14947408-Food-landing-Page-Design/attachments/6664400?mode=media]
+    Untuk animasi nya saya menggunakan getBoundingClientRect().top
+
+    Dibuat dengan
+    •HTML
+    •CSS
+    •AJAX
+    •Vanila Javascript
+    •JSON(untuk menu yang berada di dalam aplikasi)
+
+    <br><br>
