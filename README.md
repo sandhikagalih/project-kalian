@@ -3011,3 +3011,165 @@ SISWA
     •JSON(untuk menu yang berada di dalam aplikasi)
 
     <br><br>
+
+### 24 April 2021
+
+1.  [https://zhirrr.github.io/Pixel-Runner-Game]  
+    **Zhirrr Studio**
+
+    Assalamualaikum Teman2, Saya Zahir Asal Jakarta Kelas 8 SMP, Ingin Membagikan Project Game Saya Yang Bernama "Pixel Runner Game"
+    Game Ini Saya Buat Saat Memiliki Waktu Luang
+    Saja, Serta Game Ini Dibuat Dengan :
+
+    - HTML
+    - CSS
+    - JavaScript ( jQuery, Canvas )
+      Proses Pembuatan : 2 Hari ( Ngoding, Nyusun Spreadsheet, Dll )
+
+      Source Code :
+      [https://github.com/Zhirrr/Pixel-Runner-Game]
+
+    Note : Game Ini Hanya Bisa Dimainkan Di PC atau Laptop, Karena Controller Nya Saya Set Hanya Keyboard Saja Yg Bisa Menjalankan Nya
+    Cara Main : Gunakan SPACE Untuk Melompat
+    Maap Kalo Masih Jelek Dan Bug, Hehe :)
+
+    <br>
+
+2.  [https://ary62.github.io/ChineseFoods/]  
+     **Ary**
+
+    Hallo semua izin share ptoject saya ya..
+
+    project ini adalah website sederhana penjualan makanan..
+
+    saya baru belajar membuat web selama seminggu di chanel web progaming unpas, dan website ini saya buat selama 5 menit...
+
+    Dibuat dengan ：
+    -HTML
+    -CSS
+    -Bootstrap5
+    -JS
+
+    mohon kritik dan sarannya yaa.. thankyuu..
+
+    <br>
+
+3.  [https://rakhi-azfa.github.io/]  
+    **Rakhi Azfa**
+
+    Assalamu'alaikum teman-teman semua izin share project portfolio sendiri, dibuat dengan:
+
+    - HTML
+    - CSS
+    - JS
+    - Tailwind CSS
+
+       <br>
+
+4.  [https://derif-covid-landing-page.netlify.app/]  
+    **Ei_kan_Saja**
+
+    Selamat pagi semua, izin share Web Covid19 Landing Page Yang di bangun dengan :
+
+    - HTML
+    - SCSS
+    - Bootstrap v5
+    - AOS animation
+
+    Repo : [https://github.com/DeriFirgiawan/Covid-19-Landing-Page]
+
+    <br>
+
+5.  [https://anistack.com/]  
+    **Gerrard Arya**
+
+    Selamat pagi semua, izin share project saya yang sudah lmyn lama dikembangin
+
+    Website ini fokus untuk ke Informasi , Portal Berita, dan Forum Anime & Manga
+
+    Made by:
+    -Laravel, MySql, Javascript, VueJs, Ajax
+    -Laravel socialite untuk login google dan fb
+
+    Mohon kritik dan saran bila ada kekurang / bug . Terima Kasih
+
+    <br>
+
+6.  [https://ditttt.github.io/discordbotadit.github.io/adit.htm]  
+    **Ditttt**
+
+    halo semua, selamat pagi, siang, atau malam, pada kesempatan kali ini saya izin share project website + bot discord,
+    website yang saya buat hanya menggunakan :
+
+    1. html
+    2. bootstrap
+    3. css
+    4. vanilla javascript
+    5. fontawesome
+    6. crisp.chat
+    7. Jquery
+       ini link source codenya : [https://github.com/Ditttt/discordbotadit.github.io]
+
+    <br>
+
+7.  [http://covidteria.rf.gd/]  
+    **ShaWann**
+
+    Assalamualaikum Wr Wb
+
+    Halo Selamat Malam/Siang/Pagi, Perkenalkan saya Muhammad Syafwan Ardiansyah, Saya izin share project website kuesioner covid yang saya beri nama Covidteria, untuk memulai kuesionernya cukup menekan button berwarna merah yang bertuliskan "Mulai Kuesioner", kemudian sebelum memulai kuesionernya user harus mengisi Nama, umur dan jenis kelamin, lalu user akan diberikan 10 pertanyaan. Setelah user selesai menjawab semua pertanyaan, User akan mendapatkan hasil yang menampilkan 1 dari 3 kemungkinan yang ada yaitu :
+
+    1. Beresiko Rendah
+    2. Beresiko Sedang
+    3. Beresiko Tinggi
+       Hasil tersebut dipengaruhi oleh jawaban user menjawab ke 10 pertanyaan sebelumnya. (Semua data seperti nama, umur dan jenis kelamin tidak akan tersimpan/akan dihapus jika anda menekan button "Selesai" di halaman hasil)
+
+    Website saya ini menggunakan :
+    PHP
+    MySQL
+    Bootstrap 5
+    Fontawesome
+    Javascript (dikit)
+    API Covid
+
+    Gambar ilustrasinya dari :
+    [drawkit.io]
+
+    Sekian terimakasih :)
+
+    <br>
+
+8.  [https://github.com/anonychun/siwi]  
+    **anonychun**
+
+    sore semua! aku mau share hasil iseng iseng ku nih,
+    karena sekarang kuliah daring jadi sering banget interaksi sama laptop dan hp, aku pengennya 2 device itu bisa mudah untuk saling tuker tukeran file dengan cara yang simpel dan ga ribet, jadi aku buat aplikasi namanya SIWI (Share In Wired / Wireless Interaction) karena pengalamku pakai aplikasi semacam Share IT kurang bagus, kadang device ga bisa saling terbaca dan ga bener bener multiplatform, jadi aku buat ini aplikasi ini supaya ada alat untuk transfer file yang simpel dan portable, jadi cuma perlu dijalanin aja di laptop terus device lain yang mau berkomunikasi bisa ngakses via browser, dan juga ga perlu koneksi internet, untuk lebih lengkapnya udah aku tulis keterangannya di README.md
+
+    aplikasi ini dikembangin pakai Golang untuk backendnya, karena aku sendiri backend jadi dalam pembuatan user interfacenya mungkin ga terlalu bagus ya, welcome banget buat temen temen yang suka koding frontend untuk bantu contrib benerin aplikasinya supaya lebih baik :laughing:
+
+    <br>
+
+9.  [https://kyo-grouping.netlify.app/]  
+    **Tian**
+
+    halo izin share project sederhana hasil pembelajaran, website pengelompokan gitu, misal kaya ingin membuat sebuah kelompok dari list yang di inputkan secara acak dan juga dapat memilih ketua kelompoknya secara acak (optional), website ini dibangun dengan html css dan javascript untuk library serta framework nya adalah tailwindCSS dan ReactJS
+
+    GitHub: [https://github.com/lynxeevnxx/project-grouping]
+
+    <br>
+
+10. [https://fikrimaulana85.github.io/portfolio/]  
+    **ZUL**
+
+    Selamat Pagi/Siang/Sore/Malam semua, saya Fikri Maulana izin share website portofolio saya.
+    dibuatnya portofolio ini karna memang kebetulan tugas UTS nanti hehehe, design pada web ini terinspirasi dari style saweria dan kikiding.space .
+    saya membuat web ini dengan :
+
+    - Bootstrap
+    - Ajax
+
+    Source: [https://github.com/FikriMaulana85/portfolio]
+
+    Terimakasih.
+
+    <br>
