@@ -3172,4 +3172,181 @@ SISWA
 
     Terimakasih.
 
-    <br>
+    <br><br>
+
+### 1 Mei 2021
+
+1.  [https://twice-api-server.herokuapp.com/]  
+    **adhywiranto44**
+
+    Halo guys, saya mau share projek malming saya. Jadi ini projek API sederhana yang saya dedikasikan sebagai ONCE untuk TWICE. Dimana API ini menyediakan informasi2 seperti data member dan data album (coming soon). Teman2 sesama ONCE juga bisa kontribusi nambahin data2 yang lain biar lebih kaya lagi.
+
+    Teknologi yang digunakan:
+    Node.js
+    Express.js
+
+    Link repo: [https://github.com/AdhyWiranto44/twice-api-server/]
+
+   <br>
+
+2.  [https://www.jualkamera.com/]  
+    **refarwan**
+
+    Hello teman - teman semua, perkenalkan saya Aan Refarwan. Saya mau share sebuah project website yang sangat amat sederhana sekali :v
+    website ini adalah website toko tempat saya bekerja, tapi sebelumya saya ingin bercerita terlebih dahulu ya hehehe...
+
+    Berawal dari kekisruhan data penjualan dan pembelian barang karena masih memakai nota tradisional
+    Dari situlah muncul ide untuk saya buatkan aplikasi kasir, dan saya tawarkan ke Pak Bos untuk saya buatkan aplikasi kasir untuk toko, dan Bos pun mau
+    Alhasil jadilah sebuah aplikasi kasir sederhana yang berbasis website lokal
+    Dan seiring berjalannya waktu timbul sebuah permasalahan, yaitu Pak Bos tidak bisa cek stock saat komputer server mati
+    Setelah itu muncul gagasan untuk menghubungkan aplikasi kasir dengan data stock di website, namun hanya sebatas gagasan karena saat itu toko sudah mempunyai websitenya sendiri (walau sering error)
+
+    Setelah sekian lama gagasan itu muncul lagi, sekitar jam 11 malam saya di-chat Pak Bos mengenai gagasan itu
+    Kemudian kita bahas mengenai nama domain untuk project website baru itu, dan ketemulah nama domain yaitu jualkamera.com
+    dan mulai malam itu dimulailah project website jualkamera.com
+
+    Oh iya karena mengejar waktu, untuk website versi desktop ini belum sempurna ya, apa adanya dulu hehehe...
+    kedepan kalau ada waktu akan saya sempunakan lagi
+
+    project ini saya buat dengan menggunakan :
+
+    1. Vanilla PHP
+    2. Vanilla javascript
+    3. Vanilla css
+    4. Sedikit tambahan data dari API Youtube
+
+    Sedikit catatan ya ini bukan website yang responsive, untuk versi mobilenya saya pakai sub domain
+
+    Link versi mobile : [https://m.jualkamera.com/] (akan otomatis dialihkan jika buka pakai smartphone)
+
+    Sekian dan terima kasih
+
+   <br>
+
+3.  [https://gunawanahmad.github.io/sorting-visualizer/]  
+    **GunOne**
+
+    Halo semuanya, perkenalkan nama saya Gunawan, saya ingin share project saya yaitu sorting visualizer. Di sini juga tersedia pseudo code yang diharapkan membantu teman-teman yang belum paham algo sorting untuk memahami bagaimana algoritma sorting bekerja karena saya sendiri cukup sulit untuk memahami algo sorting ini ketika Mata kuliah Algoritma dasar di perkuliahan semster 1 dan saya baru benar-benar paham saat saya mengerjakan projek ini dan saat ini saya semester 4 di salah satu Univ Bandung. Sampai tuisan ini saya buat baru ada 3 algo yaitu Selection, Insertion, dan Bubble. Dibuka di dekstop ya karena tidak tersedia untuk tampilan mobile. Terimakasih semuanya, kritik dan saran akan sangat membantu
+
+    Tools : VueJs
+
+    Link Github : [https://github.com/GunawanAhmad/sorting-visualizer]
+    Link Portofolio : [https://gunawanahmad.github.io/]
+
+   <br>
+
+4.  [https://al-firman.web.app/]  
+    **eja**
+
+    halo semua, izin share website online resume yang merupakan project react pertama saya
+    sebenarnya ini project lama, tapi baru baru ini saya tambahkan fitur gonta ganti tema, hasil belajar dari tutorialnya WPU yang CSS Variable
+    terimakasi banyak pak dika atas tutorialnya
+
+    link github : [https://github.com/ezza022/]
+
+    teknologi yang digunakan :
+
+    - front end : Reactjs,
+    - design : only CSS,
+    - backend : firebase
+
+    inspirasi desain dari webnya mas prawito : [https://prawito.com/]
+
+   <br>
+
+5.  [https://play.google.com/store/apps/details?id=com.ajailani.spesipon]  
+    **Ajailani**
+
+    Halo semuanya. Izin share app android yang saya buat pake Kotlin. App sederhana untuk mencari spesifikasi hp. Makasih banyak
+
+    Link github : [https://github.com/ajailani4/spesipon]
+
+   <br>
+
+6.  [https://ilhamjkid.github.io/portfolio-glass/]  
+    **ilhamjekaa\_**
+
+    Assalamualaikum Wr. WB.
+    Halo Semuanya. Saya Ilham Jaya Kusuma kelas 2 SMK. Izin Share Project Website Portofolio Pribadi. Awalnya Saya ada Tugas dari tempat PKL Saya untuk membuat Website dengan Tema Bebas. Jadi Saya buatlah Project ini.
+
+    Dibuat Dengan :
+
+    - HTML
+    - CSS
+    - JavaScript
+
+    Terimakasih.
+    Wassalamu'alaikum Wr. Wb.
+
+   <br>
+
+7.  [https://snapthin.netlify.app/]  
+    **EXSTR**
+
+    Assalamualaikum Wr. WB.
+    Halo Semuanya. Saya Eggi satria. Izin Share Project Website Instagram clone. Ini project pertama react saya, jadi UI nya pun tidak terlalu bagus .
+    Tapi kedepannya saya akan lebih sempurnakan lagi
+
+    Dibuat Dengan :
+    -Backend:
+    -django & Djangorestframework
+    -frontend:
+    -react & redux
+    -frameworkcss
+    -materializecss
+
+    Demo account:
+    US:demo
+    Pw:bukapintu123
+
+    Source code :
+    [https://github.com/EgiStr/simplecloneig]
+
+    Terimakasih.
+    Wassalamu'alaikum Wr. Wb.
+
+   <br>
+
+8.  [https://islamic-api-indonesia.herokuapp.com/]  
+    **Zhirrr Studio**
+
+    Assalamualaikum Teman2, Saya Zahir Ingin Membagikan Project Api Saya Yang Bernama "Islamic Api V2"
+    Api Ini adalah Api Islamic Saya Yang Sudah Saya Buat Di Versi Sebelumnya, Tetapi Di Versi Ini Fitur Nya Saya Tambahkan Sangat Buanyak Sekali
+    Dibuat Dengan :
+
+    Express JS
+    Proses Pembuatan : 1 Hari ( Ngoding, Nyusun Data, Dll )
+
+    Source Code :[https://github.com/Zhirrr/islamic-rest-api-indonesian-v2]
+
+    Note : Sekian Terimakasih :)
+
+   <br>
+
+9.  [https://bloguk.pythonanywhere.com/]  
+    **athallahmaajid**
+
+    Assalamu'alaikum teman-teman, saya membuat blog app yang bernama "Bloguk"(terinspirasi dari blogku tapi belakangnya dibalik wkwkwkwk)
+    Dibuat dengan:
+
+    1. Django
+    2. Bootstrap
+
+    Source Code:
+    [https://github.com/athallahmaajid/My_blog]
+
+    Sekian Terimakasih
+
+   <br>
+
+10. [https://tweatter.herokuapp.com/]  
+    **!maa**
+
+    izin share project saya namanya "tweatter" project mirip twitter.
+
+    tech stack: django, vue
+    github : [https://github.com/jirenmaa/tweatter]
+
+    sekalian minta kritik kalau ada yang kurang dari peroject saya, terima kasih.
+
+<br><br>
