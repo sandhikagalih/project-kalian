@@ -3350,3 +3350,171 @@ SISWA
     sekalian minta kritik kalau ada yang kurang dari peroject saya, terima kasih.
 
 <br><br>
+
+### 8 Mei 2021
+
+1.  [http://g-artmedia.netlify.app/]  
+    **adeyusuf**
+
+    Hai, saya mau share projek yang kesekian kalinya :grin:
+
+    Ini adalah sebuah website bisnis milik saya dan juga teman saya yang bernama G'Art Media, jadi ceritanya kami berdua mempunyai sebuah ide untuk membuat sebuah bisnis, namun karena kami belum mempunyai website untuk mempromosikan dan juga menyimpan semua informasi tentang bisnisnya, oleh karena itu saya membuat website ini.
+
+    Untuk teknologi yang dipakai (masih) menggunakan:
+
+    - html
+    - CSS
+    - vanila JS
+
+    Untuk fiturnya sendiri ada:
+
+    - custom loading
+    - custom cursor
+    - modal box
+    - lightmode - darkmode.
+
+    Silahkan dikunjungi, terimakasih..
+
+    <br>
+
+2.  [http://gramedia-lite.epizy.com/views/]  
+    **rino**
+
+    Halo pak @sandhikagalih, dan teman teman izin share project show case dari saya, ini website latihan saya untuk LSP SMK 2021, website ini seperti toko buku saya buatnya seperti gramedia, dan saya namai website ini dengan "Gramedia Lite" :laughing: , oh iya ini juga hasil saya belajar dari web programming unpas terima kasih pak sandhika, nanti setelah berhasil order silahkan login sebagai penjual dan accept orderan nya, abis itu login lagi dan liat hasil orderan nya
+
+    Tech: Bootstrap 5, JS(DOM), dan php native
+    Github: [https://github.com/riyaraa/Gramedia-Lite]
+
+    Untuk Login Sebagai Penjual:
+    email: admin@mail.com
+    password: admin123
+
+    Mohon maaf untuk responsive mobilenya belum sebaik mungkin
+    Mohon saran teman teman agar website saya dapat berkembang lagi, Terima kasih
+
+    <br>
+
+3.  [https://ilhamjkid.netlify.app/]  
+    **ilhamjekaa\_**
+
+    Assalamualaikum Wr. Wb.
+    Selamat Pagi/Siang/Malam Semuanya. Semoga Puasanya tetep Lancar bagi yg masih menjalankan. Kali ini Saya mau share Project Web Portofolio sederhana yg menggunakan Style Neumorphism.
+
+    Dibuat Dengan :
+
+    - HTML
+    - CSS
+    - JavaScript
+    - Tailwind CSS
+
+    Link Website :
+
+    Terimakasih,
+    Wassalamu'alaikum Wr. Wb.
+
+    <br>
+
+4.  [https://github.com/AdhyWiranto44/open-blog]  
+    **adhywiranto44**
+
+    Siang teman-teman semua, saya mau share projek yang sedang saya kerjakan. Jadi ceritanya saya mau buat projek website blog open-source dimana bebas teman-teman modifikasi dan gunakan.
+
+    Nama projek ini adalah Open Blog, stack yang dipakai meliputi Node.js, Express.js, MongoDB, dan Bootstrap 4.
+
+    Saat ini baru saya kerjakan sampai versi beta 1 (baru banget hehe :sweat_smile:) dimana fungsional seperti otentikasi belum selesai hehe, kalau teman-teman mau nyobain bisa clone dari github saya. Untuk dokumentasi algoritma sudah saya sertakan di sana juga, bisa buat dipelajari sama teman-teman.
+
+    Terimakasih
+
+    <br>
+
+5.  [http://kataku.herokuapp.com/]  
+    **Ariefafn**
+
+    Assalamualaikum, selamat malam semuanya, saya mau share project saya yaitu kataku.
+    Kataku ini adalah website untuk kalian para pecinta puisi. Di website ini kalian bisa membaca serta membuat dan mempublikasikan puisi yang telah kalian buat.
+
+    Dibuat dengan :
+    Laravel Blade dan bootstrap 5
+
+    Link :
+    http://kataku.herokuapp.com/
+
+    Terimakasih
+
+    <br>
+
+6.  [https://project-pbd.000webhostapp.com/]  
+    **Crystal-Imperior**
+
+    Permisi, saya izin share source code website e-commerce sederhana berbasis Framework CodeIgniter 4 ya para Coders
+    Website desktop : Lazist Cake
+    Link Source Code : [https://github.com/Ihsan-developer/project-pbd]
+    Jenis Website : E-Commerce
+
+    Tools :
+
+    1. Bootstrap
+    2. CodeIgniter 4
+
+    Fitur:
+
+    1. Front-End :
+
+    - Layouting fundamental
+    - GUI Fundamental
+    - Message Section
+    - AOS Animation
+    - JS Basic Operation
+
+      2.Back-End :
+
+    - Auth System (Login/Regist)
+    - CRUD Data (Create, Read, Update, Delete)
+
+    <br>
+
+7.  [https://afterschoolteaparty.github.io/cliphelper/]  
+    **nakanoyoichi**
+
+    Selamat siang teman-teman. Saya izin share website dari library CSS yang saya buat. File CSS nya bisa langsung didownload di website nya. Library nya berisi kumpulan class untuk membuat bentuk-bentuk tertentu dengan menggunakan clip-path. Sampai versi ini baru ada sekitar 40 class (tidak semua saya buat sendiri classnya ada beberapa yang saya ambil dari website lain yang sudah saya cantumkan di credits). Semoga berguna Terima kasih
+
+    <br>
+
+8.  [https://tio-pratomo.github.io/dagangmakrakup/]  
+    **Sulistio**
+
+    Hallo Saya ingin berpartisipasi. Saya membuat aplikasi website sederhana yaitu menghitung jumlah uang dari dagangan takjil yang dibeli konsumen.
+    Saya pakai :
+    HTML
+    CSS ?
+    Vanilla Javascript
+    terima kasih, semoga yang ada disini ibadah puasanya lancar..
+
+    <br>
+
+9.  [https://whack-a-zombie-baf7e.web.app/]  
+    **Frans**
+
+    Assalamualaikum. Halo semuanya, saya membuat mini-game dengan konsep whack-a-mole terinspirasi dari video pak dika yang ngobar 22 dan video pak dika tentang css grid, saya buat dengan tujuan untuk latihan skill HTML,CSS dan JS yang saya miliki dan saya juga buat dengan tujuan "for fun". lalu saya hanya membuat mini-game ini untuk pc browser. karena untuk membuat versi responsivenya saya ada sedikit masalah
+
+    mini-game ini masih ada sedikit bug nya, mohon maaf atas kekurangannya. dimohon untuk kritik dan sarannya :slight_smile:
+    mini-game ini saya buat dengan:
+    -HTML
+    -CSS
+    -Javascript
+
+    sourcecode : https://github.com/fransImanuel/Whack-a-Zombie
+
+    fyi: saya juga buat mini-game ini berdasarkan intro salah satu vtuber yang namanya kureiji ollie #simpingvtuber :v
+
+    Terimakasih
+
+    <br>
+
+10. [https://syloryx.github.io/]  
+    **! Sylvest**
+
+    halo semua saya membuat website yang ga tau, iseng isengan doang karna gada kejaan
+    h3h3, kalo ada yang harus saya tambahin bilang aja, tks
+
+    <br><br>
