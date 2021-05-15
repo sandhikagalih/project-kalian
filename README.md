@@ -3518,3 +3518,191 @@ SISWA
     h3h3, kalo ada yang harus saya tambahin bilang aja, tks
 
     <br><br>
+
+### 15 Mei 2021
+
+1.  [https://rizkykurniawan.herokuapp.com/]  
+    **rizkykurniawan**
+
+    Halo semuanya, izin ikutan showcase project
+    jadi saat ini saya sedang belajar Django Web Framework punya python, untuk implementasinya saya membuat sebuah website sangat sederhana yang ingin saya fungsikan sebagai portofolio dan blog pribadi yang kedepannya akan menampilkan beberapa proyek yang sudah saya kerjakan, beberapa postingan, dan beberapa video yang saya upload di channel yt saya.
+    beberapa hal yang saya gunakan untuk membuat proyek ini adalah:
+
+    - Bahasa Python
+    - Framework Django
+    - CSS Framework Bootstrap
+    - vanilla CSS dikit
+    - vanilla JS dikit
+    - Animate On Scroll
+    - HTML sudah pasti
+    - Postgres buat database
+    - AWS S3 buat media penyimpanan
+    - Heroku buat tempat deploy
+
+      tapi ini bukan project open source sih jadi repo nya private
+
+      Kalo mau intip admin punya django bisa pergi ke https://rizkykurniawan.herokuapp.com/backoffice
+      username: guest
+      password: myguestpassword
+
+      Mohon bantu kasih tau kalo ada error yang ditemukan, atau ada saran biar saya belajar hehe.
+      Terima kasih semuanya....
+
+      <br>
+
+2.  [https://github.com/akunbeben/laravository]  
+     **! ben**
+
+    Selamat pagi guys,
+
+    Disini saya berharap bisa mengikuti showcase project, dan dibawah ini adalah project saya.
+
+    Laravository
+
+    Project / package ini berfungsi untuk membantu pengguna laravel untuk implementasi Repository Design Pattern dengan mudah di laravel. Saya buat dengan bahasa program PHP dan composer sebagai package management nya.
+    Untuk yang mau eksperimen atau hanya ingin mecoba silahkan di install melalui composer. silahkan di fork juga jika ada yang mau kontribusi.
+
+    Untuk dokumentasi mulai dari instalasi sampai pengunaan nya sudah saya buat di dalam github repository nya
+    Terimakasih
+
+    Best Regards
+
+    Benny Rahmat
+
+    <br>
+
+3.  [https://nomadkode.github.io/nomadfervor/]  
+    **ramset**
+
+    Halo teman-teman, izin submit untuk showcase project.
+
+    Saya mencoba mengimplementasi apa yg telah saya pelajari sebelumnya ke dalam sebuah website yang bertemakan keindahan alam dan budaya Indonesia yang saya beri nama nomadfervor. Untuk asset gambarnya sendiri berasal dari dokumentasi saya pribadi ataupun dari unsplash.com, untuk color palettenya saya terinspirasi dari cyberpunk culture, untuk teknologinya saya menggunakan vanilla html, css, js dan library anime.js.
+
+    link sourcecode: [https://github.com/nomadkode/nomadfervor]
+
+    Semoga teman-teman berkenan untuk memberi kritik dan saran yang membangun bagi saya agar websitenya bisa lebih baik lagi. Terima kasih
+
+   <br>
+
+4.  [https://fadhluibnu.github.io/]  
+    **ibnu**
+
+    Assalamualaikum Pak Dhika dan teman teman semua
+
+    Izin share project web portfolio. Dan ini juga pertama kali saya ikutan showcase project. Web ini saya buat menggunakan :
+
+    1. HTML
+    2. CSS
+    3. Sedikit JS
+    4. Dan juga sedikit mengambil dari dokumentasi bootstrap
+
+    <br>
+
+5.  [https://kuchingneko28.github.io/cat-world/]  
+    **KuchingNeko**
+
+    Permisi izin share project landing page sederhana
+    Dibuat dengan:
+
+    - Html
+    - Bootstrap 5
+    - Js
+      Karena saya masih bingung make boostrap jadi mobile ny belum responsive mungkin next nanti bakal saya fix untuk mobile ny
+      Source code: [https://github.com/kuchingneko28/cat-world]
+      Mohon keritik dan saran nya terima kasih
+
+    <br>
+
+6.  [https://suryaaditya.netlify.app/]  
+    **Suryaaditya**
+
+    Halo semua saya mau berbagi web portfolio nih, web ini terinspirasi dari web awwwards dan dibuat dengan Html, css, javascript dengan sedikit Three JS, tapi web ini belum sempurna banget menurut saya. Kalo berkenan silahkan berikan saran terbaik kalian. Terimakasih
+
+   <br>
+
+7.  [https://rtc-chat.rama-adi.dev/]  
+    **! [...onebyte].ts**
+
+    Hi, guys!
+    Aku lagi eksperimen pakai webRTC untuk membuat chat peer-to-peer pakai peerJS. Sebagai pengguna, kalian bebas buat room dan join room. Semua chat dikirim peer-to-peer, jadi server cuma menjembatani koneksi aja
+
+    -- Library yg dipakai:
+
+    - AlpineJS (kaget banget sama library JS ini. bisa reaktif tanpa virtual dom! jadi cepet banget buat eksperimen.)
+    - PeerJS
+    - Bootstrap (biasanya pakai tailwind cuma skrg males aja)
+
+    -- Fitur:
+
+    - Peer-to-peer (Hanya partisipan room yang bisa melihat)
+    - Username
+    - Room id (pakai nomor)
+    - Chat delay (mencegah spam)
+
+    -- Next step?
+
+    - rewrite ke svelte?
+    - replace bootstrap pakai tailwind
+    - add room info
+    - room dikunci password?
+
+    Source code: [https://github.com/rama-adi/nongki-chat]
+
+    <br>
+
+8.  [https://nextjs-pokedex-ptsb4kgcv-bayukurniawan30.vercel.app/]  
+    **baycore.dev**
+
+    Permisi kk, izin share project iseng-iseng saya, yaitu Pokedex
+    Build with :
+
+    - Nextjs
+    - Tailwindcss
+    - Pokemon API
+
+    Source code : [https://github.com/bayukurniawan30/nextjs-pokedex]
+
+    Di home yang kegenerate 151 pokemon, tapi detail pokemon cuman bisa diklik sampai Raticate, sisanya not found
+    Kayaknya ke limit sama vercel pas deployment, jadi static page nya gak ke generate
+
+    <br>
+
+9.  [https://pokeradar.netlify.com/]  
+    **haizim**
+
+    Selamat siang.. ijin share ini dulu hasil technical test pas ngelamar di suatu perusahaan diminta buat bikin react app pake Pokemon API
+    Ini maunya konsepnya ala2 Pokemon Go tapi versi low-end gitu wkwk
+    Disini bisa:
+
+    - Scanning random Pokemon
+    - Liat detail Pokemon
+    - Nangkap & namain Pokemon
+
+    Dibuat pake :
+
+    - Node.JS
+    - ReactJs
+    - React router
+    - emotion
+    - GraphQL
+
+    oiya, lebih disarankan dibuka di mobile yaa.. soalnya pas itu emang dimintanya mobile-first ehe
+    Kritik dan saran dipersilahkan..
+
+    <br>
+
+10. [https://altilunium.github.io/blog/darkHeya.html]  
+    **altilunium**
+
+    Izin share...
+
+    dark-heya : Private, disposable, chat platform
+    Ceritanya dulu saya ingin ngobrol topik sangat sensitif dengan seseorang. Tapi, pengennya ,setelah chat itu selesai, pesannya bisa dihapus semua tanpa jejak. Maka dibuatlah ini.
+
+    Servernya cuma "meneruskan" pesan dari satu client ke semua client lain. Isi chat tidak akan disimpan sama sekali di server.
+
+    Source code : [https://github.com/altilunium/darkhall]
+    Live Demo : [https://dark-heya.rtnf141.repl.co/]
+    Tech Stack : go, websocket
+
+    <br><br>
