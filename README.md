@@ -3706,3 +3706,195 @@ SISWA
     Tech Stack : go, websocket
 
     <br><br>
+
+### 22 Mei 2021
+
+1.  [https://pollin1.netlify.com/]  
+     **EXSTR**  
+     Assalamualaikum.. ijin share project polling app anonymous , jadi kita bisa bikin voting tanpa diketahui yang buat siapa. Website ini sudah pwa
+    Note :
+
+    - kadang kadang masih ngebug di voting, masih dalam debugging
+    - jiika error di awal refresh page ( entah bug next js nya atau netlify)
+
+    Disini bisa:
+
+    - buat polling
+    - polling pribadi ( tidak public )
+    - deadline
+    - voting
+    - comment nesting
+
+    Dibuat pake :
+
+    - Django rest framework
+    - next js
+    - tailwind css
+
+    Frontend sc:
+    [https://github.com/EgiStr/poll-client/]
+    <br/>
+
+2.  [https://filbertfernandes.github.io/the-mice/]  
+    **FilbertFL**  
+    Halo teman-teman semua dan Pak Sandhika, izin share project video game sederhana, "The Mice".
+
+    The Mice terinspirasi dari game Dino Runner-nya Chrome. Tujuan dari game ini adalah menghindari tikus-tikus.
+    Di game ini, terdapat beberapa fitur untuk menambah keasyikan dalam bermain, seperti:
+
+    1. Menyalakan lampu saat gelap.
+    2. Memilih karakter.
+    3. Menembak tikus terbang dan tikus besar.
+
+    Mohon maaf sebelumnya, masih banyak kekurangan dalam game ini, seperti:
+
+    1. Score yang tetap berjalan walaupun gamenya sedang di-pause.
+    2. Hanya bisa dibuka di pc / laptop (tidak responsive di device lain).
+
+    Silahkan beri kritik dan saran jika ada, teman-teman.
+
+    Dibuat dengan:
+    HTML, CSS, & JS.
+
+    GitHub Repository:
+    [https://github.com/filbertfernandes/the-mice]
+
+    <br/>
+
+3.  [https://gustibagusbayu.github.io/Furniture-order-websites]  
+    **Bayu Adi**  
+    Halo teman -teman semua dan Pak Sandhika, izin share project pribadi website landing page tentang furniture. Website ini saya buat hanya untuk latihan saja yang saya desain sendiri. Website ini dibuat dengan :
+
+    - Html
+    - Css
+    - Javascript
+    - Bootstrap
+    - GSAP
+
+    Terima kasih semuanya
+    <br/>
+
+4.  [https://play.google.com/store/apps/details?id=id.innodev.bukutugas]  
+    **dvync**  
+    Halo teman-teman semua aku member baru nih, izin showcase project aplikasi sederhana, "Buku Tugas".
+
+    Aplikasi ini berfungsi untuk mencatat tugas sekolah, dibuat dengan flutter dan firebase
+
+    Silahkan memberi kritik dan saran jika ada, teman-teman
+
+    GitHub Repository:
+    [https://github.com/indmind/bukutugas]
+
+    <br/>
+
+5.  [https://faeest.rf.gd/tetod]  
+    **Mawang_Faeest**  
+    Mau share game hasil challange dimana ngak boleh lihat google selain buat dokumentasi. Namanya Tetod (tetris kw). Waktu pengerjaan 1 bulan. Di buat sebisa mungkin tidak barbar, walau tetap barbar. Karena ngak ada referensi selain dokumentasi + ngak pernah main tetris, mohon dimaklumi kalo agak berbeda. Saran nya kawan.
+
+    Tools : HTML, CSS, Vanilla JS, p5.js, Numeral.js
+
+    Github : [https://github.com/SiMamank115/tetod]
+
+    Note :
+
+    - Bagi pengguna yang ingin mengutak atik code nya. Sudah di beri beberapa tutorial untuk mengubah ratio layar, menambah bentuk, mengganti / menambah icon, dan memberi warna di Github nya.
+    - Level tidak akan bertambah seiring bertambahnya score
+    - Control memakai WASD / ↑ ← ↓ → dan Enter.
+    - Musik akan dimulai sesaat setelah client menekan Enter
+    - Tekan Esc untuk menjeda permainan
+    - Jika ada yang tertarik dengan game ataupun web yang lain bisa check di [https://github.com/SiMamank115/list-web]
+      <br/>
+
+6.  [https://rahulsya.netlify.app/]  
+    **rahul.js**  
+    selamat siangg ,
+    mau share web profile berisi project yang telah saya buat
+    dibuat pake reactjs, tailwindcss sama contentful
+    <br/>
+
+7.  [https://github.com/akunbeben/fortify-role]  
+    **! ben**  
+    Hi gaes, aku baru release package baru nih buat laravel.
+    Sekalian di submit ke showcase-project lah ya
+
+    Fortify-Role
+
+    Cocok buat pengguna baru laravel yang lagi butuh Multi roles Authentication, buat yang advanced user pun juga bisa dipake mungkin buat project yang requirement authentication nya hanya memerlukan roles dengan single table.
+
+    Dokumentasi requirement, installasi sampai penggunaan sudah ada, buat temen2 yang mau kontribusi bisa langsung fork aja repository nya.
+
+    Jika menemukan kekurangan atau issue atau bug jangan ragu buat Pull Request.
+
+    Terimakasih
+    <br/>
+
+8.  [https://beatmaker-app.netlify.app/]  
+    **DevPad**  
+    Halo semua, saya ingin publish project saya hasil course javascript hehehe.
+    nama projectnya adalah BeatMaker app. seperti namanya, kalian bisa membuat beats lagu. UI nya terinspirasi dari chrome music lab dan splice.com.
+
+    teknologi dan tools yang saya gunakan adalah:
+
+    - HTML
+    - CSS (vanilla)
+    - JS (vanilla)
+    - fontAwesome (icons)
+    - google font (font)
+    - netlify (hosting)
+
+    link repo github: [https://github.com/DevPadd/BeatMaker-App]
+
+    note: websitenya belum responsive jadi disarankan menggunakan Desktop untuk membukanya. oh ya, gunakan browser chrome untuk best experience, karena di browser lain sebenarnya jg bisa tapi audionya kadang kedelay terutama di firefox (menurut hasil tes saya).
+
+    mohon kritik dan saran nya karena sangat membantu.
+
+    terimakasih dan selamat mencoba.
+    <br/>
+
+9.  [https://info-vaksinasi-indonesia.vercel.app/]  
+    **MoonlightSplitter**  
+    Hallo semua, izin share website sederhana hasil belajar ReactJs. Hehe
+    Jadi, di website ini akan menampilkan data terkini mengenai progress vaksinasi Covid-19 di Indonesia.
+
+    Sekilas teknologi/tools yang saya gunakan:
+    --> ReactJs
+    --> Reactstrap, Bootstrap untuk React
+    --> Styled-Components
+    --> AOS dan GSAP, untuk animasinya.
+    --> Vercel, untuk tempat hostingnya.
+
+    Link project --> [https://github.com/andikaputraputu22/info-vaksinasi-indonesia]
+
+    Mungkin kalau ada kritik dan saran dari teman-teman, dengan senang hati saya akan menerimanya.
+
+    Terima kasih semuanya
+
+    <br/>
+
+10. [http://www.adhywiranto.xyz/]  
+     **adhywiranto44**  
+    Hai guys,
+
+    Izinkan saya buat share update projek web profile saya, pernah di share di sini juga.
+    Jadi update kali ini ada 3 yang utama:
+
+    1. Menambahkan DARK MODE, terinspirasi dari tutorial pak Sans yang mengenai CSS Variable :joy:
+    2. Mengubah LOOKS agar lebih modern (likely)
+    3. Fitur POST, biar saya nggk bergantung sama twitter, medium, dan sejenisnya hehehe.
+    4. Menambahkan animasi dengan AOS dan GSAP
+
+    Stack Teknologi:
+
+    1. :mongodb: MongoDB sebagai DBMS, penyimpanan ada di cloud MongoDB Atlas
+    2. :nodejs: Express.js sebagai framework untuk Node.js
+    3. :bootstrap: Bootstrap sebagai framework CSS
+    4. :wpublack: Fontawesome untuk icon-iconnya
+    5. :heroku: Heroku sebagai template deployment
+
+    Jika tertarik dengan desainnya, teman-teman bisa cek juga template-nya di sini: [https://github.com/AdhyWiranto44/web-profile-template/]
+
+    Kalo tertarik dengan fungsional CRUD Post-nya bisa kunjungi juga projek open-source-nya di sini: [https://github.com/AdhyWiranto44/open-blog/]
+
+    Sekian, kalo mau kirim-kirim pesan juga bisa di web-nya :grin::v:
+
+    <br><br>
