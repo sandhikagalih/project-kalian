@@ -3898,3 +3898,200 @@ SISWA
     Sekian, kalo mau kirim-kirim pesan juga bisa di web-nya :grin::v:
 
     <br><br>
+
+### 29 Mei 2021
+
+1.  [https://totask.netlify.app/]  
+     **Wahyu.All**  
+     Halo semua, saya mau showcase project sebuah todo app yang saya beri nama ToTask.
+
+    Aplikasi ini memiliki fitur seperti:
+    • Tambah, hapus, dan check kegiatan (task)
+    • Task bisa diedit, nama ataupun deskripsi
+    • Task yang sudah selesai akan otomatis dihapus di keesokan harinya
+    • Terdapat kategori untuk mengelompokkan task
+    • Terdapat progressbar pada setiap kategori
+
+    Aplikasi ini dibuat menggunakan:
+    • React JS
+    • SASS
+    • CKEditor
+
+    - Disarankan buka di perangkat mobile atau layar dengan ukuran kurang dari 576px
+
+    Link source code:
+    [https://github.com/wahyall/totask]
+
+   <br>
+
+2.  [https://nomadkode.github.io/nomadgeek/]  
+     **ramset**  
+     Halo teman-teman, izin submit lagi untuk showcase project.
+
+    Saya mencoba mengimplementasi apa yg telah saya pelajari dari ngobar WPU edisi ke #27 & #30 kedalam sebuah website landing page yang bertemakan perkembangan teknologi terkini yang saya beri nama nomadgeek. Untuk asset gambarnya berasal dari unsplash.com, untuk teknologinya saya menggunakan vanilla HTML CSS JS, untuk library yg dipakai itu Bootstrap 5, Animate On Scroll, GSAP 3.
+
+    link sourcecode: [https://github.com/nomadkode/nomadgeek]
+
+    Semoga teman-teman berkenan untuk memberi kritik dan saran yang membangun bagi saya agar websitenya bisa lebih baik lagi ke depannya. Terima kasih.
+
+   <br>
+
+3.  [https://derifirgiawan.github.io/]  
+     **Ei_kan_Saja**  
+     Halo teman teman, saya mau showcase Web Portfolio Pribadi saya.
+
+    Web Portfolio ini adalah hasi saya belajar Tailwind CSS dalam berarapa jam :joy:
+    Jadi Mohon maklum bila masih ada banyak kekurangan:pray:
+
+    Dibuat dengan :
+    React JS
+    Tailwind CSS
+
+    Source Code: [https://github.com/DeriFirgiawan/DeriFirgiawan.github.io]
+
+    Terimakasih atas perhatian teman teman semua
+
+   <br>
+
+4.  [https://kamus-id.rama-adi.dev/]  
+     **! [...kagamine len].ts**  
+     Hai teman2, kali ini aku ada proyek baru lagi.
+
+    karena ingin belajar react, aku akhirnya bikin aplikasi kamus simple. Kebetulan ini app react pertama yg live
+    dataset diambil dari kamus KBBI revisi ke 4 (thn 2008).
+
+    Stack:
+    :tailwind: Tailwind CSS + Tailwind UI + HeadlessUI + Heroicons
+    :reactjs: ReactJS
+    :typescript: Typescript
+
+    Fitur:
+    :white_check_mark: Cache kamus di localstorage (instant load setelah download pertama. auto update kalau ada perubahan)
+    :white_check_mark: Live search opt-in (note ini dimatiin scr default krn re-render react yang lambat)
+    :white_check_mark: Copy to clipboard
+    :white_check_mark: Dev mode (cuma buat reset cache aja skrg. aktivasi dengan ketik kbbiEnableDevMode() di dev tools)
+
+    Next step:
+    :o: Update dataset
+
+    Links:
+    [https://github.com/rama-adi/kbbi-react]
+
+   <br>
+
+5.  [https://crossdev-app.github.io/]  
+     **M¢4A**  
+     Selamat malam semua.. :raised_hands_tone2:
+    Mau ikutan showcase project nih. :grin:
+
+    Web Personal.
+    Feature:
+
+    - Responsive
+    - Attractive (maybe)
+    - Clean (i think)
+
+    Made with:
+
+    - HTML
+    - CSS / SASS
+    - JS
+      (without any kind CSS Framework or JS Library. 100% pure Native CSS and JS)
+
+    Hope you like it. Thanks before. :pray_tone1::grin:
+
+    Edited :
+    [https://github.com/crossdev-app/crossdev-app.github.io]
+
+   <br>
+
+6.  [https://bagasqmak.github.io/]  
+     **Bagasqmak**  
+     Halo semua saya mau ikut showcase project
+
+    Sebuah web portfolio hasil project dari FreeCodeCamp yang 90% nya nyontek dari contoh freecodecampnya
+
+    Dibuat dengan HTML & CSS
+
+    Github : [https://github.com/BagasQmak/BagasQmak.github.io]
+
+   <br>
+
+7.  [https://sylord.glitch.me/]  
+     **Eren jeger**  
+     halo semua, saya mau ikut showcase ( lagi )
+
+    cuma ini berbeda dari sebelumnya, ini adalah website official (saya bilang official karena saya ga tau ini termasuk portfolio atau bukan ) saya yang saya bikin secara "iseng iseng" lagi hhwhwhwhwh, ini web berbeda dari versi sebelumnya, web ini di ambil dari suggestion project saya yang sudah di kasi saran oleh pak sandhikagalih ( dosen bar bar ) di video showcase project yang sudah di submit di #:art:showcase-project, kalo ada yang kurang lagi bilang aja lagi hehe, silahkan kasi tau yag kurang sampai web saya menjadi sempurna, dan enak dilihat hehe, tks : )
+
+    dibuat dengan html, css, javascript dan bantuan bootstrap
+
+    source code : [https://glitch.com/~sylord]
+    versi sebelumnya: [https://syloryx.github.io/]
+
+    terima kasih :>
+
+   <br>
+
+8.  [https://filbertfernandes.github.io/f2l-films]  
+     **FilbertFL**  
+     Halo teman-teman semua. Izin share project Rest API pertama saya, namanya "F2L Films".
+
+    Jadi, saya lagi ngikutin playlist Rest API di channel WPU. Sebelumnya saya ingin mengucapkan terima kasih pada Pak Dhika atas ilmu yang diberikan, makasih banyak pak :D
+
+    Nah, saat saya udah masuk di video ke-5 yaitu tentang Rest API OMDb, tiba-tiba saya dapat ide.
+    Gimana kalo saya bikin web yang bisa rekomendasiin film ke kita secara random?
+
+    Akhirnya saya coba2 ngoding dari hasil belajar di video WPU, tau2 berhasil ngodingnya.
+
+    Nah pas berhasil, saya merasa kurang kalo cuma fitur rekomendasiin film doank. Akhirnya saya dapat ide lagi, yaitu bikin fitur membandingkan 2 film berdasarkan awards, metascore, dll.
+
+    Silahkan beri kritik dan saran jika ada, teman-teman.
+
+    Built with:
+
+    - Rest API
+    - Bootstrap
+    - Jquery
+
+    GitHub Repository:
+    [https://github.com/filbertfernandes/f2l-films]
+
+   <br>
+
+9.  [https://eidfromme.vercel.app/]  
+     **burhanahmeed**  
+     Mumpung sebelum hari raya, numpang share fun project tentang greetings card generator, barangkali berguna.
+
+    Technya cuma pakai Next.js dan Bootstrap 5 tanpa database.
+
+   <br>
+
+10. [https://hello-bot.vercel.app/]  
+     **EavaA**  
+     Selamat pagi semua...
+    Izin share project saya nih.
+
+    Karena baru liburan di Pesantren, saya buat deh proyek sederhana. Namanya Hello Bot, jadi web ini berguna untuk membuat simple coding bot yang menggunakan node.js.
+
+    Support Build:
+
+    - Telegram Bot
+    - Messenger Bot
+    - Discord Bot
+      Fitur mungkin akan saya tambahkan jika ada waktu
+
+    Made with:
+
+    - Vue 2
+    - Vue Draggable
+    - Vue Highlight.js
+    - Bootstrap 5
+    - Boxicons
+
+    Source Code:
+    [https://github.com/AnR-Lin/hello-bot]
+
+    Minta masukannya jika masih ada kesalahan
+    Terima kasih...:grinning:
+
+<br><br>
