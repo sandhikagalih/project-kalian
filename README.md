@@ -4095,3 +4095,193 @@ SISWA
     Terima kasih...:grinning:
 
 <br><br>
+
+### 5 Juni 2021
+
+1.  [https://djahvoe.github.io/sound-board/]  
+     **「デジャブ」Dejahvoe**  
+     Salam Developer untuk teman-teman semua. Di kesempatan ini saya mau share project kecil-kecilan, karena suntuk ngerjain TA (hehe).
+
+    Saya mencoba membuat custom audio visualization sederhana untuk memainkan musik-musik dari Hololep (Hololive :D). Idenya sendiri terinspirasi dari library Wave.js untuk audio visualization, karena saya penasaran, dan sebagai WebGL enthusiast juga, saya coba buat sendiri untuk visualisasi data dari audionya.
+
+    Mohon untuk kritik dan sarannya
+    Terima kasih :smile:
+
+    Dibuat menggunakan:
+
+    - HTML, CSS, Vanilla JS
+    - WebGL & Canvas API
+    - dat.GUI
+    - Web Audio API
+
+    Referensi:
+
+    - [https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API]
+    - [https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API]
+
+    Github Repo:
+    [https://github.com/DJahvoe/sound-boar]
+    <br>
+
+2.  [https://recipe-app-navy.vercel.app/]  
+     **mad**  
+     Selamat siang semua, saya mau share project latihan saya belajar svelte js.
+
+    Jadi project ini saya membuat aplikasi pencari resep yang bisa mencari resep menggunakan nama menu atau menggunakan nama salah satu bahan. API yang saya gunakan berasal dari themealdb
+
+    Dibuat menggunakan :
+    -svelte js
+    -bootstrap
+
+    TheMealDB :
+    [https://www.themealdb.com/api.php]
+
+    Github:
+    [https://github.com/faqihmadani/recipe-app]
+
+    Minta saran dan kritiknya teman2 semua, terima kasih
+
+     <br>
+
+3.  [https://ghazthiskc19.github.io/Personal-Website/]  
+     **GHAZTHISKC**  
+     Assalamualaikum Izin share Sebuah Project Personal Website yang di buat sekitar 85 Jam dengan menggunakan :
+    HTML
+    CSS Prepocessor SCSS  
+     Javascript
+
+    ini Source Code nya = [https://github.com/ghazthiskc19/Personal-Website]
+
+    Penjelasan dari web nya tentang ajakan untuk menjadi pecinta alam agar alam kita bisa menjadi asri kembali kenapa? Karena Siapa lagi yang akan menjaga lingkungan ini kecuali KITA, jika alam ini tidak di jaga maka akan terjadi bencana - bencana alam yang tidak di inginkan oleh kita dan bahkan sering terjadi seperti Banjir dan Kebakaran Hutan hal tersebut adalah ulah manusia Dan Siapa Lagi yang akan Menyelamatkan Alam Ini ?
+
+    Dan Mohon untuk MEM VOTING dengan link di bawah ini
+    [http://bit.ly/Rate_Website_Personal]
+    Mohon sebisa mungkin untuk mengvote agar saya bisa mengetahui sejauh apa website yang saya buat
+    Terimakasih Atas Partisipasinya saya terima kritik dan sarannya(edited)
+
+     <br>
+
+4.  [https://mahesaatma.github.io/]  
+     **manes**  
+     Halo selamat sore, izin share project personal website. Dibuat kurang lebih seminggu, ribet nyusun data-datanya wkwkw. Ini untuk tech yang saya gunakan
+
+    1. Vanila Javascript & Jquery
+    2. HTLM&CSS
+    3. type.js
+    4. anime.js
+    5. Bootstrap
+
+    Sekiranya ada saran dan masukan sangat saya terima.
+
+    Terimakasih sebelumnya, dan selamat berlebaran gaiss!
+
+     <br>
+
+5.  [http://findmyhobby.adhywiranto.xyz/]  
+     **adhywiranto44**  
+     Hai guys, hari ini saya mau showcase projek lagi nich
+
+    Find My Hobby merupakan website yang berisi daftar hobi, dimana pengunjung dapat mencari hobi secara manual, mencari hobi secara acak/random, mencari hobi berdasarkan kategori, dan website ini menyediakan rekomendasi hobi yang populer digemari orang-orang (berdasarkan views). Dan terdaftar fitur penting, teman-teman bisa menyarankan hobi-hobi yang lain dimana sangat bermanfaat bagi yang belum mendapatkan hobi ataupun ingin mengganti dengan hobi yang baru :slight_smile:
+
+    Kenapa saya membuat projek ini? Simple aja sih, awalnya saya ingin memberikan inspirasi kepada adik saya agar bisa menemukan hobinya. Dan ke depannya juga untuk orang lain.
+
+    Teknologi
+    :mongodb: MongoDB
+    :nodejs: NodeJS
+    :nodejs: Express
+    :bootstrap: Bootstrap v5
+
+    Karena ini masih awal-awal deployment, data hobi bisa teman-teman tambah saran di:
+    [http://findmyhobby.adhywiranto.xyz/saran-hobi]
+
+    Referensi projek ini berasal dari [https://www.discoverahobby.com/]
+
+    Terimakasih untuk apresiasinya: [https://saweria.co/adhywiranto44]
+    <br>
+
+6.  [https://nextjs-tailwindcss-blog-pi.vercel.app/]  
+     **zekhoi**  
+     Selamat pagi kawan-kawan.
+    Saya cuma bisa share personal website saja, inspirasi UI dari https://taniarascia.com/ dulu yang templatenya sekarang dipakai https://teguh.co/ dan bisa generate blog post, project, about, dan contact dari Markdown. Untuk blog posts saat ini belum di sorting, jadi defaultnya diurutkan berdasarkan huruf a-z (belum diupdate, lagi ngerjain metode penelitian). Mohon maaf karena codingan masih belum rapi dan projectnya belum sebagus yang lain.
+
+    Technologies :
+
+    - React (NextJS)
+    - Tailwindcss
+    - Icons dari [https://ionic.io/ionicons]
+
+    Repo:
+    [https://github.com/zekhoi/nextjs-tailwindcss-blog]
+
+    Terima Kasih
+
+     <br>
+
+7.  [https://github.com/HotPotatoC/twitter-clone]  
+     **! ! Hot Potato**  
+     Halo semuanya :wave:, Izinkan saya untuk share project saya ya~
+
+    Saya baru saja mempublikasikan salah satu project terbaru saya, Yaitu membuat fullstack Twitter clone. Jangka developmentnya kira2 membutuhkan 2 bulan. Untuk sekarang fitur2 utama dari Twitter yang sudah ter-implementasi seperti Buat tweet, follow, like, retweet, reply, dll dikarenakan scope Twitter memang begitu besar jadi untuk sekarang baru fitur2 utama saja yang terimplementasi.
+
+    Tech stack yang digunakan:
+
+    - Golang :golang:
+    - VueJS + Vite :vuejs:
+    - TailwindCSS :tailwind:
+    - PostgreSQL :postgresql:
+    - Redis :redis:
+    - dll :wpungopi:
+
+    Blog DEV.to:
+    [https://dev.to/hotpotatoc/i-made-a-twitter-clone-with-vuejs-and-go-59jf]
+
+    Mohon untuk saran dan kritik dari teman - teman semua,
+    Sekian terima kasih~~
+    <br>
+
+8.  [https://aninews-app.netlify.app/]  
+     **alfinaditya**  
+     Selamat Pagi teman teman,disini saya mau share hasil karya pertama saya namanya Aninews
+
+    Deskripsi:
+    Hallo Animelovers sudah tahu Aninews belum, Aninews adalah aplikasi yang memberikan rating dan score pada anime dan manga, Aninews juga mencantumkan sinopsis dan informasi mengenai anime dan manga supaya Animelovers dapat dengan mudah mencari Anime dan Manga sesuai dengan selera masing masing.
+
+    Teknologi yang saya gunakan:
+    React dan Tailwind
+
+    API yang saya gunakan:
+    Jikan API : [https://jikan.moe/]
+
+    ada beberapa video yang tidak bisa di play (mungkin itu dari API nya sendiri)
+    Maaf kalo project nya masih banyak bug.
+
+    Terimakasih.
+    <br>
+
+9.  [https://ghiofan.github.io/]  
+     **Ghiofan**  
+     Halo semua:wave:
+
+    Saya mau share web portfolio saya hasil belajar html, css, bootstrap dan git di channel WPU.
+    web portfolio ini bertemakan windows95 hasil ATM dari [https://alexbsoft.github.io/win95.css/]
+
+    dibuat dengan :
+    -html
+    -css
+    -bootstrap4
+
+    repo : [https://github.com/Ghiofan/Ghiofan.github.io]
+
+    kritik dan sarannya, terimakasih:grin:
+    <br>
+
+10. [https://iqbalroni.github.io/portofolio]  
+     **Moch iqbal**  
+     Assalamualaikum wr wb selamat sore semua,
+    saya mau menunjukan portofolio yang saya buat hanya menggunakan :
+
+    -Bootstrap 4
+    -AOS.js
+    -Html
+    -Css
+    <br><br>
