@@ -4285,3 +4285,168 @@ SISWA
     -Html
     -Css
     <br><br>
+
+### 12 Juni 2021
+
+1.  [https://danz63.my.id/rest-client/]  
+     **danz63**  
+     Halo Semua :wave:
+
+    Nama saya Miftah Hamdani dari Cilamaya, Karawang (barang kali punya tetangga yang bisa saling sharing). Izin Share Project Rest API Client (miniatur Postman) yang saya beri nama "Niliki API".
+
+    Dibuat Dengan :
+
+    - HTML, CSS, Bootstrap, BS Icon, loading.io
+    - Vanilla JS, AJAX, JSON Formatter
+    - PHP, PHP-cURL
+
+    github repo : [https://github.com/danz63/rest-client]
+
+    Mohon kritik dan sarannya
+
+   <br>
+
+2.  [https://wafarifki.tk/weka]  
+     **wafarifqi**  
+     Assalamualaikum, Selamat pagi semua,
+    saya mau show projek yang saya buat.
+
+    projek ini saya beri nama Weka Digital Agency.
+
+    Sebelumnya salam kenal Saya Wafa Rifqi Anafin. Asal Bekasi.
+
+   <br>
+
+3.  [https://jajan-bersemi.netlify.app/]  
+     **Hasheemi Rafsanjani**  
+     Assalamualaikum , halo saya Hasheemi dari Gresik saya mau showcase project pertama saya yaitu website jajan bersemi
+
+    Ini adalah website full (homepage, profil, etc) saya buat ini untuk membantu bisnis ayah saya
+
+    URL:
+    Dibuat dengan : HTML, CSS,JS dan bootstrap
+
+    Kalau jelek jangan diejek , maklum saya masih 1 bulan belajar web developer
+
+   <br>
+
+4.  [http://nakanoyoichi.herokuapp.com/]  
+     **AfterSchool 茶会**  
+     Permisi, Saya nakanoyoichi dari Medan ingin showcase projek saya setelah seminggu belajar Django.
+
+    Ini merupakan website untuk blog yang sederhana yang saya buat untuk mengulas kembali 6 jam tutorial yang saya tonton.
+
+    Untuk programnya saya mohon maaf tidak bisa tampilkan karena di settingnya ada secret_key nya
+
+    Saya menggunakan HTML, CSS, Bootstrap dan Django untuk membuat website ini Terima kasih
+
+   <br>
+
+5.  [https://unogame.emanggek.repl.co/]  
+     **Rayyan M**  
+     Halo Semua,
+    Saya izin share game "Uno" yang bisa di mainin online
+
+    Website dibuat dengan
+
+    - Node.js :nodejs:
+    - HTML :html:
+    - CSS :css:
+    - Javascript :javascript:
+    - Bootstrap :bootstrap:
+
+    Source Code: [https://github.com/EmangGek/UnoGame]
+
+   <br>
+
+6.  [https://jasa.wibucode.com/]  
+     **Andre R**  
+     Malam, izin share projek team Agency dari kami barangkali yang butuh jasa pembuatan website,aplikasi mobile,ui/ux bisa hubungi kami.
+
+    Website di buat dengan:
+    -Hugo
+    -Html :html:
+    -Css :css:
+    -Javascript :javascript:
+    -Bootstrap :bootstrap:
+    -Aos animated
+
+   <br>
+
+7.  [https://nomadkode.github.io/8nilai/]  
+     **nomadkode**  
+     Halo teman-teman, izin submit lagi untuk showcase project.
+
+    Saya mencoba mendesain & translasi ulang dengan bahasa Indonesia sebuah political quiz website untuk mengetahui nilai & pandangan politik seperti apa yang kita miliki yang saya beri nama 8nilai. Website ini dibuat dengan vanilla html, css, js dan GSAP 3.
+
+    link sourcecode: [https://github.com/nomadkode/8nilai]
+
+    Semoga teman-teman berkenan untuk memberi kritik dan saran yang membangun bagi saya agar website ini bisa lebih baik lagi ke depannya. Terima kasih.
+
+    Versi bahasa inggris / original (yang masih terus dalam tahap pengembangan) bisa dikunjungi pada link berikut: [https://8values.github.io/]
+
+   <br>
+
+8.  [http://code-yuk.000webhostapp.com/]  
+     **rentj**  
+     Halo teman - teman.
+
+    Saya mau share project saya yang bernama Code, Yuk.
+    Code, Yuk adalah sebuah aplikasi blogging mengenai pemrograman.
+
+    Website ini dibuat dengan:
+
+    - HTML
+    - CSS
+    - Bootstrap 5
+    - Codeigniter 3
+
+    Fitur:
+
+    - Buat blog
+    - Tambah comment
+    - Dark Mode
+
+    Link Source Code: [https://github.com/renaulttjandera/code-yuk]
+
+    Untuk approval blog:
+    Bisa login ke akun ini (email: admin@gmail.com, password: admin123)
+
+    Terima Kasih
+
+   <br>
+
+9.  [https://owner.beee.cf/]  
+     **Vins**  
+     Halo man teman, saya vins mau izin share portofolio saya :D
+    website ini di buat mengunakan html, css, bootstrap, jquery, javascript :wpubarbar:
+    lama pembuatannya sehari
+
+    kalo ada yang perlu diperbaiki / diganti bilang yaa :wpusiap:
+    Terima kasih...
+
+   <br>
+
+10. [https://mazipan.space/]  
+     **mazipan**  
+     Share repo personal blog aja kali ya.
+    Repo telah tersedia bebas di Github sejak puluhan purnama.
+
+    Repo: [https://github.com/mazipan/mazipan.space]
+
+    Teknologi:
+
+    - Next.js (React, kepikiran mau ganti ke Preact tapi belum sempat)
+    - Tailwind (ikutin yang lagi rame aja)
+    - Shiki buat syntax highlighter
+
+    Fiturnya sederhana tapi cukup lah ya buat sebuah blog pribadi, diantaranya:
+
+    - Dark/light mode
+    - Pagination
+    - Support konten ID & EN
+    - RSS dan Sitemap
+    - Comment System memanfaatkan GitHub issue
+    - Web performance report secara berkala
+
+<br><br>
