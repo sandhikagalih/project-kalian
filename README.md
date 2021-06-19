@@ -4450,3 +4450,213 @@ SISWA
     - Web performance report secara berkala
 
 <br><br>
+
+### 19 Juni 2021
+
+1.  [https://trivia-games-lovat.vercel.app/]  
+     **mad**  
+     Selamat malam, saya mau share project latihan saya yaitu quiz trivia app.
+
+    Repo : [https://github.com/faqihmadani/trivia-games]
+
+    Dibuat dengan :
+
+    - svelte js
+    - tailwind css
+
+    Mohon kritik dan sarannya
+
+   <br>
+
+2.  [https://santuyapp.netlify.app/]  
+     **Meong**  
+     Selamat malam, saya mau share project latihan saya yaitu SantuyMusic
+
+    Repo : https://github.com/Meongdev/Santuyappmusic
+
+    Teknologi Sebagai Berikut :
+    -React.js
+    -react-router
+    -react-redux
+    -material-ui/core
+    -material-ui/icons
+    -context API
+    -scss
+
+    Terima Kasih
+
+   <br>
+
+3.  [https://morsible.iwgx.io/]  
+     **iwgx**  
+     Izin share projek kecil tapi lumayan mengasyikkan :laughing:
+
+    Morsible - fast and reliable morse translator
+
+    :sparkles: Translate teks ke morse atau sebaliknya
+    :ear_with_hearing_aid: Teks dan morse bisa diputar
+    :speaking_head: Bisa input dari ucapan
+    :speech_balloon: Multi accent, bahasa Inggris atau bahasa Indonesia
+    :mobile_phone: PWA, bisa diinstall dari desktop and mobile (browser and Google Play)
+
+    Tech stack:
+
+    - Preact.js + Typescript di Next.js
+    - Tailwind CSS dengan twin.macro + emotion untuk styling
+    - testing-library dan Jest untuk testing
+    - Analytics dengan Splitbee
+    - Google Cloud untuk layanan text-to-speech dan speech-to-text
+    - Dideploy ke Vercel
+
+    Pertama kali nyoba TWA di PWA, jadi webnya bisa diunggah ke Google Play dengan code base yang sama tanpa perlu koding lagi untuk versi Android nya
+
+    Repository: [https://github.com/iwgx/morsible]
+
+   <br>
+
+4.  [https://www.superfile.warzan.id/]  
+     **W A R Z A N**  
+     SHARE
+
+    Izin share project sederhana. Terinspirasi dari MediaFire dan Google Drive.
+
+    Nama : SUPERfile
+    Version : 1.0
+
+    Dibuat dengan :
+
+    - Codeigniter3 (Engine)
+    - AdminLTE (Template)
+    - File Extension Vol 1 icon set (Icon File)
+    - Niagahoster (hosting)
+
+    Fitur :
+
+    - Register, Login, Forgot Password (Register dan Forgot Password sudah verifikasi by email)
+    - Create & Delete folder by sistem (Nama folder dienkripsi)
+    - Upload File (Bebas upload file berekstensi apapun)
+    - Favorite File (Menandakan bahwa file tersebut penting atau Favorite)
+    - Multi Delete Proccess(Proses delete, file akan dijadikan sebagai junk sebelum dilakukan delete permanent)
+    - Restore File (Mengembalikan file dari Junk ke file semula)
+    - Update profile & Photo Profile (Foto default otomatis terganti apabila jenis kelamin diganti menyesuaikan jenis kelamin yang dipilih)
+    - Activity History ( Setiap melakukan login, upload, favorite, delete akan masuk ke database)
+    - Share file (Akses publik bisa didownload oleh siapapun yang mendapatkan link file tersebut)
+
+    Thanks to :
+
+    - Allah SWT
+    - My parents (orang tua)
+    - Shandika Galih (Dosen Online berjasa bagi saya:) )
+
+    Saat ini, sengaja dibuat secara terbuka alias tidak ada halaman admin. Jadi bisa bebas upload file apapun. Belum responsive, disarankan buka di PC
+    Entah berguna atau tidak aplikasi ini, saya sangat berterimakasih apabila ada yang menggunakan dan mencoba aplikasi ini.
+
+    Terimakasih~
+
+   <br>
+
+5.  [https://hendraaagil.space/]  
+     **Hendra Agil**  
+     Izin share personal website saya.
+
+    Teknologi yang digunakan :
+
+    - Next.js (menggunakan SSG)
+    - Chakra UI (Component library)
+    - Contentful (Headless CMS)
+
+    Fiturnya sangat sederhana, hanya menampilkan tentang saya sendiri, beberapa project yang sudah saya buat dan blog yang saya tulis. Konten blognya dirender dari markdown yang didapat dari Contentful dengan [react-markdown](https://npmjs.com/package/react-markdown). Untuk syntax highlighter menggunakan [react-syntax-highlighter](https://npmjs.com/package/react-syntax-highlighter) dan komentar menggunakan [Cusdis](https://cusdis.com/).
+
+    Feel free to give me a feedback or question :smile:
+
+    Repo : [https://hendraaagil.space/view-source]
+
+    Terima kasih.
+
+   <br>
+
+6.  [http://spk-isp.herokuapp.com/]  
+     **underline_freak**  
+     Izin share project sistem penunjang keputusan sederhana untuk pemilihan provider internet terbaik.
+
+    Project Name : SPK-ISP-SAW
+    Source Repo: [https://github.com/ferddev21/spk-isp-saw]
+
+    Dibuat dengan :
+
+    - Laravel 8
+    - Template Admin Skydash
+
+    Fitur :
+
+    - Auth login
+    - Role admin manajement users.
+    - Data Kriteria bersifat dinamis.
+    - Data Variabel Kriteria bersifat dinamis.
+    - Data Alternative dinamis.
+
+    Untuk teman teman yang membutuhkan, terbuka untuk dipelajari dan dikembangkan, terima kasih.
+
+   <br>
+
+7.  [https://ezmathid.netlify.app/]  
+     **Ariefafn**  
+     Assalamualaikum, selamat pagi/siang/sore/malam
+    Izin share project sederhana saya yaitu web penghitung luas dan keliling bangun datar dan bangun ruang, web app ini dibuat untuk melatih logika saya.
+
+    Dibuat dengan :
+
+    - Quasar ( vue )
+    - Firebase Hosting
+    - getwaves.io
+
+    Link : [https://ezmath-421ab.web.app/]
+
+    Edit :
+    Karena nama domain free dari firebase sedikit random, saya ganti hostingnya ke netlify
+    Github : [https://github.com/Arief-af/EZMath/]
+
+   <br>
+
+8.  [https://www.dandun.xyz/]  
+     **dundan**  
+     Halo temen temen semua, izin share personal website saya. Web ini saya gunakan sebagai blog pribadi dan portfolio untuk mencari pekerjaan karena saya belum lama terjun ke bidang frontend web development.
+
+    Tech Stack:
+
+    - React
+    - React Router
+    - CSS Grid & Flexbox
+    - SASS
+    - Framer Motion
+    - Strapi (Headless CMS)
+
+    Thank you~
+
+   <br>
+
+9.  [https://calvinsims.netlify.app/]  
+     **Calvin Sims**  
+     permisi kak, mau nunjukkin hasil portfolio saya yang juga sebagai project pertama saya yang online hhehehe, masih 100% memakai HTML CSS murni, hehehe, minta sarannya kak @sandhikagalih
+
+   <br>
+
+10. [https://raflymaulana.me/]  
+    **RAFLYMLN**  
+     Halo semuanya, izin berbagi website pribadi aku ya sebagai portofolio dan perkenalan singkat tentang aku pribadi :pray:
+
+    - CSS: TailwindCSS
+      Menggunakan teknologi Framework TailwindCSS karena lebih fleksibel dan enteng dibanding Bootstrap dan yang lainnya, saya juga menggunakan mode Just in Time untuk mempercepat proses bundling dan menghemat output dari CSS
+
+    - Server: Node.JS
+      Saya menggunakan Node.JS dengan framework Express karena menurut saya lebih mudah untuk mencari dan menemukan error nya, serta lebih mudah penggunaannya.
+
+    - Templating: EJS
+      Untuk templating seperti penulisan HTML pada PHP yang memungkinkan kita untuk mengimpor bagian yang akan digunakan terus menerus, saya menggunakan EJS, terlebih juga kita dapat mengirim data lewat server ke client menggunakan EJS ini.
+
+    - Plugins
+      Untuk fitur-fitur seperti tulisan 3D, animasi, cursor tracking, dan lainnya, saya menggunakan beberapa open source Javascript library yang kalian bisa temukan di internet :smile:
+
+    Terima kasih
+
+   <br>
