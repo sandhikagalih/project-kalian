@@ -4659,4 +4659,206 @@ SISWA
 
     Terima kasih
 
+<br><br>
+
+### 26 Juni 2021
+
+1.  [https://stcmotivations.000webhostapp.com/]  
+     **apen**  
+     Halo semuanya
+    izin menshare project setelah belajar tentang codeigniter 4
+
+    Website yang berisi tentang motivasi-motivasi yang dimana temen temen dapat menshare motivasi yang temen temen punya di sini.
+
+    Teknologi yang digunakan :
+    -HTML
+    -CSS ( framework Bootstrap 4.6 )
+    -Javascript
+    -PHP ( framework Codeigniter 4 )
+
+    Source Code :
+    [https://github.com/Apenchu/stc-motivations]
+
+   <br>
+
+2.  [https://8values.now.sh/]  
+     **xanovicc**  
+     Halo teman-teman, izin share personal project nih.
+    Saya baru saja buat website 8values.github.io tapi versi nextjs atau reactjsnya.
+
+    Teman-teman bisa lihat versi nextjs atau reactjs nya di url ini:
+    Untuk reponya ini ya: [https://github.com/Aldhanekaa/8Values]
+
+    versi reactjsnya berbeda dengan yang asli, kalau yang saya buat sudah support Internationalization and localization (support Bahasa Indonesia dan English)
+
+    also state management-nya menggunakan redux dan redux-thunk
+
+   <br>
+
+3.  [https://cuitter.netlify.app/]  
+     **Fufufaku**  
+     Assalamu'alaikum Dan Salam sejahtera semua. Izin mau share personal project yang saya buat dalam waktu 5 hari.
+    Website ini fungsinya kaya Twitter. User bisa buat tweet setelah login/signup dan bisa komen. Cuma itu fungsi yg ada utk sekarang. Tidak Ada fitur follow, like, atau retweet.
+    Websitenya juga belum responsive, terkendala malas hehe.
+
+    Frontend Sama backend saya host terpisah. Backend di heroku frontend-nya di netlify.
+    Teknologinya:
+
+    - NextJS (frontend)
+    - Express (backend)
+    - Mongodb atlas (database)
+
+    GitHub repo: [https://github.com/Farhan-slurrp/cuit-app] (frontend & backend branch-nya beda)
+
+   <br>
+
+4.  [https://toekang.netlify.app/] [s.id/sepiring]
+    **fazanash**  
+     Assalamu'alaikum
+
+    Halo Pak @sandhikagalih dan teman - teman. Saya sudah nonton dari awal video Pak Dhika bahkan hampir dibilang semuanya kecuali yang baru - baru. Kali ini saya mau izin menapilkan dan meminta review khususnya dari Pak Dhika hasil eksplorasi desain saya
+
+    Link Repository: [https://github.com/fazanash/toekang]
+    [https://github.com/fazanash/sepiring]
+
+    Mohon kritik dan sarannya
+
+    NB: Buat temen - temen yang mau clone dipersilahkan
+
+    Terima kasih
+
+   <br>
+
+5.  [https://dyogi-blog.netlify.app/]  
+     **Dyogi**  
+     Halo Pak @sandhikagalih dan teman-teman
+
+    saya ingin membagikan sebuah project kecil Hugo Theme untuk Blog Website yang bernama Sandat ( Bunga kenanga dalam bahasa Bali)
+    saya masih berpikir kok nama itu yang keluar pas saya nentuin nama
+
+    filosofinya saya mau website yang cepat, ringan, murah dan mudah untuk di maintain, sehingga menggunakan SSG dan hosting gratisan menjadi pilihan (anak low buget).
+
+    theme ini dibuat menggunakan vanilla HTML dan CSS untuk templatenya dan hugo untuk membuild situsnya secara keseluruhan dan Forestry untuk CMS.
+
+    Link Source code Theme : [https://github.com/dyogi24/sandat]
+
+   <br>
+
+6.  [http://stcgames-1.epizy.com/]  
+     **apen**  
+     Halo semuanya.
+    Izin share project game sederhana.
+
+    Game yang menyajikan dialog dan pilihan yang dapat kalian pilih, pilihan yang nanti kalian pilih nanti akan menghasilkan cerita yang berbeda.
+
+    Teknologi yang digunakan
+    HTML
+    CSS (Framework Bootstrap 4.6)
+    Jquery
+
+    Source Code : [https://github.com/Apenchu/stc-games-1]
+
+    Tolong kalo ada yang bisa membuat source codenya lebih baik lagi pull ke github ya :pray:
+
+    Terimakasih
+
+   <br>
+
+7.  [https://github.com/hudadamar21/convert-image-to-ascii-art]  
+     **Huda Damar**  
+     Hallo semuanya.
+    saya mau share project menggunakan Python
+    project ini untuk mengconvert Image ke ASCII Art
+    bisa save dalam bentuk image file atau txt file.
+
+    package python yg digunakan:
+
+    - Tkinter (untuk membuat GUI)
+    - Pillow (untuk mengelola Image)
+
+    step by step cara menggunakan aplikasi ini ada di github nya
+
+    semoga pak dhika bisa nyobain aplikasinya
+
+    link github:
+    [https://github.com/hudadamar21/convert-image-to-ascii-art]
+
+   <br>
+
+8.  [https://rinosatyaputra.netlify.app/]  
+     **rino**  
+     Hai semuanya dan pak @sandhikagalih saya mau share showcase project lagi nih, ini website personal saya, ini hasil belajar saya tentang React Js, saya buatnya menggunakan React Js, dan juga saya butuh feedback teman teman juga, Terima kasih :grin:
+
+    Teknologi Stack:
+
+    - React Js
+    - React Reveal
+    - Bootstrap 5
+
+    Link Github:
+    [https://github.com/riyaraa/riyaraa.dev]
+
+   <br>
+
+9.  [http://fierce-savannah-58125.herokuapp.com/]  
+     **ramson**  
+     Halo semua...
+
+    Izin share project sederhana website portal akademik menggunakan framework laravel 8, saya kerjakan kurang lebih 1 bulan
+    niat saya untuk membuat website ini adalah untuk iseng-iseng upgrade tampilan website salah satu kampus. sekaligus belajar tentang framework 8 biar bisa menjadi fullstack dev.
+    kritik dan sarannya diterima.
+    Terima Kasih Semoga membantu.
+
+    Teknologi yang digunakan :
+    -HTML
+    -CSS (Bootstrap 5.0 )
+    -Template AdminLTE 3.5
+    -Javascript
+    -PHP (Laravel 8.0)
+
+    versi kampus:
+    [https://medicom.ac.id/media.php?materi=home]
+
+    versi saya uprade:
+    [http://fierce-savannah-58125.herokuapp.com/]
+
+    Fitur :
+    Portal Web
+
+    - Home
+    - Berita
+    - Pengumuman
+      -dll
+
+    Login User
+    Email :username@gmail.com
+    Password :12345678
+
+    - Auth login
+    - Role admin manajement users.
+    - CRUD : Pengumuman
+    - CRUD : Berita
+    - dll
+
+    Link demo : [http://fierce-savannah-58125.herokuapp.com/kontak]
+    (klik menu yang lain agar ccs di load)
+
+    Source Code : https://github.com/ramsonrajagukguk/demo-portal-website-akademik
+    password Admin ada github
+
+   <br>
+
+10. [https://amienulrana.github.io/companyprofile/]  
+    **Amienul rana**  
+     Assalamualaikum semua izin share website pertama saya menggunakan tailwind css, kenapa website pertama?? Karna saya baru pindah dari bootsrap ke tailwind css, awal saya belajar tailwind CSS ini karna saya merasa saya bisa membuat website apapun menggunakan boostrap( bukan mau sombong hehehh ) maka dari itu kayak nya kalau pakai bootsrap terus tidak ada tantangannya, maka tanpa mikir lama saya langsung pindah ke tailwind.
+
+    Apakah di tailwind dapat tantangan??? Ternyata sama aja tidak ada tantangannya xixixiix, terlepas dari itu semua pasti Karna pemahaman fundamental saya yang diajarkan pak sandhika galih, dari yang gak paham apa itu html,css,js dll sekarang Alhamdulillah sudah banyak paham nya
+
+    Dibuat menggunakan :
+    -tailwind
+    -html
+    -css
+    -js
+    -aos.js
+
    <br>
