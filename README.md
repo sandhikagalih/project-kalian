@@ -4861,4 +4861,245 @@ SISWA
     -js
     -aos.js
 
+<br><br>
+
+### 3 Juli 2021
+
+1.  [https://github.com/AdhyWiranto44/simple-rest-api]  
+     **adhywiranto44**  
+     Hi guys, apa kabar semuanya? Semoga baik-baik saja ya :slight_smile:
+
+    Izinkan saya sebagai Backend Developer (Aamiiin) untuk share projek latihan, projek ini bisa dibilang sebagai projek latihan saya untuk membuat REST API menggunakan Node.js, Express, dan MongoDB.
+
+    Studi kasus dari projek ini adalah untuk mengelola post blog sederhana.
+
+    Untuk fungsional masih dasar saja seperti CRUDS tanpa otentikasi dll, rencananya projek ini akan terus ku kembangin terus biar bisa lebih baik lagi (Absolutely).
+
+    Teman-teman bisa coba projek ini dengan aplikasi pengelolaan API seperti POSTMAN
+
    <br>
+ 
+2.  [https://fatihakmalh.netlify.app/]  
+     **Fatih Akmal**  
+     Selamat sore, izin share website portofolio menggunakan simple svg animasi.
+
+    Dibuat menggunakan :
+
+    - HTML
+    - CSS
+    - Vanilla js
+
+    Mohon masukannya kawan², oh iya untuk tampilan responsive svg animasinya di hilangkan
+
+   <br>
+ 
+3.  [https://rasyidarazak.github.io/covid19-information/#/]  
+     **Rasyid**  
+      Hai semua, izin share project tentang covid19
+
+      Teknologi :
+      - React JS
+      - Bootstrap 4
+
+      Source Code
+      [https://github.com/rasyidarazak/covid19-information]
+
+      Mohon masukan dan sarannya.
+
+      Terimakasih, semoga bermanfaat.
+
+   <br>
+ 
+4.  [https://portal.trakindo.co.id/_layouts/15/trakindo/authentication/login.aspx]  
+     **HiCall**  
+      Assalamualaikum wr wb
+      Halo om Sandhika dan Halo all, Apa kabar semuanya? Semoga baik-baik dan sehat selalu saja hehe  :slight_smile:
+
+      Salam Kenal, nama saya M Haikal Anatama, saya juga orang baru yang join di server discord ini, saya bekerja sebagai Developer di suatu perusahaan Software Housing di Jakarta, kebetulan nih saya sudah menyelesaikan beberapa Project selama bekerja dan oiya izinkan saya juga untuk share hasil projek ini sebagai portpolio saya ya,check this out.
+
+      Nama Project :
+      [Web & Mobile Apps] Trakindo - Technical Request and Dashboard (TREND)
+
+      Client:
+      PT. Trakindo Utama CAT
+
+      Link Web Apps : [https://portal.trakindo.co.id/_layouts/15/trakindo/authentication/login.aspx?returnurl=https://trend.trakindo.co.id//library]
+
+      Dan ini untuk versi mobile apps nya : [https://drive.google.com/file/d/1Q6i8VFBlNR_3UlvOaGxVSxstCfOKb3WP/view?usp=sharing]
+
+      Akun untuk akses :
+      Username : TU.ICTBPM06
+      Password : Jakarta#2021
+      (nb : Akun ini khusus untuk tester jadi boleh di akses)
+
+      Developing Tools
+      ===========================================
+      Front End Code :
+      -Bootstrap v4
+      -JQuery 3.5.1
+
+      Backend Code :
+      -ASP.NET (C#) Web Framework & Web API
+      -Entity Framework LINQ
+      -Visual Studio IDE
+      -Visual Studio Code
+
+      Database :
+      -SQL Server 2017
+
+      Dev Ops :
+      -Team Foundation Server (TFS)
+
+      Mobile Apps :
+      -React Native (Javascript)
+      -React Hooks Method
+      -Axios Request API
+
+      ===========================================
+      Dan Juga Jika ada yang penasaran bisa cek github saya di sini:
+      Web Version:
+      [https://github.com/mhaikalla/Trakindo-TREND_Web_Application_Service]
+      Mobile Version:
+      [https://github.com/mhaikalla/TREND_Mobile_Apps]
+
+      Mohon Juga untuk masukan dan sarannya
+
+      Thank you, All Sukses dan Berkarya Selalu, semoga bermanfaat dan bisa jadi referensi untuk kalian  :wpugege:
+
+   <br>
+ 
+5.  [https://smbrang.github.io/musmuliadi/]  
+     **_muss**  
+      Halo pak Sandhika Galih dan teman-teman,
+
+      izin ikut showcase-projectnya ,pada showcase ini saya ingin share web portfolio pribadi saya
+
+      dibuat dengan :
+      - HTML
+      - CSS
+      - BOOTSTRAP 5
+
+      animasinya pakai :
+      - AOS
+      - GSAP
+
+      Semuanya ilmunya saya dapat dari youtube pak sandhika galih sendiri, terima kasih pak untuk ilmunya.
+      Dan web portfolio ini jadi project web pertama yang saya buat.
+
+      Link repo : [https://github.com/smbrang/musmuliadi]
+
+      mohon maaf jika masih ada kekurangan, terimah kasih.:pray:
+
+   <br>
+ 
+6.  [https://dewaprogramming.netlify.app/]  
+     **!Dewa**  
+      Assalamualaikum wr wb
+
+      Izin share web Portfolio saya
+
+      Dibuat menggunakan:
+      -> HTML
+      -> CSS + Bootstrap 4
+      -> Jquery
+
+      Asset lainnya:
+      -> GSAP
+      -> Venobox
+      -> AOS
+      -> Typing
+
+   <br>
+ 
+7.  [https://jevon1602.github.io/-simple-crud-data-jevon/]  
+     **Jex_VsL**  
+      Assalamualaikum wr wb
+
+      Nama saya Jevon , izin share studi kasus saya sendiri setelah belajar javascript lanjutan dari youtubenya pak Sandika
+
+      Disini saya membuat simple CRUD (create,read,update,delete) mengenai data. Data ini akan tersimpan di localstorage dan bersifat pribadi , sehingga saat page di load lagi , data masih tersimpan.
+
+      Dibuat menggunakan :
+
+      - bootstrap
+      - javascript
+
+      Keunggulan :
+
+      - Bisa menambahkan data
+      - Data langsung terisi dibawah form data
+      - Data bisa dihapus
+      - Data dapat diedit
+      - Jika ada username yang sama makan data tidak jadi ditambahkan
+      - Data tersimpan di local storage sehingga tidak akan hilang
+
+      Kekurangan :
+      - masih terdapat bug di bagian info
+      - username yang diupdate masih bisa sama kecuali saat menambahkan data
+      - tampilan masih sangat sederhana
+
+      Terima kasih!
+
+   <br>
+ 
+8.  [https://www.wisesa.dev/]  
+     **svspicious**  
+      Halo semuanya...
+
+      aku mau share hasil refactor website/blog ku (hasil kerjaan selama seminggu)
+
+      Long story shot wkw, pengen desain ulang website/blog yang lama as simple as possible trus coba browsing di dribble & googling "minimal design website" trus aku nemu shot ini [https://dribbble.com/shots/11713272-Nevin-Jojo-Portfolio-Website] bagus banget. Trus aku ambil konsep canvas yang ada di halaman utamanya dan aku implementasi sendiri(pake library). Dari proses riset-desain-deploy butuh waktu kurang lebih 1 minggu buat selesainnya.
+
+      Tech stack:
+      - TypeScript
+      - Next.js
+      - Chakra-UI
+      - MDX
+      - etc (bisa dilihat di [https://github.com/svspicious/wisesa.dev])
+
+      Dapet score perfect 100 di Lighthouse (kalo cache on) :ok_hand:
+
+      Next increment mau nambahin beberapa fitur lagi kaya PWA, google analytic, dll :eyes:
+
+      Thank you :penguin:
+
+
+      Update:
+      - PWA :white_check_mark:
+      - Analytics :white_check_mark:
+
+   <br>
+ 
+9.  [https://zainalwan.me/]  
+     **Zain**  
+      Assalamu`alaikum Pak Sandhika dan teman2. Saya izin share project saya.
+
+      Project ini adalah personal website saya. Dibuat dengan tujuan untuk personal branding, sekaligus memanfaatkan domain dari github student pack.
+
+      Teknologi yang digunakan:
+         - Laravel, untuk back-end REST server
+         - React, untuk front-end
+         - React Router DOM, untuk single page application
+         - Bootstrap
+         - GSAP platform, untuk animasi
+         - MySQL DBMS
+
+      Proses pengerjaan:
+         - Durasi: +/- 20 hari (tidak rutin)
+         - Objek yang dikerjakan: back-end + front-end
+
+      Kekurangan:
+         - Hosting front-end dan back-end jadi satu
+         - Respon dari server kadang lumayan lambat
+
+      Terima kasih Pak Sandhika dan teman2.
+
+   <br>
+ 
+10.  [https://dewacoffee.xyz/]  
+     **swah™**  
+      HALLO pak ni bisa liat web saya dengan studi kasus php mvc unpas
+
+      Dewa coffee adalah web penjualan kopi  untuk para penjualan kopi di indonesia
+
+<br><br>
