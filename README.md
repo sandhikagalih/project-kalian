@@ -5102,4 +5102,13 @@ SISWA
 
       Dewa coffee adalah web penjualan kopi  untuk para penjualan kopi di indonesia
 
-<br><br>
+<br>
+10.  [https://ion-covid.netlify.app]  
+     **swah™**  
+      Assalamualaikum pak sandhika saya ada apps statistik data covid Untuk Informasi Terbaru Penyeberan Virus Covid-19 , Data Terupdate Melalui                   https://covid19.mathdro.id/api Dan https://api.kawalcorona.com/
+      sedikit cerita pak di apps di buat dengan stack angular , ionic stack ini awal saya belejar node js dan untuk fe saya paham angular karena mvvm dan setelah paham ini saya 
+      bisa belajar ke nest js kenapa tidak ke react karena fungsional saja ehhehe, 
+      dan ini pertama awal covid muncul saya buat tp saya tidak publish saja.
+      Terima kasih Pak Sandhika.
+
+<br>
