@@ -5078,21 +5078,8 @@ SISWA
 
       Teknologi yang digunakan:
          - Laravel, untuk back-end REST server
-         - React, untuk front-end
-         - React Router DOM, untuk single page application
-         - Bootstrap
-         - GSAP platform, untuk animasi
-         - MySQL DBMS
-
-      Proses pengerjaan:
-         - Durasi: +/- 20 hari (tidak rutin)
-         - Objek yang dikerjakan: back-end + front-end
-
-      Kekurangan:
-         - Hosting front-end dan back-end jadi satu
-         - Respon dari server kadang lumayan lambat
-
-      Terima kasih Pak Sandhika dan teman2.
+         - React, untuk front-endhttps://stadiaps.github.io/ps5-simulator-theme-whatever/
+      Proses pengerjaan:https://stadiaps.github.io/ps5-simulator-theme-whatever/an teman2.
 
    <br>
  
@@ -5101,5 +5088,14 @@ SISWA
       HALLO pak ni bisa liat web saya dengan studi kasus php mvc unpas
 
       Dewa coffee adalah web penjualan kopi  untuk para penjualan kopi di indonesia
+
+<br><br>
+
+### 9 Julli 2021
+
+1.  [https://stadiaps.github.io/ps5-simulator-theme-whatever/]
+     **super stadia**  
+
+     Playimitation 5
 
 <br><br>
