@@ -5103,3 +5103,210 @@ SISWA
       Dewa coffee adalah web penjualan kopi  untuk para penjualan kopi di indonesia
 
 <br><br>
+
+### 10 Juli 2021
+
+1.  [https://github.com/slowy07/clifter_programming_language]  
+     **arfy.slowy**  
+     hallo pak izin share project bahasa pemograman buatan saya menggunakan bahasa pemograman python,saya beri nama clifter, dengan extensi .clf
+    https://github.com/slowy07/clifter_programming_language
+
+        :python: :python: :python:
+
+        tujuannya dari pembuatannya untuk melihat seberapa jauh saya bisa problem solvingnya, pembuatan saya membutuhkan waktu 6 hari pengerjaan pak :laughing:
+
+        btw jangan lupa di ya stars pak thank uuuuu
+
+    <br>
+
+2.  [https://strores.rf.gd/]  
+     **Yudafir**  
+     Halo semuanya ,saya mau share Web saya (hasil kerjaan 3-4 hari ) saya lupa :joy:
+
+    Ini project nya di buat dengan Boostrap , jQuery, Php Native, Mysql, CSS, Font awesome , Boostrap Icon , Google Font .
+
+    <br>
+
+3.  [https://play.google.com/store/apps/details?id=com.dipstrategy.gsone]  
+     **Hi • Call**  
+     Assalamualaikum wr wb
+
+    Hallo om Sandhika dan Hallo All, Mohon izin juga untuk share lagi hasil karya saya dan bisa sekaligus jadi portpolio saya jugaa, check this out.
+
+    Nama Project :
+    Mobile Application - GS1 Indonesia Product Indentification v1.1.7
+
+    App Store : Belum Dirilis
+
+    Client:
+    PT. GS1 Indonesia
+    [https://gs1id.org/]
+
+    # Developing Tools
+
+    -React Native (Javascript), Method React Hooks
+    -Axios Request API
+    -Visual Studio Code
+
+    Dev Ops :
+    -GitLab
+    ============================================================
+
+    Mohon Juga untuk masukan dan sarannya ya
+
+    Thank you, All Sukses dan Berkarya Selalu, semoga bermanfaat dan bisa jadi referensi untuk kalian
+
+<br>
+
+4.  [https://quizrace.emanggek.repl.co/]  
+     **Rayyan M**  
+     Halo,
+    Izin share game "Quiz Race", di game ini kita harus berlomba mengerjakan soal dengan orang-orang secara online (Siapa yang cepat selesai mengerjakan quiznya dia yang menang)
+
+    Website ini dibuat dengan
+
+    - Node.js :nodejs: (express, socket.io)
+    - HTML :html:
+    - Javascript :javascript:
+    - Bootstrap :bootstrap:
+
+    Source Code: [https://github.com/EmangGek/QuizRace]
+
+<br>
+
+5.  [https://over-hangman.iwgx.io/]  
+     **iwgx**  
+     Mau share project lama yang baru di update: Over Hangman - game hangman dengan pertanyaan seputar tech
+
+    Apa kalian tahu siapa saja nama anggota tim utama pengembangan React?
+    Disini kalian bisa menguji pengetahuan kalian tentang itu.
+
+    :thinking: Tebak dari petunjuk yang diberikan
+    :wave: 5 kesempatan, 5 tingkatan
+    :last_quarter_moon: Ada mode gelap dan mode terang
+    :keyboard: Tersedia keyboard virtual
+
+    Tech stack:
+
+    - React + Typescript di create-react-app
+    - MobX untuk state management
+    - Tailwind CSS untuk styling
+    - Vercel untuk deployment
+    - Splitbee untuk analytics
+
+    dulu saya pertama kali belajar make React Hooks, MobX, dan Tailwind CSS di project ini sekaligus buat persiapan magang :smile:
+
+    Github: [https://github.com/iwgx/over-hangman]
+
+<br>
+
+6.  [https://mushafonline.netlify.app/#/]  
+     **Ariefafn**  
+     Halo, Assalamualaikum wr wb,
+    Izin share website hasil belajar saya yaitu mushafOnline , saya membuat website ini dengan tujuan untuk belajar request api dan vue.js
+
+    Website ini dibuat dengan :
+
+    - Quasar ( vue.js )
+    - Axios Request API
+    - Netlify
+
+    Untuk APInya saya pakai API dari @Zhirrr Studio
+    [https://github.com/Zhirrr/islamic-rest-api-indonesian-v2]
+
+<br>
+
+7.  [https://hyper-sheets.ivqonsanada.com/]  
+     **ivqonsanada**  
+     Halo, izin share keperluan skripsi saya :pray:
+
+    Saya Ivqon, saat ini sedang melakukan skripsi, dan butuh bantuan rekan-rekan di sini untuk menguji aplikasi web skripsi yang telah saya buat.
+
+    Web penelitian ini seputar platform pembelajaran HTML dan CSS,
+
+    berikut ini link kuesionernya, beserta arahan yang perlu diikuti:
+    https://forms.gle/uwoK5Y7rchJPtJHk6
+
+    tech stack utama: Vue, Laravel, Tailwind
+
+    Vuenya masih yang versi 2.x, kedepannya bakal migrasi ke Vue 3, atau mungkin pakai library yang lebih ringan.
+
+    singkat cerita: HTML & CSS itu tricky sekali, karena hanya bisa dirender oleh enginenya browser, tidak bisa dilakukn di server. bisa sih, servernya harus punya akses ke browser, pakai library puppeteer untuk ambil screenshot. ini perlu VPS, dan buka browser itu makan banyak sekali RAM, costnya terlalu mahal kalo dipakai banyak orang.
+
+    jadinya saya mikir gimana caranya buat arsitektur yang murah, yang tidak memberatkan server, akhirnya hampir semua fitur belajarnya saya buat bisa dikerjakan di sisi client, tinggal gimana optimasi di sisi client, projek ini kedepannya akan bisa diakses secara offline agar bisa belajar seperti buka aplikasi gitu dengan menerapkan PWA. banyak fitur lainnya menanti untuk dikerjakan setelah skripsi saya selesai.
+
+    Fitur saat ini:
+
+    - Login, Register, Change Password, Edit profile, upload avatar (tidak verify email, di laravel sebenernya tinggal nyalain fitur verify by email, ini untuk memudahkan pengujian saja jika ada yang mau register login)
+    - Akses ke semua materi, ada modul interaktifnya (ini secara arsitektur terpisah dengan materi)
+    - latihan, pakai test case gitu ala ala freecodecamp
+    - tantangan, ngebandingin gambar gitu, ala ala cssbattle, kedepannya tantangan tidak berbentuk ini saja,
+    - profile
+    - leaderboard, bisa liat halaman profile user lain lewat sini, karena harus tahu usernamenya
+    - badge
+    - support light & dark mode
+    - responsif
+
+    untuk tantangan dan latihan di versi mobile, pindah pindah tabnya itu bukan ngelag atau lambat ya, tapi delaynya itu disengaja, karena code editor yang saya pakai rada bermasalah buat native keyboard di mobile, kadang code yang diketik gak tersimpan saat ganti tab, baru ke-trigger-nya pas cursor gak fokus di code editor. kalo versi desktop yang dikecilin masih bisa, katanya sih untuk lancar di mobile harus pakai virtual keyboard gitu, bukan yang native keyboard.
+
+    akhir kata, niat saya projek ini bisa membantu rekan-rekan belajar, khususnya materi HTML & CSS, secara gratis, dan akan terus mengalami perbaikan dan pengembangan fitur. Jadi saya sangat mengapresiasi masukan dari rekan-rekan di sini. agar pengalaman belajarnya semakin lebih baik lagi.
+
+    Update:
+
+    - PWA sudah bisa, untuk fitur akses offlinenya saat ini hanya bisa dilakukan jika halamannya sudah dibuka. jadi bisa belajar HTML/CSS latihan maupun tantangan secara offline/tanpa internet. agar pengalaman belajar lebih baik, coba install aplikasinya ya. cara install umumnya otomatis muncul tombol add this to homepage waktu pertama kali buka webnya, kalo tidak ada bisa coba liat di menu browser add to homepage atau semacamnya.
+
+<br>
+
+8.  [https://hitung-pensiunan.netlify.app/]  
+     **Nabbs**  
+     Web Penghitung Dana Pensiun
+
+    Karena pada tahun ini (2020), minat terhadap kegiatan investasi semakin meningkat maka saya pun tertarik membuat model aplikasi yang pada awalnya ini hanya dalam
+    bentuk excel yang saya peroleh dari formula yang dibagikan oleh seorang influencer yaitu Felicia Putri Tjisaka
+
+    Tech stack
+
+    1. HTML & CSS
+    2. SASS
+    3. Vanilla Javascript
+
+    selengkapnya bisa di cek di github saya
+    [https://github.com/nhardiansa/hitung-dana-pensiun]
+
+<br>
+
+9.  [https://quran-app-arpra.netlify.app/]  
+     **alditegarprakoso**  
+     Assalamualaikum Warrahmatullah Wabarakaatuh
+
+    Halo Pak Dika dan teman-teman WPU, saya Aldi ingin share hasil belajar Vue.js dengan membuat Aplikasi Digital Qur'an.
+
+    Digital Qur'an dibuat untuk membaca Al-Qur'an secara online, juga dilengkapi fitur pencarian Surah, dan juga jadwal Sholat sesuai dengan daerah masing-masing.
+
+    Aplikasi ini di buat menggunakan :
+
+    1. Vue.js
+    2. Axios
+    3. Bootstrap 4
+
+    Repo :
+    [https://github.com/alditegarprakoso/quran-app]
+
+    Terima Kasih sebelumnya, jangan lupa titik koma :grin::v:
+
+<br>
+
+10. [https://ksana.in/]  
+    **mazipan**  
+     Ksana.in | Layanan pemendek tautan gratis :rocket:
+
+    GitHub repo: [https://github.com/mazipan/ksana.in]
+    Peralatan yang digunakan:
+
+    - Next.js
+    - Chakra-UI
+    - Supabase
+    - Oge
+    - Dan banyak bantuan dari Web API seperti Web Share, Clipboard API, Service Worker, dll
+
+<br><br>
