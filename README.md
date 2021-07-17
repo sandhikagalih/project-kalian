@@ -5310,3 +5310,247 @@ SISWA
     - Dan banyak bantuan dari Web API seperti Web Share, Clipboard API, Service Worker, dll
 
 <br><br>
+
+### 17 Juli 2021
+
+1.  [https://vsior.com/beras/]  
+     **Arnadi Admin Toko**  
+     Assalamualaikum
+
+    Halo pak Dhika dan teman-teman kenalkan saya Arnadi.
+
+    Saya ingin memperlihatkan sebuah toko online sederhana yang saya buat, toko online ini menjual kebutuhan pokok (beras).
+
+    Saya bisa membuat toko online "Toko Beras 20 Desember" ini berkat ilmu yang selama ini saya peroleh dari mengikuti tutorial di Channel Web Programming UNPAS, terima kasih banyak pak Dhika sehat selalu pak.
+
+    Sebelum lanjut lebih jauh ingin sedikit saya bercerita tentang web toko online ini.
+
+    Sebelum ini saya sudah pernah merancang sebuah toko online untuk toko beras juga, tepatnya untuk toko beras saya yang dikawasan Tangerang, karena terlalu komplit akhirnya pusing sendiri, dan juga saat itu toko beras (fisik) saya tersebut terkena banjir, sebagian besar beras saya terendam.
+
+    Mulai saat itu saya sudah tidak bersemangat lagi untuk melanjutkan toko online yang saya buat khusus untuk toko beras yang terendam tersebut, dan hanya berhenti sampai disitu.
+
+    Padahal toko online yang saya buat itu hampir rampung 3/4 nya sudah jadi, tinggal selangkah lagi sudah siap di publish.
+
+    Singkat cerita toko yang terkena banjir tersebut saya tutup. Selang beberapa bulan kemudian saya buka lagi namun di daerah yang berbeda yaitu daerah Jakarta Barat, dan saya pun mulai merancang toko online baru untuk toko beras saya yang baru ini l.
+
+    Yang sekarang ini adalah toko online yang kedua saya buat setelah toko online saya yang sebelumnya tidak jadi publish.
+
+    Saya membuatnya hanya dengan menggunakan, tanpa framework.
+
+    1. HTML
+    2. CSS
+    3. JavaScript
+    4. PHP
+
+    [ Fitur Fitur ]
+
+    # Register √
+
+    # Login √
+
+    # Logout √
+
+    # Tambah produk √
+
+    # Edit produk √
+
+    # Hapus produk √
+
+    # List produk √
+
+    # Share
+
+    # Detail produk √
+
+    # Order produk √
+
+    # Operasional toko √
+
+    # Lokasi toko √
+
+    # Ketentuan √
+
+    # Kontak admin √
+
+    Toko online ini saya buat sendiri, dan saya membuatnya dalam waktu kurang lebih 1 bulan semenjak "Toko Beras 20 Desember" saya buka di pertengahan mei. Ide nama tokonya sendiri saya ambil dari nama jalan lokasi toko saya berada.
+
+    Semuanya saya rancang dan kerjakan menggunakan smartphone, dan berikut ini beberapa aplikasi pendukung yang biasa saya pakai.
+
+    1. Smartphone Android v.10, ± (6.3 inch) : perangkat yang saya pakai.
+    2. Jota Text Editor (gratis) Play Store : aplikasi pendukung untuk saya merancang dan mengetik kode.
+    3. Icode-Go & Icode-Web (gratis) apk di Google : aplikasi pendukung Apache Web Server dan MySQL Database Server, (PHP v 7.3.3 dan MySQL 5.5.5).
+    4. PicsArt (gratis) Play Store : aplikasi edit foto
+    5. Google Chrome (jelas gratis) : browser yang saya gunakan untuk melihat hasil.
+
+    Sedikit hambatan setiap kali saya selesai mengetik dan ingin melihat hasil di browser, sebelum refresh browser maka data harus saya matikan dan hidupkan kembali agar refresh berjalan, begitu saja seterusnya.
+
+    #SalamTitikKoma;
+
+    Terima kasih.
+
+    Arnadi
+    Admin Toko
+    Vsior Official
+
+<br>
+
+2.  [https://fikrinotes.netlify.app/boring_math]  
+     **Raizel**  
+     Halo semuanya, disini saya mau menunjukkan project yang saya buat beberapa hari yang lalu. Saya terpikir untuk membuat project ini karena background saya sebagai seorang siswa yang suka belajar matematika, fisika dan bidang sains lainnya. Saat belajar, persoalan yang saya kerjakan seringkali berujung pada persamaan. Untung saja kalau cuma persamaan linear 1 variabel. Akan tetapi, masalah muncul ketika saya mengerjakan persamaan linear 2 atau bahkan 3 variabel sekaligus. Ini sebenarnya perkara mudah. Hanya saja, butuh waktu yang cukup lama bagi saya untuk melakukannya secara manual. Sejenak saya berpikir bahwa ini bukanlah pekerjaan yang seharusnya dilakukan oleh manusia. Seharusnya menusia lebih fokus ke ide yang melibatkan pemikiran kompleks dan kreatif, bukannya mengerjakan perkara mudah namun memakan waktu. Perkara seperti itu seharusnya dikerjakan oleh robot/komputer. Dari sinilah muncul ide saya muncul untuk mengotomatisasi masalah matematika ini. Sebenarnya apapun profesi kita, jika kita bekerja di bidang sains, kita pasti akan berurusan dengan masalah persamaan multivariabel ini. Hal ini semakin memantapkan niat saya untuk membuat website ini.
+    Website saya buat dengan beberapa tools eksternal selain html, css dan javascript, yaitu :
+    • layanan animasi Animate On Scrolling (AOS)
+    • Bootstrap versi 5
+    • Google Fonts untuk fonts tambahan
+    • getwaves.io
+    • API untuk generate random quote tentang matematika ( biar lebih fun!)
+
+    Jadi pada bagian bawah website, saya menempatkan quotes random tentang matematika yang berubah setiap kali website saya di-refresh. Dan juga disana saya telah memberikan beberapa petunjuk di website tersebut agar teman2 bisa menggunakannya dengan lancar tanpa masalah.
+
+<br>
+
+3.  [https://wafarifqi.com/wolahala]  
+     **wafarifqi**  
+     halo, saya Wafa Rifqi Anafin. kali ini mau showcase project, yaps project ini saya beri nama WOLAHALA.
+
+    WolaHala ini adalah platform jejaring media sosial masa kini. WolaHala hadir untuk menemani kegabutan Anda:grin:
+
+    Fitur Saat Ini :
+
+    - update profil.
+    - buat & hapus status.
+    - komen status.
+    - bales komen di status.
+
+    Next Fitur :
+
+    - chat.
+    - notifikasi.
+    - edit status.
+    - pin status.
+
+    Dibuat Menggunakan :
+
+    - Bootstrap 4
+    - PHP Native
+
+    UI KIT By :
+    [https://themesberg.com/product/ui-kit/neumorphism-ui-kit-bootstrap]
+
+    Kritik & Saran dari temen temen sangat diperlukan.
+
+    Terimakasih Banyak
+
+<br>
+
+4.  [https://github.com/kangoka/todbot]  
+     **KangOka**  
+     Halo, mau showcase project gabut saya di waktu luang yaitu membuat bot Discord menggunakan Discord.JS dan banyak menggunakan API untuk commands nya. Codenya lumayan berantakan karena tadinya ini bot cuman saya pakai di server sendiri.
+
+    :star: Featured Commands :star:
+    Casino
+    Register
+    Daily
+    Give coin
+    Check profile
+    Buy badge
+    Coinflip solo and duo
+    Dice solo and duo
+    Slot
+    Crash game
+
+    Normal Commands
+    Moderation
+    Ban
+    Kick
+    Clear message
+    Fun
+    Jokes bapac bapac or jokes retjeh (removed because my domain expired lol)
+    Love calculator
+    Game Stats
+    Dota 2 stats
+    Apex Legends stats
+    Information
+    Covid-19 stats
+    Cryptocurrency price
+    Weather check
+    Ping
+    Generate invite server link
+    Server info
+    Bot info
+    Convert currency
+    See all the command list with how to use them
+    NSFW
+    Hmmmm
+    Anime
+    Anime Boruto scraper (if you are weebs and from Indonesia)
+    Utilities
+    Link shortener
+    Get random image
+    Create polling
+    Generate fake complete data
+    Random number generator
+    Coinflip
+
+<br>
+
+5.  [https://exxyll.github.io/]  
+     **Falcxxdev**  
+     Halo, izin share projek yang saya buat yaitu, sebuah Discord Bot.
+
+    Exxyll adalah Multipurpose Discord Bot yang Memiliki Fitur yang cukup banyak, Diantaranya ada Moderation, Welcoming system, Music commands, dan masih banyak lagi!
+
+    Discord Bot ini saya buat menggunakan Library Discord.js, dan banyak api service yang saya gunakan juga. Dan Seiring waktu, saya juga akan sering update command. Seperti menambahkan command baru, atau menghapus command.
+
+    Jika ada Bug, Not responding, atau Downtime, Bisa langsung DM ke saya atau Report dengan perintah .report.
+
+    Terima kasih.
+
+    Link Invite : [https://discord.com/oauth2/authorize?client_id=848232775798226996&permissions=3222646&scope=bot]
+
+<br>
+
+6.  [https://github.com/AfterSchoolTeaParty/pyexe]  
+     **DanshiKo**  
+     Halo, izin share projek kecil kecilan yang saya buat dengan C++.
+    Proyek ini merupakan aplikasi sederhana untuk mengubah python file menjadi executable file misal main.py menjadi main.exe, hampir sama seperti pyinstaller
+
+    Cara kerja nya sangat sederhana yaitu dengan membuat file executable menggunakan C++ yang nantinya memanggil program python kita. Jadi, tidak mungkin untuk menjalankan executable filenya apabila tidak terdapat python terinstall dalam device kita. Karena itu aplikasi ini hanya sekadar untuk percobaan saja. Mungkin untuk kedepannya akan saya kembangkan lebih lagi. Terima kasih
+
+    Tambahan : aplikasinya juga tidak akan berjalan apabila g++ tidak terdapat di dalam device kita
+
+<br>
+
+7.  [https://maliefrr.github.io/tugas-web-imk/index.html]  
+     **Tomato**  
+     Izin share project website masih sederhana banget hehe , sebenernya ini buat tugas kuliah cuma daripada nganggur di laptop jadi saya masukkan github gara - gara liat video pak dhika yang bahas git hehe , websitenya belum responsive btw . website ini saya bikin menggunakan (html,css, vanila javascript , bootstrap) kendala saat membuat website ini adalah saya bingung bagaimana cara untuk menampilkan detail data di bagian produk. mungkin ada saran dan masukkan :laughing:
+    src code : [https://github.com/maliefrr/tugas-web-imk]
+
+<br>
+
+8.  [https://store.rizaldipriantama.com/]  
+     **Sakuta**  
+     Ijin share project dari tutorial bootstrap v4 dari youtube WPU bang sandhika galih, buat website landing page toko online saya. Mungkin ada saran dan masukan
+
+<br>
+
+9.  [https://suryaagung-z.github.io/]  
+     **suryaagung**  
+     izin share website portfolio html css jquery, masih newbie punten:pray:
+
+<br>
+
+10. [http://bumdeshelumo.online/]  
+    **singgimokodompit**  
+     Assalamu'alaikum pak Saya Singgi Mokodompit, izin share project website.
+
+    Jadi ceritanya saya membuat website untuk mempermudah masyarakat di desa Gorontalo agar lebih mudah mencari Unit-unit usaha seperti Tabung Gas LPG dan Tenda/Baliho
+
+    Nama websitenya adalah Badan Usaha Milik Desa (BUMDES)
+
+    Website ini sudah dinamis dan saya buat menggunakan HTML, CSS, PHP secara Native.
+    Dan sudah ada fitur halaman Adminnya
+    Ini berkat dari video2 bapak yg saya pelajari.
+
+    Mohon maaf bila banyak kekurangan karena masih dalam tahap belajar
+
+<br><br>
