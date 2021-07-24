@@ -5759,3 +5759,16 @@ SISWA
     maka dari itu saya mau berterimakasih sekali kepada Pa Dika, karena melalu video itu Pa Dika mengajarkan apa yang saya butuhkan pada saat saya kelas 2 SMP dulu.
 
 <br><br>
+11. [http://portfolio.rbot-rizqy.online]
+    **R-Dev Studio**
+    Izin share portfolio pribadi, pada portfolio ini masih banyak kekurangan, hanya dapat ditampilkan dimode landscape(Desktop). Masih dalam tahap pengembangan.
+    
+    Tech Stack :
+    - Next.JS
+    - Framer Motion
+    - Three.js
+    - Canvas
+    - Locomotive Scroll
+    - SASS
+    - Jotai
+    -
