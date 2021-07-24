@@ -5554,3 +5554,208 @@ SISWA
     Mohon maaf bila banyak kekurangan karena masih dalam tahap belajar
 
 <br><br>
+
+### 24 Juli 2021
+
+1.  [https://nomadkode.github.io/travelover/]  
+     **ramset**  
+     Halo teman-teman, izin submit lagi untuk showcase project.
+
+    Pada kesempatan kali ini saya mencoba implementasi hasil belajar saya menjadi sebuah website landing page yang saya beri nama Travelover.
+    Travelover is a website to gives you insight about travel destinations in the world & the hotels nearby.
+
+    Teknologi yang digunakan sebagai berikut:
+
+    - React JS
+    - Styled Components
+    - React Icons
+
+    link sourcecode: [https://github.com/nomadkode/travelover]
+
+    Semoga teman-teman berkenan untuk memberi kritik dan saran yang membangun bagi saya agar website ini bisa lebih baik lagi ke depannya. Terima kasih. :wpugege:
+
+<br>
+
+2.  [https://fadlanlubis.net]  
+     **fadlanlubis**  
+     Assalamualaikum WR. WB.
+
+    permisi.. teman teman saya mau share projek saya, sudah dipakai di PENMAD KABUPATEN LANGKAT.
+    github saya [https://github.com/fadlanlubis1406]
+
+    tekhnologi dan fitur yang digunakan sederhana :
+
+    1. Backendnya framework codeigniter 4
+    2. Frontendnya framework bootstrap 5
+    3. font google
+    4. untuk grafiknya ChartJs
+    5. Tersedia halaman admin dan halaman untuk akun madrasah
+    6. dan lain lain
+
+    Terima kasih sebelumnya Saya M. NUR FADLAN LUBIS (17 Tahun, kelas 2 SMK)
+
+<br>
+
+3.  [https://natanieljoshe.github.io/]  
+     **NATAN**  
+     Halo teman-teman semua, ijin mau ikutan showcase project untuk pertama kalinya :wpuclap:
+
+    Perkenalkan saya natan usia 15 tahun, akan menunjukan website pertama dan portofolio pertama saya yang saya buat dalam 2 minggu terakhir
+
+    Menggunakan:
+
+    - Html
+    - Css
+    - Sedikit Javascript
+
+    Kendala:
+
+    - Sempat kesulitan saat upload ke github (jadi pada akhirnya, saya menggunakan github desktop bukan pakai git, karna pada saat git di push, tidak ada permintaan login akun github)
+    - Kesulitan saat membuat mobile responsive
+
+    Di website ini saya berusaha agar tidak sama sekali menonton dari tutorial youtube cara membuat website portofolio karena ingin mempraktekan hasil pembelajaran html css saya yang telah dipelajari selama 1 bulan
+    namun saya tetap harus menonton beberapa tutorial karna ada yang belum saya ketahui seperti navbar mobile dan menyambungkan form ke goggle sheet
+
+    link repository github: [https://github.com/natanieljoshe/natanieljoshe.github.io]
+
+    Terima kasih pak sandhika dan teman teman semua semoga berkenan memberi kritik dan saran agar saya bisa lebih berkembang
+
+<br>
+
+4.  [https://elvirafimansyah.github.io/leap.github.io/]  
+     **ⓇⒺⓍⓊⓈ 🌲**  
+     Halo Teman2, Nama saya Elvira Firmansyah, umur 13 tahun .
+    saya mau share project saya, ini adalah pertama kali nya saya mengikuti showcase project..
+    saya menggunakan:
+
+    1. HTML
+    2. CSS
+    3. SEDIKIT JS
+
+    link-github: [https://github.com/elvirafimansyah/leap.github.io]
+    Terima kasih Pak Sandhika...:wpugege: :slight_smile:
+
+<br>
+
+5.  [https://syofyanzuhad.my.id/]  
+     **syofyanzuhad**  
+     Testing kirim web profile
+
+    link project : [https://github.com/syofyanzuhad/syofyanzuhad.github.io]
+
+    minta kritik sarannya pak..
+
+<br>
+
+6.  [https://nay-pedia.com/]  
+     **FlickXace**  
+     Halo Teman2, Nama saya Rahman, umur 16 tahun
+    saya mau share project saya, ini adalah pertama kali nya saya mengikuti showcase project..
+    saya menggunakan:
+
+    1. PHP & HTML
+    2. CSS
+    3. JAVASCRIPT
+    4. BOOTSTRAP
+
+    Terima kasih Buat Pak Sandhika Galih
+
+<br>
+
+7.  [https://cafekinton.rf.gd/]  
+     **ShaWann**  
+     Assalamualaikum
+
+          Izin share project (tugas dari sekolah) cafe online yang bernama CafeKinton dibuat oleh :
+          @ShaWann
+          @! Han
+          Miko
+
+          Teknologi yang digunakan  (tanpa framework):
+          -PHP
+          -CSS
+          -JavaScript
+          -MySQL
+          -Fontawesome
+
+          Bisa menggunakan akun dibawah ini atau melakukan register
+          Akun admin :
+          Username : kinton
+          Password : kinton
+
+          Akun customer :
+          Username : user
+          Password : user
+
+          Mohon untuk kritik dan sarannya makasih
+
+    <br>
+
+8.  [https://cloumus30.github.io/]  
+     **Cloumus**  
+     Halo teman-teman,
+    izin untuk share project pertama saya, project individu terkait portofolio saya. Saya mahasiswa Teknik Biomedik tapi hobi berkecimpung di dunia web hehehe.
+
+    Teknologi yang digunakan:
+
+    - HTML
+    - CSS
+    - Javascript
+
+    github: [https://github.com/Cloumus30]
+
+    Mohon untuk kritik dan saran dari teman-teman. Makasih :slight_smile:
+
+<br>
+
+9.  [https://reinaldousadani.netlify.app/]  
+     **Offmeta**  
+     Haihai teman-teman, mau numpang showcase portfolio aku nih. Dulu udah sempet showcase juga disini tapi sekarang udah banyak yang diganti dari teknologinya, desain nya, interaksinya, dll.
+
+    Teknologi yang dipake sekarang : ReactJS, ChakraUI, FramerMotion, dan beberapa package kecil lainnya.
+
+    Buat github nya belom aku public duluu karena lagi nambahin fitur blog dan API key masih berkeliaran dengan liar monmaap :sweat_smile:.
+
+    Masih banyak bug yang ada disini, kaya animasi nya masih sering jittering, dll, dan otak saya udah nyerah mau bugfix wkwk. Enjoy & constructive criticism is highly appreciated :pray: (sidenote: dark mode lebih ahmantap :joy:)
+
+<br>
+
+10. [https://beritasaham.id/]  
+    **daniwebdev**  
+     Assalamualaikum,
+    Perkenalkan saya Dani Padika dari Bogor, subscriber lama pa dika,
+    Mohon izin saya mau share project pribadi saya meskipun belum sempurna.
+
+    Aplikasi ini untuk mengumpulkan semua berita2 tentang investasi dan saham dari berbagai situs kedalam satu halaman website.
+    Sistem bloging saya terinspirasi dari Medium, jadi saya buat platform mirip medium tapi untuk para pelaku, jurnalis, ataupun siapa saja yang tertarik dengan pasar modal.
+
+    Untuk sementara fitur yang bisa digunakan antara lain:
+
+    - Login/Register with google
+    - News Feed (kumpulan berita dari berbagai situs)
+    - Charting
+    - Guest blogging (setiap user bisa menulis artikel)
+    - Follow/Unfollow
+    - Menampilkan Data Historical
+    - Like Article
+
+    Stack & Teknologi yang saya gunakan saat ini antara lain:
+
+    - Laravel 8 - PHP 8 (BackEnd App)
+    - Bootstrap (CSS Framework)
+    - jQuery (Javascript Library)
+    - Gulp (Minify, Obfuscation)
+    - Cheerio - NodeJS (News Scraping)
+    - Pandas, PeeWee - Python (Untuk memanipulasi data historical dan menyimpan ke database)
+    - PostgreSQL (Aplikasi Database)
+    - TimescalDB (Historical Database)
+    - Nginx (Webserver)
+    - Cloudflare (DNS)
+    - Google Cloud Storage (Penyimpanan File Upload)
+
+    Mungkin hanya itu saja, mohon keritik dan masukan nya dari Pa Dika dan teman-teman, suatu kehormatan jika padika mau mencoba aplikasi yang saya buat itu.
+
+    Fyi, saya belajar PHP dari kelas 2 SMP secara Otodidak, tapi saya tau secara teori setelah nonton video Pa Dika tentang PHP OOP beberapa tahun yang lalu.
+    maka dari itu saya mau berterimakasih sekali kepada Pa Dika, karena melalu video itu Pa Dika mengajarkan apa yang saya butuhkan pada saat saya kelas 2 SMP dulu.
+
+<br><br>
