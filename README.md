@@ -5759,3 +5759,180 @@ SISWA
     maka dari itu saya mau berterimakasih sekali kepada Pa Dika, karena melalu video itu Pa Dika mengajarkan apa yang saya butuhkan pada saat saya kelas 2 SMP dulu.
 
 <br><br>
+
+### 31 Juli 2021
+
+1.  [https://yanyiik99.github.io/portofolio-b5/]  
+     **yanyiik**  
+     Hallo Pak Dosen yang lagi Showcase Project
+    Izin ikut gabung show case Project pak
+    Saya bikin "Personal Portofolio"
+    Bahasa:
+
+    - HTML5
+    - CSS3
+    - Bootstrap 5
+
+    Github : [https://github.com/yanyiik99/portofolio-b5]
+
+    Terimakasih pak sudah up Portofolio Pribadi saya:grin:
+
+<br>
+
+2.  [https://bit.ly/Bio-MGKPs]  
+     **MGKPs**  
+     Assalamualaikum, Halo Semuanya.. Perkenalkan saya Garuda, kelas 2 SMP dari Bandung.
+    Izin Share project iseng-iseng sekalian belajar, membuat Bio Link Tool (Semacam Linktree)
+
+    yang dibuat dengan:
+    -HTML
+    -CSS
+    -Fonts Google
+    -Font Awesome
+
+    Link Repo > [https://github.com/Mgkusumaputra/Social-Media-Link]
+
+    Terima kasih semua atas perhatiannya...
+
+<br>
+
+3.  [https://dewetour.vercel.app/]  
+     **nuril**  
+     Selamat malam pak Sandika semoga dalam keadaan sehat
+    Izin ikut gabung show case Project pak
+    applikasi travel agent
+    tools:
+
+    - Next js / React js
+    - Material-ui
+    - Node js
+    - Express js
+    - JSON Web Token
+    - Sequelize
+
+    ***
+
+    Github: [https://github.com/anfedu/dewe_tour]
+
+    akun user (lia@gmail.com, 123456789)
+    akun admin (admin@admin, 123456789)
+
+<br>
+
+4.  [http://twice-api-client.adhywiranto.xyz/]  
+     **adhywiranto44**  
+     Hi guys, izin share projek lanjutan dari projek saya yang pernah pak Sandhika showcase sebelumnya.
+
+    Jadi projek ini bernama twice-api-client, ini projek terpisah dimana merupakan bagian frontend untuk menampilkan data yang diambil dari API saya yang ada di link ini: [http://twice-api.adhywiranto.xyz/] (projek ini juga sudah redesign UI-nya).
+
+    Untuk teknologinya sendiri memakai React.js--yang baru saya pelajari seminggu ini--sebagai frontend-nya bersamaan dengan Bootstrap dan axios untuk mengambil data.
+
+    Kenapa terpisah? Karena saya lagi nyobain gimana jika suatu server berkomunikasi dengan server yang lain, nah saya menemukan caranya menggunakan module axios. Dan ternyata ada problem kena CORS (Cross-Origin Resource Sharing). Maka dari itu saya juga harus modify code server API-nya agar meng-enable si CORS tadi.
+
+    Akhirnya solved juga hehe, cuman masih ada kekurangan di bagian menampilkan datanya, tombol untuk menampilkan data harus di klik beberapa kali baru muncul datanya, dan data gambar ada yang tidak muncul (mungkin ada masalah lain dari server penyedia gambarnya). Terlepas dari itu, beginilah jadinya, selebihnya akan saya improve lagi, hehe.
+
+    Repo: [https://github.com/AdhyWiranto44/twice-api-client]
+
+    Jika merasa projek ini bermanfaat boleh beri apresiasi melalui link berikut: [https://saweria.co/adhywiranto44]
+
+    Untuk projek lainnya dari saya bisa kunjungi link berikut: [http://www.adhywiranto.xyz/]
+
+    Terimakasih :smile:
+
+<br>
+
+5.  [https://www.valotricks.com/]  
+     **styles**  
+     Mau share side project nih pak, untuk fun doang sih..
+    Tujuannya sih ini mau buat website untuk ngeliat statistik gameplay Valorant, skrg fitur utamanya blm ada, soalnya masih nunggu acc untuk akses API dari publisher game nya, skrg baru landing pagenya doang yg ready..
+    Teknologi yang dipake frontend nya Vue + Nuxtjs..
+    Ok gitu aja sih hehe..
+    Makasih pak.
+
+<br>
+
+6.  [https://iamgdev.my.id/]  
+     **iamgdev**  
+     Assalamu`alaikum Pak Sandhika @sandhikagalih dan teman2. Saya izin share personal website saya.
+
+    Teknologi yang digunakan:
+
+    1. SvelteJS dengan Routify untuk SSG
+    2. ViteJS
+    3. WindiCSS
+
+    Dengan waktu pengerjaan seminggu design ui dan dua minggu untuk development.
+
+    Terima kasih Pak Sandhika dan teman2.
+
+<br>
+
+7.  [https://nomadkode.github.io/travelover/]  
+     **Feri Irawan**  
+     Assalamu'alaikum Pak Sandhika @sandhikagalih dan teman2.
+
+    Perkenalkan saya Feri Irawan dari Kab. Bukulumba.
+
+    Mohon izin saya mau share showcase pertama saya, projek API Lambang Daerah Seluruh Indonesia (Lambang 34 Provinsi dan Lambang 514 Kabupaten).
+
+    Teknologi yang saya pakai:
+
+    - PHP
+
+    Link Demo & Dokumentasi:
+    https://github.com/feri-irawan/API/blob/main/list/lambang-daerah-indonesia/README.md
+
+    Mohon masukannya.
+    Terima kasih Pak Sandhika dan Teman2 :smile:
+
+<br>
+
+8.  [https://elvirafimansyah.github.io/portfolio]  
+     **ⓇⒺⓍⓊⓈ**  
+     Hello Pak Sandhika dan teman2, saya mau share personal portfolio website saya.
+    Saya Membuat web menggunakan teknologi :
+
+    1. HTML
+    2. CSS
+    3. Sedikit Javascript
+    4. Bootstrap
+
+    LInk Github: [https://github.com/elvirafimansyah/portfolio]
+
+    Terima Kasih Pak Sandhika dan teman2..:wpugege:
+
+<br>
+
+9.  [https://github.com/zuramai/mazer]  
+     **saugi**  
+     Selamat siang, aku mau share karya template bootstrap 5 aku beberapa bulan yang lalu
+
+    Mazer Admin Dashboard
+
+    - Clean
+    - Responsive and Modern
+    - 50 Pages +
+    - No jQuery dependency
+    - SCSS and Webpack
+    - Highly Customizeable
+
+<br>
+
+10. [https://rs-bed-covid-api.vercel.app/]  
+    **Satya W**  
+     Halo semuanya, ijin share project yang baru jadi, ini aku buat API Ketersediaan tempat tidur rumah sakit untuk pasien covid-19 ataupun non covid-19 di seluruh Indonesia, untuk API ini aku buat menggunakan:
+
+    1. Typescript
+    2. Vite js
+    3. Vite Plugin Mix, plugin yang berguna untuk menjalankan backend API dengan menggunakan Vite
+    4. Cheerio
+
+    Kalau disini ada yang ingin membuat aplikasi menggunakan API ini, kalian bisa membuat pull request ke repo aku dan letakkan project kalian di kolom showcase yang ada di file readme.md.
+
+    Oh ya, jika ada yang tertarik untuk berkontribusi bareng, silakan buat pull request di repo ku, aku sangat terbuka jika ada yang ingin berkontribusi bareng di repo ini.
+
+    Repo: [https://github.com/satyawikananda/rs-bed-covid-indo-api]
+
+    Thank you
+
+<br><br>
