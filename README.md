@@ -5936,3 +5936,221 @@ SISWA
     Thank you
 
 <br><br>
+
+### 7 Agustus 2021
+
+1.  [https://buzzyapp.herokuapp.com/]  
+     **yanyiik**  
+     Halo selamat sore, ijin share project kecil-kecilan
+
+    Buzzy
+    Web untuk mendownload music dari soundcloud
+
+    Teknologi yg dipakai
+    Frontend:
+
+    - sass
+    - cash-dom
+    - webpack
+      Backend:
+    - express + ejs
+    - soundcloud-downloader
+
+    Link terkait
+    Repo: [https://github.com/BayuDC/buzzy/]
+
+    Terima kasih
+
+<br>
+
+2.  [https://savelinks.netlify.app/]  
+     **MhdPauzi**
+    Assalamualaikum pak dika dan teman2 semua. Izin share project website sederhana saya.
+
+    Website ini saya buat karena saya kesulitan untuk mengelola link-link seperti link film yang ingin saya tonton, link absen classroom dan lain-lain yang sebelumnya saya simpan ditab browser hp saya.
+
+    Website ini memiliki fitur:
+
+    - Add link
+    - Search
+    - Sort
+    - Delete
+    - Edit
+    - Export/download dan Import (sebagai ganti share)
+
+    Website ini dibuat mengunakan:
+
+    - HTML
+    - CSS(menggunakan sass)
+    - Vanilla Javascript
+    - LocalStorage
+
+    Link repo : [https://github.com/muhammadpauzi/web-links-management]
+
+    Terima kasih
+
+<br>
+
+3.  [https://billdev12.000webhostapp.com/]  
+     **Sabil**  
+     Assalamualaikum, halo semuanya.
+
+    Kali ini saya mau share project Codeigniter saya bernama SISKLIN (Sistem informasi klinik). Sesuai namanya aplikasi ini digunakan untuk menyimpan dan mengelola pendataan terkait klinik/rumah sakit dengan sistem yang sederhana dan universal.
+
+    Fitur fitur nya adalah :
+
+    - Antrian pasien dengan panggilan suara
+    - Stock dan media penyimpanan obat/alat medis
+    - Laporan riwayat kunjungan pasien dalam tahunan bulanan maupun harian
+    - Dan masih banyak lagi
+
+    Tak hanya itu juga di lengkapi dengan fitur konsultasi untuk pasien ke dokter mirip halodoc.
+
+    {
+    link : [https://billdev12.000webhostapp.com/],
+    myGithub : github.com/moladev20
+    }
+
+    Saya berterima kasih kepada pak dika dan teman teman atas kritik dan sarannya
+
+    Untuk Source code, silahkan inbox saya ke 083140318095
+
+<br>
+
+4.  [https://ilham25.github.io/twittard/]  
+     **Adachii~**  
+     nitip project gabut
+
+    bikin thread twitter ga perlu twitter :v
+    tinggal input sesuai kebutuhan
+
+    html, css, js biasa dengan package file saver dan dom-to-image
+
+<br>
+
+5.  [https://bed-covid-rs-indo.vercel.app/]  
+     **hendraaagil**  
+     Halo semuanya,
+    Ijin share website yang memberikan informasi terkait ketersediaan tempat tidur rumah sakit untuk pasien covid-19 ataupun non covid-19 di seluruh Indonesia.
+
+    Dibuat menggunakan:
+
+    1. Next.js
+    2. Chakra UI
+    3. API dari @Satya W
+
+    Buat yang mau kontribusi bisa buat pull request atau jika menemukan kesalahan bisa buat issue di repo ini.
+
+    Repo: [https://github.com/hendraaagil/bed-covid-rs-indo]
+
+    Semoga bisa bermanfaat juga untuk teman - teman semua. Terima kasih.
+
+<br>
+
+6.  [https://github.com/slowy07/brain-tumor-detection]  
+     **arfy.slowy**  
+     Selamat tengah malam pak
+    izin share showcase project yang mungkin bisa bermanfaat terutama di dunia medis.
+
+    tech information:
+
+    - tensorflow (keras)
+    - pyTorch
+
+    jadi disini saya showcase project berupa aplikasi yang bisa mendeteksi tumor dan memprediksi waktu bertahan pasien yang disebabkan oleh tumornya
+    untuk paper(jurnal) bisa di cek disini:
+    [https://bit.ly/3ytT4zX]
+
+    untuk pengerjaan saya sudah lupa berama lama, tapi kemungkinan hampir 4 bulan (riset),sementara untuk aplikasinya saya pembuatan 12 hari :sweat_smile:
+
+    untuk githubnya sekalian dokumentasi penggunaanya bisa di:
+    [https://github.com/slowy07/brain-tumor-detection]
+
+    terima kasih, selamat tengah malam :wpusiap: :hand_splayed: :joy:
+
+<br>
+
+7.  [https://edwintantawi.vercel.app/]  
+     **Edwin Tantawi**  
+     Hallo Teman teman, izin share website personal baru saya.
+
+    TechStack:
+
+    1. Next JS
+    2. Tailwind CSS
+    3. Progressive Web Apps
+    4. Vercel
+    5. Figma
+
+    Github Repo: [https://github.com/edwintantawi/personal-projects__next-portfolio]
+
+    Jika ada kritik dan saran jangan ragu untuk contact saya ya supaya saling belajar dan bertukar pikiran. Terima kasih atas kesempatannya
+
+<br>
+
+8.  [https://ammarbahtiar.my.id/]  
+     **ammarbahtiar**  
+     Hallo teman-teman semuanya, izin share website portofolio saya pribadi, pertama nya nonton tutorial ngobar cara membuat website portofolio , tapi sudah saya modif sebisa saya.
+
+    Dibuat pake :
+    -Html
+    -Css
+    -aos js
+    -gsap
+    -Booststrap 5
+
+    Kritik dan saran dipersilahkan. Terimakasih
+
+    Link github: [http://github.com/ammarbahtiarasli]
+
+<br>
+
+9.  [https://harpi.rocks/]  
+     **harpi**  
+     Assalamu'alaikum, malam Pak @sandhikagalih dan temen2.
+    Izin share nama project open source Klisé sebuah tema sederhana buat si static site generator jekyll :ruby: .
+
+    Yang punya fitur diantaranya
+
+    - Light & Dark Mode support :last_quarter_moon:
+    - Customizable (using .scss)
+    - Responsive (desktop, tab and mobile)
+    - Mobile First Design
+    - Images of post Organized
+    - HTML Minify
+    - W3C Validated
+    - Lighthouse and PageSpeed Passed
+    - Dan lain-lain
+
+    Dibuat menggunakan :
+
+    - Jekyll
+    - Javascript
+    - HTML
+    - CSS / SCSS
+
+    Demo : [https://harpi.rocks/] atau [https://klise.vercel.app/]
+    Github Repo : [https://github.com/piharpi/jekyll-klise]
+
+<br>
+
+10. [https://staging-studiokarsa.netlify.app/]  
+     **! ! Hot Potato**  
+     Halo semuanya, mohon ijin untuk share hasil slicing dari design ke development dengan berkolaborasi dengan teman saya.
+
+    Jika berkenan bisa mengisi feedback dibawah :
+    [https://s.id/feedback-web-karsa]
+
+    Teknologi yang digunakan:
+
+    - ReactJS & GatsbyJS
+    - TailwindCSS
+
+    Github Repo:
+    [https://github.com/StudioKarsa/studiokarsa-web/tree/staging]
+
+    Pengisian feedback pure hanya rating website, laporan bug/error serta kritik atau saran. Tidak ada input data pribadi.
+
+    Terima kasih
+
+<br><br>
