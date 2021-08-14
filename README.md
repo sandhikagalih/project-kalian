@@ -6267,7 +6267,7 @@ SISWA
       - PHP PDO MySQL 
 
       Website: 
-      Github: [github.com/brokiem/MCServerList]
+      Github: [https://github.com/brokiem/MCServerList]
 
       Untuk fitur fitur nya bisa dilihat langsung ke website nya yaa :upside_down: 
 
