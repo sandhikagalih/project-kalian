@@ -6154,3 +6154,192 @@ SISWA
     Terima kasih
 
 <br><br>
+
+
+### 14 Agustus 2021
+
+1.  [https://ion-covid.netlify.app/]  
+     **bahyusanciko**  
+      Assalamualaikum pak sandhika 
+      saya ada apps statistik data covid Untuk Informasi Terbaru Penyeberan Virus Covid-19 , Data Terupdate Melalui [https://covid19.mathdro.id/api] Dan [https://api.kawalcorona.com/]
+
+      Teknologi yang digunakan:
+      - Ionic 
+      - Angular 
+
+      Github Repo:
+      [https://github.com/bahyusanciko/ion-covid-19]
+
+<br>
+
+2.  [https://kurz.evl.pink/]  
+     **Miraicle**  
+      Halo teman - teman dan Pak Dika.
+      Ijin untuk share project terbaru saya, yaitu shortlink generator.
+
+      Fitur - fiturnya :
+      - Create shortlink
+      - Delete shortlink
+      - QR Code sharing
+
+      Tech stack yang dipakai :
+      FE : React , Vite, Tailwind
+      BE (Serverless) : Express + Supabase (DB)
+
+<br>
+
+3.  [https://handform-c62a3.web.app/]  
+     **Alfirman Pahlepi**  
+      Halo semua,
+      saya mau share project iseng saya yang merupakan Google Forms Clone.
+      project ini sederhana banget cuma ada 2 halaman :v yang saya buat selama 10 hari, tapi fiturnya insya Allah sudah berjalan dengan semestinya.
+      btw project ini saya buat untuk mengisi kegabutan saya di masa ppkm
+      buat teman teman yang mau kembangin, sourcecode ada di github, jangan lupa di Star :slight_smile:
+
+      teknologi yang saya gunakan :
+      - depan : React js
+      - belakang : Firebase
+      - styling : TailwindCSS
+      - animasi : Framer Motion
+      - ikon : Heroicons
+
+      Link repo : [https://github.com/ezza022/handform]
+
+      itu aja, makasih pak udah mau direview, jangan lupa titik koma teman teman.
+
+<br>
+
+4.  [https://adityamputra27.netlify.app/]  
+     **adityamputra27**  
+      Assalamualaikum, halo teman2 dan pak dhika.
+      Izin share portfolio website saya, dapet referensi dari youtube dan di modifikasi lagi
+
+      Dibuat menggunakan :
+      - HTML
+      - CSS
+      - JS
+      - Animate On Scroll 
+
+      Untuk kedepannya nanti akan single page menggunakan nuxt js.
+
+      Ini link github saya.
+      [https://github.com/adityamputra27]
+
+      Mohon maaf portfolionya belum full semua dan  masih banyak kekurangannya kak/pak, kritik dan sarannya ditunggu, terimakasih banyak...
+
+<br>
+
+5.  [https://satria-herman.web.app/]  
+     **satria**  
+      Assalamu'alaikum . Selamat Siang Pak Dhika dan Teman - teman . Izin share website portfolio saya , project yang saya cantumkan sudah real project dan ada fee nya
+
+      Tech Stack :
+      - HTML
+      - CSS
+      - JS
+      - Bootstrap 5
+      - Jquery
+      - Slick.js
+      - Baffle.js
+
+      Web nya sudah PWA dan dihosting menggunakan firebase . Untuk score audit di lighthouse juga udah lumayan tinggi
+
+      Mohon saran dan masukan dari temen - temen dan Pak Dhika
+
+<br>
+
+6.  [https://www-mcserverlist.herokuapp.com/]  
+     **broki**  
+      Hai semuanya! Saya mau izin share project website open source yaitu Minecraft Server List, daftar Minecraft bedrock edition server.
+
+      Dibuat menggunakan:
+      - PHP
+      - JavaScript
+      - HTML
+      - CSS
+      - Bootstrap 5 
+      - JQuery
+
+      IDE yang digunakan:
+      - PHPStorm
+
+      Database:
+      - PHP PDO MySQL 
+
+      Website: 
+      Github: [github.com/brokiem/MCServerList]
+
+      Untuk fitur fitur nya bisa dilihat langsung ke website nya yaa :upside_down: 
+
+      Buat yang mau daftarin server Minecraft nya bisa melalui link diatas ^_^
+
+      Maaf kalau ada code yang kurang bagus atau efisien karena baru belajar buat website 1 bulan yang lalu hehe
+
+
+
+<br>
+
+7.  [https://akbarhps.github.io/p5_bubble_sort_visualization/]  
+     **akbarhps**  
+      Hai semuanya, izin share hasil kegabutan saya
+
+      Tech stack:
+      - Html
+      - Css
+      - p5.js
+
+      1. Visualisasi bubble sort
+      [https://akbarhps.github.io/p5_bubble_sort_visualization/]
+
+      2. Visualization algoritma a* (path finding)
+      [https://akbarhps.github.io/p5_astar_visualization/]
+
+      Cerita dibalik web ini sih karna gabut aja ya, yaaa jadi deh web nya
+
+<br>
+
+8.  [http://rentalpemweb.epizy.com/]  
+     **rendrajan666**  
+      Halo teman-teman dan Pak Dhika
+      Izin share project Codeignater pertama saya dan kawan2 sewaktu UAS kemarin berhubung tampilan g terlalu bagus karena mengedepankan fungsi hehehehe.... Biasa SKS(system kebut semalam)
+
+
+      Website Rental Game Console
+
+      Untuk linknya ada di sini: [https://github.com/janurendra05/RentalUMN_Codenighter]
+
+      Untuk kedepannya saya sendiri baru kepikiran memperbaiki tampilan mohon masukannya !!!
+
+<br>
+
+9.  [https://smk3-peduli-covid.herokuapp.com/]  
+     **aqso**  
+      Halo semuanya
+
+      Izin share projek PKL saya, ini adalah projek tentang covid-19. Daripada nganggur di laptop doank, mending di-upload ke discord WPU agar bisa sebagai motivasi buat saya pribadi dan juga mudah-mudahan buat temen-temen semua. Jangan lupa kasih saran kritik yang dapat membangun.
+
+      Ceritanya saya adalah siswa SMK jurusan TKJ. Nah guru saya memberikan tugas untuk membuat projek apapun yang berbasis IT. Karena saya gak ngerti tentang materi TKJ makanya saya dan kelompok saya memutuskan untuk buat website tentang covid-19. Kebetulan saya pribadi lagi ngikutin series tentang API di channel WPU. 
+
+      Dibuat menggunakan:
+      - HTML
+      - CSS(Bootstrap)
+      - Javascript
+      - PHP
+      - AOS
+
+      Terima kasih semuanya
+
+<br>
+
+10.  [https://zhycorp.net/]  
+     **Zen Shibata**  
+      Hi everyone! izin share landing page buatan saya :^)
+      Back story: gabut pengen coba nextjs x tailwind 
+      Build with:
+      - Next.js & Typescript 
+      - Tailwindcss 
+      - MongoDB
+
+
+<br><br>
+
