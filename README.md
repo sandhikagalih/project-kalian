@@ -6267,7 +6267,7 @@ SISWA
       - PHP PDO MySQL 
 
       Website: 
-      Github: [https://github.com/brokiem/MCServerList]
+      Github: [github.com/brokiem/MCServerList]
 
       Untuk fitur fitur nya bisa dilihat langsung ke website nya yaa :upside_down: 
 
@@ -6340,6 +6340,268 @@ SISWA
       - Tailwindcss 
       - MongoDB
 
+
+<br><br>
+
+
+### 21 Agustus 2021
+
+1.  [https://ebansostest.erstevn.com/]  
+     **erstevn**  
+      Pendahuluan
+
+      Assalamualaikum pak @sandhikagalih dan teman2, saya mohon izin untuk share project saya tentang E Bansos gitu.
+
+      Sebenernya proyek ini berbarengan rilisnya tanggal 16 Juli kemarin sama yang punya Kemensos, bisa dicek di https://cekbansos.kemensos.go.id/
+
+      Jadi aplikasi ini digunakan untuk ngecek data penduduk yang berhak nerima, dan melakukan pendataan oleh petugas kelurahan, rw, atau rt, mengingat banyak kejadian satu orang pernah ada yang nerima 2x karena pendataannya masih pake excel. Dan sudah pakai metode MVC.
+
+      Fitur
+
+      CRUD, Login/Registrasi, Pembatasan Hak Admin (Misalnya petugas RW 01 tidak dapat melihat data penduduk RW lain, meskipun url detail penduduknya diinput manual (bisa dicoba copy paste data url detail penduduk RW yang berbeda dengan akun petugas RW yang sedang login), riwayat aktivitas admin.
+
+      Pengendalian Error & Privilege
+
+      Error 404 bisa muncul kalau alamat controller/methodnya tidak ditemukan, bisa dicoba dengan mengetikan tulisan acak di urlnya.
+
+      Error 401 bisa muncul ketika alamat controller/methodnya diakses namun belum login/login sebagai pengguna yang tidak memiliki privilege, bisa dicoba diuji ketika belum login dan masuk ke url [https://ebansostest.erstevn.com/admin]
+
+      Pengujian Data
+
+      Cek di halaman beranda sebelum login
+
+      NIK: 1114966709060280
+      Tanggal lahir: 15 - 12 - 1971
+
+      Jenis - jenis akun
+
+      Petugas Kelurahan (lihat riwayat aktivitas pengguna, kelola data penduduk, dan kelola data petugas)
+      Username : superadmin
+      Pass : 12345678
+
+      Petugas RW (hanya dapat kelola data penduduk RW)
+      Username : Sarijadi01
+      Password :  Maimunah@245
+
+      Petugas Bansos (Input data bansos)
+      Username : BansosTest
+      Password : Fitriani@646
+
+      Tech Used
+
+      - HTML CSS JS
+      - Jquery
+      - PHP 8 Native
+      - Bootstrap 5
+      - Faker (buat password generator yang masih readable)
+      - Particles JS (iseng aja)
+
+      Link github : [https://github.com/erstevn/ebansos]
+
+<br>
+
+2.  [http://beee.cf/]  
+     **Vins**  
+      Halo, kali ini saya mau ngeshare project bot discord yang terinspirasi dari bot MEE6, bot ini bisa di control melalui website/dashboard dengan gampang. btw nama botnya Bee3 
+
+      alat alat:
+      - javascript
+      - html
+      - bootstrap 4
+      - ejs
+      - css
+      - npm package
+
+      list lib npm yang di pakai:
+      - discord.js
+      - mongoose
+      - fs
+      - ytdl-core
+      (masih banyak lagi tapi saya naruh yang penting2 aja)
+
+      fitur botnya saat ini:
+      - music
+      - simple moderation
+      - auto responder
+      - dashboard
+      - anti link
+      - anti badword
+
+      dan ada beberapa fitur lagi yang akan datang
+
+      bot ini masih alpha jadi wajar kalo fiturnya masih dikit, nanti akan saya kembangin lagi, kayak music yang bisa di kontrol lewat website tapi kayaknya masih lama soalnya masih belajar ngebuat music controller hehe, btw proses pembuatan bot ini sudah berjalan 1 bulan lebih, mau 2 bulan.
+
+      source codenya masih belum di update jadi agak beda sama botnya sekarang [https://github.com/Bee3-Team/Bee3]
+      
+      kalau mau cobain dashboardnya, harus invite terlebih dahulu botnya ke server anda agar bisa di gunakan dashboardnya, beserta permission yang lengkap :)
+
+      link :
+      - invite [http://beee.cf/invite]
+
+      thanks, kalo ada bug atau saran silahkan reply pesan ini atau dm saya :)
+
+<br>
+
+3.  [https://downtown.iwgx.io/]  
+     **iwgx**  
+      Downtown - well-crafted countdown timer
+
+      Ini app hitung mundur biasa aja, dulu dibikin waktu saya jadi asisten lab RPL di kampus.
+
+      Karena saat menjadi pengawas ujian saya perlu memberitahukan waktu yang tersisa kepada peserta ujian, lebih mudah kalau saya langsung tampilkan aja timernya.
+
+      Tech stack:
+      - React + Typescript, sekalian eksperimen bikin state management simpel sendiri
+      - Aphrodite agar stylingnya berasa kayak di React Native
+      - Render untuk deployment
+
+      Sebenarnya banyak hal yang bisa ditingkatkan dan ditambahkan, cuma karena ini sudah sesuai dengan kebutuhan saya waktu itu jadi app nya masih simpel.
+
+      Repository: [https://github.com/iwgx/downtown]
+
+<br>
+
+4.  [http://stcrumus.epizy.com/]  
+     **apen**  
+      Halo Pak Dhika dan teman-teman semuanya nama saya Steven. 
+      Saya izin share project aplikasi untuk menghitung pelajaran yang memiliki rumus.
+
+      Aplikasi ini menyediakan lumayan banyak materi berumus dari Matematika dan Fisika, untuk mengunakannya mudah saja tinggal klik materinya lalu nanti akan muncul form untuk menghitung. 
+
+      Dibuat dengan :
+      - HTML 
+      - CSS -> Bootstrap v5
+      - Jquery
+      - PHP 
+      - MYSQLI
+
+      Ini untuk Reponya : [https://github.com/Apenchu/stc-rumus]
+
+<br>
+
+5.  [https://iqbalroni.github.io/portofolio3/]  
+     **Moch iqbal**  
+      Hallo pak dhika dan teman teman semuanya
+      Kali ini saya mau share project saya hasil dari kegabutan PPKM
+      insipirasi dari showcase kemarin yang windows lama dan saya bikin windows terbarunya
+
+      Dibuat menggunkanan:
+      -Html
+      -Css
+      -JavaScript
+      -JQuery
+      -Bootstrap 4.6 (hanya menggunakan row-col nya)
+      -fontawesome
+
+      Fitur:
+      -DarkMode
+      -Draggable aplikasi
+      -Draggable aplikasi di bawah (navbar)
+      -Kalkulator
+
+      Butuh saran lagi dari master master ni
+      Jangan lupa Gang coding
+
+      Terimakasih  Semuanya
+
+<br>
+
+6.  [http://botgabut.epizy.com/]  
+     **koko123tutorial gabut**  
+      Hai semuanya saya mau share-project dari Bot Gabut saya kemarin ini ada webnya
+
+      Menggunakan:
+      - Bootstrap :bootstrap: 
+      - Visual Studio Code :vscode: 
+
+      Hosting & Domain:
+      - InfinityFree
+      
+      Link Invite Bot:
+     [https://discord.com/oauth2/authorize?client_id=856891420535291926&permissions=1563950806&scope=bot]
+
+
+<br>
+
+7.  [https://myschool.fadlanlubis.net/]  
+     **fadlanlubis**  
+      Assalamualaikum, halo semuanya saya mau share project kecil kecilan ni Tentang CMS Sekolah. Nama Project nya  myschool (Pesaing Sekolahku Nanti). Kurang Lebih 1 bulan pengerjaan, tapi gak sering karena ada project lain jadi sering ditinggal,
+      Tekhnologinya:
+      1.    Codeigniter 4 Sebagai Backend
+      2.    Bootstrap 5 Sebagai Frontend
+      3.    AOS Untuk Animasi Ketika Di Scroll ( Pasti Pada tau ya )
+      4.    Animate.css Untuk animasi element ( Beda Sama AOS )
+      5.    Datatables Jquery Untuk membuat Tabelnya
+      6.    Dan Lain Lain
+
+      Fitur Fiturnya :
+      1.    Landing Page ( Ya Pasti lah )
+      2.    Darkmode dan Lightmode
+      3.    Login
+      4.    Halaman Admin
+      5.    Halaman Berita
+      6.    Download File
+      7.    Alumni
+      8.    Data Pengajar
+      9.    Galeri Foto
+      10.    Info Pengumuman
+      11.    Portal Aplikasi
+      12.    Slide Show
+      13.    Youtube Video
+      14.    Link Tautan
+      15.    Dan Lain Lagi Kalau Saya Sebutin Semua Entar Panjang Banget
+      
+      Kunjungi Juga Github Saya [https://github.com/fadlan1406] ( Di Star woy )
+      Mungkin Itu Saja, Terimakasih Sebelumnya, 
+      Buat Pak Dika Saya Berterima Kasih Sebesar besarnya hampir Semua ilmu ngoding, saya dapet dari channel bapak, sekali lagi terima kasih pak, sehat terus dan tetap bemanfaat buat orang banyak
+      Wassalamualaikum Wr.Wb
+
+<br>
+
+8.  [https://github.com/AgungYogaSetiawan/web-app-streamlit]  
+     **Ez.Yoga**  
+      Assalamualaikum, izin share project data science saya yaitu membuat web app data science. web tersebut dapat memberikan skor dari sebuah dataset dan skor tersebut juga dipengaruhi dengan parameter. kebetulan model machine learning yang saya pakai yaitu LogisticRegression untuk mengklasifikasikan output pada dataset. kita dapat mengatur parameter nya sehingga skor yang dihasilkan menjadi lebih bagus.
+      Teknologi yang saya pakai:
+      1. Streamlit
+      2. Pandas 
+      3. Python
+      4. Scikit-learn
+
+      Silahkan beri tanggapannya, maaf kalau project saya biasa aja masih pemula.
+      Terimakasih banyak Pak Dika dan kawan-kawan
+
+<br>
+
+9.  [https://dominggomau.webflow.io/]  
+     **DominozzDee**  
+      Halo semua aku mau izin sharing project website/portfolio/blog ku yang ku buat pake webflow. Aku belajar bikin website pake box model HTML/CSS dari video2 nya pak dhika.
+
+      Teknologi yang ku gunakan:
+      - Webflow
+      - Visual Studio Code
+
+<br>
+
+10.  [https://dan1elkusuma.github.io/]  
+     **Daniel Kusuma**  
+      Hallo Pak Dhika dan semuanya
+      Saya ingin share project saya yaitu personal website saya. Alasan saya ingin membuat website ini karena teman saya bisa membuat website sendiri dan saya jadi merasa iri, tapi saya belum paham cara membuat website sama sekali. Jadi saya belajar cara membuat website selama kurang lebih 2 bulan dan akhirnya bisa membuat website saya sendiri.
+
+      Website yang saya buat adalah personal website sederhana untuk memperkenalkan dan menjelaskan diri saya.
+      Untuk sekarang, fitur yang ada hanya beberapa animasi di icon dan text pada saat di hover (teks yang berwarna kuning saja).
+
+      Website ini dibuat menggunakkan:
+      -). Html
+      -). Css
+      -). Bootstrap
+      -). AOS (Animate On Scroll)
+      -). Gsap
+
+      Repo
+      [https://github.com/Dan1elKusuma/Dan1elKusuma.github.io]
+      
+
+      Jika ada bug atau saran mohon beritahu saya. Terima kasih Pak Dhika dan semuanya.
 
 <br><br>
 
