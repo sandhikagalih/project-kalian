@@ -6811,7 +6811,7 @@ SISWA
 <br>
 
 10.  [https://mrga.my.id/]  
-     **erstevn**  
+     **mrizqighana**  
       Assalaamualaikum semuanya,
       Saya mau share project yg saya buat, cuman web landing page sederhana aja sih. Udah pake custom domain di github pages. Sekedar iseng mengisi kegabutan dirumah...
 
