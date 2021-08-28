@@ -6605,3 +6605,224 @@ SISWA
 
 <br><br>
 
+
+### 28 Agustus 2021
+
+1.  [http://portfolio.rbot-rizqy.online/]  
+     **rizqynugroho9**  
+      Selamat pagi, izin share portfolio, portfolio ini masih dalam tahap pengembangan. Only supported in desktop. Belum di buat responsive karena waktu yang kurang memadai. 
+
+      Tech Stack :
+      - Next.Js / React
+      - Three.js
+      - Locomotive Scroll
+      - Framer Motion
+      - SASS
+      - Jotai
+
+
+<br>
+
+2.  [https://mbaharip.github.io/japanLicensePlate_Generator/]  
+     **mbahArip**  
+      Halo semuanya~
+      Izin share project yang saya kerjakan (tapi malah ngerjain project lain :joy: )
+      Project Japan Plate Generator texture simple untuk membantu saya, teman saya, dan mungkin orang lain yang hobby sama 3D / diecast.
+      Alasan bikin project soalnya kadang saya males buka file photoshop yang kadang suka makan 6 - 8gb ram karena banyak layer + size yang gede.
+
+      Website menggunakan http - css - native js.
+      Library yang dipakai:
+      - jszip
+      - dom-to-image
+      - filesaver
+      - height2normal
+
+      Repository 
+      [https://github.com/mbahArip/japanLicensePlate_Generator]
+      
+
+      Untuk kedepannya saya ada niat buat ganti sistem pemilihan regionnya menjadi map, biar lebih gampang dan cepat dibanding dropdown list.
+
+      Terimakasih semuanya~
+
+<br>
+
+3.  [https://hasanismail0305.pythonanywhere.com/]  
+     **Hasan**  
+      Halo Semuanya! Izin share project yang sudah lama saya kembangkan tapi tidak selesai - selesai, project ini saya beri nama CBTSimpel. CBTSimpel adalah aplikasi Computer Based Test / Tes Berbasis Komputer berbasis Django 3, gratis dan opensource. Alasan saya memulai project ini adalah, karena sekolah tidak dapat melaksanakan ujian seperti biasa di sekolah masing masing sehingga test harus dilakukan secara online, sayangnya kebanyakan aplikasi CBT (terutama yang gratis) tidak mudah digunakan baik oleh guru maupun siswa, oleh karena itu saya membuat aplikasi ini. 
+
+      ## Objektif Aplikasi :
+
+      - Berbahasa Indonesia
+      - UI Responsif ( Bootstrap 4 )
+      - Dapat digunakan dengan baik di Smartphone
+      - Dapat digunakan dengan baik pada internet berkecepatan rendah
+      - Antarmuka Ramah Pengguna
+      - Sepenuhnya Gratis dan Opensource
+
+      ## Teknologi :
+
+      - Django 3.1.1
+      - Django Template
+      - Bootstrap 4
+
+      Dalam pengerjaan project ini saya menemui beberapa kendala seperti, laptop rusak dan juga rasa malas dan waktu luang (kadang banyak waktu tapi males ngoding, kadang pengen ngoding tapi gak ada waktu)
+
+      Project ini baru setengah jadi (dashboard untuk pengelolaan tesnya belum bisa diakses) dan mungkin masih banyak bug).
+
+      Source Code : [https://github.com/hasanqqsp/CBTSimpel/tree/newArch]
+
+
+      Kuis Pemrograman :
+      - Kode Tes : 123123
+      - Password Tes : coding
+      - Link : [https://hasanismail0305.pythonanywhere.com/test/ZmFmOduIjItnlVEJ/]
+
+      Edit : Kalau dishowcase malem ini, jangan disimpen diawal pak.. biar saya gak ketinggalan:grin:
+
+<br>
+
+4.  [http://www.agrarisindonesia.com/]  
+     **learamadhan**  
+      Terimakasih banyak untuk Pa Sandhika. Berkat Pa Sandhika saya akhirnya bisa lebih memahami CI... Ijinkan saya share project saya, dan ini juga pertama kali saya ikutan live youtube terus disuruh ke sini. 
+      Web dibuat pake :
+      - CI4
+      - php 7
+      - lib myth/auth
+      - lib phpexcell
+      - bootstrap 4 (admin lte)
+
+      Username : learamadhan9@gmail.com
+      Password : aduhlupa??!!
+
+      Untuk hosting saya minjem punya temen karna ga pernah di pake. Daripada nganggur akhirnya saya pinjem.
+
+      Mohon saran dan kritiknya :pray:
+      Masih ada 2 menu yg belum optimal, jadi tak kosongin dulu :sweat_smile:
+
+      InsyaaAllah mau nyoba2 github juga, karna belum pernah pakai sama sekali.
+
+<br>
+
+5.  [https://effenrilagung.github.io/web-omnifood.github.io/]  
+     **RizzM**  
+      Assalamualaikum, perkenalkan nama saya Muhammad Rizki, izinkan saya untuk ikutan showcase-project, jadi ceritanya web yang akan di showkan nanti adalah project magang saya dan teman2 yang terdiri dari saya, effenril agung, muhammad ridwan, dan niki pranata web ini masih sebatas front end belum ada back endnya
+
+      Teknologi :
+      -html
+      -css
+      -jquery
+
+      Mohon kritik dan sarannya, terimakasih
+
+<br>
+
+6.  [https://arefunrushate.epizy.com/]  
+     **L'Rasyid**  
+      Halo semua....
+      Izin share sebagian" dari project saya. Ini adalah platform CBT yang bisa digunakan untuk ujian, tryout, tes, atau olimpiade dengan soal multiple choice.
+      bisa dugunakan untuk ujian sekolah, UTBK, SKD, dll.. (rencana mau bikin yg AKM)
+
+      Teknologi yg dipakai:
+      tailwind codeigniter GoogleScript
+
+<br>
+
+7.  [https://rizraz.000webhostapp.com/sistem-perizinan/]  
+     **rizki darmawan**  
+      Assalamualaikum wr wb
+      Halo Pak dhika dan teman2
+      Perkenalkan nama saya Rizki Darmawan asal kota semarang, disini saya akan sedikit share projek hasil video tutorial CI 3 di channel WPU,yaitu aplikasi SISTEM PERIZINAN santri,Sebenarnya saya sudah pernah membuat sistem perizinan namun masih menggunakan php native dan sekarang saya upgrade sekalian belajar.
+
+      Sistem aplikasi ini sudah saya upload dihosting Pondok ,dan saya upload ulang di biar bisa direview  jika ada saran dri teman2.
+
+      Saya mengembangkan aplikasi ini dengan konsep "The Powers Of Dadakan" selama 4 hari sebelum para santri berangkat ke pondok dan akan digunakan, ehh gara-gara ppkm keberangkatan santri jadi ditunda. 
+
+      Untuk data santri saya memanfaatkan data santri yang ada di sistem akademiknya,sebenarnya saya ingin menerapkan ilmu baru saya yang diperoleh dari channel pak dhika yaitu API, tapi karna yang buat sistem infomasi beda orang,beda bahasa pula dan saya mau buka2 codenya takut ada yg rusak karna sudah banyak sekali datanya. jadi saya manfaatkan databasenya saja hehehe.
+
+      disini ada 2 level user 
+      1.admin perizinan / admin global
+      2.admin setiap kampus,(kampus 1,kampus 2,kampus 3,kampus 4) kampus 4 sengaja saya blog karena kampusnya masih baru belum ada data santrinya.
+
+
+      Minta saran yha temen2...
+
+      email admin global :adminpusat@gmail.com
+      pw admin global :4321
+
+      email admin kampus :adminkmps2@gmail.com
+      pw admin kampus :1212
+
+<br>
+
+8.  [https://kaveenic.github.io/official-website/]  
+     **MasMantul**  
+      Assalamualaikum wr wb
+      Halo pak dika saya Burhan, kali ini saya mau ikutan showcase-project nihh. saya membuat official website dari Kaveenic Company. sebuah perusahaan siswa di salah satu SMK Negeri. website ini menampilkan landing page yang sederhana mencakup hal-hal umum mengenai Kaveenic dimulai dari pengenalan hingga produk yang dijual. rencananya website ini akan ditampilakan untuk memberi informasi dasar mengenai Kaveenic. Silahkan dilihat dan kunjungi, saya harapkan tanggapannyaa, supaya websitenya bisa lebih baik lagi walaupun simple. terima kasihh pak dika.
+
+      Source Code : [https://github.com/Kaveenic/official-website]
+
+      + Teknologi :
+      - HTML
+      - CSS
+      - Javascript
+
+      + Library :
+      - Swiper Js
+      - Bootstrap 5
+
+<br>
+
+9.  [https://moonl.me/]  
+     **MoonL**  
+      Assalamualaikum wr wb
+      Halo pak dhika, saya Farrel, kali ini saya mau ikutan Pamer Project Website saya nih,
+      Saya Membuat Website Menggunakan Github Pages, dan karena saya ada github education saya hubungkan dengan namecheap domain gratis saya
+
+      Tema Websitenya sebenarnya hanya website tentang yang menjelaskan diri saya sih
+
+      + Teknologi
+      -HTML
+      -CSS
+      -JS
+      -Scss(scssnya saya remove dari source code karena sudah di compile ke css)
+
+      + Library
+      -BootStrap 5
+      -Font Awesome 5
+
+      + Tools
+      - BootStrap Studio
+      - Visual Studio Code
+
+      Link
+      Source Code: 
+      [https://github.com/MoonLGH/MoonLGH.github.io] 
+      [https://github.com/MoonLGH/Me]
+      [https://github.com/MoonLGH/Portofolio]
+      ini website sebenarnya ada 3 
+      ./Me
+      ./Portofolio
+      dan basenya
+      ./
+
+      Ini website pertama saya temen temen, tolong minta saran yaa
+
+<br>
+
+10.  [https://mrga.my.id/]  
+     **erstevn**  
+      Assalaamualaikum semuanya,
+      Saya mau share project yg saya buat, cuman web landing page sederhana aja sih. Udah pake custom domain di github pages. Sekedar iseng mengisi kegabutan dirumah...
+
+      Berikut teknologi yg digunakan :
+      - HTML
+      - CSS
+      - Untuk ikon pakai icons8
+      - Ilustrasi (dari unDraw)
+      - Background (subtle patterns)
+
+      Link repo : [https://github.com/mrizqighana/mrizqighana]
+
+<br><br>
+
