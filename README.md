@@ -6826,3 +6826,196 @@ SISWA
 
 <br><br>
 
+
+### 2 September 2021
+
+1.  [https://romnan.my.id/typingmeter/]  
+     **romnan**  
+      Halo semuanya, 
+      Saya mau share project :potato:  saya, sebuah website untuk tes kecepatan ketik. Sebenernya konsepnya dicuri dari 10fastfingers. Saya suka webnya 10ff tapi saya ga suka desainnya yang terlalu rame dan banyak iklan. Jadi saya bikin dengan desain yang lebih minimalis dan bersih.
+
+      TKP : https://romnan.my.id/typingmeter/
+
+      Yang saya suka, semuanya berjalan statis. Jadi bisa hosting gratisan dari GitHub pages, hahah. Open source ya, silakan meluncur ke reponya di https://github.com/deddyromnan/typingmeter. Jangan lupa di-star reponya kalo suka.
+
+      Salam.
+
+      PS : yang punya LinkedIn, yok connect [https://www.linkedin.com/in/romnan/] 
+
+<br>
+
+2.  [https://elvinafirmansyah.github.io/VIZFA/]  
+     **prelce🌸🍇**  
+      Hallo Pak Dhika dan teman-teman semua....
+      Saya ingin share project saya. Perkenalkan saya Elvina Firmansyah (13 tahun) . Ini adalah pertama kali saya showcase project saya.
+
+      Website ini dibuat menggunakkan:
+      -). Html
+      -). Css
+      -). Bootstrap
+      -). AOS (Animate On Scroll)
+      -). Sedikit Javacript
+
+      Link Repo
+      [https://github.com/elvinafirmansyah/VIZFA]
+
+<br>
+
+3.  [https://aldiramadhan271.github.io/]  
+     **aldi ramadhan**  
+      Hallo Pak Dhika dan semuanya:wave:
+      Saya ingin share project saya. Perkenalkan saya Aldi Ramadhan (18 tahun) . Ini adalah pertama kali saya showcase project saya disini.semoga kalian bisa suka sama web yg saya buat, web ini hanya portfolio.insyaallah kedepannya bakalan bikin web yg menarik.kritik dan saran di persilahkan^_^
+
+      Website ini dibuat menggunakan:
+      ->. Html
+      ->. Css
+      ->. Javascript
+      -). Iconscout
+      ->. Swiper
+
+      Link Repo
+      [https://github.com/Aldiramadhan271/Aldiramadhan271.github.io]
+
+<br>
+
+4.  [https://rysx-ex.github.io/remember-pattern/]  
+     **Alpin**  
+      Halo Pak Dhika dan semua teman-teman. nama saya Alvin Adrianto umur 17 tahun. izin share projek iseng2 aja yaitu game sederhana. gamenya kalo ada yang tau, itu mirip task di among us yang start reactor kalo gasalah. dibuat semingguan nyicil2.
+      projek ini sebenarnya juga buat ngelatih logika saya aja sihh.
+
+      dibuat dengan :
+      -html
+      -bootstrap 5
+      -vanilla javascript
+
+      Terima kasih Pak Dhika dan teman2.
+
+      link repo :
+      [https://github.com/rysx-ex/remember-pattern]
+      
+
+<br>
+
+5.  [https://syofyanzuhad.my.id/hut-ri-76]  
+     **syofyanzuhad**  
+      Pak Dhika, mau kirim project lagi ni..
+      kali ini cuma satu halaman pak..
+      di buat pakai HTML+CSS aja
+      ini logo HUT RI ke 76
+
+      link repo: [https://github.com/syofyanzuhad/HUT_RI_76]
+
+      kalo mau tau proses pembuatannya bisa diliat disini: [https://www.youtube.com/watch?v=Ievcz6liglQ]
+
+<br>
+
+6.  [https://github.com/fncolon/idnaive]  
+     **fn**      
+
+      Idnaive is A Simple Node.js Naive Bayes Library.
+
+      Multilanguage Stemming (Indonesia + English)
+      Out String Filter
+      Punctuation Filter
+      Fix Zero-Frequency Problem
+
+<br>
+
+7.  [https://koddl-io.herokuapp.com/]  
+     **PixelSam123**  
+      Halo Pak Sandhika dan member WPU sekalian! Izinkan saya sharing projek hasil kegabutan PPKM (sekaligus belajar NodeJS untuk pertama kalinya), Koddl.io. Maaf kalau ini bukan ide original (saya belum mengecek, di kepala saya ini ide original banget, tapi tolong beritahu kalau memang sudah ada situs seperti ini, yaitu Skribbl versi koding :rofl: )
+
+      Dan iya, barusan saya sudah beritahu apa isi website ini... yaitu Skribbl namun Anda tidak diberikan tempat menggambar, melainkan sebuah kode editor.
+      Website ini dibuat menggunakan:
+      - NodeJS :nodejs:
+      - Fastify Web Framework
+      - Socket.io
+      - Monaco Editor - https://microsoft.github.io/monaco-editor/
+
+      To dos:
+      - Belum ada tampilan menang yang keren, jika semua ronde sudah selesai
+      - Konfigurasi room (private room, jumlah ronde, max player per room, etc)
+
+      Repository: [https://github.com/FADHsquared/koddl.io]
+
+      Pak Sandhika, kalau antriannya sudah hampir sampai giliran saya tolong DM discord saya, takutnya waktu mau di-showcase, dyno Heroku nya lagi mati :joy:
+
+
+<br>
+
+8.  [https://cmsmanajer.com/]  
+     **suganda**  
+      Halo Pak Dhika dan semua teman-teman. nama saya Sugeng Agung Suganda. izin share projek CMS Manajer yaitu simple control panel untuk management server dan aplikasi dengan GUI. CMS Manajer juga memiliki auto install WordPress di VPS.
+
+      Rencananya, project ini akan menjadi alternative dari cPanel. 
+
+      dibuat dengan :
+      - NodeJS
+      - MongoDB
+
+      Terima kasih Pak Dhika dan teman-teman
+
+      
+
+<br>
+
+9.  [https://martarion-code.github.io/Countdown-Birthday-and-Fireworks-Animation/Birthday%20Countdown%20+%20Fireworks%20Animation/]  
+     **Mahardika B. Weasley**  
+      Halo, pak Sandhika dan semuanya. Saya ingin share project simple saya. Ini adalah pertama kalinya saya share project saya di showcase project disini. Jadi, web ini berisi countdown dari hari ini sampai tanggal yang kalian tentukan dan akan muncul fireworks animations setelah countdownnya selesai atau dengan kata lain, "birthday time".  Btw, kalo kalian ingin melihat firework animations muncul, kalian bisa tentukan tanggalnya di hari ini, dan dengan begitu firework animations nya akan muncul.   Kritik dan saran dipersilahkan.
+
+      Dibuat dengan :
+      -HTML Canvas
+      -CSS
+      -JavaScript
+
+      Link repo : [https://github.com/Martarion-Code/Countdown-Birthday-and-Fireworks-Animation]
+
+
+<br>
+
+10.  [https://inventory.toekangketik.com/]  
+     **HusnulM**  
+      Halo Pak Dhika dan semuanya, 
+      Izin ikutan showcase project, ini adalah showcase pertama saya. 
+      Ini adalah system Inventory Management sederhana yang didalamnya terdapat beberapa fitur antara lain :
+      - Purchase Requisition
+      - Approve Purchase Requisition
+      - Purchase Order
+      - Approve Purchase Order
+      - Penerimaan Barang Berdasarkan Purchase Order
+      - Laporan-laporan
+      - dan Pengaturan System
+
+      Aplikasi ini dibuat dengan :
+      - PHP
+      - MySQL
+      - Javascript
+
+      Untuk template menggunakan ADMINBSB - MATERIAL DESIGN.
+
+      user yang bisa di pakai :
+
+      1. User Staff (Untuk Membuat PR dan Penerimaan Barang)
+      demo1
+      123456
+
+      2. User Approval (Untuk Approve PR)
+      demo2
+      123456
+
+      3. User Untuk Membuat PO
+      purch1
+      123456
+
+      4. User APprove PO
+      purch2
+      123456
+
+      5. Super User (Untuk Melakukan Konfigurasi System)
+      sys-admin
+      123456
+
+      Terimakasih
+
+<br><br>
+
