@@ -7019,3 +7019,215 @@ SISWA
 
 <br><br>
 
+### 4 September 2021
+
+1.  [https://manga-web-zixaw.000webhostapp.com/]  
+     **Zixaww**  
+      Hallo Pak Dhika Dan Semua Teman-teman nama saya sahrul umur 15tahun, ijin share project hasil belajar seminggu yg gua buat di hp,yaitu Web untuk manga populer tapi manga nya blom ada heheh,mohon saran nya:pray:
+
+      Dibuat dengan:
+      -html
+      -css
+
+      Saran:Dilihat dengan hp dimiringkan
+
+      Web nya dibuat di hp soal nya gada PC atau lapto
+
+      Trimakasih pak dhika dan teman"
+<br>
+
+2.  [https://thejourney.vercel.app/]  
+     **nuril**  
+      Terimakasih banyak atas show project yang lalu [https://dewetour.vercel.app/], saya terimakasih banyak atas masukannya ... jadi tau saya kalau gambarnya gak full ketika di buka di resolusi pc... soalnya devnya di resolusi laptop saya... hehe .... sedang saya perbaiki untuk dewetour... 
+
+      untuk kali ini saya izin share project lanjutan dari dewetour ya pak ... project ini adalah travel diary jadi orang2 bisa cerita pengalaman dia ketika travel di suatu tempat dengan tools : 
+      * Next js / React js 
+      * Material-ui 
+      * Express js 
+      * JWT
+      * Sequelize
+
+      email : lia@gmail.com
+      pass: 123456789
+      --------------------------------------------------
+
+      github : [https://github.com/anfedu/thejourney]
+
+<br>
+
+3.  [http://feriirawan-api.herokuapp.com/docs/]  
+     **Feri Irawan**  
+      Assalamu'alaikum Pak @sandhikagalih dan kawan-kawan semua :wave: .
+
+      Perkenalkan saya Feri Irawan dari Kab. Bulukumba (SMPN 40 Bulukumba)
+
+      Izin share dua projek saya yaitu:
+
+      ----------------------
+      Pertama
+      Izin share showcase kedua saya yaitu "Halaman Dokumentasi API". (dikirim pada 04/08/2021)
+
+      Halaman ini adalah halaman dokumentasi dari beberapa API sederhana yang telah saya buat.
+
+      Halaman ini saya buat berdasarkan  masukan dari pak Dhika dan teman-teman waktu projek API Lambang Daerah Indonesia saya di showcase tanggal 31, Juli, 2021 katanya kalau dokumentasi bagusnya gk di buat di README saja tapi buat halamannya juga.
+
+      Halaman ini juga sudah terindex Google Search keywordnya Feri Irawan API Docs
+
+      Teknologi yang saya pakai:
+      - PHP Native (seperti API saya yg native :joy:)
+      - Tagify (untuk input)
+      - Clipboard JS
+      - Highlighter JS
+      - Boostrap (CSS & JS)
+
+      Repo: [https://github.com/feri-irawan/API/tree/main/docs]
+
+      Halaman ini juga akan terus dikembangkan.
+
+      Mohon masukannya.
+
+      Terima kasih pak Dhika dan teman-teman semuanya... Nantikan projek berikutnya ya, :smile:
+<br>
+
+4.  [https://acbagusid.anandanesia.com/]  
+     **Ilham Tegar**  
+      halo semua
+      saya disini mau share project yang pernah saya buat di semester 2 lalu static web html css dan web aplikasi menggunkan php dan mysql
+
+      1. untuk project pertama static web
+      untuk teknologi yang digunakan
+      - html
+      - css
+      - bootstrap
+      - javascript
+      - php
+
+      nama webnya acbagus, jadi web ini di buat untuk promosi produk layanan maintenance ac, di dalam web ini pengunjung dapat melihat informasi detail katalog produk jasa dan dapat langsung memesan dari layanan yang tersedia melalui form, yang kemudian informasi pemesanan tersebut akan dialihkan ke email (sama dengan contact form)
+
+      source
+      [https://github.com/azumi99/webprograming1]
+
+
+<br>
+
+5.  [https://github.com/Sampahcokk-dev/hadits-api]  
+     **myudak**  
+      hai smua saya Muchamad Yuda Tri Ananda mo bagi projek hadits hadits API
+
+      jadi kalian bisa ngambil hadits hadits random dari sini
+
+      carany liat dari sini ya   
+
+      myudak
+<br>
+
+6.  [https://books.opakholis.dev/]  
+     **opxop**  
+      halo pak dhika dan temen-temen semua
+
+      izin ikutan pamer share showcase project pertama saya ya.
+
+      ehm curhat bentaran, jadi akhir-akhir ini saya suka baca buku nih. temen-temen pasti tau dong goodreads? saya sempet register dan pake platform tersebut, tapi ga bertahan lama karena kurang nyaman sama interface-nya yang terlihat sangat bloated hehe. akhirnya saya nemuin tempat saya untuk track dan record perkembangan bacaan saya, namanya [https://oku.club/]. tampilan clean-nya yang saya suka, temen-temen bisa cek sendiri hehe.
+
+      problem? sembari terus membaca, saya juga mulai suka menulis. sayang banget klo beberapa taun kedepan saya lupa pesan dan isi dari buku-buku tersebut, jadi saya harus menulis apapun tentang isi dari buku yang sudah saya baca (istilahnya review, ulasan, ato resensi kali ya) itung-itung belajar, ga ada pengalaman menulis juga soalnya :frowning:
+
+      maka jadilah project ini, tempat saya pribadi untuk memfasilitasi pengalaman membaca saya. main goalnya sih catatan yang uda saya buat bisa jadi pengingat isi dari buku tersebut, syukur-syukur orang lain jg dapet manfaatnya hehe
+
+
+      teknologi yang digunakan:
+      - next.js
+      - tailwindcss
+      - notion API
+
+
+      sumber kode: [https://github.com/opxop/bookshelf]
+
+      saran dipersilahkan, kritik apalagi. jangan sungkan untuk mengkritik, saya suka dikritik xixixi.
+
+      Dah gitu aja, tenkyu pak dhika dan teman-teman semua.
+
+<br>
+
+7.  [https://fikrinotes.netlify.app/javascriptproject-menu/intergalacticwar/]  
+     **Raizel**  
+      INTERGALACTIC WAR
+
+      Selamat pagi teman2 semuanya, saya mau menunjukkan game yang baru saja selesai saya buat. 
+
+      Game ini saya beri nama Intergalactic War, atau jika diterjemahkan berarti perang antargalaksi. Game ini mengambil konsep kehidupan manusia jika alien benar2 ada dan kita berperang melawan mereka. 
+
+      Saya mau cerita,  game ini sebenarnya terinspirasi dari game blastar -nya elon musk yang pernah dia bikin waktu kecil. Sejak saya tau tentang game blastar ini, saya mau membuatnya juga. Saya udah cari2 di google&youtube ttg algoritma game blastar ini, sayangnya ga nemu. Saya coba inspeksi web blastarnya (game blastar sekarang ada yg versi html5), tapi sintaks javascript nya jauh berbeda dengan sintaks javascript yang saya kenal (kayaknya game itu ga pake vanilla javascript), sehingga saya ga ngerti bahkan 1 baris pun kode program game blastar tsb.
+      Akhirnya saya coba bikin sendiri algoritmanya berdasarkan pengalaman saya bermain game Blastar. Setelah 2 minggu pengerjaan, akhirnya game ini selesai dan dengan bangga saya ingin menunjukkannya pada teman2 disini. Ini link game Intergalactic War nya :
+
+      Game ini dibuat dengan :
+      • HTML
+      • CSS
+      • Vanilla JS 
+
+      Untuk membuat tampilan game nya itu sebenarnya mudah (sangat mudah), tapi yang bikin sulit adalah menyusun algoritma game nya, dan kemudian menyesuaikan algoritma yang saya buat dengan keterbatasan fitur yang dimiliki vanilla js. Sehingga, seringkali saya merombak ulang algoritma game ini. Karena itulah butuh waktu 2 minggu bagi saya utk membuat game ini. 
+
+      Ini adalah game blastar Elon musk yang saya coba buat ulang:
+      [https://blastar-1984.appspot.com/] 
+
+      Jika teman2 ingin melihat bagaimana saya membuat game ini, silakan kunjungi blog saya di : [https://dev.to/fikrinotes/how-i-build-intergalactic-war-game-in-pure-javascript-3243]
+
+<br>
+
+8.  [https://iro.nyandev.id/]  
+     **nyancodeid**  
+      Halo Pak Sandhika dan Semunya. Kenalin nama saya Ryan Aunur R, izin showcase project yang saya mulai buat akhir 2019 lalu yang baru baru ini saya update sesuai dengan penerapan hasil belajar saya. 
+
+      Project ini berawal dari mengisi waktu luang sekaligus mencoba berkolaborasi dengan designer. Karena tidak selamanya kita bekerja sendiri kan jadi saya berkesempatan bikin project bersama teman designer saya yang juga sudah bosen bekerja sendiri. Singkat cerita latar belakang dibuatnya project ini adalah kesulitan kami dalam mengkonversikan warna ketika bekerja dengan CSS dan aplikasi lainnya. Jadi kami membuat web-app yang terdapat fitur PWA supaya bisa diakses secara offline di smartphone.
+
+      Nama Projectnya adalah IRO (色) yang berasal dari bahasa jepang yang berarti warna.
+
+      Fitur-fitur yang ada :
+      - Bisa bekerja secara Offline
+      - Konversi warna dari ke HEX, RGB, HSL dan CMYK.
+      - Material Palette generator.
+      - Color Harmonies (Complementary, Analogous, dan Triadic).
+      - Color Inspection (Ambil kode hex benda sekitar dengan kamera HP/laptop).
+
+      Teknologi yang dipakai dalam pembuatan project ini adalah:
+      - Vue 3
+      - Vite
+      - Pinia (state-management alternatif Vuex)
+      - Progressive Web App
+      - Cloudflare Pages
+
+      Source code juga dibagikan secara terbuka di github supaya bisa sama-sama dikembangkan.
+
+      Github : [https://github.com/nyancodeid/iro]
+
+      Terima kasih pak dhika dan teman-teman semua.
+
+<br>
+
+9.  [https://ion-covid.netlify.app/]  
+     **bahyusanciko**  
+      Assalamualaikum pak sandhika 
+      saya ada apps statistik data covid Untuk Informasi Terbaru Penyeberan Virus Covid-19 , Data Terupdate Melalui [https://covid19.mathdro.id/api] Dan [https://api.kawalcorona.com/]      
+
+      Teknologi yang digunakan:
+      - Ionic :typescript: 
+      - Angular :angular: 
+
+      Github Repo:
+      [https://github.com/bahyusanciko/ion-covid-19]
+
+<br>
+
+10.  [https://nyumput.suryamsj.my.id/]  
+     **suryamsj**  
+      Halo pak dhika, perkenalkan nama saya Muhammad Surya. Izin share project web yang dimana ini terinspirasi dari situs screto. Buat yang belom tau, secreto itu website untuk mengirimkan pesan rahasia tanpa harus tau nama dan identitas dari pengirim pesan tersebut. 
+
+      Teknologi yang saya gunakan :
+      - PHP Native  
+      - Bootstrap 5  
+      - Ajax
+
+      Untuk asset gambar, saya pake situs ini : [https://storyset.com/]
+
+      Sebelumnya terima kasih untuk pak dhika dan kawan" semuanya.
+<br><br>
+
