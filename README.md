@@ -7231,3 +7231,233 @@ SISWA
       Sebelumnya terima kasih untuk pak dhika dan kawan" semuanya.
 <br><br>
 
+
+### 9 September 2021
+
+1.  [https://valclassui-v1.vercel.app/]  
+     **Muhammad Khoirul Huda**  
+      Halo pak dhika, perkenalkan nama saya Muhammad Khoirul Huda. Saya izin ingin share project yang telah saya buat sendiri (Framework CSS - Valclass). Sebuah Framework CSS yang menyediakan component, class dan berbagai fitur lainnya.
+
+      Teknologi yang saya gunakan :
+      - Vanilla Javascript
+      - HTML, CSS
+
+      Sebelumnya terima kasih untuk pak dhika dan kawan" semuanya.
+
+<br>
+
+2.  [https://devinwinando.github.io/ikarus]  
+     **Depin**  
+      Halo pak dhika dan teman teman semuanya, perkenalkan nama saya Devin Winando asal Cirebon. Izin ikutan showcase project, ini pertama kalinya saya ikutan showcase project.
+
+      Project ini saya beri nama IKARUS (Info Kamar Rumah Sakit). Ikarus ini berfungsi untuk mencari info ketersediaan kamar rumah sakit di Indonesia.
+
+      Fitur yang tersedia :
+      - mencari ketersediaan kamar rumah sakit berdasarkan provinsi dan kota di Indonesia
+      - menampilkan detail ketersediaan kamar rumah sakit
+
+      Teknologi yang saya gunakan :
+      - HTML 
+      - CSS (Bootstrap)
+      - JS
+
+      Github repo : [https://github.com/DevinWinando/ikarus]
+
+      Terima kasih pak dhika dan teman-teman semuanya. Mohon kritik & sarannya bila ada kekurangan.
+
+
+<br>
+
+3.  [https://musiqt.com/]  
+     **norke**  
+      Halo Pak Sandhika dan Semunya. Kenalin nama saya Norman asal Cirebon juga, izin showcase project yang saya mulai buat 2 bulan yang lalu dan tentu saja masih akan terus berlanjut agar platform selalu berjalan lebih baik. :pray: 
+
+      Projectnya bertemakan streaming musik, blockchain dan machine learning. Blockchain sendiri bagi saya pribadi sebetulnya agak meragukan untuk dapat membantu permasalahan yang selalu menghantui industri musik sampai saat ini. Kesimpulan ini saya ambil dari hasil progress development saya di blockchain sampai sekarang. Karena jujur, konsep2 seperti desentralisasi, immutability yang diusung blockchain sangat bisa jadi boomerang.
+
+      banyak kelemahan blockchain sebagai database yang saya temui, karena itu untuk memperkuatnya, saya kombinasikan dengan machine learning serta beberapa teknik audio processing lainnya agar dapat memberi nilai lebih bagi platform.
+
+      Idenya di platform ini, pendengar ataupun artist, semua dapat komisi yang berbentuk token crypto, karena itu harus diperjuangkan agar token yang dibuat bisa  masuk ke listing crypto exhange.
+
+      project ini tentu nanti akan saya jadikan opensource.
+
+      teknologi yang digunakan:
+         - Python 3
+         - Django
+         - Solidity
+         - Javascript
+         - HTML
+
+      btw, untuk teman2 yang ingin ikut join di project ini, saya sangat welcome...tapi ya saya gak bisa kasih apa2 selain nanti ada share dari token yang dibuat. Karena memang masih bootstrap, dalam artian masih semua pake budget sendiri(juga sejauh ini saya masih develop semua dari hulu ke hilir sendiri hiks...hiks...). Lain cerita nanti klo sudah dapat pendanaan yak..heheh. :innocent: 
+
+      token yang dibuat ada di network testnet ethereum Kovan, untuk membukanya teman2 bisa install metamask di browser, kemudian export private key yang diberikan oleh platform sesat setelah registrasi berhasil..
+
+      saran, masukan dan lainnya sangat dibutuhkan gaes..
+
+      begitu saja abang2, bapak2, mba2, ibu2, kakak2...semoga dapat berguna, trimakasih :smile:
+
+<br>
+
+4.  [http://pinjam-ruang.vonso.online/]  
+     **vonso**  
+      Halo hai :wave:
+      Perkenalkan saya Vonso dari Batam, mau coba ikutan project showcase nya pak Dhika, siapa tau aja project yang saya buat bisa bermanfaat.
+
+      Oh iya, nama projectnya "Pinjam Ruang", dimana nantinya mahasiswa bisa pinjam ruangan pada kampus/universitas nya tanpa repot harus menulis borang dan datang ke kampus. Tinggal isi form dari website, tunggu persetujuan dari dosen, setelah itu Tatausaha kampus akan mengecek dan menyetujui pemimjaman jika data valid.
+
+      Teknologi yang dipake ada:
+      - Laravel
+      - CSS (Bootrstrap 4)
+      - JS
+
+      Tautan repo:
+      [https://github.com/vonsogt/pinjam-ruang]
+      
+
+      Jika ada kritik, saran atau masukkan boleh dong di info ke saya, biar aplikasinya bisa lebih baik lagi. Sebelumnya terima kasih pak Dhika dan kawan" disini.
+
+      Best,
+      Vonso
+
+<br>
+
+5.  [https://haaiiidaaarrr.github.io/konversisuhu/]  
+     **Hai**  
+      Halo Temen" :wave:
+      Perkenalkan aku Hai kelas 9 SMP dari Jawa, aku mau coba ikutan project showcase nya pak Dhika juga, siapa tau aja project yang saya buat bisa bermanfaat.
+
+      Oh iya aku kali ini nyoba membuat sebuah konversi suhu (Celcius, Reamur, Fahrenheit, Kelvin)
+      Teknologi yang dipake ada:
+      Dasar:
+      - Html 
+      - CSS 
+      - JS
+      Framework:
+      - Bootstrap 5
+
+      Animation:
+      - AOS
+      - GSAP
+
+      Tautan repo:
+      [https://github.com/Haaiiidaaarrr/konversisuhu.git]
+
+      Jika ada kritik, saran atau masukkan boleh dong di info ke saya, biar aplikasinya bisa lebih baik lagi, jangan lupa follow github saya.
+      Sebelumnya terima kasih pak Dhika dan kawan" disini.
+
+      Salam Hangat,
+      Hai
+
+
+<br>
+
+6.  [https://slowy07.github.io/neuralPainting]  
+     **arfy.slowy**  
+      selamat malam pak:grin: 
+      kali ini saya ingin share project yang mugkin udh lama kali ya karena sudah lama juga, yang sebelumnya kemungkinan untuk dunia medis, kali ini di dunia seni :joy: . aplikasinya bisa menggambar lukisan berdasarkan foto yang ingin dilukiskan.
+      aplikasi ini juga bisa meniru style atau ciri gambar dari sebuah pelukis dan kemudian diterapkan dan di gambarkan kedalam bentuk gambar yang sebelumnya kita inputkan.
+
+      teknologi yang digunakan:
+      - pytorch ( machine learning lib )
+      - scikit learn
+
+      untuk penggunaan, kali ini pak dhika sudah bisa lakukan secara live demo  :joy:
+      yaitu ada 2 kriteria tes demo yaitu testing gambar lukis biasa dan gambar lukis mengikuti ciri pelukis ( contoh kali ini picasso ), untuk melihat step by step aplikasi tersebut melukis, pak dhika harus melakukannya pada lokal test demo, untuk contoh step by step melukisnya pak dhika bisa lihat pada dokumentasi github.
+      untuk penggunaan demo,serta paper(jurnal) dan lain2 pak dhika bisa cek dibawah ini
+
+      [https://github.com/slowy07/neuralPainting]
+
+      btw, boleh juga untuk open pull request atau lain2, ditunggu next lagi pak sampe semua bidang terpenuhi :v
+
+      terima kasih  selamat malam pak :wpusiap: :wpusiap: :wpusiap:
+
+
+<br>
+
+7.  [https://zdnpl.github.io/foodiest/]  
+     **zdnpl**  
+      halo
+      perkenalkan saya Zidan kelas 9 SMP dari Jakarta, saya mau coba ikutan project showcase nya Pak Dhika juga.
+
+      semoga project yang saya buat bisa bermanfaat dan menginspirasi
+
+      nama projectnya "Foodiest", isinya adalah tentang makanan
+      ide bikin project ini tiba tiba muncul tadi pagi
+
+      Teknologi yang digunakan:
+      - HTML
+      - CSS
+      - Bootstrap
+
+      Repo :
+      [https://github.com/zdnpl/foodiest]
+
+      jika ada kritik, saran atau masukkan bisa di info ke saya, biar websitenya bisa lebih baik lagi
+      Terimakasih
+
+<br>
+
+8.  [https://mari-mengobrol.herokuapp.com/]  
+     **Yogi Pristiawan**  
+      Assalamualaikum wr. wb.
+      lama ngga muncul hehe.
+
+      teman teman izin share project saya.
+      Saya bikin realtime chat app menggunakan:
+      - NodeJS
+      - Postgre
+      - Bootstrap
+      - Vanila javascript
+      dia realtime kalau ada user yang sama sama online.
+
+      untuk source code nya :
+      [https://github.com/YogiPristiawan/chat-app]
+
+      silahkan teman-teman kalau mau clone project saya. 
+      mohon kritik dan sarannya ya. jika ada bug, dsb. terima kasih banyak ^^
+
+      Wassalamualakium wr. wb.
+
+
+<br>
+
+9.  [https://anihub.vercel.app/]  
+     **toufiqn**  
+      Selamat malam,
+      Izin share project saya, siapa tahu bisa memberi inspirasi. 
+      Namanya 'anihub' yaitu semacam anime finder. 
+
+      Teknologi yang digunakan:
+      - Webpack,
+      - Web Component
+      - Bootstrap
+      - Vanila JS
+
+      Source link:
+      [https://github.com/toufiqnuur/anihub]
+
+      Silahkan teman - teman kalau mau memberi saran atau kritik. Terimakasih
+
+<br>
+
+10.  [http://belajarngaji.rf.gd/]  
+     **wahid**  
+      selamat pagi semuanya,
+      izin share project saya, siapa tahu bisa memberi inspirasi.
+      namanya BELAJAR NGAJI yaitu diperuntukkan bagi orang tua yang ingin mengajarkan anaknya untuk mengaji dari dasar yaitu iqro, aplikasi ini juga saya buat karena situasi saat ini yang lagi pandemi jadi tidak diperbolehkan untuk ngumpul-ngumpul karena nantinya saya akan coba kembangkan ketahap user bisa belajar ngaji secara online langsung dengan guru ngaji atau mentor, di aplikasi ini sendiri saya sudah membuat menu huruf hijaiyah dari cara penulisan hingga bagaimana cara pengucapannya dengan audio
+
+      link repo: [https://github.com/awahids/belajar-ngaji]
+
+      teknologi:
+      -  UI frameworks - Materialize CSS
+      - HTML
+      - CSS
+      - JS
+      - Rest API Alquran
+
+      masih tahap pengembangan sambil media saya belajar, jika ada teman-teman yang mau kolaborasi atau memberikan saran dipersilakan
+      terima kasih.
+
+
+<br><br>
+
+
