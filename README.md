@@ -7461,3 +7461,205 @@ SISWA
 <br><br>
 
 
+### 11 September 2021
+
+1.  [https://github.com/AlphaBeta1906/pyGinit]  
+     **alpha1906**  
+      Halo semuanya,
+      Saya ingin ingin share project saya nih mungkin bisa menginspirasi atau bahkan membantu teman-teman disini.
+      Saya membuat program command line yang bernama : PyGinit,nah pyGinit ini adalah command line yang bisa membantu dalam otomatisasi pembuatan local git dan reponya di github ,jadi jika kalian ingin mengupload project kalian ke github kalian bisa menggunakan pyGinit ,dan tinggal mengetikan command : pyginit init  isi beberapa prompt dan PyGinit akan melakukan git init,membuat repo github,dan push kesana.
+
+      untuk instalasi kalian bisa menggunakan pip : 
+      pip install PyGinit
+
+
+      untuk saat ini pyGinit memiliki 3 command yaitu:
+
+      - init: git init + git push ke remote
+      - remote: membuat repo  kosong di github
+      - set-auth: command wajib sebelum menggunakan pyGinit,command ini digunakan untuk mengeset github token dan username github kalian ke pyGinit,dengan format :
+      pyginit set-auth <github-token> <github-username>
+
+
+      teknologi yang digunakan : 
+      - python
+      - Click
+      - pygithub
+      - GitPython
+      - PyInquirer
+
+      link github : 
+      [https://github.com/AlphaBeta1906/pyGinit]
+
+      Nah itu adalah project saya.Silahkan yang mau clone atau berkontribusi ke project saya,mohon kritik sarannya juga ya itu sangat mebantu agar pyGinit bisa lebih baik
+
+      terimakasih  :grin:
+<br>
+
+2.  [https://github.com/ianfleon/blognitess]  
+     **ianfleon**  
+      Saya mau berbagi hasil projek sederhana dengan nama "Blognitess", yaitu sebuah kerangka kerja untuk membuat web statis. Cara kerjanya mirip seperti Hugo (SSG), atau mungkin SSG lain. Namun perbedaanya, file konten (Markdown) pada SSG  diparsing dan dibuat menjadi file HTML baru, sedangankan Blognitess hanya mengambil data dari file Markdown dan secara langsung diparsing menjadi element HTML (tanpa generate file).
+
+      Tujuan dari projek ini sebernarnya ingin membantu teman-teman dalam membuat blog sebagai catatan (proses belajar pemrograman), dengan cara yang sederhana tanpa harus menyiapkan banyak hal.
+
+      Terinspirasi dari : Hugo (SSG)
+      Dibuat menggunakan : JavaScript (VanillaJS)
+
+      Untuk SC dan Dokumentasi, silahkan kunjungi : [https://github.com/ianfleon/blognitess]
+
+<br>
+
+3.  [https://ryrd.github.io/]  
+     **ryrd**  
+      selamat sore,
+
+      izin share disini saya pengen share 2 project sekaligus,
+
+      project yang pertama adalah website portofolio pribadi saya.
+
+
+      teknologi yang digunakan:
+      -HTML
+      -SASS
+      -Javascript
+      -GSAP (for animation)
+      -Pace.js (for preloader)
+<br>
+
+4.  [https://cv-maker-ezza022.vercel.app/]  
+     **Alfirman Pahlepi**  
+      halo semua, izin share project yang barang kali bermanfaat untuk teman teman
+      jadi ceritanya saya adalah mahasiswa tingkat akhir dan saya butuh cv atau resume untuk persiapan kedepan, tapi masalahnya saya gabisa desain menggunakan potoshop ataupun coreldraw. jadi saya kepikiran untuk desain lewat coding saja. dan untuk memudahkan teman teman saya dalam membuat cv tanpa harus desain dari awal akhirnya saya kepikiran lagi untuk membuat buildernya.
+
+      github : [https://github.com/ezza022/cv-maker]
+
+      tech : MERN stack Next js
+      kekurangan : banyak bugs, tidak responsive
+<br>
+
+5.  [https://visitor-badges.glitch.me/maker.html]  
+     **Feri Irawan**  
+      Assalamu'alaikum Pak @sandhikagalih dan kawan-kawan semuanya.
+
+      Perkenalkan saya Feri Irawan (Siswa SMPN 40 Bulukumba)
+
+      Izin share showcase ketiga saya, yakni projek open source namanya  Visitor Badge.
+
+      Sesuai dengan namanya, projek ini digunakan untuk membuat badge jumlah visitor pada repository github masing-masing.
+
+      Contohnya :
+
+      [https://visitor-badges.glitch.me/?username=feri-irawan&repo=visitor-badge]
+
+      Tidak hanya untuk repository github. Tapi jika kawan-kawan ingin menggunakannya di halaman website juga bisa loh.
+
+      Projek ini dibuat 1 hari. Mumpung hari Ahad 
+
+      Visitor Badge
+
+      Repository :
+      [https://github.com/feri-irawan/visitor-badge]
+
+      Teknologi :
+      - PHP Native
+      - JSON (sebagai database)
+
+      Untuk yang ingin membuat badge dengan cepat bisa menggunakan maker yang telah disediakan dibawah ini.
+
+      :red_circle: Visitor Badge Generator/Maker
+
+      Link :
+      [https://visitor-badges.glitch.me/maker.html]
+
+      Teknologi :
+      - HTML
+      - CSS native (dikit)
+      - Tailwind (sekalian belajar)
+      - Hightlight JS (untuk bagian kotak kode)
+      - JS vanilla (dikit)
+      - Google Font (Inter)
+      - Clipboard JS (untuk copy url badge)
+
+      Mohon masukannya.
+      Terimakasih Pak @sandhikagalih dan kawan-kawan semuanya. Semoga kita semua  sehat selalu dan dimudahkan rezekinya, Amiiin
+
+      Jangan lupa star nya ya.. :star: 
+
+      Semangat! :fire:
+
+<br>
+
+
+6.  [http://radenayukartini.great-site.net/]  
+     **Bambiiii**  
+      Selamat malam semuanya, malam ini saya mau share hasil pembuatan web dari desain yang saya buat di event design jam kemarin, kalau mau liat desainnya bisa dilihat di [https://ksana.in/tribute-kartini-design-powpow]
+
+      Jadi, website ini adalah website biografi dari R.A. Kartini. Web ini dibuat pakai tailwindcss saja ditambah sedikit js vanila dan icon dari boxicons. Untuk saat ini websitenya masih belum responsive dan beberapa section masih belum support dark mode.
+
+      Websitenya bisa di akses di [http://radenayukartini.great-site.net/], web ini belum saya upload ke repo karena gak tau kenapa waktu saya upload beberapa gambar ga bisa ke load.
+
+      Web ini saya buat dengan methodology bernama barbar coding, jadi saya harap source codenya tidak di intip, terutama di bagian javascript.
+
+      Minta sarannya dan kalau ada bug bisa reply aja, terimakasih.
+      Selamat Hari Kemerdekaan Indonesia :heart: :white_heart:
+
+      Jangan Bully Kak
+
+      Edit 1 : Dark mode sudah saya benerin
+      Edit 2 : Sudah saya upload di github di [https://github.com/bbhpowpow/kartini-tribute-page]
+      Edit 3 : Saya sudah tambahkan animasi saat scroll pakai AOS
+
+<br>
+
+
+7.  [https://find-mov-sz.herokuapp.com/trending/1]  
+     **shintia**  
+      Halo manteman , izin share project kecil2an yaitu movie search app 
+
+      Dibuat dengan Next.js dan material ui
+
+      Untuk source code boleh liat2 
+      [https://github.com/shintiazhou/FindMov]
+
+      Moon maap masih banyak bug dan belum sempurna thx
+<br>
+
+
+8.  [https://www.tajul.my.id/]  
+     **Tajul Arifin S**  
+      Selamat siang semua, ijin ikut showcase project pak
+      deskripsi:
+      project diatas merupakan website portfolio saya yang dibuat karena kegabutan dimasa PPKM ini hhe. dibuat menggunakan framework NEXTJS agar bisa di generate jadi website static (SSG), kemudian untuk tampilan nya dibuat dengan framework Tailwind (sekalian belajar karena sebelumnya belum pernah make).  untuk hostingnya saya menggunakan vercel. minta saran dan masukannya pak.
+      mungkin itu saja, terima kasih atas waktunya pak
+<br>
+
+
+9.  [https://zeroneko.vercel.app/]  
+     **! Aldi~**  
+      Selamat malam, izin share project. Saya membuat website untuk membantu temen-temen yang mungkin mau belajar bahasa jepang. website ini dibuat menggunakan API  untuk kamus dan juga ada beberapa games, Website ini juga sudah support PWA. Jadi awalnya saya ingin membuat project ini karena saya ingin belajar React JS sambil belajar bahasa jepang.
+
+      Website dibuat menggunakan React JS dan Tailwind CSS. Berikut link website nya [https://zeroneko.vercel.app/], saya juga baru membuat official IG acc untuk website ini yang isinya materi" tentang bahasa jepang yaitu @zeroneko.learn .
+      Berikut juga link repo nya : [https://github.com/aldy-san/zero-neko]
+      Terima Kasih semuanyaa....
+
+<br>
+
+10.  [https://zuramai.github.io/starback.js/]  
+     **saugi**  
+      Halo, ini library js buatan saya, starback.js. Tujuannya itu untuk membuat background dengan efek rainfall/starfall.  Size cuma ~4kb.
+
+      Fiturnya customizable kok. Dan bisa dipake lewat via CDN atau NPM. 
+
+      Waktu pembuatan: < 1 hari
+
+      Teknologinya:
+      - HTML5 Canvas
+      - Javascript
+
+      Tahap pembuatannya, tinggal bikin canvas, lalu bikin quadraticBezierTo (buat garisnya), generate random garis, tambahin warna, gerakin, selesai. Sisanya tinggal fitur tambahan aja, misalnya ganti background, ukuran, dll.
+
+      Github: [https://github.com/zuramai/starback.js]
+
+<br><br>
+
+
