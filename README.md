@@ -7663,3 +7663,217 @@ SISWA
 <br><br>
 
 
+### 17 September 2021
+
+1.  [https://bookshelfs-vercel.vercel.app/]  
+     **Angga**  
+      selamat malam, izin share project untuk submission dicoding saya. website ini bertujuan untuk menyimpan keterangan" pada buku seperti judul, penulis, kategori, dan tahun terbit. Maaf kalau masih banyak yang kurang kak karna saya masih baru belajar :tired_face:.
+
+      dibuat dengan:
+      - CSS
+      - javascript
+      - bootstrap (hanya untuk styling)
+
+      berikut link websitenya [https://bookshelfs-vercel.vercel.app/] dan ini link repo githubnya [https://github.com/anggara-26/Bookshelfs]
+
+      terimakasih....  :laughing:
+
+<br>
+
+2.  [https://yuky.netlify.app/]  
+     **mtegarsantosa**  
+      selamat malam semuanya, izin share project.  ini adalah aplikasi kuis edukasi interaktif yang saya dan teman saya buat untuk mengenalkan teknologi di dunia pembelajaran kepada anak-anak. terima kasih! mohon reviewnya yaa
+
+      dibuat dengan:
+      - laravel
+      - vue js
+      - mysql
+      - web socket
+
+      video uji coba: [https://www.youtube.com/watch?v=g2Mz98CKURk]
+
+<br>
+
+3.  [http://coronaaa-19.netlify.app/]  
+     **alpha1906**  
+      Selamat pagi semuanya,izin share project web, ini adalah aplikasi data global covid-19.
+
+      Dibuat dengan:
+      -html
+      -css
+      -bootstrap
+      -api corona
+      -javascript / jquery
+
+      Link website: 
+
+      Waktu pembuatan : 3 hari
+
+      jika ada kritik dan saran mohon disampaikan sekian dan terima kasih:)
+
+<br>
+
+4.  [https://zhat.cf/]  
+     **Vins**  
+      Halo! saya mau izin share project, nama projectnya Zhatting yg bertema tentang Chatapp, namanya terinspirasi dari logo saya (z) dan kata Chatting
+
+      awalnya ini dibuat untuk latihan socket.io tapi keasikan hehehe
+      jadi saya terusin deh
+
+      fitur2:
+      - pwa
+      - real time chat
+      - online/offline system
+      - ganti avatar (harus lewat url)
+      - ganti wallpaper (harus lewat url)
+      - bot (https://zhat.cf/me/developer)
+      - suara notifikasi di halaman /me dan /me/:userid
+      - reply 
+      - share (discord, whatsapp, facebook, dan masih banyak lagi)
+      - invite link (contoh: https://zhat.cf/invite/ID_USER)
+      (fitur akan bertambah seiring berjalannya waktu)
+
+      note: agar botnya bisa online, harus menginstall package zhat.js terlebih dahulu (nodejs)
+      https://npmjs.org/package/zhat.js
+      developer > create bot > copy token > masukan kedalam kode
+
+      github npm package zhat.js
+      https://github.com/Vins2106/zhat.js
+
+      mohon maaf kalo avatar & wallpapernya masih lewat url, soalnya size databasenya masih kecil hehehe, nanti saya update kalo udah kebeli database yg besar (masih mongodb free plan)
+
+      alat yg di pakai
+      - nodejs
+      - expressjs
+      - socket.io
+      - font awesome
+      - html
+      - ejs
+      - css
+      - mongoose (database)
+      - undraw.co
+      - figma (buat design)
+      - tippy.js
+      - mockuphone
+      - ngrok
+      - particle.js (buat halaman 404)
+      - text formatting (pada pesan)
+      (yg saya ingat ini doang)
+
+      link:
+      - website: [https://zhat.cf/]
+      (jika domain di atas error silahkab coba domain ini [https://zhat.glitch.me/])
+      - developer [https://zhat.cf/me/developer]
+      untuk change lognya ada di [https://zhat.cf/updates]
+      f.a.q : [https://zhat.cf/faq]
+
+<br>
+
+5.  [https://ilham25.thedev.id/wagen/]  
+     **Adachii~**  
+      WhatsApp chat generator
+
+      source code : [https://github.com/ilham25/wagen]
+
+      sebenernya ini project buat nginget2 lagi manipulasi DOM basic, krn udh kelamaan pake react jadi agak lupa masalah DOM pake javascript vanilla
+
+      semuanya dibuat hanya menggunakan html, css(dengan sass), dan javascript vanilla dengan bantuan package dom-to-image dan FileSaver.js
+
+<br>
+
+6.  [http://anggadwi.my.id/]  
+     **anggadwi.ui**  
+      Halo , Izin Share hasil belajar UI Design untuk Web Portofolio Sederhana. Develop masih pakai Wordpress, sedikit minder rata" projek disini pada pakai framework kekinian hehe , rencana mau develop juga pakai React 
+
+      Tools :
+      -Wordpress
+      -Elementor Free (Plugin Wordpress)
+      -Figma (Design)   
+
+      Waktu develop :
+      4 jam Design
+      3 jam Develop wordpress
+
+      Terimakasih , dan terbuka untuk kritik" nya :grinning::pray:
+
+<br>
+
+7.  [http://dev.luthfipedia.xyz/spam-sms/]  
+     **Luthfi dhani**  
+      Selamat sore semuanya..
+      oke. first time aku coba ikut project showcase ini dan mungkin project kali ini bermanfaat buat temen" yang membutuhkan hehehe...
+
+      Project kali aku namai dengan "Deteksi Spam SMS". nah project kali merupakan Machine Learning yang dapat digunakan untuk mendeteksi atau mengklasifikasikan isi dari SMS apakah termasuk spam atau tidak.
+
+      Teknologi yang dipake:
+      - Django Framework
+      - Bootstrap 5
+      - Scikit-Learn
+
+      Metode yang dipake:
+      - Naive Bayes
+      - K-Fold Cross Validation
+
+      Penjelasan Project:
+      [https://luthfipedia.xyz/klasifikasi-spam-sms-menggunakan-naive-bayes/]
+
+      Repo Github:
+      [https://github.com/luthfidhani/Web-Spam-SMS-Classification-Django]
+
+      kalo ada yang mau nambahin bikin API nya silahkan :sweat_smile::sweat_smile::sweat_smile:
+      makasih
+
+
+<br>
+
+8.  [https://upida.github.io/blog]  
+     **upida**  
+      Halo semua, izin ikut showcase project. Saya membuat blog pribadi dengan Hugo yang dikombinasi dengan Vue JS untuk frontend-nya..
+
+      sekarang masih belum rapih dan belum diisi, insyaAllah diusahakan saat showcase sudah selesai
+
+      Repo Github :[https://github.com/upida/blog]
+
+<br>
+
+9.  [https://rizukyy.xyz/]  
+     **Ioofy**  
+      Selamat pagi semua,
+
+      nama saya: rizky umur 17tahun. Hehe
+      Ini pertama kali, saya coba ikut showcase ini.
+      Ini web portfolio saya , saya buat ketika belajar css + javascript selama 1 bulan++ dan terus dikembangkan belajarnya di channel Pak Dika dan channel lainnya hehe, tentunya masih banyak kekurangannya.
+
+      Portfolio ini dibuat tanpa ada library framework js kaya react,svelte,vue dll.
+      dan ini pure css + vanilla js untuk animasi dan send message.
+
+      Teknologi yang dipakai ada beberapa diantaranya :
+      -Bootstrap 4.6
+      -JQuery (sedikit)
+      -Pure CSS
+      -Box Icons + Font awesome
+      -Typed.js dibagian navlist
+      -AOS.js
+      -SMTP.js untuk form send email :3
+
+
+      Terimakasih , saran dan kritik terbuka lebar
+
+<br>
+
+10.  [https://l0r3ntz.github.io/]  
+     **Yusran**  
+      Halo, Nama saya Muhammad Yusran
+
+      Ini adalah web portofolio pertama saya untuk portofolio poster art dan 3D model. kalian bisa kunjungi Instagram saya untuk melihat lebih banyak lagi.
+
+      Alat-alat :
+      HTML
+      CSS
+      Javascript
+      Bootstrap 5
+
+      Tutorial yang diikuti :  [https://www.youtube.com/watch?v=LkR-9Z1sle8&t=3487s]
+
+<br><br>
+
