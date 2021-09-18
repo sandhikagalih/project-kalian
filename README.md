@@ -8066,7 +8066,7 @@ SISWA
 
 <br>
 
-10.  [https://lawancorona.batam.go.id/]  
+10.  [http://batamlawancoronaapi.herokuapp.com/docs/#/]  
      **Marlow**  
       Selamat pagi/siang/sore/malam semua! Perkenalkan, saya Syukur, saat ini sedang kuliah di salah satu perguruan tinggi. Saya ingin men-share project berupa REST API yang dibuat menggunakan Django. REST API ini adalah API untuk batam lawan corona.
 
@@ -8079,6 +8079,7 @@ SISWA
       -Django REST Framework
       -Swagger UI
 
+      Website Pemda Batam : [https://lawancorona.batam.go.id/]
       Source Code : [https://github.com/sykrabadi/batamlawancorona_api]
       API : [http://batamlawancoronaapi.herokuapp.com/docs/#/]
 
