@@ -7877,3 +7877,210 @@ SISWA
 
 <br><br>
 
+### 18 September 2021
+
+1.  [https://write-tulusibrahim.vercel.app/]  
+     **tulusibrahim**  
+      Halo semua, mau share project yang berawal dari keresahan saya karna medium belum ada dark mode, jadi saya bikin platform untuk blogging sendiri dengan tema dark mode. Hosting nya di vercel. Dibuat dengan: 
+      - react
+      - sass
+      - chakra UI
+      - supabase untuk backend, user authentication, storage nya
+      - sedikit sweetalert
+
+      Fitur: 
+      - Bikin, update, delete post (blog)
+      - Inline text editor saat bikin/update blog
+      - bisa likes, comment artikel
+      - bisa login/signup
+      - bisa login dengan github
+      - autosave progress saat membuat/update post
+      - bisa menambahkan foto profile
+      - bisa saling follow2an
+      - analytics tentang berapa kali artikel dilihat, likes, comment
+      - bisa unpublish post
+
+      username: example@email.com
+      pass: example-password
+
+      jika menggunakan akun sendiri/login dengan github, sangat disarankan isi username dahulu di bagian profile, supaya bisa lihat profile page.
+
+      Semoga bisa jadi alternatif teman2 saat mau mencoba blogging hehe, terima kasih :v:
+
+      Repository: [https://github.com/tulusibrahim/react-blog]
+
+
+<br>
+
+2.  [http://www.regist.in/]  
+     **Yogisamb**  
+      halo selamat siang teman teman , kenalkan saya mahasiswa yang hobinya rebahan 
+      saya saat ini sedang mengembngkan aplikasi yang saya rancang dan saya buat dari 0 dan rencana akan saya kembangkan hingga menjadi startup
+
+      aplikai web base ini bernama Regist.in - Smart IOT Event Assistance
+      saya membangun aplikasi ini setelah belajar dari salah satu playlist pak @sandhikagalih , yaitu membangun login lengkap codeigniter 3.
+      Aplikasi ini dibangun karena dahulu ketika saya masih bergelut dibidang event konser, banyak sekali kerugian karena adanya duplikasi tiket
+      dan ketika bergelut dibidang seminar nasional maupun webinar, banyak sekali sumberdaya yang  terbuang karena belum adanya efisiensi sumber daya
+
+      Regist.in sejatinya adalah aplikasi atau website pelengkap untuk semua alat yang kami kembangkan sendiri. tp karena alatnya masih berupa prototipe maka saat ini regist.in kamu fungsikan sementara sebagai manajemen event webinar. mulai dari pendaftaran, manajemen peserta, hingga cetak sertifikat
+
+<br>
+
+3.  [https://myquran-ar2.web.app/]  
+     **Arfian Rafi Pradana**  
+      assalamualaikum pak dika, nama saya Arfian sekarang bersekolah di smpn 1 sby,
+      saya ingin share website myquran, kebetulan saya buat dengan ci4 sama reactjs
+
+      REACTJS:
+      url: [https://myquran-ar2.web.app/]
+      -reactjs
+      -firebase(hosting)
+      -bootstrap 5
+      -react-router-dom
+      -recoiljs
+
+      CODEIGNITER 4:
+      url: [http://myquran.rf.gd/]
+      dibuat dengan:
+      -codeigniter 4
+      -infinityfree(hosting)
+      -bootstrap 5
+
+
+      ig : [https://www.instagram.com/arfian_rp__]
+      twitter : [https://twitter.com/ArfianRp]
+      github : [https://github.com/arfian-rp]
+
+      terimakasih
+
+<br>
+
+4.  [https://jadwal.rmecha.my.id/]  
+     **reacto_mecha!**  
+      Halo selamat malam
+      Izin share project iseng website jadwal pelajaran buat kelas saya (x bahasa). Website ini juga buat latihan disela-sela tugas sekolah yang banyak. Web ini dibuat juga karena tabel yang dikasih itu buat jadwal satu sekolah, agak ribet ngebacanya. Pengen buat web ini buat satu sekolah cuman tugas yang dikasih guru masih banyak.....
+
+      Webnya dibuat pake
+      - Solid js
+      - Picnic css
+
+      Kalo mau ngubah jadwalnya tinggal edit file
+      src/Misc/data.js
+
+      Github repo: [https://github.com/reacto11mecha/jadwal]
+
+<br>
+
+5.  [https://website-sekolah.rifkiromadhan.repl.co/]  
+     **ikki**  
+      Hallo pak, perkenalkan nama saya Rifki Romadhan, dari Purbalingga. Mau berbagi project sekolah yang saya bikin beberapa bulan yang lalu. Project ini terinspirasi dari websitenya acsjakarta.sch.id. Tolong reviewnya pak. makasih.
+
+
+      Tech Stack
+
+      - HTML
+      - SCSS
+      - JS
+      - JQUERY
+      - LIGHTSLIDER
+      - BOOTSTRAPS
+
+      link source code : [https://github.com/IkkiRama/WEBSITE-SEKOLAH]
+<br>
+
+6.  [https://ahmadmcer.github.io/albukhori/]  
+     **AhmadMCer**  
+      Halo, selamat siang.
+      Perkenalkan saya Ahmad Nawawi mahasiswa Institut Teknologi Telkom Purwokerto program studi S1 Software Engineering. Saya izin untuk membagikan salah satu proyek saya (dan masih dalam pengembangan). Mohon kritik dan sarannya. :pray:
+
+      Website dibuat dengan:
+      - HTML
+      - CSS
+      - JavaScript
+
+      Framework yang digunakan:
+      - Bootstrap 4.3.1
+      - jQuery 3.3.1
+      - Popper 1.14.7
+
+      Source: [https://github.com/ahmadmcer/albukhori]
+
+<br>
+
+7.  [https://yusufamris15.github.io/progate.github.io-/]  
+     **Yusuf Amri S.**  
+      Assalamu'alaikum warohmatulloh, selamat siang pak dika dan teman2. Nama saya yusuf amri, dan merupakan salah satu pegawai ASN pemerintah pusat. Saat ini saya penempatan di pedalaman kalimantan selatan. Saya merupakan bukan org dgn latar belakang IT, namun tahun lalu mulai tertarik untuk mencoba dan akhirnya ikut digitalent dari kominfo dan progate. Project ini merupakan hasil tugas akhir kelompok kami (total anggota 5 org tp yg kerja 2 org hehe biasalah yak).
+      Website dibuat dengan:
+      - HTML
+      - CSS
+
+      Berikut ini merupakan link websitenya: [https://yusufamris15.github.io/progate.github.io-/]
+      Saya menyadari banyak kekurangannya, dan saya terus belajar hingga akhirnya menemukan channel wpu pak dika tentang ngobar dgn bootstrap 5. Setelah itu saya mencoba untuk membuat lagi namun kali ini untuk keperluan kantor saya berkerja: 
+      Berikut ini merupakan link websitenya : [https://pinanduv3.netlify.app/]
+      Saya ucapkan terima kasih banyak untuk pak dika dan teman2 discord yg telah membantu saya dlm belajar web developer. 
+      Source code untuk kedua website : 
+      [https://github.com/yusufamris15/progate.github.io-]
+      [https://github.com/yusufamris15/pinanduv3] 
+      Salam titik koma!
+
+
+<br>
+
+8.  [https://cliexec.com/]  
+     **PUYUP**  
+      Hay all, setiap hari coding pasti nemu masalah., nah masalahnya ketika nemu solusi kita tuh ndak tahu harus berkespresi seperti apaan, apalagi WFH gini., damm! mau ngomong "Horee! mati kau bug, akhirnya setelah 7x24 jam ketemu juga", ke siapa ya? ke mantan? ah kayaknya mereka ngak ngerti juga.,
+
+      so, saya bikin platform namanya CLIExec.com dimana para programer bisa "Celebrate" problem solution yang ketemu sewaktu ngoding.,
+
+      capcus guys, free kok [https://cliexec.com/] (dari CLI + Exec = tiap hari tanpa sadar kita jalanin perintah lewat sini) :smile:
+
+
+<br>
+
+9.  [https://halamanku.web.id/]  
+     **haizim**  
+      haii.. setelah sekian lama akhirnya ada waktu juga buat ngembangin lagi ini web...
+      Jadi ini hasil pengembangan salah satu side project saya "Halamanku Web Page Builder".
+
+      Apa aja pengembangan yang udah diterapin?
+      - Template yang siap digunakan : jadi udah gak perlu buat mbikin dari kosongan lagi, tinggal pilih template yang tersedia dan tinggal sesuaiin kontennya. (walau masih dikit siih ehe)
+      - Simpan halaman yang telah dibikin jadi template : gak cuma bisa nggunain, sekarang semua juga bisa mbikin template mereka sendiri dan digunain orang lain juga.
+      - Duplikat isi kolom dan baris : klo punya baris/kolom yang formatnya mirip2 bisa tinggal duplikat aja, gak perlu bikin tiap item satu2
+      - Sub-domain untuk halamanmu : selain melalui halamanku.web.id/[id_halaman] juga bisa diakses melalui [id_halaman].halamanku.web.id
+
+      Untuk stack yang digunain masih sama:
+
+      - HTML
+      - CSS
+      - Vanilla Js (90%an)
+      - Bootstrap
+      - Jquery (buat Summernote)
+      - Summernote (big thanks to it)
+      - FontAwesome
+      - PHP Native
+      - MySQL
+
+      Dan tentunya masih GRATIS kok
+
+      Monggo bisa langsung cek di [https://halamanku.web.id/]
+
+<br>
+
+10.  [https://lawancorona.batam.go.id/]  
+     **Marlow**  
+      Selamat pagi/siang/sore/malam semua! Perkenalkan, saya Syukur, saat ini sedang kuliah di salah satu perguruan tinggi. Saya ingin men-share project berupa REST API yang dibuat menggunakan Django. REST API ini adalah API untuk batam lawan corona.
+
+      Saya terdorong untuk membuat project ini karena melihat usaha teman-teman dari KawalCovid, WargaBantuWarga, dan teman-teman programmer lain yang membantu pemerintah untuk keluar dari pandemi ini. Stack/teknologi yang digunakan pada project ini tidaklah se-fancy project-project yang sudah ada diluar, namun besar harapan saya, lewat project ini, saya bisa berkontribusi untuk tanah di mana saya dibesarkan.
+
+      Saya juga membagikan cerita kendala apa saja yang saya hadapi dan bagaimana saya mengatasi kendala yang saya hadapi di [https://muhammadsyukura.medium.com/tantangan-merancang-rest-api-menggunakan-django-rest-framework-drf-89e107efe886]
+
+      Stack :
+      -Django
+      -Django REST Framework
+      -Swagger UI
+
+      Source Code : [https://github.com/sykrabadi/batamlawancorona_api]
+      API : [http://batamlawancoronaapi.herokuapp.com/docs/#/]
+
+<br><br>
+
