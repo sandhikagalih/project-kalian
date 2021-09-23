@@ -8085,3 +8085,220 @@ SISWA
 
 <br><br>
 
+### 23 September 2021
+
+1.  [https://projecttokoku.000webhostapp.com/]  
+     **ianxven**  
+      Assalamualaikum semua, saya nama saya Adrian, siswa SMK di daerah Semarang, Saya izin mau ikut Showcase Project untuk pertama kali. Saya membuat website Toko Online 
+      Sederhana bernama Tokoku. ini adalah project Tugas Akhir sekolah saya. Mohon kunjungan dan Feedbacknya. terima kasih.
+
+      Sedikit cerita, sebenernya saya belum pernah belajar PHP sebelumnya, karena saya lebih suka frontend. tapi karena ada tuntutan tugas jadi saya coba namatin playlist PHP dasar dari pak dika dan nyari beberapa referensi dan tutorial lain di youtube, akhirnya bisa menyelesaikan project ini walaupun masih banyak kekurangan.
+
+      Source Code : [https://github.com/AdrianRafli/website-tokoku]
+
+      Front-End : 
+      - HTML 
+      - CSS
+      - Javascript
+
+      Back-End :
+      - PHP
+      - MySQL
+
+      Library :
+      - Bootstrap 5
+      - FontAwesome (icon)
+
+      Untuk masuk sebagai admin :
+      - Email : admin
+      - Password : admin 
+
+
+<br>
+
+2.  [https://bug-hero.herokuapp.com/]  
+     **jaitramadandijeke**  
+      Assalamualaikum. Ini adalah project dari hasil belajar Nodejs & Express. Web based application untuk melakukan tracking issue/bug pada project yang terinspirasi dari fitur Github Issues 😁. Tech stacks: Bootstrap, Nodejs, Express, & MongoDB. 
+      Repo: [https://github.com/fillateo/BugHero]
+
+<br>
+
+3.  [https://grandonkmerch.vercel.app/]  
+     **rizal_grandonk**  
+      Hallo semua, perkenalkan aku Rizal tapi biasa dipanggil Grandonk, mau share project iseng - iseng dalam rangka belajar Next JS, silahkan kalo ada saran dan masukan ataupun pertanyaan.
+      Websitenya sendiri website ecommerce, nama website nya "Grandonk Merch". Silahkan dikunjungi, terima kasih
+
+      Source Code : [https://github.com/grandonk666/next-ecommerce]
+
+
+      Kalo sudah mengunjungi website nya dan mau mencoba memesan atau order, untuk pembayaranya bisa melalui simulator dari Midtrans
+      Simulator Midtrans : [https://simulator.sandbox.midtrans.com/bri/va/index]
+
+      Disclaimer !!
+      Proses checkout bisa saja error, jika trafic terlalu padat atau banyak user yang melakukan checkout, dikarenakan API untuk pengecekan ongkir ada limitnya
+
+      Stack :
+      Front-End
+      React
+      Next JS
+      Tailwind CSS
+
+      Back-End
+      Node
+      Strapi (headless CMS)
+      Midtrans (Payment Gateway)
+
+      Author :
+      Rizal Waskito (Grandonk)
+      Website : [https://profile.rizalwaskito.xyz/]
+      Twitter : [https://twitter.com/rizal_grandonk]
+
+<br>
+
+4.  [https://github.com/ZSofttt/ScraperTools]  
+     **Callme_Zahirrrr**  
+      Assalamualaikum Teman2, Saya Zahir ingin membagikan sebuah Project Package NPM, yang bernama "ScraperTools"
+      Setelah sekian lama tidak muncul ke Permukaan :v , akhirnya saya berencana untuk membuat suatu Projek Lagi :v
+      Seperti namanya, ScraperTools ini berisikan kumpulan Website yang sudah pernah saya Scrape, yang saya satukan didalam Package ini, ya walaupun jumlah nya baru sedikit , tapi nanti insyallah akan diupdate lebih banyak , kalian juga boleh request untuk webnya.
+
+      Link Package :
+      [https://www.npmjs.com/package/scraper-tools]
+
+      Library yang dipakai :
+      - Cheerio ( sudah pasti )
+      - Axios
+      - Node Fetch
+      - Node Scrapy
+      - DLL
+
+
+      Oiya, untuk projek ini saya simpan di akun baru saya, dan untuk kedepannya saya tidak akan menggunakan akun [https://github.com/Zhirrr] ini lagi
+
+      Terimakasih :)
+
+<br>
+
+5.  [https://priyaihsan.000webhostapp.com/]  
+     **;priyaihsan**  
+      Assalamulaikum, Halo... semuanya perkenalkan saya Priya Ihsan. 
+      ini project saya yang pertama kalinya untuk di showcase 
+      ,project ini masih belum selesai.saya membuat personal website
+
+      Website ini dibuat dengan:
+      - HTML
+      - Bootstrap 5
+      - PHP
+      - sedikit CSS
+      - sedikit Javascript
+
+      untuk websitenya bisa di cek di:
+      [https://priyaihsan.000webhostapp.com/]
+
+      dan maaf untuk souce code nya blum di uploud di github,hehehe ^^.
+
+<br>
+
+6.  [http://skanesga.vercel.app/]  
+     **toufiqn**  
+      Halo temen-temen,
+      Selamat malam, perkenalkan saya Toufiq Nuur mau share project latihan saya menggunakan Svelte. Website ini merupakan hasil re-design website sekolahku.
+
+      Teknologi yang digunakan
+      - Svelte Kit & Typescript
+      - Swiper.js
+      - Tailwind Css
+
+      Berikut link repo & demonya
+      Repo: [https://github.com/toufiqnuur/skanesga]
+
+      Terimakasih... 
+
+<br>
+
+7.  [https://arfian-id.web.app/]  
+     **Arfian Rafi Pradana**  
+      Assalamualaikum padika dan kawan2, nama saya Arfian mau share project web saya
+      teknologi:
+      -reactjs
+      -react router dom
+      -bootstrap 5
+      -JS
+      -CSS
+      -firebase hosting
+
+      url : 
+
+      fitur:
+      -contact me terhubung dengan rest api Express buatan saya, (padika bisa isi)
+      -no refresh
+
+      repo : [https://github.com/arfian-rp/REACTJS-personal-web]
+
+      mohon koreksi dan sarannya padika dan kawan kawan
+
+      wassalamualaikum warohmatullahi wabarokatu
+
+<br>
+
+8.  [https://weather.msa-noconnection.com/]  
+     **ID**  
+      Assalammu'alaikum padika dan kawan kawan, saya Said mau share project web saya project, project iseng sih namaya wheater-app dimana data nya saya ambil dari free api dari openweathermap
+      teknologi yang saya pakai di sini
+      - React
+      - Typescript
+      - Tailwind 
+      - SWR
+      - Axios
+
+      link nya 
+      mohon maaf kalau agak lama buka web nya maklum hosting gratisan 
+
+      link Repo nya
+      [https://github.com/msaid-a/weather-web]
+
+      terimkasih
+
+<br>
+
+9.  [http://saut-blog.xyz/]  
+     **Saut manurung**  
+      Halo temen-temen,
+      Selamat malam, perkenalkan saya Saut Manurung mau share project latihan saya menggunakan Laravel. Website ini merupakan suatu blog biasa yang masih belum saya buat isi nya .
+
+      Teknologi yang digunakan
+      - Laravel 6
+      - Bootstrap
+      - Jquery
+      Saya Hosting menggunakan VPS pribadi saya
+
+      Berikut link repo dan demonya
+      Repo : [https://github.com/sautmanurung1/laravel-6]
+      Mohon maaf jikalau masih ada banyak kesalahan 
+
+
+<br>
+
+10.  [https://horrorstory.site/]  
+     **Naufal Syahruradli**  
+      Assalamualaikum padika dan kawan2, nama saya naufal mau share project web saya
+      teknologi:
+      -reactjs
+      -JS
+      -php
+      -scss
+
+
+      fitur:
+      -login
+      -buat cerita anda
+
+
+      mohon koreksi dan sarannya padika dan kawan kawan
+
+      wassalamualaikum warohmatullahi wabarokatu 
+      Bagi yang suka cerita horror jangan lupa ya kunjungin 
+
+      Terimakasih :)
+
+<br><br>
+
