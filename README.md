@@ -8302,3 +8302,263 @@ SISWA
 
 <br><br>
 
+
+### 25 September 2021
+
+1.  [https://dimascapella.github.io/RainForest/]  
+     **Dimas Capella**  
+      Hallo pak dhika, saya dimas eka, saya mau share project web saya tentang RainForest ( karena gk bisa milih tema jadi ngasal aja ), web ini adalah hasil pembelajaran saya tentang frontend selama beberapa hari sebelumnya.
+      Teknologi yang digunakan :
+      - Html
+      - Scss
+      - Javascript
+
+      Extensionnya:
+      - SwiperJS
+      - ZoomJS
+      - Izmir
+      - Lazy Load ( karena ada beberapa gambar yang lama buat load )
+
+      repo : [https://github.com/dimascapella/RainForest]
+      terima kasih 
+         
+<br>
+
+2.  [https://blogopedia-app.herokuapp.com/]  
+     **Buleeeeee**  
+      Hallo pak dhika, nama saya Faldi, biasa dipanggil bule. Saya mau share project hasil kegabutan setelah nonton playlist nodeJS pak dhika. Project ini dibuat secara santai selama 3 Minggu. Nama webnya "Blogopedia". Isinya terinspirasi dari tutorial laravel 7 di YouTube parsinta. Tujuan saya buat web ini sebagai galeri untuk orang-orang terdekat saya.
+
+      Teknologi yang digunakan : 
+      NodeJS
+      ExpressJS
+      MongoDB
+
+      Semua layanan yang saya pakai 100% gratis.
+
+      Untuk lebih detailnya dapat dibaca pada websitenya itu sendiri.
+
+      *Note :  auth UI saya membuatnya dengan mengikuti tutorial dari channel youtube "True Coder" 
+
+      Terimakasih 
+
+
+<br>
+
+3.  [https://tempelbae.000webhostapp.com/]  
+     **alhiqny**  
+      Hallo Pak Sandika, Hallo Semunya , nama saya Bil Abror.
+      saya akan share project website yang dibuat full menggunakan android selama 3 hari saat mengikuti lomba yang diselenggarakan oleh SKULL CYBER SECURITY.
+
+      Dibuat dengan :
+      PHP MVC :  [https://github.com/sandhikagalih]
+      Template Frogetor : [https://bit.ly/2ViL6vC]
+
+      dengan keterbatasan skill dan waktu saat perlombaan jadi fitur yang dibuat hanya sedikit
+      Repo : [https://github.com/Alhiqny404/tempelbae]
+
+      username : admin@example.com
+      password : admin
+
+      Terimakasih...
+
+<br>
+
+4.  [https://togi-simaremare.my.id/#project]  
+     **Togi**  
+      Selamat malam, saya ingin membagikan project saya yang ada di portofolio saya.
+      Link : 
+
+      Framework : FlightPHP
+      CSS : Bootstrap
+      Hosting : Heroku
+      Database : MySQL
+
+
+      Terimakasih. 
+
+
+<br>
+
+5.  [https://zdnpl.github.io/read-45203-valorant-agent-ascent/]  
+     **zdnpl**  
+      Assalamualaikum, selamat siang Pak Dhika dan kawan kawan, nama saya Zidan mau share project web artikel tentang valorant.
+      Nama web nya "VaTricks", ini pertama kali nya saya bikin web artikel, project ini dibuat selama kurang dari 6 jam.
+
+      Teknologi yang digunakan :
+      - HTML
+      - Bootstrap 5
+
+      Repo : [https://github.com/zdnpl/read-45203-valorant-agent-ascent]
+
+      Sekian terima kasih.
+
+      salam titik koma ; 
+
+
+<br>
+
+6.  [https://akbarhps.github.io/p5-lightning-visualization/]  
+     **akbarhps**  
+      Halo semua, saya mau ikutan project showcase lagi nih xixi
+
+      Tech stack:
+      - HTML
+      - CSS
+      - p5.js
+
+      Jadi kali ini ada 3 project gabut saya lagi
+      1. Lightning Visualization (menggunakan BFS) 
+      Github: [https://github.com/akbarhps/p5-lightning-visualization]
+      Live Website: [https://akbarhps.github.io/p5-lightning-visualization/]
+
+      2. Snake game + path finding algorithm (BFS, DFS, A*) 
+      Github: [https://github.com/akbarhps/p5-snake-game-with-pathfinding]
+      Live Website: [https://akbarhps.github.io/p5-snake-game-with-pathfinding/]
+
+      3. Game agario kecil kecilan
+      Github: [https://github.com/akbarhps/p5-agario]
+      Live Website: [https://akbarhps.github.io/p5-agario/]
+
+
+<br>
+
+7.  [https://aqua-fanpage.vercel.app/]  
+     **Falcxxdev**  
+      Halo Pak Dhika dan teman", izin ikutan lagi showcase project untuk kedua kalinya. Kali ini web yang saya buat, yaitu Fanpage seorang vtuber, whehehehe...
+
+      Singkat ceritanya, website ini dibuat gak lebih dan gak lain karena iseng doang, dan berkat kelakuan simp saya, projek ini terwujud dan dibuat juga (wkwk)... Dibuat menggunakan Svelte JS. Dan fun fact nya, Ini adalah Progressive Web App (PWA) Pertama yang saya buat, dan pertama kali juga implementasi dan membuat fitur dark mode pada website. Isinya simple aja kok, Hanya berisi Homepage, Overview, Info, dan Links saja (karena gak ada ide lagi, wkwk).
+
+      Tech stack yang digunakan adalah :
+      - Svelte JS (TypeScript)
+      - Sveltestrap
+      - Page.js
+
+      Alasan kenapa menggunakan Sveltestrap (Bootstrap) sendiri karena masih belum belajar Tailwind CSS, dikarenakan itu, Saya disini menggunakan Sveltestrap sebagai Framework CSS.
+
+      Link Repository : [https://github.com/gifaldyazkaa/aqua-fanpage]
+
+      Kalau ada saran, atau lainnya bisa dm langsung dan ngobrol sama saya, hehe~
+      Sekian pak dhika dan teman", Terima kasih~
+
+<br>
+
+8.  [https://vsior.com/blog/]  
+     **Arnadi Admin Toko**  
+      Hai pak Dhika & teman-teman semoga kalian semua sehat-sehat saja & selalu dalam lindungan-Nya Amin.
+
+      Kali ini saya izin share project baru saya (website tutorial). Ini adalah project ke-2 saya setelah Toko Online yang sebelumnya sudah sempat di showcase pak dosen kita.
+
+      Seperti sebelumnya, dalam penggarapan project ini saya masih menggunakan beberapa perkakas yang sama seperti berikut.
+
+      A. Perangkat
+         I. OPPO F9
+
+      B. Aplikasi
+         I. Jota Text Editor
+         II. Icode-Go
+         III. Icode-Web
+         IV. PicsArt
+         V. Google Chrome
+
+      C. Tanpa Framework
+         I. HTML
+         II. CSS
+         III. PHP
+         IV. JavaScript
+
+      D. Fitur-fitur
+         I. Live Code
+         II. Parse HTML
+         III. Tentang
+         IV. Kontak
+         V. Sitemap
+         VI. Dashboard
+         VII. Registrasi
+         VIII. Masuk
+         IX. Keluar
+         X. Ganti Password
+         XI. Tombol Berbagi
+         XII. Komentar
+         XIII. Plus syntax highlighter ecek-ecek
+
+      E. Halaman Dashboard
+         I. Posting baru (buat posting)
+         II. Daftar posting (yang telah publish)
+         III. Ikon website (ganti ikon/logo)
+         IV. Nama website (edit nama web)
+         V. Deskripsi website (edit deskripsi web)
+         VI. Profil admin (edit data profil)
+         VII. Akun pengguna (mengelola akun)
+         VIII. Slot iklan (ganti/merubah iklan)
+         IX. Verifikasi Google (kode verifikasi)
+         X. Keluar
+
+      - Judul, slug, sampul, gambar, upload, posting, deskripsi, kata kunci, dan kategori, simpan, publish, preview, dan reset + validasi. 
+      - Tombol simpan akan menyimpan posting baru yang di input dan akan tersimpan ke penyimpanan sementara sebelum siap untuk di publish. 
+      - Slug akan terisi otomatis sesuai judul posting, dan slug permanen tidak akan dapat dirubah untuk kedepannya. 
+      - Untuk gambar sampul selain pilih file langsung dari direktori penyimpanan, bisa juga dengan memasukkan alamat URL gambarnya saja. 
+      - Gambar pilih gambar yang ada, salin kode/tag gambarnya untuk di pakai dalam area input posting. 
+      - Upload untuk upload gambar baru yang akan di pakai dalam area input posting. 
+      - Kategori pilih yang ada atau masukkan yang baru.
+      - Preview untuk melakukan pratinjau pada posting yang sedang di buat apakah sudah sesuai dengan yang diinginkan atau belum, jika sudah barulah di publish.
+      - Dashboard > Slot iklan
+      - Terdapat 4 slot iklan yang akan tampil pada bagian 1 di header, 2 diantara posting, 1 di sidebar, & 1 lagi di footer.
+      - Pada halaman posting, selain dapat share posting ke media sosial, teman-teman juga dapat meninggalkan komentar pada posting yang sedang dibaca. 
+      - Form komentar sudah lumayan aman dari kata-kata kotor.
+
+      Ya kurang lebihnya begitu pak Dhika, selebihnya saya tunggu kritik dan masukan dari pak Dhika & teman-teman.
+
+      Tujuan: Saya membuat Vsior Blog ini adalah sebagai tempat saya berbagi tutorial atau pengalaman saya selama ini khususnya dalam hal belajar membuat website di Hp, dengan harapan supaya teman-teman bisa termotivasi.
+
+      Do'akan ya...
+
+      #SalamTitikKoma; #SemangatCoding #NgodingRebahanGokil #NgodingKapanSaja #NgodingDimanaSaja #NgodingSambilNgantri #NgodingBebasYaDiHp
+
+<br>
+
+9.  [https://al-quran-ku.web.app/]  
+     **reacher7**  
+      Github : [https://github.com/egierdian]
+
+      Malam pa, ijin share web pwa. Dimana web ini merupakan web yang menyajikan bacaan alquran beserta artinya, web ini dapat diakses ketika tidak sedang menggunakan kuota internet.
+
+      Fitur :
+      - List Bacaan alquran
+      - Terjemahan
+      - Arti bacaan alquran
+      - Dapat di simpan, sehingga dapat dijadikan tanda sedang membaca surah apa.
+      - Dapat diakses tanpa kuota data.
+
+      Dibuat:
+      - Vanilla JS
+      - Materiallize
+      - PWA
+
+      Terimakasih
+
+<br>
+
+10.  [https://zanevakalonika.github.io/]  
+     **Zaneva Kalonika Handoko**  
+      Selamat siang Pak Dhika, dan teman - teman semua.Perkenalkan saya Zaneva Kalonika Handoko, biasa dipanggil Neva dari Jawa Tengah, Surakarta, sekolah di SMP PL Bintang Laut Surakarta (Kelas 8).Nama web saya "My Portofolio Web" .Ini pertama kalinya saya bikin web dan bener- bener jadi (saya minta maaf  kalau misalnya webnya bener - bener sama persis seperti tutornya Pak Dhika).
+
+      Code Editor :
+      Visual Studio Code :vscode: 
+
+      Bahasa Pemograman dan Teknologi/Tech Stack yang digunakan :
+      - HTML :html: 
+      - CSS :css: 
+      - Bootstrap :bootstrap: 
+
+      My Social Media :
+      - [https://www.instagram.com/zanevakalonika/]
+      - [https://www.youtube.com/channel/UCcqy1bEEY7nYXJrzDHfnnJQ]
+      - [https://github.com/zanevakalonika]
+
+      Repositories Github :
+      [https://github.com/zanevakalonika/zanevakalonika.github.io]
+
+      Thanks,, Project kegabutan yang membuahkan hasill,,
+
+<br><br>
+
