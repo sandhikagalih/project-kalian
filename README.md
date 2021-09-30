@@ -8562,3 +8562,237 @@ SISWA
 
 <br><br>
 
+### 30 September 2021
+
+1.  [https://library-dw18lsfsq.netlify.app/]  
+     **nuraskiah**  
+      Assalamualaikum, selamat malam Pak Dhika dan teman-teman semua. Perkenalkan nama saya Nur Askiah (19 tahun). Saya ingin membagikan aplikasi web pertama saya, yg saya buat setahun yg lalu. Aplikasi ini bernama Lib'rary, yang merupakan "perpustakan" di mana user bisa membaca atau membagikan buku mereka. Format dokumen yang disupport di aplikasi ini hanya .epub. 
+
+      Repo:
+      - Frontend: [https://github.com/nuraskiah/DW18LSFSQ_library]
+      - Backend: [https://github.com/nuraskiah/DW18LSFSQ_library_api]
+
+      Dibuat dengan:
+      - ReactJS
+      - Bootstrap
+      - NodeJS
+      - Sequelize
+
+      Untuk akunnya, bisa register atau menggunakan akun di bawah.
+
+      email: user@library.com
+      email: admin@library.com (admin)
+      pass: 123123123
+
+      Saya juga ingin berterima kasih karena video di youtube bapak, sekarang saya bisa bekerja sebagai Web Developer. 
+
+      Terima kasih pak, tetap semangat berkarya. Salam titik koma.
+
+<br>
+
+2.  [https://ariefsn.dev/]  
+     **ayic**  
+      Halo guys,
+      mau share personal web nih.
+
+      URL: 
+      ReadMe bisa kesini: [https://github.com/ariefsn/resume-online]
+
+      Built with:
+      - Vue3
+      - TailwindCSS
+      - AnimeJS
+      - TypedJS
+
+      Nah kalau berminat buat personal web seperti itu dan tidak sempat bikin api, mungkin kalian bisa pakai ini.
+
+      Resume Online API:
+      URL: [https://resume-online-api.ariefsn.dev/user/:usernameAtauUuid/:path]
+      Note: Username/uuid required yak, kalau path itu optional. By default munculkan semua data, misal mau spesifik bisa ditambahkan path tersebut. Path antara lain profile, educations, works, skills, projects, certificates, contacts.
+
+      Built with:
+      - Golang Microservices
+      - Docker
+
+      Untuk daftar bisa disini:
+
+      Resume Online Portal:
+      URL: [https://resume-online-portal.ariefsn.dev/]
+
+      Built with:
+      - Vue3
+      - Quasar
+
+      Untuk lihat apakah data kalian sudah ready bisa cek disini, tinggal masukkan username atau uuid kalian:
+
+      Resume Online Public:
+      [https://resume-online.ariefsn.dev/]
+
+      Built with:
+      - Vue3
+      - Quasar
+
+      Note: untuk data attachments, misal seperti profile image, project images, atau certificate files perlu kalian upload sendiri, dan ambil url nya saja. Dikarenakan keterbatasan space server jadi belum support untuk upload file. 🙏
+
+      Terima kasih... 
+
+<br>
+
+3.  [https://aim-training.vercel.app/]  
+     **boedegoat**  
+      Halo semuanya, Perkenalkan saya Bhremada. Sekarang saya masih berstatus anak sma kelas 11 di tangsel. Disini saya mau ngeshare hasil kegabutan saya yang mungkin bisa membuat anda tambah gabut...
+
+      Jadi, project yang akan saya share berupa game sederhana berbasis web. 
+
+      Ada 2 game yang saya buat :
+
+      1. Aim training
+         Buat ngelatih aim biar tambah jago pas main game FPS
+
+         link:  [https://aim-training.vercel.app/]
+         repo:  [https://github.com/boedegoat/aim-training]
+
+      2. Snake game
+         Sebuah game snake sederhana dimana semakin tinggi skor anda, maka akan semakin 
+         cepat pergerakan snakenya. Ada sistem highscorenya juga
+
+         link:  [https://kang-piton-io.vercel.app/]
+         repo:  [https://github.com/boedegoat/kang-piton.io]
+
+      Keduanya dibuat dengan :
+
+      - HTML
+      - CSS
+      - Javascript
+
+      Any feedback or suggestions are welcome
+
+      Terimakasih
+
+<br>
+
+4.  [https://gudkuesyen.com/]  
+     **johsteven**  
+      Halo all, saya Steven, izin share hasil project sederhana saya.
+
+      Web forum untuk tanya jawab bebas, bisa juga untuk diskusi. Buat kamu yg lagi kesulitan dengan pertanyaan yg diberikan oleh dosen/guru/pembina dsb kamu bisa tanyakan pertanyaanmu disini, harap² ada yang jawab.
+
+      Begitu saja, buat yang lagi gabut silahkan dicoba ya.. terimakasih🙏
+
+      Teknologi:
+         - Laravel
+         - Tailwind
+
+<br>
+
+5.  [https://yehezgun.com/]  
+     **Kaz2000**  
+      Hi, saya Yehezkiel Gunawan. Izin share hasil project saya.
+
+      Saya membuat portfolio web menggunakan NextJS. Saya menggunakan React-Notion untuk mengintegrasi Notion saya sebagai Database dan renderer isi artikel. Feedbacks sangat diterima untuk pengembangan lebih lanjut, terima kasih.     
+
+<br>
+
+6.  [https://stylish-wear.netlify.app/]  
+     **ryrd**  
+      Selamat malam,
+      Izin share dummy project website yang saya beri nama stylish wear.
+
+      Sebelumnya, project ini sudah saya share pada 17 agustus kemarin, tapi karena pas live streaming kemaren pak Dika bilang buat yg share lebih dari satu project salah satunya gak bisa ditampilin biar ngasih slot buat project milik yg lain. Jadi karena waktu dari share kemaren udah lewat 3 minggu jadi saya share lagi project ini,
+
+      website ini menampilkan beberapa pakaian dengan style yang menarik, deskripsi singkat, dan bahan dari pakaian tersebut.
+
+      teknologi yang digunakan:
+      -HTML
+      -CSS
+      -Javascript
+      -GSAP (for animation)
+      -Pace.js (for preloader)
+      -Swiper.js 
+
+      Source code:
+      [https://github.com/ryrd/stylish-wear]
+
+      note: this website is just dummy project, not official website nor sponsor 
+
+      sekian dan terimakasih :). 
+
+
+<br>
+
+7.  [https://my-komoditas-app.herokuapp.com/]  
+     **erikirfanr**  
+      Assalamualaikum, selamat malam Pak Dhika dan teman-teman. Perkenalkan nama saya Erik Irfan mahasiswa pertanian. Mohon izin share project machine learning hasil penerapan belajar bootcamp selama satu bulan. 
+      Aplikasi ini bernama “My Komoditas” merupakan platform online untuk membantu menentukan komoditas yang sesuai dengan karakteristik lahan yaitu ketinggian dan jenis lahan. Machine learning yang digunakan adalah model K-Nearest Neighboor Regression. Dataset yang digunakan berasal dari sebagian data Rekomendasi Pengelolaan Lahan (RPL) Kab. Blitar yang diterbitkan oleh Kementrian Pertanian. Hasil aplikasi ini akan menampilkan jenis komoditas apa yang disarankan serta rekomendasi pengelolaan lahannya.
+
+      Repository : [https://github.com/erikirfanr/my-komoditas]
+
+      Aplikasi ini menggunakan teknologi:
+      - Python
+      - Scikit-learn
+      - HTML
+      - CSS
+      - Flask
+
+      Cara pemakaian aplikasi yaitu,
+      -    Pada halaman utama akan ditampilkan input “ketinggian” dan “jenis lahan”
+      -    Input data ketinggian dapat berupa angka contohnya 200, 500, 750, 1500
+      Data ketinggian bisa angka berapa saja sesuai ketinggian lokasi
+      -    Input data jenis lahan dapat memasukkan dua jenis saja
+      Sawah atau Kering
+      -    Tekan hasil, kemudian akan dialihkan ke halaman hasil rekomendasi komoditas dan pengelolaan lahannya.
+      
+      Tampilan web nya masih sangat sederhana. Mohon saran dan masukannya Pak Dhika dan teman-teman
+      Terimakasih…. 
+
+
+<br>
+
+8.  [https://spamdetectorapp.herokuapp.com/]  
+     **Ez.Yoga**  
+      Assalamualaikum, izin share project data science lagi, kali ini saya membuat sebuah web app spam detector app message. Web app tersebut dibalik layar dibuat dengan salah satu cabang dalam data science dan machine learning yaitu NLP (Natural Language Processing). Alur nya kurang lebih seperti ini, datasetnya awalnya sebuah text karena mesin tidak bisa membaca text, saya ubah menjadi numerikal atau vektor matriks dengan CountVectorizer dan TfidfTransformer, lalu saya latih dengan model SVC(Support Vector Classifier). Dan jadilah model yang bisa mengklasifikasikan pesan spam atau bukan.
+      Teknologi yang saya pakai:
+      - Flask
+      - Python
+      - Scikit-Learn
+      - Pandas
+      - Bootstrap
+      - HTML
+      - CSS
+
+      Source Code: [https://github.com/AgungYogaSetiawan/Web-App-Spam-Classifier]
+
+      Mohon maaf UI appnya sangat biasa aja, karena saya tidak bisa web. Silahkan kritik dan sarannya. Terimakasih Pa Dhika dan kawan-kawan.
+
+<br>
+
+9.  [https://github.com/syofyanzuhad/Laravel-Trik-Indonesia]  
+     **syofyanzuhad**  
+      padika, mau kirim project lagi nii..
+      ini repo untuk cari macem2 trik cara pakai framework laravel, barangkali ada yang mau ikut kontribusi.. hehe 😅 
+      *bisa banget buat hacktober fest nanti #ups
+
+
+<br>
+
+10.  [https://kingramzy.github.io/spursminiwebsite/]  
+     **Ramzy**  
+      Assalamualaikum
+      izin ikutan showcase project. Kali ini web yang saya buat, yaitu Fanpage salah satu tim basket di liga basket Amerika, yaitu NBA whehehehe...
+
+      Website ini dibuat gak lebih dan gak lain karena iseng doang, dan emang saya ngefans banget sama tim basket ini (hahaha)... Dibuat menggunakan Bootstrap. Dan fun fact nya, Isinya mirip sama buatan @Falcxxdev . cuma berisi Homepage, History, Info, dan Links saja (hehehe).
+
+      Yang digunakan adalah :
+      - HTML
+      - CSS
+      - Bootstrap 5
+
+      Alasan kenapa menggunakan Bootstrap 5 karena saya sendiri masih belum belajar Tailwind CSS.
+
+      Link Repository : [https://github.com/kingramzy/spursminiwebsite]
+
+      Kalau ada saran, atau lainnya bisa PM saya atau chat disini
+      Sekian dan terima kasih Pa Dhika dan teman teman hehehe ~
+
+<br><br>
+
