@@ -8988,7 +8988,7 @@ SISWA
 <br>
 
 10.  [https://room-chat-33550.web.app/]  
-     **nuraskiah**  
+     **zul**  
       Assalamualaikum pak dika, saya mau share project sederhana saya
       Ini adalah sebuah project realtime chat sederhana dengan menggunakan React js dan firebase, di chat room app ini memliki beberapa fitur yaitu, kirim pesan text secara realtime, kirim foto dan video, serta kirim emoji sederhana, lalu kita juga bisa membuat dan mengganti status dan juga profil image, cara login menggunakan no telepone sebagai akses nya, lalu akan dikirim kode verifikasi ke nomor telepone anda untuk bisa login ke aplikasi, namun jika anda tidak ingin menggunakan no telepone asli, sudah tersedia beberapa no fiktif dan kode verifikasinya sebagai uji coba aplikasi, no verifikasi fiktif sebagai berikut:
       1. +62 821 2547 3148 (kode: 111222)
