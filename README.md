@@ -8796,3 +8796,213 @@ SISWA
 
 <br><br>
 
+### 2 Oktober 2021
+
+1.  [https://bellawan.my.id/]  
+     **belankus**  
+      Assalamualaikum Pak Dhika dan kawan2 WPU semua.
+
+      Izin ikutan project showcase pak, ini project showcase pertama saya. Saya bikin portfolio web, isinya tentang saya secara umum, seperti hal hal yang ada di CV. Masih berantakan banget, karena saya bikinnya santai sambil kerja pak, selalu saya kembangkan karena masih belajar mewujudkan yang ada di imajinasi saya. Kebetulan saya ikutan ini karena terinspirasi setelah lihat showcase project 1 bulan lalu.
+
+      Teknologi yang saya lakai :
+      - Adobe XD
+      - HTML
+      - Sedikit bootstrap 5
+      - SASS
+      - Sedikit jQuery
+
+      Mungkin akan bertambah, seiring akan saya tambahkan efek parallax. Mohon masukannya dari Pak Dhika dan semua kawan WPU. Kendalanya ya masih belum ada waktu aja pak buat sempurnakan webnya, semoga tetap konsisten walaupun sedikit2. Karena memang hobi hehe.
+
+      Source :
+      [https://github.com/belankus/belankus.github.io]
+
+<br>
+
+2.  [https://rend.my.id/]  
+     **resaendr**  
+      Assalamualaikum pak dika dan kawan kawan WPU,
+      Izin mengikuti showcase project untuk pertamakalinya, sebenernya ini adalah website portfolio saya yang dibuat sesimple mungkin karena yang sebelumnya terlalu kompleks,
+
+      Website ini menggunakan :
+      - HTML
+      - CSS
+      - Javascript
+      - Tailwind Css
+
+      Web ini saya buat disela sela waktu main game soalnya sekarang masih liburan semester dan semua tampilannya saya buat dadakan dengan tailwind (karena ini project iseng jadi ngga niat buat desainnya di figma) hehehe.
+ 
+      Source code :
+      [https://github.com/resaend/PortfolioNew]
+
+<br>
+
+3.  [https://foody-cipe.netlify.app/]  
+     **Wahyu.All**  
+      Hallo semuanya.
+      Izin showcase project sebuah WebApp resep masakan yang bernama Foody Cipe.
+
+      Terdapat beberapa halaman/bagian utama yaitu:
+      1. Home
+      2. Discover
+      3. Cookbook
+      4. Search
+      5. Detail Resep
+
+      Beberapa fitur yang bisa kalian coba seperti:
+      1. Mencari ribuan resep masakan
+      2. Rekomendasi resep-resep lezat setiap harinya
+      3. Menyimpan resep favorit kalian di Cookbook (seperti wishlist)
+      3. Terdapat beberapa kategori resep agar lebih mudah dalam menemukan resep yang diinginkan
+
+      Tech stack yang digunakan diantaranya:
+      1. React + (react-router & react-redux)
+      2. SASS / SCSS
+      3. Adobe XD (untuk desain UI/UX)
+
+      Source API yang Saya gunakan yaitu [https://spoonacular.com/food-api]
+
+      Link Repo Github: [https://github.com/wahyall/foody-cipe]
+      Disarankan untuk dibuka di tampilan mobile
+
+      **NOTE: dikarenakan kuota harian untuk request ke API cukup terbatas, saya mohon saat showcase nanti hanya Pak Sandhika yang mengakses. teman-teman boleh akses webapp nya saat sudah dishowcase
+
+      Terimakasih :)
+
+<br>
+
+4.  [https://library-dw18lsfsq.netlify.app/]  
+     **erikhant**  
+      Assalamu'alaikum pak dika dan kawan-kawan
+
+      ijin share projek kecil-kecilan (karna belum punya projek gede-gedean), kali ini saya mau share hasil slicing desain, yaitu dashboard fastfood menu. Untuk referensi desainnya saya ambil dari dribble, tapi sayangnya saya sendiri lupa link-nya, jadi mohon maap sampe sekarang saya gak tau siapa yg punya desainnya. Tapi saya sertakan screenshoot referensi desainnya di repo
+
+      Sebenernya ini karya lama sewaktu masih belajar css & javascript di playlist WPU, daripada ngebangke dilaptop lebih baik saya share disini dengan harapan kawan-kawan yang baru belajar bisa terinspirasi & termotivasi bukan terinsekur.
+
+      repo: [https://github.com/erikhant/fastfood-dashboard]
+      tech: just HTML, CSS, JavaScript. But for mobile version belum teroptimasi
+
+      Itu saja yang bisa saya share, next time insyaAllah saya bakal submit karya lain lagi. Atas perhatiannya saya ucapkan terimakasih. 
+
+<br>
+
+5.  [https://zenia.my.id/]  
+     **mzaini30**  
+      Assalamualaikum. Saya Zen. Freelance frontend developer. Kerjaan sehari-hari ngajar di pesantren. Ini blog yang saya buat dengan:
+
+      - SvelteKit
+      - Windi
+      - Excalibur
+ 
+      Source: [https://github.com/mzaini30/zenia]
+
+<br>
+
+6.  [https://pdf-together.vercel.app/]  
+     **reenevan**  
+      pdf annotation, using react-ts.
+      Fitur:
+      1. Annotation
+      2. Chat and reply
+      3. Free Draw
+
+      Using ElegantJs, ReactJs-Typescript.
+
+<br>
+
+7.  [https://raflymaulana.me/]  
+     **RAFLYMLN**  
+      Selamat pagi/siang/sore/malam Pak Sandika dan teman-teman semuanya. 
+
+      Izin share project pribadi ya, kali ini saya membuat versi ke-2 pada website portofolio saya (kenapa yang lama tidak dilanjutkan? karena males aja). Untuk versi kedua ini, saya menggunakan beberapa teknologi baru diantaranya:
+
+      - Front-end:
+      1. CSS: Pada front-end developmentnya, saya menggunakan TailwindCSS sebagai CSS Framework website ini. Kenapa tidak Bootstrap? Karena Bootstrap framework lebih kearah UI-kit framework, dan berbeda penggunaannya dengan TailwindCSS yang lebih ke arah classes-kit. Mode Just in Time juga digunakan untuk menghemat output CSS dan memungkinkan menggunakan fitur JIT itu sendiri.
+
+      2. Framework: Framework yang digunakan adalah Next.JS / ReactJS, menurut saya lebih mudah pemakaiannya dan fitur import-export DOM sangat memudahkan me-reuse component tertentu.
+
+      - Back-end:
+      1. Framework: Menggunakan framework Next.JS sehingga membantu proses routing page & api lebih mudah.
+
+      - Bahasa Pemograman:
+      Typescript, mengapa Typescript? Fiturnya sangat memudahkan untuk proses jangka panjang, dan membantu memvalidasi input-output dari function 1 ke function lainnya.
+
+      - Lainnya:
+      1. Prettier: Digunakan agar format dokumen tetap rapih dan sesuai.
+      2. EsLint: Digunakan agar format penulisan setiap file sesuai dengan hasil yang diinginkan, dan mengecek apakah ada error dalam suatu penulisan program di dalamnya.
+      3. next-images: Digunakan untuk membuat image di website ini tetap static dan menghemat HTTP request, serta memungkinkan beberapa fitur baru, seperti mengimpor SVG file, dsb.
+      4. next-pwa: Digunakan sebagai sistem Progressive Web Apps pada website ini.
+
+      - Proses Pengerjaan:
+      1. Design: Menggunakan Figma, kurang lebih 5 hari, tantangan utamanya adalah pada permainan warnanya.
+      2. Front-end: Kurang Lebih 3 hari, tantangan utamanya adalah banyaknya objek-objek dengan posisi absolute yang harus di kendalikan
+      3. Back-end: 1/2 Hari, karena tidak banyak yang dilakukan pada back-end untuk saat ini.
+
+      Pada website kali ini, aku menggunakan tema website artsy dan illustration dimana elementnya berfokus pada illustrasi-illustrasi yang ada di website ini.
+      Dan juga, semoga Pak Sandhika nge-click tombol scroll to top pada pojok kanan bawah ya...
+
+      Looking for V1 Website? [https://v1.raflymaulana.me/]
+
+      - Project is open-sourced: [https://github.com/raflymln/raflymln]
+
+
+<br>
+
+8.  [https://github.com/farhanhilmi/extension-meeting-link]  
+     **farhannnn**  
+      Haloo semuanya! 👋 
+      Izin share projek kecil saya yaitu Meeting Link Extension, projek ini berupa extension web browser yang bisa menyimpan link - link meeting supaya lebih mudah ketika nanti akan digunakan, jadinya tinggal klik saja link yang sudah diinput lalu akan redirect ke link yg dituju, untuk datanya akan tersimpan di local storage browser. Saya bikin ini supaya mudah nyimpen link - link kelas buat kuliah.
+
+      Saat ini extensionnya udah dipublish di Firefox dan juga Microsoft Edge, untuk Chrome masih belum publish karena harus bayar dulu hehehe 🤣 , jika ingin nyoba di Chrome bisa load saja package ektension dari repo saya di bawah:
+
+      Firefox: [https://addons.mozilla.org/en-US/firefox/addon/meeting-links/]
+
+      Ms Edge: [https://microsoftedge.microsoft.com/addons/detail/meeting-links-extension/pnldnnghaamdaldgocajlmfmjhopjglp]
+      Untuk Chrome:  
+      1. More tools -> Extensions
+      2. Aktifkan Developer Mode di pojok kanan atas
+      3. Pilih "Load unpacked"  -> Pilih folder hasil clone
+
+      Repo: [https://github.com/farhanhilmi/extension-meeting-link]
+
+      Project ini hanya dibuat menggunakan vanilla javascript dan css serta pake beberapa library buat timepicker.
+
+      Thank you semua, ditunggu saran - sarannya.
+
+<br>
+
+9.  [https://bugspy.netlify.app/]  
+     **mhdpauzi**  
+      Assalamualaikum pak Dika dan teman2 semua.
+
+      Saya ingin menunjukan project saya yang bernama Bugspy. Aplikasi ini berguna untuk menyimpan informasi jika ada bugs, fitur yang ingin ditambahkan, ingin merifactor code dan semacamnya untuk mengingatkan kembali nantinya. Yaaa... semacam issue di GitHub atau file TODO.
+
+      Aplikasi ini dibuat menggunakan:
+      - Svelte
+      - CSS
+      - Bootstrap 5 (yang .grid file)
+
+      Link repo : [https://github.com/muhammadpauzi/bugspy]
+
+      Sekian, semoga bermanfaat, dan terima kasih...
+
+<br>
+
+10.  [https://room-chat-33550.web.app/]  
+     **nuraskiah**  
+      Assalamualaikum pak dika, saya mau share project sederhana saya
+      Ini adalah sebuah project realtime chat sederhana dengan menggunakan React js dan firebase, di chat room app ini memliki beberapa fitur yaitu, kirim pesan text secara realtime, kirim foto dan video, serta kirim emoji sederhana, lalu kita juga bisa membuat dan mengganti status dan juga profil image, cara login menggunakan no telepone sebagai akses nya, lalu akan dikirim kode verifikasi ke nomor telepone anda untuk bisa login ke aplikasi, namun jika anda tidak ingin menggunakan no telepone asli, sudah tersedia beberapa no fiktif dan kode verifikasinya sebagai uji coba aplikasi, no verifikasi fiktif sebagai berikut:
+      1. +62 821 2547 3148 (kode: 111222)
+      2. +62 821 2547 3149 (kode: 123456)
+      3. +62 821 2547 3147 (kode: 123456)
+      4. +62 821 2547 3144 (kode: 112233)
+
+      Website ini menggunakan:
+      Reactjs
+      Css
+      Bootstrapp
+      Firebase
+
+
+<br><br>
+
+
