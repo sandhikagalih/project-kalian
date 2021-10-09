@@ -9006,3 +9006,204 @@ SISWA
 <br><br>
 
 
+### 9 Oktober 2021
+
+1.  [https://github.com/FajarTheGGman/Project-365]  
+     **Fajar**  
+      Assalamualaikum pak dika dan teman - teman wpu saya di sini ingin share project pribadi saya sekaligus project buat ujikom, yaitu project untuk Internet of things  seperti home automation, dan tujuan project ini di buat untuk solve problem di rumah seperti mematikan lampu, buka pintu, dll semua itu di lakukan pada satu apps saja.
+
+      Teknologi yang di gunakan : 
+      - MongoDB
+      - ExpressJS
+      - React Native
+      - NodeJS
+      - C++ ( untuk mikrokontroller )
+
+      Hardware : 
+      - Nodemcu ESP8266
+      - Nodemcu ESP32
+      - Relay
+
+<br>
+
+2.  [https://musing-morse-98f9ec.netlify.app/]  
+     **ibrahim4529**  
+      Nama Saya Ibrahim
+      ini merupakan showcase-project pertama saya
+      saya membuat web sederhana untuk convert code html yang menggunakan css bootstrap menjadi code html menggunakan tailwind
+      Fitur:
+      - Code editor dengan syntax hilighting
+      - Live Priview Code yang akan di ubah dan hasil ubahnya
+      - Bisa di edit juga
+
+      Link Github
+      _ https://github.com/ibrahim4529/tailwind2bs 
+
+
+<br>
+
+3.  [https://bookshelf.sepitkom-info.com/]  
+     **Mirzaq**  
+      Assalamualaikum pak dika dan temen temen WPU,
+      Izin mengikuti showcase project untuk pertama kalinya, sebenernya ini tugas online course tapi daripada nganggur di laptop mending saya kirimin buat showcase project, siapa tau ada manfaat nya buat temen-temen.
+
+      Website ini menggunakan :
+      - HTML
+      - CSS
+      - Javascript
+
+      web ini bisa digunakan untuk mendata buku. Misalnya punya novel bisa dimasukin di web biar tau punya buku apa aja trus juga bisa tau bukunya udah pernah dibaca atau belum.
+
+      Source code :
+      [https://github.com/mirzaq19/bookshelf-dicoding]
+
+<br>
+
+4.  [https://restaurantsapps.web.app/]  
+     **mickowidi**  
+      Hallo semuanya saya Micko.
+      Izin showcase project sebuah Web App Daftar Restoran dari platform belajar daripada menganggur.
+
+      Terdapat beberapa halaman/bagian utama yaitu:
+      1. Beranda
+      2. Detail
+      3. Favorite
+
+      Beberapa fitur yang bisa kalian coba seperti:
+      1. Memfavoritkan restoran
+      2. Mereview restoran
+      3. Menginstall baik di hp / laptop (PWA)
+      4. Mengakses secara offline (tanpa internet)
+
+      Teknologi yang digunakan diantaranya:
+      1. Vanilla JS & CSS
+      2. Webpack
+
+      Source API yang Saya gunakan yaitu [https://restaurant-api.dicoding.dev/]
+
+      Link Repo Github: [https://github.com/widimicko/RestaurantApps]
+
+<br>
+
+5.  [https://kingramzy.github.io/portofoliopicture/]  
+     **nomad.Raihan**  
+      Assalamualaikum
+      izin ikutan showcase project kedua kali . saya membuat web yang masih kurang bagus, yaitu Portofolio Gambar saya whehehehe...
+
+      Website ini dibuat gak lebih dan gak lain karena iseng doang, dan emang saya ingin menunjukkan skill menggambar saya (hahaha)... Dibuat menggunakan Bootstrap. Dan fun fact nya, gambar nya masih memakai foto HP karena saya belum bisa vektor gambar dengan Adobe Illustrator hehehe.
+
+      Yang digunakan adalah :
+      - HTML
+      - CSS
+      - Bootstrap 5
+
+      Merk HP :
+      - Xiaomi 4S
+
+      Alasan kenapa menggunakan Bootstrap 5 karena saya sendiri masih belum belajar Tailwind CSS dan CSS Grid.
+
+      Link Repository : [https://github.com/kingramzy/portofoliopicture]
+
+      Kalau ada saran, atau lainnya bisa PM saya atau chat disini
+      Sekian dan terima kasih Pa Dhika dan teman teman hehehe ~ 
+      GitHub
+
+<br>
+
+6.  [https://usermanagement.toekangketik.com/]  
+     **HusnulM**  
+      Assalamulaikum Wr Wb,
+
+      Halo Pak Dhika, izin ikutan showcase lagi. Pada showcase kali ini saya membuat aplikasi sederhana dengan Laravel 8 yaitu aplikasi multi user yang dimana otorisasi Akses user dapat diatur secara flexible.
+
+      Untuk pengaturan akses ini terdapat beberapa data :
+      - Data User -> Berisi Data Username dan Password
+      - Data Menu Group -> Berisi Pengelompokan Menu-menu yang ada di system
+      - Data Menu -> Berisi data menu-menu yang ada di system.
+      - Data Role -> Role-role yang bisa di berikan ke user
+      - Data Menu Role -> Berisi Dalam Role Bisa Mengakses Menu Apa saja.
+      - Data User Role -> Berisi Role Otorisasi dari masing2 User.
+
+
+      dibuat menggunakan :
+      - Laravel 8
+      - Mysql
+      - Sedikit Javascript
+
+      untuk user yang bisa digunakan :
+      email : admin@test.com
+      password : 12345678
+
+      Link Repository : [https://github.com/HusnulM/laravel-user-management]
+
+      Terim kasih
+
+<br>
+
+7.  [https://valorant-agents.netlify.app/]  
+     **KakSeto**  
+      Assalamualaikum Pak Dika dan temen temen WPU,
+      izin share project untuk project showcase pertama saya. Judul projectnya adalah "Valorant Agent", yak dari judul projeknya saya memang valorant player. Web ini berisi deskripsi dan penjelasan dari agent - agent yang ada di game Valorant. Sebenernya web ini saya buat sekitar -+ sebulan lalu waktu liburan semester.
+
+      Website ini menggunakan:
+      - HTML + CSS
+      - Javascript
+      - Scrollreveal.js dari scrollrevealjs.org
+
+      Website ini saya buat waktu lagi belajar javascript. Rencananya bakal saya remake/remaster(?) pakai react.js, anehnya waktu itu saya gak kepikiran buat pakai API, namanya baru belajar hehe..
+
+      Repo : [https://github.com/ega-erinovian/Valorant-Agent]
+
+<br>
+
+8.  [https://ksana.in/my]  
+     **Bambiiii**  
+      Selamat malam, izin ikut showcase projek kedua saya. Hari ini saya membuat aplikasi sederhana untuk mengenerate nama acak. Kenapa saya membuat ini? Karena gabut pastinya, dan juga karena ingin menghilangkan kesulitan saya dalam menentukan nama karakter yang ingin digunakan di dalam novel/cerita fiksi yang saya buat, dan juga jika ada author lain yang kesulitan menentukan nama karakternya bisa dicari disini.
+
+      Nama yang di generate bisa bedasarkan gender dan negara, untuk saat ini baru tersedia nama dari 31 negara/negara bagian termasuk indonesia, dan gender yang tersedia hanya ada 2 tidak seperti di Thailand yang mempunyai 18 gender.
+
+      Update 15/9/2021 : Hari ini sudah saya tambahkan 31 negara baru, berarti sekarang sudah tersedia 62 negara.
+
+      Website ini saya buat tadi pagi menggunakan html css (tanpa framework), php native, dan sedikit javascript vanila. Saya juga menggunakan beberapa library seperti:
+
+      - FakerPHP / Faker (PHP)
+      - particle.js (Javascript)
+      - starback.js (Javascript) yang dibuat oleh @saugi yang baru di showcase kemarin.
+      - gsap scrollTrigger (Javascript)
+      - smooth-scroll.js (Javascript)
+
+      Saya juga menggunakan css reset dari normalize.css, font dari google font (viga, spartan, dan poppins), dan icon dari boxicons.
+
+      Websitenya di hosting gratis di 000webhost dan bisa di akses di [https://ksana.in/my]. Untuk repo bisa di lihat di [https://github.com/bbhpowpow/myname] (Yang mampir ada -+100 orang tapi gak ada yang ngestar [Wajah Tersenyum]).
+
+      Jika ada error atau bug bisa di laporkan ke saya. Jika ada saran, boleh disampaikan saja.
+
+      Terimakasihh dan jangan lupa bahagia.
+
+      Saya 15 Tahun 
+
+
+<br>
+
+9.  [https://husain-inv.github.io/portfolio/]  
+     **Don Vito Corleone**  
+      Assalamualaikum Pak Dika dan temen temen WPU,
+      izin share untuk projek showcase pertama saya. saya tertarik dengan dunia titik koma setelah melihat live di youtube showcase-project, saya tertantang dan membranikan diri untuk ikut, meski projek ini belum sempurna dan masih awam sehingga saya mencari tutorial-tutorial di youtube dan saya tertarik membuat "Portfolio" ini, mungkin masih belum terlalu bisa untuk memodifikasinya jadi mirip-mirip seperti tutorial 😅. Ini merupakan projek ketiga setelah membuat sistem login sederhana dan yang kedua responsive pages.
+
+      - HTML & CSS
+      - Javascript
+
+      repo: [https://github.com/husain-inv/portfolio]
+
+
+      masih pemula. salam titik koma 👍🏻 terimakasih
+
+<br>
+
+10.  [https://irvan.netlify.app/]  
+     **IrvanThole**  
+      Hallo pak dika, izin mengikuti showcase project ke dua saya, sekarang saya buat web portofolio saya pribadi, saya mengembangkannya dengan framework flutter,  saya membuat website ini selama 3 hari. sebenarnya masih ada yang kurang masih belum ada page yang menunjukkan project-project yang pernah saya kerjakan. tapi mungkin lain waktu bisa saya ikutkan kembali. terimakasih pak dika dan teman teman semua nya.
+
+<br><br>
+
+
