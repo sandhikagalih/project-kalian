@@ -9207,3 +9207,248 @@ SISWA
 <br><br>
 
 
+### 14 Oktober 2021
+
+1.  [https://wiscaksono.netlify.app/]  
+     **Nu**  
+      Halo Pak Dika dan penonton WPU 👋.
+      izin share untuk project showcase pertama saya. Website ini dibuat karena saya sudah stress dengan Teknik Elektro dan ternyata ngoding asik juga.
+
+      Dalam project ini saya menggunakan:
+      -    HTML + CSS (Tailwind)
+      -    Sedikit Javascript
+      -    GSAP
+
+      Source Code : [https://github.com/wiscaksono/wiscaksono.github.io]
+
+<br>
+
+2.  [http://misteryo.rf.gd/]  
+     **zdnpl**  
+      Assalamualaikum, halo Pak Dhika dan penonton setia WPU,
+      saya Zidan, izin ikut showcase project buat yang ketiga kali nya, buat project kali ini saya bikin web yang terinspirasi dari secreto.site, masih ada sedikit bug beresahkan tapi semoga bisa bermanfaat dan menginspirasi.
+
+      Teknologi yang digunakan :
+      - PHP :php: 
+      - MySQL :mysql: 
+      - CSS :css: 
+      - jQuery 
+
+      Repo : [https://github.com/zdnpl/misteryo]
+
+      Ramein boleh, tapi tolong jangan di spam
+
+      Sekian terima kasih, salam titik koma.
+
+      edit : abis submit disini langsung banyak yg ngespam, capek bersihinnya 😥
+
+<br>
+
+3.  [http://fbaz.pythonanywhere.com/]  
+     **Awikwok Banged**  
+      Assalamualaikum Wr. Wb.
+
+      Halo temen temen semua 👋, Perkenalkan saya Fbaz, Saya berumur 14 tahun, Ini pertama kali saya mengikuti showcase project, yaitu membuat website YOUTUBE COPY, maaf kalau ga persis persis banget sama youtube aslinya disini belum ada fitur -Login -Insert video, -insert comment, -insert subscribe, dan lain lain yang berkaitan dengan login, karena masih baru dibuat, dan sebagai pembelajaran saya saja dari belajar Django, Dan saya juga coding pake handphone 😅, gaada laptop / pc, Jangan Lupa Subscribe YT Fbaz Untuk Yang Mau Belajar SQL INJECTION :D
+
+      Aplikasi Ini Dibuat Dengan :
+      -> HTML5
+      -> CSS3
+      -> JAVASCRIPT
+      -> PYTHON
+
+      Framework :
+      -> Sedikit Boostrap 5
+      -> Django 1.11 LTS
+
+      Yang Digunakan :
+      -> Browser Chrome
+      -> Terminal Termux
+      -> HP Samsung A10
+      -> Text Editor Acode
+
+      Repo Git : [https://github.com/FbazXploit/Youtube_Copy/]
+
+<br>
+
+4.  [http://sweetscar.github.io/authigniter]  
+     **rizkykurniawan**  
+      Assalamualaikum semuanya,
+      Saya Rizky Kurniawan izin ikut showcase project. Project ini saya belajar dari library Myth Auth yang mana merupakan library sederhana untuk otentikasi dan otorisasi pengguna untuk website yang dibangun dengan Codeigniter 4. Meskipun saya banyak mendengar Codeigniter akan banyak ditinggalkan, tapi saya masih suka dan senang menggunakan Codeigniter apalagi untuk project2 sederhana.
+      Dan juga saya ingin belajar bagaimana membuat sebuah library dan mengelolanya. Penjelasan dan cara penggunaanya ada di website dokumentasi di bawah. Mohon krtitik dan sarannya.
+
+      Oiya nama librarynya AuthIgniter (Authentication & Authorization Library for Codeigniter 4).
+
+      Teknologi yang digunakan :
+      - PHP 
+      - Codeigniter 4 
+
+      Repository  : [https://github.com/sweetscar/authigniter]
+      Packagist   : [https://packagist.org/packages/sweetscar/authigniter]
+
+<br>
+
+5.  [https://viandwi24.github.io/blockchain-simulation]  
+     **viandwi24**  
+      Halo teman - teman semuanya, nama saya Alfian Dwi mau berbagi projek Blockchain Simulation yang saya buat dari Vuejs dan Nodejs.
+      Projek ini juga dilengkapi tour guide yang sederhana untuk membantu teman teman mempelajari Blockchain.
+      Dibuat untuk teman teman yang mungkin mau mengenal gimana cara kerja sistem Blockchain yang digunakan di coin digital seperti bitcoin dll.
+      *saat menggunakan tour, jangan diklik apa apa selain "next dan back", karena tournya otomatis yang akan melakukan click
+      *maaf kalo tampilan jelek karena nda jago desain dan hanya dikerjakan dalam waktu 1hari
+
+      Github:
+      [https://github.com/viandwi24/blockchain-simulation] 
+
+
+<br>
+
+6.  [https://havingfun-weather-app.netlify.app/]  
+     **LostMySelf**  
+      Halo pak Dika dan penonton WPU, izinkan saya share project sendiri. Disini saya memiliki project aplikasi yaitu Aplikasi Cuaca dimana kalian bisa melihat ramalan cuaca di daerah kalian, ini project pertama kalinya saya share untuk showcase project. Sekali lagi maaf kalo jelek hehe :>
+
+      github: [https://github.com/kevinoctavian/weather-app]
+
+      Framework yang digunakan:
+         Svelte 
+         Bootstrap 5 
+         Sveltestrap 
+
+      Api yang digunakan:
+         Weather api dari [https://www.weatherapi.com/]
+
+      Jangan lupa klik izinkan lokasi ya teman teman
+      Maaf kalo UI nya jelek :)
+      GitHub
+
+<br>
+
+7.  [https://hadirr.glitch.me/]  
+     **Feri**  
+      Assalamualaikum Pak @sandhikagalih  dan kawan-kawan semuanya, apa kabar? 👋 Semoga sehat selalu yaa...
+
+      Perkenalkan nama saya Feri Irawan dari Bulukumba.
+
+      Izin showcase projek lagi untuk yang keempat kalinya, yakni projek yang bernama Hadir
+
+      Hadir adalah web untuk membuat formulir daftar hadir online.
+
+      Projek ini saya buat dengan tujuan untuk membantu para guru yg sedang melakukan pembelajaran jarak jauh (daring) terutama di SMP tempat saya sekolah saat ini..
+
+      Mengapa saya buat?
+
+      Saya membuat ini karna setiap guru menyuruh kami (para murid) untuk mengisi daftar hadir, guru" kami selalu membuat daftar hadir seperti berikut dan dikirim ke WhatsApp:
+
+      Daftar Hadir kelas IX B
+      Mata Pelajaran IPS
+      Kamis, 02 September 2021
+      1. Indri Handayani
+      2. Riska febriyanti
+      3. Feri Irawan
+      4. resa
+      5. ira
+      6. nadia aprisa
+      7. Ainun Shayla
+      8. Muh Muh asyraf
+      9. afdal jihadur
+      10. Fayyad Ma'arif
+      11. Dst...
+
+      Nah, cara mengisi daftar hadir diatas dilakukan seperti berikut:
+
+      1. Salin daftar hadir
+      2. Tulis nama
+      3. Kemudian kirim
+
+      Saya merasa cara tersebut kurang bagus, karna akan membuat tugas/materi yang guru kirim tertinggal atau tenggelam dengan banyaknya daftar hadir yg dikirim oleh teman-teman saya lainnya..
+
+      Maka dari itu saya buat Hadir agar para guru tinggal membuat absen > salin link > lalu kirim ke WhatsApp.
+
+      Jadi, teman-teman hanya klik link dan mengisinya tanpa membuat tugas tenggelam dengan banyaknya daftar hadir..
+
+      Dan alhamdulilah, Hadir telah digunakan oleh guru" saya untuk pembelajaran daring..
+
+      Teknologi :
+      - PHP native
+      - JSON (sebagai database)
+      - Cuttly (untuk shortlink)
+      - Bootstrap
+      - HTML
+      - CSS
+      - JS
+      - jQuery
+      - Google Analytics
+
+      Maaf pak jika tampilan kurang bagus karna saya buatnya di mobile,
+
+      Dan maaf juga karna saya tidak membagikan link Github nya karna saya takut kalau ada yang jahil karna tau struktur dari web Hadir 🙏🏻
+
+      Mohon masukannya pak dan kawan-kawan semuanya.
+
+      Terima kasih
+
+<br>
+
+8.  [https://nyundaan.auroraweb.id/]  
+     **Ariqh**  
+      Izin share hasil project saya dan temen-temen.
+
+      Nama projectnya Nyundaan yg bertemakan mengenai budaya sunda. Seperti sejarah, senjata tradisional, makanan, pakaian adat, dll.
+
+      Teknologi yang digunakan :
+      - HTML
+      - CSS
+      - Javascript
+
+      Fitur tambahan :
+      - Ganti Bahsa (Indonesia, Sunda)
+      - Dark Mode
+
+<br>
+
+9.  [https://kelas71.xyz/]  
+     **James Aja**  
+      Halo teman teman sekalian dan juga Pak @sandhikagalih dan @ramset .
+      Perkenalkan nama saya James. Saya berasal dari kelas 7 smp petra 3.
+      Mohon ijin untuk showcase projek pertama saya. Project ini saya beri nama Checklist Tugas Kelas 71.
+      Checklist Tugas Kelas 71 adalah sebuah web yang saya buat untuk keperluan kelas saya dalam pencatatan tugas namun tidak terpakai karena guru dan teman teman banyak yang tidak mempercayai karena website ini menggunakan system login yang mereka kira ada data pribadi mereka padahal saya tidak masukin data pribadi apapun. Nah di web ini loginnya harus pakai email @kelas71.xyz yang saya buat sendiri juga. 
+
+      Login detail:
+      demo@kelas71.xyz
+      password: kelas71hebat
+
+      Saya membuatnya menggunakan Laravel versi 8 dan juga Mysql. Saya dengan terpaksa membeli shared hosting dan domain karena saya coba di free hosting tidak bisa karena mysqlnya tidak bisa diupdate. 
+      Fitur fitur:
+      Todo-list: Todo list adalah fitur untuk mencatat tugas sehari hari kita(Ini dilihat oleh semua user karena saya masih belum bisa bikin lebih lanjut untuk data multi usernya.)
+      Project: Fitur ini untuk projek projek yang jangka waktunya lumayan Panjang klo yang todo list itu hari itu harus juga selesai.
+      Goals: Fitur ini adalah fitur untuk mencatat keinginan kita contoh nilai matematika 100 nah disitu kita harus memasukan sesuatu agar kita dapat mencapainya
+      To-Learns: Nah disini saya buat untuk mencatat apa yang akan kita pelajari dan yang sudah kita pelajari.
+
+      Tutorial Lengkap: [https://bit.ly/tutorialjadwalv5]
+
+      Website ini saya buat dalam kurung waktu 2 bulan karena saya mengerjakanya sendirian.
+
+      Yang saya gunakan:
+      JavaScript JS
+      JavaScript JSON
+      HTML
+      CSS
+      PHP
+      SQL
+
+      Sekian. Terima Kasih.
+
+<br>
+
+10.  [https://preson.netlify.com/]  
+     **januarprasetiya**  
+      Assalamualaikum Pak Dika dan Teman-teman semuanya. Perkenalkan saya Adam (januarprasetiya) Staff Administrasi di salah satu PT Swasta. Mengikuti channel bapak dari 2016. Ini adalah project sederhana saya hasil dari video #Ngobar29 WPU. Nama aplikasi ini PresOn (Presensi Online). Sebenarnya versi fullnya sudah jadi dengan google form. Tapi pengen aja gitu dibuat pakai html.
+
+      - HTML CSS sedikit bantuan Bootstrap dan Bootstrap Datepicker
+      - Libary Form to Google Sheet
+      - Netlify untuk deploy
+
+      Semoga tidak terlalu buruk.
+
+      Dokumentasi apps : [https://github.com/januarprasetiya/PresOn]
+
+<br>
+
