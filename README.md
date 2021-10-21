@@ -9450,5 +9450,232 @@ SISWA
 
       Dokumentasi apps : [https://github.com/januarprasetiya/PresOn]
 
+<br><br>
+
+
+### 21 Oktober 2021
+
+1.  [https://cekdomain.js.org/]  
+     **Nomad.Lynnn**  
+      Halo semua, perkenalkan nama saya Farid. Izin share project iseng website untuk mencari ketersedian nama domain sebelum membeli domain.
+
+      Website dibuat dengan:
+      - Jekyll
+      - HTML & CSS
+      - Javascript
+      - Punycode.js
+      - API Cloudflare
+      - Data domain .TLD via iana.org
+      - Netlify untuk deploy
+      - Dan tidak lupa dibuat dengan ❤️ dan secangkir ☕
+
+      Oh iya jika cari domain ada tiga pilihan yaitu dengan tanda titik (example.com), tanpa titik (examplecom) dan alfabet (example.a), (example.b), (example.c)
+
+      Repository : [https://github.com/faridnizam/domin]
+
+
 <br>
+
+2.  [https://simple-type-racer.herokuapp.com//]  
+     **akbarhps**  
+      Selamat pagi, siang, sore, malem, subuh, dzuhur, ashar, magrib, isya temen temen semua
+
+      saya mau bagiin project gabut lagi nih, kali ini game typeracer pake websocket. untuk pengerjaan project kira kira 6 - 8 jam an sih.
+
+      Jadi di game ini ada 2 mode, single player sama multiplayer. Buat multiplayernya minimal 2 pemain baru bisa play, ntar kalo mau mabar bisa join via id room, untuk sekarang belum ada batasan 1 room berapa player sih.
+
+      tech stack:
+      - html
+      - css
+      - vanilla js (buat client-side)
+      - node.js
+      - socket.io
+
+      Github: [https://github.com/akbarhps/type-racer]
+
+
+<br>
+
+3.  [https://arfian-id.web.app/]  
+     **Arfian**  
+      assalamualaikum teman teman dan padika salam kenal saya arfian dari surabaya kelas 9 smpn 1 surabaya ijin share website laundry punya sodara yg saya buat dengan:
+      1. html
+      2. css
+      3. bootstrap
+      4. js
+
+      mohon saran dan kritiknya pa,
+      terimakasih
+
+<br>
+
+4.  [https://intelligenceclass.000webhostapp.com/]  
+     **TepanUyy**  
+      Selamat pagi, siang, sore, malam teman-teman, kenalkan saya Stevan Andreas dari Samarinda sekolah di SMKN 7 Samarinda kelas 10 jurusan RPL atau namanya sekarang PPLG (Pengembangan Perangkat Lunak dan Game) , ijin mau share project saya yang dibuat dalam waktu 3-4 hari dan sebenarnya belum 100% masih banyak bug juga, website ini dibuat tujuannya untuk memudahkan teman-teman saya melihat jadwal ataupun info dari sekolah saya.....
+
+      Web ini dibuat dengan : 
+      1. html
+      2. css
+      3. javascript
+      4. bootstrap
+      5. php
+      6. mysqli sebagai database
+
+      username : siswa
+      password : siswa123
+
+      mohon saran-saran dan tanggapannya dari teman-teman, terima kasih 😁 
+
+      jangan dihujat kak masih belajar hehe 
+
+
+<br>
+
+5.  [http://anonymousmessage.rf.gd/]  
+     **Albabriziq**  
+      Selamat pagi/siang/malam semua
+
+      Perkenalkan nama saya Albab dari Kebumen Jawa Tengah, dan saat ini masih menempuh kelas 9 SMP. Ini hasil proyek gabut saya ketika malam-malam. Membuat clone website Secreto yang lagi viral beberapa waktu lalu. Dan saya membuat proyek 'Clone'nya. Walaupun tampilan UI nya masih jelek hehe. Oiya ini ngodingnya saya di HP karena belum punya PC hehe
+
+      Repo Github = [https://github.com/AlbabRiziq/cloneSecreto]
+
+      Jangan lupa kunjungi portofolio saya di [http://albabriziq.rf.gd/]
+
+      Dibuat menggunakan :
+
+      - HTML
+      - CSS
+      - JAVASCRIPT
+      - PHP Native
+      - BOOTSTRAP
+
+<br>
+
+6.  [https://rennwp.github.io/wantap/]  
+     **𝖗𝖊𝖓𝖓𝖜𝖕**  
+      assalamualaikum pak sandhika @sandhikagalih 
+      perkenalkan nama saya Ryan Wiratara Prasetyo biasa dipanggil wp, saya kelas 11 dari sma bss Malang. Baru baru ini saya lagi belajar javascript, trus saya iseng iseng bikin game di html, mohon maaf design html css saya agak buruk tapi ini proggress yang udah saya capai.
+
+      -html
+      -css
+      -javascript
+
+      link wantap gaming : 
+      maksud dari wantap adalah one tap yang mengharuskan player menembak sekali saja untuk membunuh kotak.
+
+<br>
+
+7.  [https://slowy07.github.io/clifter_slam/]  
+     **Arfy.slowy**  
+      halo!, selamat siang pak, kali ini saya ingin showcase project saya yang berlanjut di bidang industri, yang sebelumnya di bidang medis, seni. disini aplikasinya bisa memvisualisasikan hasil dari kamera ( mau kamera biasa atau kamera 360 ) , dan kemudian hasilnya akan di generated dalam bentuk 3 dimensi, teknelogi yang digunakan
+      - pytorch ( machine learning library )
+
+      test pegunaan dari saya menggunakan ( disarankann ) :
+      - linux debian based ( mx )
+      - 16x2 gb rams
+      - nvidia gtx titan x ( percobaan )
+
+
+      untuk demo kali ini  menggunakan datasets yang sudah saya sediakan, aplikasi ini bisa juga cocok untuk pertambangan dan hasil generate bisa di visualisasikan secara detail dari dari struktur peta tambang secara 3d atau, jika gabut bisa memvisualisasikan rumahnya sendiri 😂, dan untuk demonya kemungkinan tidak bisa menggenerate secara baik, dikarenakan keterbatasan GPU pada online demo
+      untuk contoh hasil yang akurat dan tergenerate secara maksimal bisa dilihat disini
+      [https://github.com/slowy07/clifter_slam]
+
+      
+      saran demo :
+      piintclouds demo
+
+      untuk paper ( jurnal ) di showcase ini saya tidak mempublikasinya ( donate if share the paper ), mungkin next showcase, papernya akan dipublikasikan kembali
+      boleh open pull request, clone, dll. free to use, mungkin nnti next lanjut lagi showcase 😂 
+      note : dengan ini saya menyatakan perang showcase lawan clan nomad :v
+      terima kasih pak dhika 😉 
+
+
+<br>
+
+8.  [https://dwita327.github.io/tamtomo.github.io/index.html]  
+     **DT24**  
+      assalamualaikum selamat malam pak, perkenalkan nama saya Dwi Tamtomo  saya adalah seorang siswa smk kelas 11 di salah satu sekolah suasta di ciledug tanggerang hari ini saya akan ngeshare project pertama saya pak mungkin masih jelek pak karena ini project pertama saya harap di maklumin ya pak hehehe...sekarang masih ada bugnya pak mungkin nanti kalau sudah di showcast sudah rapih
+
+      Dibuatnya pakai : 
+      -html
+      -css
+
+
+      Ini link reponya  : [https://github.com/Dwita327/tamtomo.github.io]
+
+      Ini github saya : [https://github.com/Dwita327]
+
+      Terimakasih kasih pak
+
+<br>
+
+9.  [https://ksana.in/itp]  
+     **nomad.bee🐝**  
+      Selamat malam semuanya, izin ikutan showcase projek pertama saya (di akun ini :v). Project sederhana yang saya buat ini bernama Image to Palette yang bisa digunakan untuk mengekstrak warna-warna yang ada di dalam sebuah gambar menjadi palet warna.
+
+      Awal terinspirasi membuat web ini adalah saat saya sedang menjelajahi dunia plugin figma, lalu saya menemukan plugin bernama Image Palette yang bisa mengekstrak palet warna dari gambar yang kita pilih. Setelah saya coba beberapa kali, saya merasa sangat terbantu karena saya sedang mendesain projek aplikasi yang berhubungan dengan warna. Akhirnya saya berkeinginan membuat web yang mempunyai fungsi yang sama seperti plugin Image Palette ini, dan jadilah web ini.
+
+      Saya membuat website ini menggunakan : 
+      - HTML-CSS vanilla (1%)
+      - TailwindCSS 2 (99%)
+      - Javascript Vanilla
+      - Color Thief
+      - FileSaver.js
+      - JSZip
+
+      Fitur :
+      - Ekstrak warna dominan dan palet warna dari gambar yang di upload.
+      - Download warna yang telah di ekstrak kedalam bentuk zip yang berisi :
+         - File colour.txt yang berisi daftar warna (hex) yang telah di ekstrak
+         - File css.txt yang berisi custom properties css dari warna-warna yang telah di ekstrak
+         - File sass.txt yang berisi variabel sass/scss dari warna-warna yang telah di ekstrak
+
+      Repo : [https://github.com/abinoval/image-to-palette]
+
+      Kalau mau coba webnya sekalian liat source codenya, bisa mampir ke codepen [https://codepen.io/abinoval/pen/gORKbaY], jangan lupa mampir ke pen lain ya😅 .
+
+      Mohon maaf kalau tampilannya masih jelek dan soucecodenya masih acak2an, karena saya membuat web ini iseng2 aja.
+
+      Terimakasih.
+
+<br>
+
+10.  [http://demopp.hizbullahhaidar.xyz/]  
+     **hayolox**  
+      Selamat pagi semua,perkenalkan saya akil. Izin ikutan showcase sekalian testing project Program  Profesional saya. Website yang saya buat web profil dan PPDB yang dimana fitunya
+      sebagai berikut
+
+      Admin
+      - admin bisa mengelola semua data webprofil+ppdb
+      - Saat admin merubah status calon peserta didik baru menjadi lulus maka akan otomatis insert data ke google sheet lulus (https://bit.ly/demopplulus)
+      - Saat admin merubah status calon peserta didik baru menjadi tidak lulus maka akan otomatis insert data ke google sheet tidak lulus (https://bit.ly/demopptidaklulus)
+
+      Calon peserta didik
+      - Daftar Akun
+      - Login
+      - Mengisi biodata anak,ortu dan berkas yang diperlukan
+      - Status lulus dan tidak lulus
+      - Bagi status yang lulus mendapatkan kiriman email
+
+
+      Dikarenkan banyak tugas kuliah,maka saya memanfaatkan semua framework 😁 
+      1. Laravel
+      2. sheetdb.io
+      3. Boostrap
+
+      Demo : Halaman pertama: [http://demopp.hizbullahhaidar.xyz/]
+            Halaman Admin: [http://demopp.hizbullahhaidar.xyz/Secret]
+
+      login admin : 
+         username: showcase@gmail.com
+         pw    : apasaja1221
+
+      Untuk PPDB silahakan daftarkan akun.
+
+      Note:
+         - Untuk mengirimkan bukti pendaftaran di email menggunakan auto-cart google sheet 
+
+
+<br><br>
+
 
