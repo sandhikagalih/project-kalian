@@ -9679,3 +9679,245 @@ SISWA
 <br><br>
 
 
+### 29 Oktober 2021
+
+1.  [https://sekolahyuk-app.herokuapp.com/]  
+     **Mention Aku Dong Kakak**  
+      Assalamualaikum Teman Teman, Nama saya Zahir, hari ini saya akan membagikan suatu project saya, yang bernama "SekolahYuk"
+
+      SekolahYuk adalah Aplikasi Pembelajaran Online untuk sekolah2 di Indonesia. Dimana Guru bisa memberikan tugas, soal ujian, dan murid bisa mengerjakan tugas serta soal2 nya.
+
+      Dibuat dengan :
+      - MongoDB
+      - ExpressJS
+      - ReactJS
+      - NodeJS
+
+      Fitur Lengkap Aplikasi :
+
+      - Guru bisa memberikan tugas / soal ujian
+      - Guru bisa membuat grup, yang dimana nanti para murid bisa masuk ke grup tersebut
+      - Guru juga bisa memberikan materi berupa file PDF, Foto Gambar, DLL ke grup yang sudah dibuat
+      - Guru bisa mengunduh hasil nilai para muridnya ke dalam bentuk excel
+      - Ketika murid selesai mengerjakan soal ujian, nilai otomatis akan keluar
+      - Ketika murid selesai mengerjakan Tugas, Guru bisa memberikan Nilai Kepada muridnya sesuai Maksimum Nilai yg diberikan saat membuat tugas tersebut
+
+      Oiya, Di Aplikasi ini saya juga menambahkan fitur Rekam Gambar dan Audio saat ujian sedang berlangsung ( modelnya kaya autoproton gitu lahh kwkwkwk )
+
+      Jadi guru bisa mengaktifkan fitur tersebut saat membuat soal ujian.
+
+      Demo Akun Admin :
+      Email : admin@sekolahyuk.id
+      Password : sekolahyukapp
+
+      Demo Akun Guru :
+      Email : guru@gmail.com
+      Password : iniakunguru
+
+      Demo Akun Murid :
+      Email : murid@gmail.com
+      Password : iniakunmurid
+
+      Link Demo SekolahYuk :
+      [https://sekolahyuk-app.herokuapp.com/]
+
+      Link Source Code :
+      [https://github.com/ZSofttt/sekolahyuk-app]
+
+<br>
+
+
+2.  [https://candaan-api.vercel.app/]  
+     **ardhptr21**  
+      Halo semua, perkenalkan saya Ardhi, saya mau share project saya, yaitu Rest API yang saya kasih nama "Candaan API".
+      Jadi Candaan API merupakan Rest API yang dibuat untuk mendapatkan beberapa jokes jokes receh dari Indonesia, semua data data yang ada di Candaan API diambil dari internet yang kemudian dikumpulkan menjadi satu, untuk dibuat Rest API
+
+      Jadi project ini saya buat karena setelah saya cari cari di internet belum ada yang membuat API mengenai jokes jokes receh dari Indonesia (atau mungkin ada, tapi saya belum nemu aja), nah makanya saya buatlah project ini.
+
+      Technology yang digunakan:
+      - NodeJS
+      - ExpressJS
+      - Vercel (hosting)
+
+      Link Candaan API:
+      [https://candaan-api.vercel.app/]
+
+      Link Github/Source code:
+      [https://github.com/ardhptr21/candaan-api/]
+
+<br>
+
+
+3.  [https://vins2106.github.io/]  
+     **Nomad.Vins**  
+      Halo izin share project 
+      ini adalah project portofolio yang dibuat hampir seminggu (sekitar 4 - 5 harian)
+
+      website ini dibuat mengunakan
+      - html
+      - css
+      - javascript
+      - easy-doc
+      - font awesome
+
+      website ini berbentuk Single Web App (SWA) yang dibuat mengunakan Vanilla Javascript dan css
+
+      github: [https://github.com/Vins2106/vins2106.github.io/tree/v2]
+      website: [https://vins2106.github.io/]
+      (kalo ada error coba ctrl + f5)
+
+      jangan lupa star githubnya kalo pengen fork ya :D 
+
+
+<br>
+
+
+4.  [https://s-codedev.github.io/memory-game/]  
+     **semydelavega**  
+      Selamat Pagi, Siang, Malam Pak Dika dan teman -teman semua
+      Saya kirimin lagi project gabut saya lagi, yaitu game iseng2 "UCL Memory Game" - Sebuah game semacam flip card.
+      Game ini terinspirasi dari 16 besar Uefa Champions League musim kemarin...
+
+      Game ini saya buat menggunakan HTML, JS, dan CSS Vanilla.
+
+      Mohon Saran dan Kritiknya, heheheheh
+
+      Web : [https://s-codedev.github.io/memory-game/]
+      Github : [https://github.com/s-codedev/memory-game]
+
+
+<br>
+
+
+5.  [https://rifqirifaldi.github.io/webdesain]  
+     **surisalbi**  
+      Selamat siang semuanya.. Halo, perkenalkan nama saya Rifqi, izin share projek.
+      Projek kali ini ialah web desain tentang media pembelajaran interaktif, website yang saya buat ini hanya berupa tampilan atau user interface nya saja tidak ada back end ataupun database. Adapun fitur-fitur nya diantaranya :
+      1. Login
+      2. Register
+      3. Homepage
+      4. Kelas Online
+      5. Soal Latihan
+      6. Tenaga Pendidik
+
+      Berikut link demo nya :
+      [https://rifqirifaldi.github.io/webdesain]
+      *Untuk login tinggal klik tombol login saja tidak perlu memasukkan username dan password
+
+      Teknologi yg digunakan :
+      HTML/CSS/JavaScript
+
+      Oh iya, projek yg saya buat ini hasil dari perlombaan yg diselenggarakan oleh CORISINDO Universitas Rahardja.
+      Terima kasih...
+      Salam untuk pak dhika.
+
+<br>
+
+
+6.  [https://cosine-similarity.suryamsj.my.id/]  
+     **suryamsj**  
+      Halo pak dhika, perkenalkan nama saya Muhammad Surya. Izin share project lagi yang dimana ini adalah hasil belajar metode Cosine Similarity.
+
+      Teknologi yang saya gunakan :
+
+      PHP Native
+      Bootstrap 5
+      SweetAlert2
+      Vanilla-DataTables
+
+      Untuk link demo : [https://cosine-similarity.suryamsj.my.id/]
+      Untuk link github : [https://github.com/suryamsj/Cosine-Similarity]
+      Untuk asset gambar, saya pake situs ini : [https://storyset.com/]
+
+      Sebelumnya terima kasih untuk pak dhika dan kawan" semuanya. 
+
+
+<br>
+
+
+7.  [https://mosesfahmipratama.github.io/]  
+     **mosesfahmi**  
+      Halo teman-teman semua, perkenalkan nama saya Moses Fahmi Pratama. Mohon izin saya mau share projeck saya ya. Projeck ini merupakan  web portofolio saya yang saya kerjakan selama 2 minggu. Projek ini hasil saya belajar di WPU dan channel yt yg lainnya. Untuk projecknya 85% slsai. Tampilan web sudah responsive hanya saja 15% blum slsai.
+
+      Teknologi yang dipakai:
+      HTML
+      CSS (No Framework)
+      Vanila Javascript 
+
+      link demo:
+      [https://mosesfahmipratama.github.io/]
+
+      Link github:
+      [https://github.com/MosesFahmiPratama/MosesFahmiPratama.github.io]
+
+      Kritik & saran saya butuhkan. Terimakasih Pak Dhika & tman2 smua 😁
+
+<br>
+
+
+8.  [https://dinasti.online/]  
+     **billyones**  
+      Sebuah web bio sederhana pakai svelte kit, font awesome dan di deploy ke firebase
+
+      Teknologi:
+      - svelte (sveltekit)
+      - font awesome
+      - sass (lebih tepatnya scss)
+      -unsplash (sudah didownload)
+
+      Note: Belum support tampilan PC karena bikinnya di HP
+
+      Demo: [https://dinasti.online/]
+      Source Code: [https://github.com/dinastishitpost/dinasti-bio] 
+
+
+<br>
+
+
+9.  [https://examplemyportfolio.netlify.app/]  
+     **Kidal.anthz**  
+      Assalamu'alaikum, Selamat sore semuanya, semoga dalam keadaan sehat selalu, Aamiin. 
+
+      Perkenalkan nama saya aditya, saya dari bogor. Izin share project pertama hasil belajar dari agustus. awalnya saya berada di program studi Teknik Elektro, sekarang pindah univ dan mengambil Teknik Informatika dengan lanjut semester, jadi sebelumnya saya lebih sering latihan bermain dengan Arduino beserta komponennya. 
+      Lanjut ke topik, project yang dibuat ini adalah latihan portfolio pertama. jadi, masih belum belum sepenuhnya saya masukan data saya, insyaallah saya akan showcase lagi. Disini saya menambahkan greenmode karena saya kurang dengan darkmode 😁 . First time ikut showcase, kritik dan saran sangat bermanfaat bagi saya, Terimakasih 🙏
+
+      Teknologi:
+      - HTML
+      - CSS
+      - JavaScript
+
+      Repository : 
+      [https://github.com/AdityaFitrianaNS/myportfolio1.github.io]
+
+      website :
+      [https://examplemyportfolio.netlify.app/]
+
+<br>
+
+
+10.  [https://katakanpadanya.tk/]  
+     **M IMAM CH**  
+      Halo selamat malam pak @sandhikagalih , dan juga teman teman semua... 
+      sebelumnya perkenalkan nama saya Muhammad Imam Choirudin, biasa di panggil Imam. 
+      Saya berasal dari Lampung, Umur 17 Tahun, dan baru saja lulus SMA... 
+      disini saya ingin memperkenalkan project saya..
+      Project Aplikasi Web saya ini bernama "Katakan Padanya", yaitu website yang digunakan untuk menyampaikan pesan kepada seseorang tanpa diketahui identitasnya. web ini terinspirasi dari web bernama secreto,site.. tentu masih banyak kekurangan dalam web saya ini, dan kedepannya akan saya perbaiki seiring berjalannya waktu...
+      aplikasi ini saya buat tanpa menggunakan framework apapun. dalam pembuatan website ini juga berhasil membuat saya kurang tidur selama 3 hari hehehehe.
+      apabila teman teman semua ingin memberikan kritik dan saran, ataupun juga ingin merekrut saya berkerja (karena saya pengangguran hehe) bisa langsung ke instagram saya @mimamch28
+
+
+      LINK : [https://katakanpadanya.tk/]
+
+
+      Cara Kerjanya : 
+      1. pengguna meng-generate link dari website katakanpadanya.tk
+      2. pengguna mendapatkan link halaman miliknya
+      3. pengguna dapat menyebarkan link tersebut ke sosial media miliknya supaya orang orang dapat mengirim pesan kepadanya tanpa diketahui siapa pengirimnya, jadi orang orang dapat mengungkapkan perasaan yang terpendam terhadap orang tersebut.
+
+      Teknologi yang di gunakan :
+      1. HTML
+      2. CSS
+      3. PHP
+      4. MYSQLI
+
+<br><br>
