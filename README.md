@@ -9921,3 +9921,288 @@ SISWA
       4. MYSQLI
 
 <br><br>
+
+
+### 30 Oktober 2021
+
+1.  [https://vins2106.github.io/tebakkelereng/]  
+     **Nomad.Vins**  
+      
+      Halo
+      izin share project...
+      nama projectnya Tebak Kelereng. game ini terinspirasi dari Squid Game Ep GGANBU yaitu bermain kelereng
+
+      jadi cara mainnya tinggal tebak kelereng milik robot berjumlah ganjil atau genap, kalo salah robotnya yg ambil kelereng punya mu, dan sebaliknya jika benar
+
+      mungkin ada beberapa perbedaan dari yg aslinya...
+
+      github: [https://github.com/Vins2106/tebakkelereng]
+      demo: [https://vins2106.github.io/tebakkelereng/]
+
+      makasi :D
+
+<br>
+
+2.  [https://phive.ivqonsanada.com/]  
+     **ivqonsanada**  
+     
+      - Nama Projek: PHive
+      - Tech Stack: Laravel, Vue.js, SASS, PWA
+      - Live Preview: [https://phive.ivqonsanada.com/]
+      - Github:  [https://github.com/ivqonsanada/phive]
+
+      Projek ini berkutat pada platform freelance, tapi khusus Mahasiswa dan Dosen. Kenapa projek ini dibuat? Ini dari dosen sih, namun saya pribadi tertarik dengan masalahnya. Sebagai mahasiswa, saya sangat ingin mendapat pengalaman kerja sebelum lulus nanti, bisa mendapatkan uang dari jerih payah saya sendiri. Dan saya ingin mahasiswa-mahasiswa lainnya--yang ingin namun belum dapat kesempatan--bisa mewujudkan keinginan mereka itu. 
+
+      ---
+
+      Sedikit cerita:
+
+      Ini adalah projek PKL saya dulu, karena telat daftar magang di luar, akhirnya magang di fakultas saja :’). Dalam projek ini, saya belajar banyak, bukan hanya coding, tapi juga bagaimana menjadi seorang pragmatic programmer. 
+
+      Waktu awal pengerjaan projeknya, saya diliputi pikiran, “Apa ya tools yang cocok untuk projek ini”, “Aman gak ya kalau pakai ini?”, “Cara paling optimal untuk nerapin ini apa ya?”, “Mau coba ini tapi environmentnya gak mendukung :(“, “Ini costnya bakal mahal banget kalo dipakai banyak orang”, dll.
+
+      Hingga saya menghabiskan banyak sekali waktu hanya untuk riset dan memikirkan hal-hal detail, yang sebenarnya tidak penting-penting amat untuk dipikiran saat itu. Bertemulah saya dengan istilah, “Premature Optimization” aka “The root of all evil". Di sini saya mulai sadar, saya sebaiknya tidak perlu memikirkan sejauh ini jika aplikasinya belum jadi, belum ada pemakainya, apalagi dalam skala besar. 
+
+      ---
+
+      Ok, back to the main topic. Fitur:
+
+      Secara Umum
+      - Explore Project
+      - Leaderboard
+      - Profile
+      - Message
+      - Inbox
+      - Responsive (nyoba mobile spt aplikasi mobile, ada tombol back, etc)
+
+      Dosen
+      - Project Publications, ada 3 tahap: Posting - Recruit - Review
+      - Project Box (untuk atur project)
+      - Hire Student
+
+      Mahasiswa
+      - Apply project (as individu / as tim)
+      - Party (untuk buat timnya)
+      - Project Box
+      - Wishlist Project 
+
+<br>
+
+3.  [https://ukur-tinggi.netlify.app/]  
+     **c0derzhax0r**  
+   
+      Halo semua, perkenalkan nama saya Alif Januantara. Mohon izin share project showcase pertama saya disini.
+
+      Ukur-tinggi adalah sebuah website sederhana yang dapat mengukur tinggi potensi sang anak (ketika dewasa) yang dihitung berdasarkan tinggi badan dari kedua orang tuanya atau yang dinamakan dengan Tes Potensi Genetik.
+
+      Rumus hitungnya :
+      - TPG (anak laki) :
+      ((TB ibu (cm) + 13 cm) + TB ayah (cm)) / 2 ± 8.5 cm
+
+      - TPG (anak perempuan) :
+      ((TB ayah (cm) - 13 cm) + TB ibu (cm)) / 2 ± 8.5 cm
+
+      Teknologi yang digunakan :
+      - HTML
+      - CSS
+      - Vanilla Javascript
+
+      Link demo :
+      [https://ukur-tinggi.netlify.app/]
+
+      Link source code : [https://github.com/coderzhaxor/ukur-tinggi]
+
+<br>
+
+4.  [https://hangman.zerachiuw.my.id/]  
+     **ZalviandyR**  
+
+      Halo semuanya ingin share project nih...
+      Game sederhana yang menguji pengetahuan umum kalian yang berjumlah kurang lebih 100 soal. Nama gamenya Hangman yang dibangun menggunakan Flutter agar bisa cross-platform.
+
+      Platform yang didukung untuk bermain game saat ini hanya Android dan Web. Sayangnya untuk beberapa package tidak support di Platform Desktop seperti Firebase Realtime Database dan juga belum build untuk Platform IOS karena gk ada Mac :wpulul: 
+
+      Tata cara bermain:
+      1. Tebak jawab dari pertanyaan yang diberikan menggunakan keyboard yang sudah disediakan.
+      2. Setiap kata yang sudah ditekan tidak bisa ditekan lagi.
+      3. Jika kata yang ditekan benar maka akan mengisi kekosongan jawaban yang ada.
+      4. Jika kata yang ditekan salah maka rangkaian Hangman akan tersusun.
+      5. Jika semakin banyak kata yang salah dan rangkaian Hangman tersusun sempurna, maka Hati akan berkurang.
+      6. Skor tertinggi disimpan ketika user "Menyerah" atau keluar dengan paksa dari Game.
+
+      Teknologi yang digunakan:
+      1. Flutter
+      2. Firebase Realtime Database
+      3. Herokuapp
+
+      Link project: 
+      1. Web - [https://hangman.zerachiuw.my.id/]
+      2. Android - [https://github.com/zalviandyr/hangman-flutter/releases/tag/v1.0.0]
+      3. Github - [https://github.com/zalviandyr/hangman-flutter]
+
+      Terimakasih.
+
+<br>
+
+5.  [https://adhywiranto44.github.io/object-detection-indonesian-traffic-signs-using-yolo-algorithm/]  
+     **wanindemilien**  
+
+      Hi guys, apa kabar?
+
+      Kali ini saya mau share projek hasil Tugas Akhir/Skripsi saya yang berjudul: 
+      Implementasi Deep Learning untuk Object Detection Menggunakan Algoritma YOLO (You Only Look Once) pada Rambu Lalu Lintas di Indonesia
+
+      Jadi intinya di TA ini saya mengumpulkan dataset berupa rambu lalu lintas khas Indonesia, setelah dikumpulkan total sejumlah 2100 buah gambar saya bentuk menjadi dataset utuh dengan menambahkan label. Setelah dibentuk nanti dibuatkan model Deep Learning dengan algoritma YOLO versi 4 sehingga model tsb dapat dimanfaatkan untuk pendeteksian objek dalam bentuk gambar maupun video.
+
+      Dataset yang dikumpulin berdasarkan rambu yang sering muncul di Kota Bandung, buat video demonya diambil di jalan Kota Cirebon.
+
+      Website: [https://adhywiranto44.github.io/object-detection-indonesian-traffic-signs-using-yolo-algorithm/]
+      Demo Video: [https://youtu.be/ZndeLSH5VeA]
+      Repo: [https://github.com/AdhyWiranto44/object-detection-indonesian-traffic-signs-using-yolo-algorithm]
+
+      More projects: [https://github.com/AdhyWiranto44/] 
+
+
+<br>
+
+6.  [https://miracle-basketball.web.app/]  
+     **Nomad.nama-kalian**  
+     
+      Assalamualaikum Pak Sandhika dan temen-temen semua, perkenalkan nama saya Rizky Ikhwan. Izin share project hasil kegabutan dan belajar saya selama liburan semester kemarin, sebuah web bernama Miracle Store ID. Jadi ini adalah web penjualan sepatu basket layaknya situs E-Commerce dengan fitur yang masih sangat sederhana banget. 
+
+      Teknologi yang saya gunakan : 
+      1. Vue JS 2
+      2. Vue Router
+      3. Vuex (Saya sangat pemula di Vuex sebenarnya)
+      4. Firebase, untuk backend nya
+
+      Library yang saya gunakan :
+      1. Bootstrap / Bootstrap-vue
+      2. Sedikit Gsap
+      3. Font Awesome
+      4. vue-toast-notification
+      5. vue-form-wizard (untuk bagian checkout)
+      6. vuesax (hanya dipakai untuk select kategori brand)
+      *Maaf kalau library yang saya pakai banyak
+
+      Untuk menambahkan barang ke keranjang harus sudah memiliki akun dan login terlebih dahulu. Pada bagian nomor hp dan email di form pendaftaran, boleh sembarang aja, asalkan email yang mau didaftarkan harus sesuai dengan format email.
+
+      Link : [https://miracle-basketball.web.app/]
+      Repo : [https://github.com/rizkyikhwan/miracle-basketball]
+
+      Oh iya, ide project ini saya dapatkan ketika menonton video tutorial FireBlogs dari channel youtube Traversy Media. Mohon maaf kalo kodenya masih berantakan banget hehe. Ditunggu sarannya dari Pak Sandhika dan temen-temen semuanya.
+      Hope you guys like it! 
+
+
+<br>
+
+7.  [https://shoru.herokuapp.com/]  
+     **png.slowy**  
+
+      Assalamu'alaikum teman-teman nama saya Athallah Muhammad Maajid kelas 3 SMP, izin share project saya tentang url shortener yang bernama shoru. Shoru sendiri sebenarnya punya @xanovicc (teman saya) yang berbentuk web, jadi saya membuat aplikasi mobile nya
+
+      teknologi yang saya gunakan adalah Flutter
+
+      Github: [https://github.com/athallahmaajid/Shoru-Mobile]
+      web: [https://shoru.herokuapp.com/]
+
+      semoga bermanfaat
+
+<br>
+
+8.  [https://wpu-open-api.herokuapp.com/]  
+     **LordJah1R**  
+
+      Haloooo semua nama Saya Zahir, kali ini saya akan memberikan project saya yang bernama "Wpu-OpenApi"
+      WPU-OpenApi adalah sebuah Website OpenApi yg berisikan Api Gratis Juga Tanpa Limit Untuk Kebutuhan Belajar Kalian, Ataupun Untuk Project Kalian, Terutama Untuk Komunitas WPU
+
+      Dibuat dengan (Seperti Biasa):
+      - MongoDB
+      - ExpressJS
+      - ReactJS
+      - NodeJS
+      - ScraperTools ( Package yg saya buat )
+
+      Oiya, WPU-Open-Api juga nanti akan rilis versi package NPM, yang dimana kalian juga bisa mengakses nya lewat situ, dan Package tersebut akan menggantikan Package ScraperTools yg sudah saya buat sebelum nya.
+
+      Cussss ke Webnya :
+      [https://wpu-open-api.herokuapp.com/]
+
+      Source Code :
+      [https://github.com/ZSofttt/wpu-open-api]
+
+      Note : Maaf kalau masih dikit Api nya, soalnya baru buat kemarin :)
+
+<br>
+
+9.  [https://laravel-for-um.herokuapp.com/]  
+     **Zzzul**  
+
+      Halo temen-temen dan pak Dhika perkenalkan saya Mohammad Zulfahmi. 
+      Izin share project showcase pertama saya disini, yaitu sebuah website forum sederhana.
+
+      Fitur:
+      - Authentikasi
+      - Post
+      - Comment
+      - Reply
+      - Notifikasi(Web & Email)
+      - Setting(Profil & Ganti Password)
+
+      Teknologi:
+      - Laravel
+      - Bootswatch(custom Bootstrap)
+      - MySQL(untuk di heroku menggunakan Postgre SQL)
+      - dengan sedikit tambahan CSS dan Javascript tentunya
+
+      Demo:
+      [https://laravel-for-um.herokuapp.com/]
+
+      Demo akun:
+      - Email: demo@mail.com
+      - Passwrod: password
+      *note: demo akun tidak bisa menghapus post dan comment pertamanya, serta setting(profil & ganti password)
+
+      Repo:
+      [https://github.com/Zzzul/for-um]
+
+<br>
+
+10.  [https://mengobroldenganteman.web.app/]  
+     **Arfian**  
+
+      Assalamualaikum padika dan kawan kawan,
+      nama saya Arfian, saya berasal dari surabaya, sedang sekolah di smpn1 sby
+      ijin share project mdt, project ini saya buat sebagai studi kasus setelah belajar socket.io
+      saya buat dalam 2 versi, yaitu versi web sama destop (window)
+
+      url : [https://mengobroldenganteman.web.app/]
+      git repo: [https://github.com/arfian-rp/mengobroldenganteman-app]
+
+      dibuat pakai:
+      - socket io pastinya
+      - html
+      - css
+      - js
+      - nodejs (server)
+      - electronjs (untuk crossplatform desktop)
+
+      fitur: 
+      - realtime
+      - public dan private chat
+            - caranya input 'to' diisi dengan username target yg mau dichat private
+            - jika kosong otomatis public
+
+      cara kerja:
+      - pesan yg dikirim akan diterima server lalu server langsung mengirimkan lagi ke client yg lain
+      - pesan yg dikirim tidak disimpan di database (berarti jika halaman di refresh makan akan hilang history chat nya)
+      
+      kalau mau coba dibuka di tab lain / browser lain atau bahkan beda device
+
+      web saya  : [https://arfian-id.web.app/]
+
+      mohon kritik dan saran 😎😎
+
+<br><br>
+
+
