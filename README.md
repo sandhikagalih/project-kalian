@@ -10206,3 +10206,254 @@ SISWA
 <br><br>
 
 
+### 5 November 2021
+
+1.  [https://wibusaka.moe/]  
+     **QCTFW**  
+      
+      Assalamu'alaikum wr wb
+      Halo semuanya!
+      Nama saya Azhar. Saya mohon izin untuk share projek iseng saya.
+
+      Cocok untuk kalian semua yang wibu pecinta anime tentu saja bukan saya
+
+      WibuSaka adalah projek yang saya buat selama beberapa bulan belakangan ini. Saya membuat cloningan MyAnimeList dengan tambahan dimana pengguna bisa tahu platform apa yang bisa digunakan untuk menonton anime yang dicari.
+
+      Tujuan saya membuat projek ini adalah karena akhir-akhir ini, distributor anime sudah mulai melirik Indonesia dan menyebarkan anime mereka di Indonesia. Dan projek ini hadir untuk membantu kalian mencari platform apa saja yang tersedia untuk menonton anime yang mau dicari. Dan alasan kedua nya adalah saya juga udah mulai ketinggalan dengan Laravel yang baru jadinya saya juga sekalian belajar fitur-fitur Laravel baru ini dan juga sekalian belajar front-end. Terakhir nyoba itu Laravel 6, sekarang langsung loncat ke Laravel 8 😅
+
+      Kritik dan saran sangat diapresiasi 🙏 
+
+      よろしくお願いします
+
+      Tools & Libraries:
+      - Laravel 8
+      - Livewire
+      - Alpine.js
+      - Tailwind CSS
+      - Redis
+      - Jikan.moe API (Unofficial MyAnimeList API) (Untuk mengambil anime musim ini, detail anime, dll)
+
+      Fitur:
+      - MyAnimeList clone
+      - Info ketersediaan platform di setiap anime
+      - Light & Dark Mode (saat ini berdasarkan pengaturan sistem, Switch Theme masih WIP)
+
+      ===
+
+      Website: https://wibusaka.moe/
+      Repository: https://github.com/qctfw/wibusaka
+
+<br>
+
+2.  [http://dhafit.xyz/]  
+     **devz.anthz**  
+      
+      Assalamu'alaikum semuanya, izin share project blog sekaligus portfolio saya yang sangat sederhana. Blog ini saya buat pada sekitar bulan September 2021, dalam rangka belajar Next.js dan Typescript. Saya membagikan projek ini karena ingin membagikan template yang mungkin bisa teman-teman gunakan. 
+
+      Teknologi yang digunakan:
+      - React js
+      - Next.js (Typescript)
+
+      Link: http://dhafit.xyz/
+      Github: https://github.com/dhafitf/dhafit.xyz 
+
+<br>
+
+3.  [https://wibucode.com/project/posts9/]  
+     **Andre R 🐧**  
+      
+      Hallo, selamat pagi dan salam ngoding. Mau share project bareng berdua, sederhana saja hanya landing page dari game wibu Arknights.
+
+      Di bangun mengunakan:
+      - Tailwindcss
+      - Vue js
+
+      Link preview dan repositori:
+      https://wibucode.com/project/posts9/
+
+<br>
+
+4.  [https://wikla-shorturl.herokuapp.com/]  
+     **wikla25**  
+      
+      Assalam'alaikum pak Sandhika dan teman2 sekalian, izin share project shorturl saya.
+      shorturl ini adalah sebuah web aplikasi sederhana yang berfungsi untuk menyingkat url.
+      saya membuat website ini karena terinspirasi oleh tugas membuat api shorturl di suatu kursus pemrograman.
+      kedepannya saya juga akan membuat api untuk web aplikasi ini. jika ada kekurangan tolong bisa diberi saran 😅 .
+      ini juga pertama kali saya share project.
+
+      Dibuat menggunakan
+      - Express.js
+      - Tailwindcss
+      - MongoDB
+
+      Link preview :
+      https://wikla-shorturl.herokuapp.com/
+
+      Link github  :
+      https://github.com/wiklapandu/shorturl 
+
+<br>
+
+5.  [https://navdplay.github.io/Portfolio]  
+     **NavdPlay**  
+      
+      Assalamualaikum Padika dan teman-teman semuanya, perkenalkan nama saya Naadir Al Atilla, saat ini masih duduk di kelas 8 SMP. 
+
+      Saya ingin share project portfolio saya. Project ini adalah project tugas dari les saya dan sekaligus mungkin menjadi portfolio resmi saya. Jadi saya disuruh untuk membuat website bebas sesuai dengan keinginan saya, trus saya mikir, "kenapa gak bikin portfolio aja ya? sekalian dibikin responsive" soalnya emang blum pernah bikin website responsive sebelumnya :wpulul: 
+
+      Saya membuat website ini dalam waktu 3 hari, ya cukup cepat untuk membuat website seperti ini, setidaknya bagi saya hehe. Hal2 yang saya taruh di website ini adalah bagian About, dimana saya menulis autobiografi singkat tentang saya. Lalu ada bagian Skills, dimana saya menaruh bahasa2 yang saya kuasai. Lalu ada bagian Projects, dimana saya menaruh projek2 yang sudah saya buat. Sampai saat ini projek2 yang sudah saya buat masih projek kecil2an semua dan itupun masih sedikit. 
+
+      Bahasa dan alat yang digunakan: 
+      - Visual Studio Code
+      - HTML5
+      - CSS
+      - JavaScript dan library JQuery
+      - Library AOS
+      - Library Typed.js
+      - Library FontAwesome
+
+      ----
+
+      Link Website: https://navdplay.github.io/Portfolio
+
+      Link Repository: https://github.com/NavdPlay/Portfolio
+
+      ---- 
+      Saran dan kritiknya ditunggu ya teman2 :wpugege:
+
+<br>
+
+6.  [https://imronman05.github.io/]  
+     **OTW SUKSES**  
+      
+      Assalamuallaikum pak dhika dan teman-teman semua. perkenalkan nama saya imron  biasa dipanggil imronman :D.
+
+      ini adalah pertama kali saya share project dan project pertama saya di dunia programman yaitu e-voting, tujuan dari pembuatan ini sebenernya adalah untuk edukasi/memperkenalkan apa itu e-voting. 
+      Mohon maaf kalau UI/UXnya jelek, karna saya baru beberapa bulan ini memperlajari tentang pemrogramman web.
+
+
+      -Link repo https://github.com/imronman05/imronman05.github.io
+      -Link https://imronman05.github.io/
+
+      Bahasa dan alat yang digunakan: 
+      -HTML5
+      -CSS3
+      -JAVASCRIPT
+      -Dan untuk di bagian diagram saya buat dengan CHART.JS
+
+      Dan terimakasih banyak atas ilmu yang pak dhika berikan diyoutube bapak, semoga pak dhika dan keluarga selalu diberikan kesehatan selalu.
+      Saran dan kritiknya ditunggu ya kawan-kawan.
+      Terima kasih
+
+<br>
+
+7.  [https://epicgames-hd21.netlify.app/]  
+     **Huda Damar**  
+      
+      Halo semuanya, saya ingin showcase project yang dibuat untuk mengasah skill frontend saya.
+      saya membuat website cloning  Epic Games Store.
+      pada website yang saya buat hanya tampilan dan interaksinya saja
+
+      dibuat dengan:
+      - Vite + Vue 3 + Typescript
+      - Tailwindcss
+      - Headless UI
+      - Swiperjs
+
+      tampilan yang di buat:
+      - home (discover, browse)
+      - signin
+      - signup
+
+      web:
+      https://epicgames-hd21.netlify.app/
+
+      repo:
+      https://github.com/hudadamar21/epicgames-clone
+
+      untuk perbandingan ini website aslinya:
+      https://epicgames.com/ 
+
+
+<br>
+
+8.  [https://kopi-kuy.000webhostapp.com/]  
+     **Nomad.GeneralTommy**  
+      
+      Salam sejahtera untuk teman-teman dan pak Dhika sekalian .saya GeneralTommy  (Nama asli Tommy Setiawan) dari Kota Pontianak dan saya seorang Lulusan dari SMK yang baru ingin mencoba menjadi freelancer Web Developer, dikesempatan kali ini saya mau mengikuti project showcase untuk pertama kalinya. 
+
+      Ini adalah web E-commerce sederhana yang saya bangun dengan framework laravel hasil dari pembelajaran laravel selama SMK ditambah Video dari 'Web Programming Unpas' dan beberapa youtuber programing lainnya. Namun karena menggunakan  000webhost maka ada kemungkinan beberapa fitur yang akan dimatikan oleh server.
+
+      Dikarenakan kapasitas bandwidth yang terbatas maka teman-teman sekalian akan  menemukan error seperti ini max connect timeout reached while reaching hostgroup  cukup di refresh saja ini disebabkan karena bandwidthnya yang kecil. untuk gambar mungkin belum bisa. 
+
+      Teknologi yang digunakan : - AOS
+                                                         - Laravel 8
+                                                         - Vue JS(Vue CDN)
+                                                         - HTML
+                                                         - CSS
+                                                         - Bootstrap
+                                                         - Chart.js
+                                                         - Figma
+
+      Link Website : https://kopi-kuy.000webhostapp.com/
+
+      Link Github : https://github.com/GeneralTomm/Kopikuy-Laravel.git
+
+<br>
+
+9.  [https://arf-json.herokuapp.com/]  
+     **Arfian**  
+      
+      assalamualaikum padika dan teman teman,
+      ijin share project "meniru" json placeholder fake api.
+      untuk mengasah skill BE saya.
+      url : https://arf-json.herokuapp.com/
+      dibuat pakai : 
+      - nodejs
+      - express
+      - data diambil dari : https://mockaroo.com/
+      repo github: https://github.com/arfian-rp/arf-json
+      contoh FE : https://arf-json-frontend.netlify.app/
+      mohon kritik nya, terima kasih
+
+<br>
+
+10.  [https://ko-vid.netlify.app/]  
+     **Nomad.Suf**  
+      
+      Assalamualaikum.., selamat pagi/siang/sore/malam semuanya.
+
+      Kali ini saya mau share project saya yang ke 5 atau 6 kalinya, dimana untuk projek saya kali ini saya beri nama "ko-vid"
+
+      Web ini adalah sebuah website yang menyediakan data - data terkait covid 19 di seluruh dunia yang dimana data-datanya saya ambil dari api http://diseas.sh/
+
+      Sebenernya web semacam ini sudah banyak dan bisa dibilang saya termasuk orang yang "terlambat" dalam membuat website seperti ini, namun karena saya sedang belajar tentang api maka saya kepikiran untuk membuat website ini untuk bahan latihannya.
+
+      Adapun teknologi yang dipakai adalah:
+      HTML
+      CSS
+      Vanilla Javascript (fetch untuk mengambil data dari API)
+
+      Adapun fitur-fiturnya adalah sebagai berikut:
+      - Total kasus, total kematian, total kesembuhan.
+      - Kasus harian, kematian dan kesembuhan
+      - Presentase angka kematian dan kesembuhan dibandingkan total kasus serta presentase angka positif dari total jumlah penduduk.
+      - Total kasus, penambahan dan pengurangan kasus aktif setiap hari.
+      - Total tes, jumlah tes per satu juta orang dan jumlah kasus per satu juta orang.
+
+      Adapun situs ini masih dalam pengembangan dan rencananya ada beberapa fitur tambahan yang akan di tambahkan seperti:
+      - Grafik
+      - Filter jumlah kasus tertinggi ke terendah
+      - Jumlah vaksinasi
+      - dll
+
+      Website ini masih sangat sederhana (bisa dilihat dari tampilannya 😁) dan masih banyak kekurangan, jadi saya sangat berharap masukan dari para member disini untuk menjadikan website ini jadi lebih baik lagi.
+
+      Link website : https://ko-vid.netlify.app/
+      Link github: https://github.com/adeyusuf211/covid-tracker
+
+      Terimakasih
+
+<br>
+
