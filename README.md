@@ -10455,5 +10455,259 @@ SISWA
 
       Terimakasih
 
+<br><br>
+
+
+### 11 November 2021
+
+1.  [https://mezzky.github.io/web-dev-tools]  
+     **DoubleRR**  
+      
+      Assalamualaikum untuk teman-teman WPU sekalian dan Pak Sandhika. saya DoubleRR (Nama asli Rizky Ryan Sahadha) dari Kota Denpasar, Bali. dikesempatan kali ini saya ingin mengikuti showcase project untuk pertama kalinya. 
+
+      Ini adalah website sederhana yang referensinya dari salah satu video di Channel WPU berjudul "Tools & Website Pendukung untuk Programmer & Web Developer" yang bertujuan untuk memudahkan para web developer dalam pencarian resource untuk pembuatan website. saya membuatnya sendiri dengan ilmu dan hasil dari pembelajaran Video dari 'Web Programming Unpas' dan beberapa Youtuber programming lainnya.
+      Terimakasih Pak atas Ilmunya🙏🏻 
+
+      Teknologi yang digunakan : - HTML5
+                                 - CSS3
+                                 - Library Javascript
+
+      Link Website : https://mezzky.github.io/web-dev-tools
+      Link Repo  : https://github.com/Mezzky/web-dev-tools.git
+
+<br>
+ 
+2.  [https://chat.kelas71.xyz/]  
+     **James Aja**  
+      
+      Halo pak @sandhikagalih  lalu dan teman teman sekalian. Perkenalkan nama saya James saya sekarang masih duduk di kelas 7 SMP dan saya dari SMP Petra 3 Surabaya. Hari ini saya mau showcase project ke 2 saya masih di Laravel. Kali ini saya akan mengshowcase project sistem grup chat yang berbasis di web. Ini ceritanya sama sih kayak yang kemarin ini saya showcase karena tidak dipakai guru dan teman teman dengan alasan keamanan. Padahal saya sudah sampai uji web saya di trusted site sampai keluar sertifikatnya masih tidak dipercaya daripada dibuang mending saya showcase.
+      URL: https://chat.kelas71.xyz/
+      Username: demo@kelas71.xyz
+      Password: kelas71hebat
+
+      Fitur fitur:
+      -    Grup dengan password protect
+      -    Tidak menggunakan memori HP/Laptop sama sekali. Kecuali file karena tidak ada viewernya.
+      -    Custom Sticker
+      -    Membagikan File
+      -    Voice Note
+      -    Bisa ada role Moderator dalam tanda kutip guru.
+      -    Bisa share video dan gambar
+      -    Ada fitur anti bicara kotor dan spam
+      -    Pesan terenskripsi end to end jadi administrator tidak bisa lihat
+      -    Nama siswa tidak bisa dirubah sehingga guru tidak bingung nama
+      -    Ada fitur symbol terbaca atau tidaknya
+      -    Ada fitur sismbol Ketika mengetik
+      Kekurangan:
+      -    Design UI masih belum bagus karena saya masih belum sempat bikin designnya gimana
+      -    Tidak ada notifikasi aplikasi(ada lewat email tapi itu biasanya telat 5 menitan)
+
+      Yang digunakan:     JavaScript JS, JavaScript JSON, HTML, CSS, PHP, SQL 
+
+      Source Code : https://link.kelas71.xyz/2Qp9H (Nanti dibalas saya sendiri ya kapanya ada yang minta source code ketahuan di komersilkan untuk dijual)
+
+      Sekian Terima Kasih. 
+
+
 <br>
 
+3.  [http://stpndrs.epizy.com/]  
+     **TepanUyy**  
+      
+      Halo semua, perkenalkan nama saya Stevan Andreas, izin ikutan showcase project lagi setelah kemarin showcase web untuk kelas saya. Kali ini mau showcase website kedua saya, yaitu website portofolio sederhana saya.
+
+      Webnya dibuat pakai
+      - HTML
+      - CSS
+      - JS
+      - PHP
+      - CI 4 (dari playlist Pak Dika)
+      - Submit contact formnya udah masuk ke Google Sheet (dari vidio Pak Dika)
+      - Untuk scroll animationnya dari https://michalsnik.github.io/aos/
+      - Desain webnya pakai Adobe Xd (https://xd.adobe.com/view/b3280548-7837-48a9-9298-9cd232859925-e67b/) *ada beberapa yang beda dengan desain aslinya karna ada yang diubah 
+
+      Link websitenya di : http://stpndrs.epizy.com/ 
+      Link Google Sheet : https://docs.google.com/spreadsheets/d/1qlQe_YPwhKqNAs5SeU6m8WHTXdbKTGCurSOE3xao-PE/edit?usp=sharing
+      Link repo di : https://github.com/stpndrs/portofolio
+
+
+      Kalau ada saran-saran, langsung dikirim di halaman contact me nya aja (biar sekalian berguna :v) terima kasih 😁 😅 
+
+      jangan dihujat kak, masih pemula 
+
+
+<br>
+
+4.  [https://covid21semi.netlify.app/]  
+     **Hash.anthz**  
+      
+      Assalamualaikum warahmatullahi wabarkatuh
+      Halo teman teman anggota WPU kali saya Hasheemi (Gresik,14th) akan mengirim proyek saya yang bernama "Covid-21" Sebuah covid19 tracker , sebagai latihan akhir reactjs sebelum ke nextjs , dibuat 1,5 jam x 30 hari
+
+      Dibuat dengan 
+      HTML , CSS JS , react , aos js , leaflet , chartjs dan lain lain
+
+      URL =  https://covid21semi.netlify.app/
+
+      Untuk desain saya dari google dan hanya lihat preview (tidak beli)
+      Teman teman kira kira fitur apa yang mungkin bisa ditambahkan , mohon saran dan kritik nya , terimakasih 
+
+
+<br>
+
+5.  [https://wibux2.com/]  
+     **Andre R**  
+      
+      Malam guys, 🙏 izin share project bareng @Huda Damar
+
+      Wibux2 adalah situs untuk meningkatkan kualitas gambar sekaligus mengurangi noise di dalam gambar.
+
+      Di buat mengunakan :
+
+      Html
+      Css
+      Tailwindcss
+      Vue.Js
+      PWA ( Progressive Web App)
+
+      Preview:
+      https://wibux2.com/
+
+      Link Project:
+      https://wibucode.com/project/posts10/
+
+      Untuk API nya mengunakan Deepai https://deepai.org/machine-learning-model/waifu2x
+
+<br>
+
+6.  [https://nicewone.com/]  
+     **Pie__XoX**  
+      
+      Sore chingu,  izin share project akhir saya di bootcamp 🙏niceWone adalah situs untuk undangan pernikahan secara online.
+
+      Di buat mengunakan :
+      Laravel 8
+      View Blade
+      Backend: SbAdmin2 Template
+      Frontend: Free HTML5 templates Made by FreeHTML5.co
+
+      Keunggulan:
+      Role Admin & User
+      Verify akun by email
+
+      Preview:
+      https://nicewone.com/
+
+      Link Project:
+      https://github.com/indrysfa/invitation
+
+      Halo frontend dev boleh kita collab 👋🤭 
+
+
+<br>
+
+7.  [https://githubtouch.js.org/]  
+     **Nomad.Vins**  
+      
+      Hai!!
+      izin showcase project ya...
+
+      project kali ini berupa npm package yang bernama github-touch.
+      package ini membantu kalian untuk berinteraksi langsung dengan API github secara mudah.
+
+      package ini dibuat mengunakan:
+      nodejs
+      axios
+      js.org (untuk docs page)
+
+      versi (sekarang): v1.0.0
+      install: npm i github-touch
+      docs: https://githubtouch.js.org/
+      quick docs: https://github.com/github-touch/github-touch.github.io%3C#858204275746275358hub-touch--->
+      npm: https://npmjs.org/package/github-touch
+      github: https://https//github.com/github-touch/github-touch.github.io
+      required nodejs version: v16 keatas
+
+      makasi buat yang udah download :D 
+
+
+<br>
+
+8.  [http://mycode.great-site.net/]  
+     **Nomad.PowPow.Bee**  
+      
+      Selamat malam semua. Izin showcase projek sederhana saya bernama MyCode. Website ini bisa digunakan untuk meyimpan dan membagikan kode seperti pastebin dan juga bisa digunakan untuk share kodingan sebelum menanyakan error daripada memoto monitor tapi memang fitunya belum sebanyak dan selengkap pastebin.
+
+      Link :
+      - Repositori : https://github.com/abinoval/my-code
+      - Website : http://mycode.great-site.net/
+
+      Projek ini dibuat menggunakan :
+      - TailwindCSS 2
+      - Laravel 8
+      - Laravel Breeze
+      - Javascript Vanilla
+      - prism.js
+
+      Untuk profil masih menggunakan API unsplash karena keterbatasan upload gambar. Sebagian text masih dummy dan untuk auth masih menggunakan default dari laravel breeze.
+
+      Mohon maaf kalau UI/UXnya jelek, karena saya memang ingin fokus pada belajar laravelnya dulu. Kalau ada saran/error/bug bisa disampaikan.
+
+      Note:
+      1. Kalau misalnya website menampilkan blank page, kemungkinan servernya lagi down.
+      2. Saat kode diedit, slug otomatis akan di update juga meskipun nama kode tidak di edit
+      3. Belum ada fitur hapus password
+
+      Terimakasih.
+
+<br>
+
+9.  [https://snake-and-ladder-five.vercel.app/]  
+     **Alfirman Pahlepi**  
+      
+      Halo halo semua, izin showcase project web game klasik, sesuai nama web nya ini game ular tangga yang dimainkan secara online multiplayer
+      teknologi yang saya gunakan :
+
+      Front End
+      - React js
+      - Next js
+      - typescript
+      - tailwindcss
+
+      Backend
+      - Node js
+      - Express js
+      - socket.io
+
+      masih banyak bug dan kekurangan, ntar saya perbaiki dan tambahin fitur
+      next fitur :
+      - winner section
+      - animasi
+      - audio
+
+      update : winner section, audio
+
+      gitu aja, gas pak, bapak buat room ntar invite saya ya
+
+      link apps : https://snake-and-ladder-five.vercel.app/
+      link repo : https://github.com/ezza022/snake-and-ladder/ 
+
+
+<br>
+
+10.  [https://elvinafirmansyah.github.io/portofolio/]  
+     **Nomad.Elvina**  
+      
+      Halo semua, perkenalkan saya Elvina  kelas 8 smp (13 tahun), ijin share project ke 2. Website ini adalah Portofolio ke 2 sya sebenarnya saya ada portofolio pertama (masih mengikuti vidio pa dhika), nah ini Portofolio dengan buatan sya murni. Bagi yg mau contact sya boleh langsung ke form contactnya y..😊 Bagi yang mau kasih kritik/saran silakan !!
+
+      Website ini menggunakan:
+      1. HTML
+      2. CSS
+      3. Bootstrap
+      4. Javascript
+
+      Link:
+      Repo : https://github.com/elvinafirmansyah/portofolio
+      Web : https://elvinafirmansyah.github.io/portofolio/
+
+<br>
