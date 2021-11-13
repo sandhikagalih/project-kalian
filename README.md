@@ -10710,4 +10710,244 @@ SISWA
       Repo : https://github.com/elvinafirmansyah/portofolio
       Web : https://elvinafirmansyah.github.io/portofolio/
 
+<br><br>
+
+
+### 13 November 2021
+
+1.  [https://github.com/Myscorpions/DiscordTheme]  
+     **𝒮𝒸𝑜𝑜𝓇𝓅𝒾𝑜𝓃𝓈**  
+      
+      Halo semua, perkenalkan saya Scorpio  kelas 8 smp  sya ijin share project pertama saya ini projoct untuk merubah tampilan website  seperti youtube, discord, twitter dll tapi sya baru bikin tiga. sisah nya msi di kerjakan 
+
+      Project sya hanya menggunkan:
+      1.CSS
+      Tema Disocord:https://github.com/Myscorpions/DiscordTheme
+      Tema Youtube:https://github.com/Myscorpions/YoutubeMyTheme
+      Tema Titok      :https://github.com/Myscorpions/TikTok-My-Theme
+      Cara Pasang Nya:https://bit.ly/3BvmsH7 
+
+
 <br>
+
+2.  [https://pays.penmadlangkat.id/]  
+     **fadlanlbs1406**  
+      
+      Assalamualaikum Wr. Wb.
+      Perkenalkan nama saya M. Nur Fadlan Lubis Saya Siswa kelas XII Jurusan TKJ
+      Saya ingin share project saya yang bernama EPAY, jadi aplikasi ini berfungsi untuk nabung atau pembayaran semua tagihan sekolah, waktu pengerjaan kurang lebih 3 hari (+Begadang), teman teman bisa akses melalui link https://pays.penmadlangkat.id/ ya.. 
+      Untuk Username dan Password Admin : AdminPusat
+      Kalau Username dan Password Siswa : fadlanlubis
+      Jangan Jahil dan jangan diganti passwordnya ya.. biar semua bisa akses
+      Untuk Teknologi Dan Plugin Yang Digunakan :
+      1.    Laravel
+      2.    Bootstrap
+      3.    Datatables
+      4.    Fonts Google
+      5.    Feather icon
+      6.    Dan lain lain
+      Github Saya https://github.com/fadlanlubis1406
+      Untuk Teman Teman Jangan Lupa Begadang Dan Kopinya ya..
+      Wassalamualaikum Wr. Wb.
+
+<br>
+
+3.  [https://jarh-whatmovie.vercel.app/]  
+     **Jarrr**  
+      
+      Selamat malam semuanya. Perkenalkan nama saya Fajar Hidayat dan ini pertama kalinya saya ikutan 🎨showcase-project . Saya ingin share hasil belajar next js saya setelah mengikuti online course. Website ini cukup sederhana yang gunanya hanya untuk mencari informasi mengenai film yang telah beredar di internet. kalian bisa mencari film berdasarkan nama film, kategori, trending film, dll.
+      web ini dibangun menggunakan teknologi:
+      - next js
+      - bootstrap
+      - axios
+
+      Demo web: https://jarh-whatmovie.vercel.app/
+      repo gh: https://github.com/fajarhidayatt/whatmovie
+
+      Terimakasih semuanya:)
+
+<br>
+
+4.  [https://tanda-air-ktp.vercel.app/]  
+     **duck.tsx**  
+      
+      Halo semuanya, ijin ikut meramaikan 🎨showcase-project . Beberapa waktu lalu saya bikin web app simple ini yang tak namain "Tanda Air KTP". Fungsinya utamanya yaitu buat ngasih Watermark di KTP kalian biar aman kalau di upload untuk menghindari di salahgunakan oknum tidak bertanggung jawab, misal buat daftar pinjol ilegal. 
+
+      Teknologi yang digunakan:
+      - typescript
+      - next.js
+      - chakra-ui
+      - react-colorful
+      - react-draggable
+      - react-dropzone
+      - html-to-image
+
+      Berhubung KTP ini berisi data pribadi, jadi saya bikin semua proses nya di client atau di browser tanpa dikirim kemana mana demi keamanan bersama. Berhubung juga projek ini open-source jadi bagi siapapun yang ingin belajar teknologi diatas atau mau ikut mengembangkan bisa kontribusi langsung ke repo nya dibawah ini. 
+
+      GitHub: https://github.com/mukhlisakbr/tanda-air-ktp
+      Web: https://tanda-air-ktp.vercel.app/
+
+      Ayo ikut berkontribusi buat tanah air lewat kode 🇮🇩
+
+<br>
+
+5.  [https://triangelflorist.com/]  
+     **!xrafff**  
+      
+      Halo semua, perkenalkan saya Muhamad Rafli Alfarizqi kelas 2 SMK (15 tahun), ijin share project saya :3.Website ini adalah orderan dari costumer saya.bagi yang mau kasih kritik/saran silakan !!
+
+      Website ini menggunakan:
+      1. HTML
+      2. CSS
+      3. Javascript
+
+      Link:
+      Repo : https://github.com/xrafffcode/Triangel-Florist
+      Web : https://triangelflorist.com/
+
+      Terimaa Kasihhh !
+
+<br>
+
+6.  [https://www.quoteequotes.xyz/]  
+     **ericpeweh**  
+      
+      Halo semuanya :), perkenalkan nama saya Eric Prima Wijaya. Ini project pertama saya setelah belajar React.js dan kali pertamanya saya ngeshare project saya di 🎨showcase-project.
+
+      Project ini dibangun menggunakan stack teknologi MERN (MongoDB, Express, React, dan Node.js). Pengembangan aplikasi sekitar 1 bulanan oleh saya sendiri. Pengembangan dilakukan dengan Agile Methodology dengan 3x cycle, raw, testing, release.
+
+      Jadi project yang ingin saya bagikan kali ini bernama Quotee, Konsep dan fungsi utama dari aplikasi Quotee adalah sebagai tempat untuk membagikan quotes sekaligus dapat berinteraksi dengan orang lain (sebagai media sosial quotes). Pengguna bisa membuat quotes, membagikan quotes (link dan foto). Untuk list fitur lengkapnya sebagai berikut:
+
+      - Register & email Verification
+      - Persistent Login
+      - Forgot password, change password
+      - News & Ads Carousel
+      - Create quotes & drafts
+      - Bad words filter
+      - Download & share quotes
+      - Share to social media
+      - Quotes image selection / external source
+      - Likes quotes
+      - Favorites quotes
+      - Edit, delete, archive quotes
+      - User profile customization
+      - Search quotes & advanced, tags search
+      - Installable & push notifications
+      - Daily "Quotes of the day"
+      - User preferences (dark mode)
+      - Share account QR & discovers
+      - Background data fetch (for better user experience)
+
+      Berikut untuk detail tautan:
+      - Quotee: https://www.quoteequotes.xyz/
+      - My github:: https://github.com/ericpeweh
+      - Quotee Instagram: https://www.instagram.com/quoteequotes.xyz
+      - My instagram: https://www.instagram.com/ericpeweh
+      Boleh coba diramaikan, biar asik 🙂 
+
+      Terima kasih,
+      Eric 
+
+
+<br>
+
+7.  [https://todolist--app.web.app/]  
+     **Arfian**  
+      
+      assalamualaikum padika dan teman teman nama saya Arfian ingin mengirimkan web Todolist sederhana
+      web ini saya buat sebagai studi kasus setelah belajar vuejs 3.
+      web ini suport PWA bisa diinstall dan dipake secara offline.
+
+      fitur:
+      - pwa
+      - disimpan di localstorage, data engga hilang walau di refresh
+      - udh gt aja
+
+      dibuat pakai:
+      - pwa
+      - vuejs 3
+      - bootstrap 5
+      - javascript
+      - html
+      - css
+
+      url: https://todolist--app.web.app/
+      repo: https://github.com/arfian-rp/vue-todolist
+      my website: https://arfian-id.web.app/
+      mohon kritik dan saran
+      terimakasih
+
+<br>
+
+8.  [https://fashionsapp.herokuapp.com/]  
+     **Ioofy**  
+      
+      Selamat Malam, Pak dika izin share showcase sudah lama tidak showcase project hehe, Ini adalah web yang saya kembangkan bersama teman saya, Web ini adalah web e-commerce yg berbasis pada fashion saya sebagai frontend dan teman saya backendnya. Awalnya ini projekan buat nambahin portfolio saja,  Lalu ada beberapa fitur diantaranya :
+
+      - Login & Signup
+      - Wishlist
+      - Fitur Cart
+      - Fitur Checkout
+      - Rating + Comment
+      - Admin Panel
+      - Profile
+
+      Dibuat menggunakan :
+
+      Backend
+      - Mongodb
+      - Express
+      - Nodejs
+      - Paypal Payment API
+
+      Frontend
+      - React
+      - FrammerMotion
+      - React-loading
+      - Emotion
+      - Redux
+      - React Icons
+
+      Untuk UI nya adalah hasil slicing dari design yang saya buat silahkan lihat di 
+
+      https://www.behance.net/gallery/130552215/Fashions-Design-Prototype
+
+      Repository : https://github.com/ioofy/fashionsweb
+
+      Demo : https://fashionsapp.herokuapp.com/
+
+      Kedepannya mungkin akan di tambah fitur dekstopApp untuk admin panelnya dan mencoba untuk mengintegrasikan dengan webnya.
+
+      Terima kasih, kritik dan saran selalu terbuka 🙏 
+
+<br>
+
+9.  [https://alfazari.github.io/hantu_rsc/]  
+     **NoName909**  
+      
+      project beginner
+
+      pake:
+      -html
+      -css
+      -js
+
+<br>
+
+10.  [https://renzien.github.io/]  
+     **AhmadMCe**  
+      
+      Assalamu'alaikum Warahmatullahi Wabarakatuh,
+      Selamat malam Pak Dhika, apa kabarnya? Semoga sehat selalu beserta keluarga tercinta.
+
+      Halo juga semuanya yang membaca postingan saya. Semoga sehat selalu.
+
+      Izin mau berbagi hasil kegabutan saya 🗿 . Ini website buat youtuber animator dan saya dah dapat izin buat dibagi ke sini. Cuma pake HTML dan CSS, semuanya hand coded 100% dari nol. Mohon saran dan kritiknya. :wpusiap: 
+
+      Web: https://renzien.github.io/
+      GitHub: https://github.com/ahmadmcer/renzien.github.io
+
+<br>
+
+
+
