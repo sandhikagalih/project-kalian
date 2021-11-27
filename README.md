@@ -10947,7 +10947,297 @@ SISWA
       Web: https://renzien.github.io/
       GitHub: https://github.com/ahmadmcer/renzien.github.io
 
+<br><br>
+
+
+
+### 27 November 2021
+
+1.  [https://indibubur.netlify.app/]  
+     **Bagus**  
+      
+      haloooo mau share aja,project lama sih ini sebenarnya. projectnya tentang apa? dibuka aja nanti tau sendiri hehe
+      demo : https://indibubur.netlify.app/
+      github : https://github.com/bagusindrayana/indibubur
+
+      teknologi : 
+      -html
+      -css
+      -js
+
+      gak pake library lainnya
+
+      untuk sumber assetnya ada di readme githubnya 
+
+
 <br>
 
+2.  [https://iitc-2021.rifkiromadhan.repl.co/]  
+     **ikki**  
+      
+      Assalamu'alaikum pak. Perkenalkan nama saya RIfki Romadhan dari SMKN 2 Purbalingga, mau membagi projek saya yang saya buat untuk lomba IITC bidang web design yang di adakan oleh universitas AMIKOM Purwokerto. Alhamdulillah saya juara 2 pada lomba tersebut:wpugege:
 
+      Makasih pak atas semua ilmu yang bapak kasih kepada saya melalui tutorial di youtube
+
+      Tech Stack = HTML, CSS, dan JS
+
+      Link demo = https://iitc-2021.rifkiromadhan.repl.co/
+      Link repo = https://github.com/IkkiRama/IITC-2021
+      Bukti menang lomba = https://iitc.intermediaamikom.org/winner/2021
+
+      Ditunggu pak review nya 😄
+
+<br>
+
+3.  [https://filterox.netlify.app/]  
+     **sasakiroo**  
+      
+      Assalamu'alaikum pak Sandhika dan teman semuanya, semoga sehat semua.
+
+      Perkenalkan Saya Robi Sasaki dan ini showcase kedua saya. Saya disini ingin berbagi project website.
+      Tentunya teman-teman dan pak Dhika tahu mengenai aplikasi manipulasi seperti adobe lightroom, nah project ini konsepnya mirip adobe lightroom atau filter efek postingan pada instagram yang berfungsi menambahkan filter pada foto yang telah diupload.
+
+
+      Fitur filter pada aplikasi ini meliputi:
+      -brightness
+      -blur
+      -saturation
+      -exposure
+      -hue
+      -vintage
+      -sepia
+      -lomo
+      -clarity
+      -sunrise
+
+      Adapun fitur lain seperti, download dan reset.
+
+      Demo aplikasi: https://filterox.netlify.app/
+      Source code: https://github.com/sasakiRoo/filterox-repo
+
+
+      Project ini menggunakan:
+      -HTML Canvas
+      -CSS
+      -JavaScript & camanJS (canvas manipulation JS)
+      -box icon
+      -google fonts
+
+
+      Ditunggu pak review-nya...
+
+
+      Terima kasih🙏🏻 
+
+
+<br>
+
+4.  [https://intelligenceclass.000webhostapp.com/]  
+     **TepanUyy**  
+      
+      Halo warga WPU, perkenalkan nama saya Stevan Andreas dari SMK 7 Samarinda kelas 10, ijin ikutan showcase lagi, ini sebenernya web kelas yang dulu udah pernah di showcase cuman versi 2.0 nya hehe. Designnya lebih kayak ke web sekolah atau web informasi tapi yang sederhana... Webnya belum 100%, masih banyak bug/error2 di admin pagenya, crudnya juga belum rapi dan belum sempurna karna memang 95% dibuat manual + bootstrap + bantuan om2 helper wpu :v
+
+      Link websitenya https://intelligenceclass.000webhostapp.com/
+
+      Websitenya dibikin pakai
+      - HTML
+      - CSS
+      - JS
+      - CI4
+      - Bootstrap 5
+
+      Mohon saran2nya suhu 🙂
+      oiya kalau ada yang minat sama webnya langsung aja contact saya hehe...
+
+      Terima Kasih~~ 
+
+<br>
+
+5.  [https://rief.vercel.app/]  
+     **Rifqi Rosyidi**  
+      
+      Halo penduduk WPU, perkenalkan namaku Rifqi Rosyidi, ijinkan saya berbagi project sederhana saya. Sebenarnya project ini cukup mudah, jika kalian sudah memahami css & tailwind. Hal utama dlam membangun website ini sya cukup bermain dengan styling tailwindcss nya, namun selain itu harus memahami React.js. Feel free to use & modify it 🙂
+
+      Hanyalah sebuah Porfolio Minimalis Sederhana.
+
+      Link: https://rief.vercel.app/
+      Souce: https://github.com/rifqirosyidi/next-portfolio
+
+      Dibangun menggunakan:
+      1. Next.js & TailwindCSS
+
+      Deployed on Vercel. 
+
+
+<br>
+
+6.  [https://secretmsg.netlify.app/]  
+     **Arfian**  
+      
+      Assalamualaikum pa dika dan kawan kawan,
+      ijin share project saya yaitu Secret Message
+      website nya mirip mirip kaya Secreto
+      perbedaannya yg buat saya
+
+      fiitur: 
+      - kirim pesan rahasia
+      - hapus pesan (bagi admin)
+      - kirim balasan
+      - hapus balasan (bagi admin)
+      - pembuat account (admin) akan menerima id yg disimpan di local storage, 
+      - hapus account
+
+      project ini saya buat bersama teman saya naufal (ui nya) dan saya programnya
+      dibuat dengan:
+      - MongoDB
+      - ExpressJS
+      - VueJS
+      - NodeJS
+
+      website : https://secretmsg.netlify.app/
+      site saya : https://secretmsg.netlify.app/001001
+      repo : https://github.com/arfian-rp/secretmsg-app
+      web saya : https://arfian-id.web.app/
+
+      mohon kritik dan saran, Terimakasih
+
+<br>
+
+7.  [https://homjuicetest.000webhostapp.com/]  
+     **IPE**  
+      
+      Halo semuanya, perkenalkan nama saya Gregoryus Imannuel Perdana (Semester 7), pertama kali ikut showcase-project, saya ingin sharing hasil latihan laravel saya yang belajar dari video Pak Dika. Sebenarnya, project yang saya buat ini juga ingin di hosting sebagai website catalog / penjualan dari usaha milik teman saya di bidang Cold-Press Juice, namun ingin lebih dipercantik dan dibuat menjadi lebih secure. Untuk pengerjaan sendiri memakan waktu sekitar 3-4 minggu.
+
+      Website ini memiliki dashboard yang dapat melakukan Create, Edit, Show, & Delete terhadap beberapa data dan dashboard tersebut hanya bisa di akses oleh admin yang sudah didaftarkan. Mohon kritik dan saran dari Pak Dika dan teman-teman untuk membuat website ini menjadi lebih baik lagi. Untuk Repo belum bisa saya publish Pak, dikarenakan masih pengembangan dan ingin mengkomersilkan templatenya hehehe.
+
+      Link Website: https://homjuicetest.000webhostapp.com/
+      Dashboard: https://homjuicetest.000webhostapp.com/dashboard
+
+      Berikut username dan password untuk admin:
+      Username: admin-super
+      Password: admin
+
+      Website ini dapat melakukan berbagai fitur di dalamnya yang dapat dilakukan oleh admin, yaitu:
+      1. Create, Edit, Show, Delete
+      2. Share Product / Blog
+      3. Search By Name and Category
+
+      Teknologi yang digunakan:
+      1. HTML
+      2. CSS
+      3. Javascript
+      4. Bootstrap 5
+      5. Laravel 8
+      6. Owl Carousel
+
+      Link:
+      Website: https://homjuicetest.000webhostapp.com/
+
+      Terima kasih.
+
+<br>
+
+8.  [https://bersihin.co/]  
+     **iwgx**  
+      
+      Halo, kebetulan saya dan teman-teman saya punya usaha laundry dan saya yang bertugas membuat websitenya di https://bersihin.co/ 😀 
+
+      Teman-teman bisa melihat informasi seputar Bersihin, bisa mendaftar jika ingin berlangganan laundry (buat sekitar Kota Bandung aja), dan bisa membaca blog seputar laundry juga.
+
+      Kelebihan laundry nya yaitu kami pakai prosedur ketat sehingga tingkat komplain 10x lebih rendah dari laundry lain. Selain itu kami juga menerima mitra (semacam perantara) sehingga mereka juga mendapat tambahan penghasilan.
+
+      Teknologi yang digunakan:
+      - Nuxt.js, Tailwind CSS
+      - Cloudflare (Hosting)
+      - Firebase (Analytics, Database)
+      - Prismic (CMS) 
+
+
+<br>
+
+9.  [https://stg.ideasight.tech/]  
+     **irullarif**  
+      
+      Assalamualaikum Pak Sandhika dan warga titik koma, Perkenaklan nama saya irullatif, izin 🎨showcase-project  pertama saya, saya belajar Web Programing dikarenakan tuntutan kerjaan wkwkwk, sebenernya saya ga punya basic web programing sama sekali, tapi saya suka dengan dunia teknologi, saya belajar kurang lebih 1 tahun dan baru pede buat showcase project saya yg masih banyak kekurangnnya ini, 
+      Disini saya mencoba menggabungnkan Virtualisasi VR (Experience) ke web Comprof tempat saya bekerja, hampir 90% web ini bisa saya build krn dari video2 di WPU, sisanya dari youtub warga vrindavan hehe.
+      Website ini blm selesai dan masi di satgging, krn masi ada bbrp minor update.
+
+      Teknologi yang saya pakai :
+
+      PHP (Login dan Register)
+      HTML
+      CSS, Bootstrap & Materialize ( ini masih labil 😄 )
+      JS
+      particle.js
+      Tilt.js
+      AOS
+      3DVista Virtual Pro ( Untuk VR dan bisa digunakan untuk Google Street View)
+
+      Mohon masukanya buat temen2 dsni, dan klo ada yg mau tanya2 ttg VR bisa DM saya hehe.
+      Terimakasih..
+
+      Link Website :
+      https://stg.ideasight.tech/
+
+      Akun Login :
+      demo@ideasight.tech
+      demo 
+
+
+<br>
+
+10.  [https://refpayment.my.id/]  
+     **!Ashley**  
+      
+      Assalamualikum Wr Wb Pak Sandhika @sandhikagalih dan semua warga titik koma, izinkan disini saya perkenalan diri dahulu Nama Saya Kibie Kelas 1 SMK Jurusan RPL Mau Izin 🎨showcase-project kedua saya di sini saya membuat aplikasi web bisnis smm panel & produk digital saya memakai program berikut ini :
+
+      1. PHP 
+      2. CSS
+      3. BOOTSRAP
+      4. JQUERY
+      5. CORE-JS
+      6. JS
+
+      LINK WEBSITE
+      https://refpayment.my.id/
+
+      Akun login
+      demorefpay
+      demodemo 
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+### 4 Desember 2021
+
+1.  [https://indibubur.netlify.app/]  
+     **Bagus**  
+
+      hallo lagii semua, ijin untuk share lagi nih, kali ini saya coba iseng-iseng buat web dengan desain isometrik, jadi mohon saran dan kritiknya dari semua karena saya kurang jago untuk masalah ui/ux
+
+      teknologi & library yang di pakai :
+      - html
+      - css
+      - js
+      - three js
+      - gsap js
+      - lineicons
+      - masonry js
+
+      asset 3D di buat dengan blender 3D
+      asset gambar berasal dari unsplash
+
+      demo : https://isometric-web.netlify.app/
+      github : https://github.com/bagusindrayana/isometric-web
+
+<br>
 
