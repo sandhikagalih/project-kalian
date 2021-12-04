@@ -11210,16 +11210,9 @@ SISWA
 
 
 
-
-
-
-
-
-
-
 ### 4 Desember 2021
 
-1.  [https://indibubur.netlify.app/]  
+1.  [https://isometric-web.netlify.app/]  
      **Bagus**  
 
       hallo lagii semua, ijin untuk share lagi nih, kali ini saya coba iseng-iseng buat web dengan desain isometrik, jadi mohon saran dan kritiknya dari semua karena saya kurang jago untuk masalah ui/ux
@@ -11240,4 +11233,232 @@ SISWA
       github : https://github.com/bagusindrayana/isometric-web
 
 <br>
+
+2.  [https://muhamadramdani275.github.io/semesta-front/]  
+     **sora**  
+
+      Assalamu'alaikum Pak Dhika dan warga titik koma.
+      Perkenalkan nama saya Dani, saya adalah seorang Tenaga Administrasi di salah satu sekolah negeri di Karawang, Jawa Barat.
+      Izinkan saya mengirimkan project iseng yang saya buat untuk sekolah tempat saya bekerja. Awalnya saya terinspirasi dari sebuah CMS yang sudah digunakan oleh web sekolah tempat saya kerja namanya PopojiCMS, lalu saya iseng untuk coba buat CMS versi saya sendiri. Untuk sekarang baru tahap frontend, dan sekarang sedang membuat Admin Panelnya.
+
+      Teknologi yg saya pake :
+      1. HTML
+      2. CSS
+      3. Javascript
+
+      Library/Framework yang digunakan
+      1. Tailwind CSS
+      2. jQuery
+      3. jQueryUI
+      4. slick.js
+      5. SwiperJS
+      6. SimpleLightbox.js
+
+      Icon Library/Framework
+      1. Bootstrap Icon
+      2. IonIcon
+      3. Font Awesome 4
+
+      Link : https://muhamadramdani275.github.io/semesta-front/
+      Link Github : https://github.com/muhamadramdani275/semesta-front
+
+      Mohon saran dan masukan dari para suhu semua 🙏 
+      Terima kasih semua.
+
+<br>
+
+3.  [https://gametis.vercel.app/]  
+     **indraadikusuma**  
+
+      Hallo teman-teman semua 🙌, saya ijin membagikan karya aplikasi web sederhana saya yg baru saja saya buat, yaitu "Gametis" sebuah aplikasi web sederhana untuk mencari game gratis yg keren dan menarik yang dapat di mainkan di platform PC & Browser.
+
+      User stories yang ada pada Gametis yaitu :
+
+      1. user bisa melihat semua list game gratis yg tersedia di halaman "Home".
+      2. user bisa mencari game tertentu dengan mengetikan keyword gamenya di form pencarian pada halaman "Home".
+      3. user bisa menambahkan atau menghapus game favorit dengan mengklik icon hati.
+      4. user bisa melihat Top 10 game populer di halaman "Popular".
+      5. user bisa memilih opsi kategori game untuk menampilkan Top 10 game populer berdasarkan kategori yang di pilih di halaman "Popular".
+      6. user bisa melihat list game favorit / game yg disukainya di halaman "Favorites".
+
+      Aplikasinya dibuat menggunakan React JS, JavaScript & CSS.
+
+      Sumber API Games Database dari Free-to-Play Games Database (https://rapidapi.com/digiwalls/api/free-to-play-games-database)
+
+      (Demo Aplikasinya) : https://gametis.vercel.app/
+
+      (Source Codenya) : https://github.com/indraAK/gametis
+
+<br>
+
+4.  [https://zdnpl.github.io/cattype/]  
+     **zdnpl**  
+
+      Assalamualaikum Pak Dhika dan teman teman
+
+      Perkenalkan nama saya Zidan, izin ikutan showcase project lagi nih, kali ini saya mau showcase website yang saya kasih nama "cattype", web ini terinspirasi dari monkeytype yang pasti nya memiliki tujuan untuk latihan ngetik.
+
+      Semoga saya ngga kelupaan lagi buat hadir di acara showcase projectnya Pak Dhika.
+
+      Website ini saya buat dengan :
+      1. HTML
+      2. Bootstrap
+      3. Javascript
+
+      Demo : https://zdnpl.github.io/cattype/
+      Repo : https://github.com/zdnpl/cattype
+
+      Sekian dari saya, kalo ada saran atau kritik boleh di DM ya.
+      Terima kasih.
+
+<br>
+
+5.  [https://danishafifsetyadiyawan12.github.io/webblog/]  
+     **Danish Afif Setyadiyawan**  
+
+      Assalamualaikum wr.wb. Nama saya Danish Afif Setyadiyawan. Izin showcase project. Project ini berupa website yang ada gamenya dan bisa dimainkan.
+      Teknologi yang saya gunakan adalah:
+      HTML
+      CSS
+      Bootstrap 4
+      Link Web: https://danishafifsetyadiyawan12.github.io/webblog/
+      Link Github: https://github.com/danishafifsetyadiyawan12/webblog/
+
+<br>
+
+6.  [https://fajarnurwahid.github.io/bloga/]  
+     **Fajar Nur Wahid**  
+
+      Assalamu'alaikum
+      Perkenalkan saya Fajar Nur Wahid. Izin showcase project. Saya membuat responsive static website untuk blog, namanya "Bloga".
+
+      Website ini di buat dengan:
+      - HTML
+      - CSS
+      - Javascript
+
+      Demo: https://fajarnurwahid.github.io/bloga/
+      Code: https://github.com/fajarnurwahid/bloga/
+
+      Sekian dari saya, mohon sarannya supaya lebih baik lagi.
+
+      Terimakasih.
+
+<br>
+
+7.  [https://twice-memory.herokuapp.com/]  
+     **dnm17_**  
+
+      Assalamualaikum pak sandhika dan teman-teman semua, nama saya Dani. izin showcase project website game sederhana yaitu memory game, dengan tema twice  :twicepink: 
+
+      teknologi yang saya gunakan adalah
+      MERN stack
+
+      Link Web:
+      https://twice-memory.herokuapp.com/
+      Link Github:
+      https://github.com/dfsdanimaulana/memorygame/tree/twice_v2
+
+      Fitur yang sudah ada :
+      1. turns counter
+      2. time counter
+      3. Login/Register
+      4. Game point
+      5. Scoreboard
+
+      Kedepannya bakal di tambahin level dan fitur lainnya.
+
+      Sekian dari saya, mohon saran dan kritiknya supaya lebih baik lagi.
+
+      Terimakasih. 
+
+
+<br>
+
+8.  [https://api-saut.up.railway.app/]  
+     **Nomad.Kucing Joker**  
+
+      Halo temen-temen,
+      Selamat siang, perkenalkan saya Saut Manurung mau share project latihan saya menggunakan AdonisJs. Website ini merupakan suatu pembelajaran REST API dengan menggunakan AdonisJS .
+
+      Teknologi yang digunakan
+      - AdonisJS versi (typescript)
+      - Database Postgresql
+      Saya Hosting di railway.app
+
+      Berikut link repo dan demonya
+      Demo: https://api-saut.up.railway.app/
+      Repo : https://github.com/sautmanurung1/belajar-api-adonis
+      Mohon maaf jikalau masih ada banyak kesalahan 
+
+
+<br>
+
+9.  [https://dbiw21.britonenglish.co.id/]  
+     **RAFLYMLN**  
+
+      Halo temen-temen semua,
+
+      Izin ya aku mau share project dan kerjaan juga sebenernya, kali ini aku di amanahin untuk buat web event Duta Bahasa Inggris yang aku kerjain secara dadakan (fullstack, kurang lebih 2-3 jam doang sih) karena dibukanya tanggal 22 november kemarin, dikerjainnya baru jam 9 malem tanggal 21nya (karena mager) wkwkwk
+
+      Untuk tools dan teknologi yang dipakai yaitu adalah:
+      1. NextJS
+      nothing can beat NextJS ✊, fitur SSG dan SSR rendering adalah hal yang sangat cocok syekali~~ untuk project seperti ini
+
+      2. TailwindCSS
+      apa itu bootstrap~, Tailwind memberikan opsi desain yang luas karena sifatnya sebagai pure-css-framework dibandingkan sebagai ui-kit-framework seperti bootstrap, dan kawan kawannya
+
+      3. Typescript
+      apa itu js~, Typescript memberikan kemudahan dalam linting code apalagi ditambah dengan plugin linter seperti EsLint, debugging menjadi 99%++ lebih sulit  mudah 🙂
+
+      4. Midtrans
+      capek kalau buat api payment sendiri
+
+      5. Nodemailer
+      ya buat ngirim email aja abis daftar
+
+      6. Crypto
+      semua data yang tersimpan di database 10000% ter-enkripsi, jaga-jaga siapa tau ada yang jebol databasenya, kalau ada, jadi perlu di decrypt dulu datanya sebelum digunakan
+
+      kalau anda berhasil membobol database kita, selamat menebak kunci enkripsi utamanya kawan!, jangan lupa dm aku juga yak
+
+      7. Figma
+      buat ngedesain websitenya, kalau bikin website tapi gak di desain, rasanya kurang afdol sama outputnya nanti
+
+      Source code bersifat rahasia, sorry kawan, tidak boleh di sebarkan :)
+      tapi tenang aja aku ada template nextJSnya buat kalian yang mau coba:
+      https://github.com/raflymln/nextjs-template (dibantu bintangnya ya teman-teman semuanya)
+      *prosedur instalasi ada di situ yak, iqraaaa, dibaca dulu baru bertanya
+
+      Cek Websitenya di: https://dbiw21.britonenglish.co.id/
+      *halamannya hanya ada 2 dengan halaman sponsor 
+
+
+<br>
+
+10.  [https://team-vanguard-project-manager.web.app/]  
+     **fullstack.dre**  
+
+      Halo teman-teman,
+
+      Izin sharing hasil project dari belajar React akhir-akhir ini yang diselingi padatnya tugas-tugas SMA 😆 . Project pertama yang saya share kali ini adalah web-app  project management sederhana yang konsepnya mirip seperti Asana. Secara singkat, web-app ini ditujukan untuk manajemen tim private dimana para anggotanya dapat membuat project, mencari project, memfilter project hingga berkolaborasi dalam chat box di tiap-tiap project. Keseluruhan website ini saya design sendiri melalui Figma dan ditujukan agar bisa menjadi responsive, dimana fitur-fitur dan struktur sitenya terinspirasi dari Asana dan beberapa showcase dari Dribbble. Project ini saya kerjakan sekitar 3 minggu yang lalu dan tepat seminggu setelahnya.
+
+      Untuk tools dan techstack yang saya gunakan:
+      1. Figma untuk wireframing dan UI design.
+      2. Notion untuk planning dan development documentation.
+      3. Whimsical untuk pembuatan information architecture dan userflow.
+      4. ReactJS 
+      5. TailwindCSS
+      6. Firebase (authentication, hosting, storage, firestore)
+
+      Berikut referensi link untuk project ini:
+      1. Site: https://team-vanguard-project-manager.web.app/
+      2. Repository: https://github.com/fullstack-dre/team-vanguard-project-manager
+      3. Instagram saya untuk update project, design dan progress mingguan saya ✌️ : https://www.instagram.com/fullstack.dre/
+
+      Terimakasih dan terus semangat berkarya teman-teman!!
+
+<br><br>
+
+
 
