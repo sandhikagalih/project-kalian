@@ -11462,3 +11462,218 @@ SISWA
 
 
 
+### 11 Desember 2021
+
+1.  [https://kuchingneko28.github.io/kominfo-landingpage/]  
+     **KuchingNeko**  
+
+      Halo pak dika dan warga titik koma, 
+
+      izin share project landing page sederhana w yang di buat pake vanilla html,css,js.
+
+      ini project iseng" doang sih wkwkwk soalny bingung mau buat apa dan jg kelamaan g ngoding jadi rada" lupa gitu, skrng pengen lanjut lagi ngoding biar g lupa.
+
+      Dibuat dengan:
+      - HTML
+      - CSS
+      - Js
+
+      Link: https://kuchingneko28.github.io/kominfo-landingpage/
+      Source code: https://github.com/kuchingneko28/kominfo-landingpage
+
+      Mohon kritik dan saranya teman-teman, Terima kasih :D
+
+<br>
+
+2.  [https://fadzrinmadu.github.io/data-warehouse-home-page/]  
+     **Aan**  
+
+      Halo teman-teman,
+
+      Izin share project website landing page, website ini merupakan hasil convert dari desain milik SLAB Design Studio yang link akunnya saya cantumin dibawah. Project ini sudah agak lama saya kerjakan tapi saya ingin sharing disini. 
+
+      Project ini dibuat dengan teknologi berikut:
+      - HTML
+      - CSS
+      - JavaScript
+      - Bootstrap 4
+      - Owl Carousel
+      - Figma
+
+      Tampilannya saya buat menggunakan framework bootstrap versi 4 dengan sedikit kustomisasi. Untuk bagian carouselnya saya buat menggunakan bantuan library owl carousel. berikut saya cantumkan link projectnya: 
+
+      Link: https://fadzrinmadu.github.io/data-warehouse-home-page/
+      Source code: https://github.com/fadzrinmadu/data-warehouse-home-page
+      Desain Web: https://dribbble.com/slabdsgn
+
+      Tadinya mau share dengan desainnya tapi sayangnya postinganya udah nggak ketemu jadi saya cantumkan saja link ke akun desaignernya. Mohon kritik dan sarannya yah teman-teman, terima kasih.
+
+<br>
+
+3.  [https://the-lazy-media.vercel.app/]  
+     **Inzoid**  
+
+      Halo temen-temen,
+      Selamat siang, perkenalkan saya Ikhbal Dwiyantoro dan ini pertama kalinya saya ikutan showcase-project,  mau share project latihan saya menggunakan React JS. Website ini merupakan website remake dari https://thelazy.media/ web tentang media sharing  games, esports dan tech news.
+      dan untuk API nya saya menggunakan API dari mas nicola, untuk reponya bisa cek di link github dibawah.
+
+      Teknologi yg saya pakai :
+      1. HTML
+      2. SCSS
+      3. React JS
+
+      Library/Framework yang digunakan :
+      1.  React Reveal
+      2. React Icons
+      3. React content loader
+
+      Link Website : https://the-lazy-media.vercel.app/
+      Link Repo : https://github.com/ikhbaldwiyan/the-lazy-media
+      Link API:  https://github.com/NicolaDeastra/The-Lazy-Media-api.
+
+      Mohon saran dan masukannya Terima kasih.
+
+<br>
+
+4.  [https://bmao.vercel.app/]  
+     **cepgunz**  
+
+      Halo temen-temen
+
+      Izin share project latihan next js menggunakan fitur getStaticProps, getStaticPaths & locale. Nama projectnya BMAO (Baca Menghapal Al-Qur'an Online) di website tersebut temen-temen bisa membaca dan juga mendengarkan lantunan ayat Al-Qur'an berupa audio.
+      Project ini di buat menggunakan NextJs dan Chakra UI dan beberapa library tambahan seperti react-icons, react-player, react-scroll & next-seo.
+
+      Link website: https://bmao.vercel.app/
+      Link repo: https://github.com/joonacode/bmao-al-quran-online
+
+      Mohon saran dan masukannya Terima kasih.
+
+<br>
+
+5.  [https://zuramai.github.io/starback.js/]  
+     **saugi**  
+
+      Starback.js v2.0 telah rilis ✨
+
+      Dengan memakai library js ini, kalian bisa bikin efek semacam salju, rainfall, starfall, dan semacamnya (di versi 1.0.0 hanya bisa bintang bergaris). Cara pemakaiannya juga gampang banget, bisa lewat CDN atau NPM.
+
+      Zero dependencies + Lightweight
+
+      Teknologi:
+      - Javascript + HTML5 Canvas
+      - Webpack
+
+      Silakan yang mau pakai library ini di project kalian 😃
+      Github: https://github.com/zuramai/starback.js/
+      Demo: https://zuramai.github.io/starback.js/
+
+<br>
+
+6.  [https://freetoplay.vercel.app/]  
+     **nomad.kyy**  
+
+      Assalamualaikum Pak Dhika dan teman-teman semua, perkenalan lagi nama saya Rizky Ikhwan. Mau share website yang saya kerjakan di sela-sela saya mengerjakan skripsi, dengan website bernama Free Games To Play. Sebuah website sederhana yang menampilkan game gratis yang ada di PC dan Browser. Dan juga di website ini terdapat artikel seputar dunia game. Untuk datanya saya menggunakan dari API freetogame (untuk data games) dan mmobomb (untuk data artikel). Buat yang mau cobain APInya, linknya ada di readme github yang saya share ini.
+
+      Tech & Dependencies
+      1. VueJS
+      2. Vuex
+      3. Vue Router
+      4. Axios
+      5. Bootstrap/Bootstrap Vue
+      6. SwiperJS
+      7. Fontawesome
+
+      Link : https://freetoplay.vercel.app/
+      Repo : https://github.com/rizkyikhwan/f2p-games
+
+      Ditunggu saran dari Pak Dhika dan teman-teman semuanya, hope you guys like it! 
+
+
+<br>
+
+7.  [https://mhdky.github.io/me/]  
+     **RizzM**  
+
+      Assalamualaikum Pak Dhika, perkenalkan nama saya Muhammad Rizki, saya ingin share web personal saya, web ini juga merupakan hasil pembelajaran mengenai LIGHTBOX, AOS dan GSAP di Chanel Youtube WPU. BTW terimakasih buat Pak Dhika sudah membuat tutorialnya😁. Sekalian saran atau kritik jika animasinya norak atau gimana agar bisa di perbaiki lagi. Terimakasih
+
+      Dibuat dengan :
+      - HTML
+      - CSS 
+      - AOS
+      - GSAP
+
+      Github : https://github.com/mhdky/me
+
+<br>
+
+8.  [https://catatasi.vercel.app/login]  
+     **samgokongxx**  
+
+      Assalamualaikum pak dika dan teman-teman. Perkenalkan nama saya sam. Saya ingin share project sampingan saya sembari kerja sebagai asn. Project ini bernama catatasi. Catatasi merupakan sebuah app berbasis web yg dibuat untuk mempermudah ibu non direct breastfeeding, atau ibu yg menyusui anaknya dengan asi perahan (pumping). Appnya simple, ibu menyusui hanya cukup melakukan input catatan asi perahan mereka setiap kali selesai memerah, dan aplikasi ini akan mengkalkulasi jumlah asi perahan pada hari tersebut. Ibu menyusui juga dapat melihat record mereka melalui menu historis. Gampangnya ini kalkulator asi wkwkwk. Btw appnya dibuka di tampilan mobile ya pak. Tampilan tablet sama pcnya amburadul wkwkwkwk. Soalnya target usernya emang mobile.
+
+      Teknologi yg digunakan :
+
+      Frontend (Hosting di vercel):
+      -Nextjs
+      -Tailwindcss
+
+      Backend (Hosting di Railway):
+      -Strapi (untuk keperluan generate API)
+      -Mongodb Atlas
+
+      Link : https://catatasi.vercel.app/login
+      API : https://catatasi-api-production.up.railway.app/produksis (Open, No Auth)
+
+      App ini masih banyak kekurangan seperti belum ada loading screen, validasi form, ui/ux tidak menarik, dll. Mohon masukannya pak dika dan teman teman. Terima kasih
+
+      Repo : https://github.com/samgokongdev/catatasi
+      https://github.com/samgokongdev/catatasi-api
+
+<br>
+
+9.  [http://omdb-app-hazel.vercel.app/]  
+     **OR Abdillah**  
+
+      Assalamualaikum, Halo Pak Dhika 👏 perkenalkan nama saya Oka R. Abdillah, izin pak ngeshare project disini 🙏🏻🙏🏻
+      .
+      Project ini saya buat pada saat awal2 belajar Vue JS 3 dan terinspirasi sama ide project pak Dhika dulu yg bikin web pencarian film pakai omdb API
+      .
+      Fitur nya simpel sih pak, cuman searching film by name atau berdasarkan jenisnya seperti series atau episode dan ata tambahan buat fitur nyimpan movie favorite ke dalam bookmark
+      .
+      Untuk design UI project inu saya bikin sendiri pak dibantu referensi dari Dribbble.  Nah, kalo pas tahap development nya saya full cuman pake handphone pak, saya pakai applikasi Acode code editor sama Termux
+      .
+      Berikut link repo github nya :
+      https://github.com/or-abdillh/omdb-app
+
+      Untuk link deploymentnya :
+      http://omdb-app-hazel.vercel.app/
+      .
+      Terima kasih banyak pak 🙏🏻🙏🏻
+
+<br>
+
+10.  [https://abubakartarsum.github.io/BookStore/]  
+     **abu bakar**  
+
+      Assalamualaikum Pak Sandhika Galih dan warga titik koma bagi yang beragama muslim dan salam sejahtera bagi warga titik koma yang beragama lain,
+      Perkenalkan nama saya Abu bakar biasa di panggil Bakri, usia saya 16 tahun dan sekarang saya kelas 1 SMA.Saya izin share project yang pernah saya buat 
+      yaitu Responsive Book Store Web, untuk projek ini masih static, dan tujuan saya membuat website ini adalah sebagai dari hasil belajar HTML, CSS dan JavaScript dari pak Dhika dan course freeCodeCamp.
+
+      Teknologi yang saya pakai : HTML, Vanilla CSS, dan Vanilla JavaScript
+
+      Materi CSS yang saya pakai untuk style Website nya adalah : 
+      - Flexbox
+      - Grid
+      - css variables
+      - satuan rem dan %
+      - position absolute dan relative
+
+      Framework : Swipper.js
+      Link Website : https://abubakartarsum.github.io/BookStore/
+      proses pembuatannya sekitar 1 hari lebih...
+
+      saya mohon saran dan kritikan nya supaya makin baik kedepannya...
+      Terimakasih Pak Dhika.
+
+<br><br>
+
