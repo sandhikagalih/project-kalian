@@ -11677,3 +11677,246 @@ SISWA
 
 <br><br>
 
+
+### 11 Desember 2021
+
+1.  [https://lazlanrafar.vercel.app/]  
+     **Latoe**  
+
+      Assalamualaikum Pak Dhika dan Teman** Titik koma, saya ingin share website porofolio saya
+      btw ak pke web porto ini buat daftar kerja langsung diterima, hehe
+
+      Thanks pa dhika dan helper wpu
+      ------------------------------------------------------------
+      Inspirasi : 
+      1. https://gunawanahmad.github.io/ - btw, ini dari project showcase ketiga pada 31 oktober 2020
+      2. https://jacekjeznach.com/
+      ------------------------------------------------------------
+      Tools :
+      - Next.js
+      - Bootstrap 5
+      - CloudTag js - untuk membuat animasi pada tab skill
+      - classnames
+      - Typescript
+      ------------------------------------------------------------
+      Problem :
+      - icon pda sidebar
+      - animasi pada tab skill terkadang tdk terload
+      ------------------------------------------------------------
+
+      Link : https://lazlanrafar.vercel.app/
+      Github : https://github.com/lazlanrafar/portofolio
+
+      saya mohon saran dan kritikan nya supaya makin baik kedepannya. 
+
+
+<br>
+
+2.  [https://webprogammerbeginner.github.io/anyweb/]  
+     **Danish Afif Setyadiyawan**  
+
+      Assalamualaikum wr.wb. Izin showcase project yang kedua, Website ini merupakan portfolio dan fitur-fitur lainnya.
+      Bahasa Pemrograman yang saya gunakan:
+      HTML
+      CSS 3
+      Bootstrap 4
+      Link Web:https://webprogammerbeginner.github.io/anyweb/
+      Link Github: https://github.com/webprogammerbeginner/anyweb
+      Terimakasih
+
+<br>
+
+3.  [https://bites-food.netlify.app/]  
+     **_vzents**  
+
+      Halo Pak Shandika dan warga WPU | Titik Koma saya ingin share project yang bertema restaurant lebih tepatnya "Katalog Restaurant" project ini saya kerjakan untuk submission akhir project Dicoding. Karena pengerjaan project ini dikerjakan native tentunya sangat membantu kedepannya untuk melanjutkan ke teknologi lebih lanjut seperti Framework, karena balik lagi "Fundamental itu penting".
+
+      Untuk teknologi yang digunakan seperti : 
+      - HTML, CSS, dan Javascript
+      - Eslint
+      - Webpack
+      - PWA (Progressive Web Apps) untuk membangun website layaknya aplikasi mobile native
+      - Workbox untuk mempermudah pembangunan PWA (Progressive Web Apps)
+      - Karma & Jasmine untuk Integration Testing & Test Drive Development
+      - Codecept & Puppeteer untuk End 2 End Testing
+      - SweetAlert untuk Popup Notification
+      - Indexed DB sebagai local database
+
+      Link Website : https://bites-food.netlify.app/
+      Link Repository : https://github.com/rolandopranata/bites-v2
+
+      Masih ada kekurangan untuk dibagian search outlet / restaurant, form give feedback yang harus diload 2x agar terkirim dan dari segi API yang masih terbatas.
+
+      Untuk kritik dan saran boleh disampaikan juga nanti 🙂
+
+<br>
+
+4.  [https://zdnpl.github.io/cattype/]  
+     **zdnpl**  
+
+      Assalamualaikum Pak Dhika dan warga WPU, saya Zidan (zdnpl) izin ikutan showcase project lagi, mungkin ada yang masih inget sama website saya yang ini, buat yang belum tau ini namanya cattype, website latihan ngetik yang terinspirasi dari monkeytype.
+
+      karena terakhir kali saya submit project ini disini ada saran dari pak dhika dan teman teman buat tambahin sistem login dan leaderboard, jadi saya tambahin kedua fitur tersebut.
+
+      Teknologi yang digunakan :
+      -HTML
+      -Bootstrap 5
+      -Javascript
+      -Sedikit jquery
+
+      Link : https://zdnpl.github.io/cattype/
+      Repo : https://github.com/zdnpl/cattype
+
+      sekian dari saya, semoga bermanfaat dan menginspirasi.
+      terimakasih. 
+
+<br>
+
+5.  [https://philipantony.github.io/]  
+     **Philip**  
+
+      Halo pak Sandhika, dan sahabat WPU semua.  Perkenalkan, nama saya Philip Antony. Izinkan saya untuk share website portfolio sederhana saya.
+
+      Di dalam website portfolio saya ini, saya belum mencantumkan project yang pernah saya kerjakan sebelumnya, karena website portfolio ini merupakan project pertama saya, kedepannya saya pasti akan menambahkan fitur-fitur baru pada website portfolio saya.
+      ---------------------------------------------------------------------------------------
+      Teknologi yang digunakan:
+      - HTML
+      -CSS
+      -Javascript
+      - Bootstrap 5
+      ---------------------------------------------------------------------------------------
+      Link Website: https://philipantony.github.io/
+      Link Repository: https://github.com/PhilipAntony/PhilipAntony.github.io
+      ---------------------------------------------------------------------------------------
+      Website yang saya buat ini pastinya masih memiliki banyak kekurangan. Saya harap teman-teman semua dapat membantu perkembangan saya dengan memberikan beberapa saran dan kritikan, supaya saya dapat membuat website yang lebih menarik kedepannya. Sekian terimakasih 🙏
+
+<br>
+
+6.  [https://smknkejobong.sch.id/]  
+     **Chopper**  
+
+      Assalamualaikum Pak Sandika dan teman teman Pasukan ;. Perkenalkan Nama saya Drian panggilan discord Chopper 😅. Izinkan saya untuk share website instansi sekolah saya yang saya buat menggunakan.
+      - WordPress
+      - Plugin Elementor Pro
+
+      Template tersebut saya buat manual menggunakan plugin elementor.
+
+      Link Website: https://smknkejobong.sch.id/
+      Untuk repository ada, tetapi belum saya update jadi tidak saya sertakan.
+
+      Ini adalah pertama kalinya saya membuat website dan di pakai oleh sekolahan saya, meskipun permintaan sekolah menggunakan wordpress dan meskipun masih banyak kekurangan tidak membuat saya patah semangat.  Mungkin next projects saya buat website negara pake laravel 😀.
+      Sekian terimakasih 🙏🏻. 
+      Github: Drian-key(masih kosong)
+
+<br>
+
+7.  [https://vplayground.netlify.app/]  
+     **mstrdp**  
+
+      halo, pak sandhika galih dan sahabat wpu semua, kenalkan nama saya achmat fauzi, bisa dipanggil oji.
+      mohon izinnya sharing / showcase projek simple saya. projek yang saya mau share kali ini, projek visual musik menggunakan threejs. terinspirasi dari threejs, bruno simon, generative art, dan beberapa website yang memakai threejs. webapp ini dibuat dengan maksud menyampaikan kesan nostalgia, santai, damai, dan soothing.
+      sembari saya belajar threejs dan membuat website, saya latih kemampuan kreatifitas saya membuat webbapp ini, 
+      dari sketch, model 3d, musik sampai hasil akhir.
+
+      // Teknologi / tools yang dipakai
+      1. html, css, js
+      2. three.js
+      3. gsap
+      4. blender
+      5. krita , gimp
+      6. flstudio
+
+      // problem
+      1. berat
+      2. z-fighting (beberapa device)
+
+      // links
+      web: https://vplayground.netlify.app/
+      github: https://github.com/ymmycode/playground
+
+      ini projek baru langkah awal saya, jadi masih banyak kekurangannya. demi mendorong perkembangan saya, kritik dan saran diperkenankan.
+
+<br>
+
+8.  [https://cryptonesia.vercel.app/]  
+     **fadil_kun**  
+
+      Assalamualaikum pak dika. saya ingin share salah satu project portfolio saya yaitu cryptonesia. seperti namanya web ini adalah tempat mencari informasi tentang harga koin, berita & exchange dari seluruh dunia disini saya menggunakan API dari coingecko.
+
+      untuk teknologi nya disini saya menggunakan : 
+      - reactjs 
+      - tailwindcss
+      - reduxtoolkit (untuk mengolah state management)
+
+      dan berberapa libary js lain 😅 
+
+      link website : https://cryptonesia.vercel.app/
+      link repository: https://github.com/fadilkun45/cryptonesia
+
+      saya yakin masih banyak yang harus dibenahi mungkin ada berberapa saran dari bapak atau kawan kawan terimakasih
+      GitHub
+
+<br>
+
+9.  [https://kalkulator-dhans.netlify.app/]  
+     **dhan's 9th**  
+
+      Assalamualaikum pak shandika, saya izin kirim project Kalkulator Neumorphism. 
+
+      Teknologi nya sederhana :
+      - HTML 5
+      - CSS 3
+      - JavaScript DOM
+
+      Link website kalkulator : https://kalkulator-dhans.netlify.app/
+
+      Link Repository :
+      https://github.com/RamadhaniRiparro/Kalkulator-Neumorphism
+
+      Link portfolio saya :
+      https://ramadhaniriparro.github.io/portfolio-dhani/
+
+
+      Silahkan koreksi dan saran nya agar saya bisa memperbaiki kesalahannya dan mengupdate nya menjadi lebih baik, Terimakasih 🙏 
+
+
+<br>
+
+10.  [https://dvnkz-messenger.netlify.app/]  
+     **Devanka**  
+
+      Halo, pak DIka dan teman-teman WPU. Saya ingin share salah satu project saya yaitu Live Messenger Sederhana. Live Messenger ini berbasis web menggunakan login email yang disertai dengan fitur-fitur yang cukup mainstream, kurang lebih sama dengan chat app lainnya.
+
+      Fitur-fitur:
+      1. Mengganti Username, Bio/Tentang, Foto Profil
+      2. Chat Pribadi, Grup Chat, & Global Chat
+      3. Feed/Postingan/Story
+      4. Pesan suara dan gambar pada chat
+      5. Menarik/Menghapus Pesan
+      6. Background Chat
+      7. Tema (Light/Dark)
+      8. Menghapus Akun
+
+      Rencana Selanjutnya:
+      1. Blokir User
+      2. Request Friend/Remove Friend/Reject Request
+      3. Voice Call & Video Call
+      4. Customize Tema Sendiri
+      dll
+
+      Yang Digunakan:
+      1. HTML
+      2. CSS - dikerjakan oleh pacar saya
+      3. Javascript
+      4. Firebase
+      5. Font Awesome
+
+      Link Live Messenger: 
+      https://dvnkz-messenger.netlify.app/
+      Link Repo:
+      https://github.com/devanka761/messaging
+
+      Saya baru belajar Javascript.. Maaf kalo js nya berantakan hehe. Kritik & masukan sangat saya butuhkan buat perkembangan + perbaikan kedepan. Makasiiih..
+
+<br><br>
+
