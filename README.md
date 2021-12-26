@@ -11920,3 +11920,264 @@ SISWA
 
 <br><br>
 
+
+1.  [https://spacewalk.auroraweb.id/]  
+     **Ariqh**  
+
+     Assalamualaikum pak dan temen-temen semua. Saya ingin share project lomba Web Design saya dan tim, yaitu Space Walk. Space Walk merupakan sebuah web yang berfokus pada ilmu astronomi dasar, seperti tokoh astronomi, rasi bintang, objek langit dan spaceship.
+
+      Alasan pembuatan situs ini:
+      1. Meningkatkan minat siswa - siswi Indonesia di bidang astronomi
+      2. Membantu orang - orang yang ingin mengetahui dasar dari ilmu astronomi
+
+      Teknologi yang digunakan: 
+      1. Vue.js
+      2. Express (API)
+      3. Three.js (Untuk pembuatan tata surya)
+
+      Untuk beberapa fiturnya: 
+      1. Dark Mode
+      2. PWA
+      3. Multiple Language (Inggris, Indonesia)
+      4. 3D Object Model (Halaman Sky Object)
+
+      Link website: https://spacewalk.auroraweb.id/
+
+      Note:
+      Agar saat membuka halaman sky object tidak terlalu lag, temen-temen bisa aktifkan hardware acceleration di web browser.
+
+      Mohon kritik dan sarannya, terima kasih 😄
+
+<br>
+
+2.  [https://cerdasjuwandi.github.io/lowbudgetwebsitecreator/]  
+     **Cerdas Ft Gusion**  
+
+      Assalamualaikum wr,wb selamat pagi pak sandhika galih dan semua warga barbar WPU. perkenalkan nama saya CERDAS G LESMANA, izin mau ikutan showcase untuk pertama kalinya. website yang saya bagikan ini merupakan hasil pengembangan dari berbagai ilmu yang pak dika berikan melalui episode ngobarnya di youtube.
+
+      teknologi yang saya pakai :
+      1. HTML
+      2. CSS 
+      3. sedikit VANILLA JS
+      4. sedikit AOS
+      5. BOOTSTRAP 5 
+
+
+      Link website : https://cerdasjuwandi.github.io/lowbudgetwebsitecreator/
+
+      link repository : https://github.com/cerdasjuwandi/lowbudgetwebsitecreator
+
+
+
+      saya menyadari masih banyak kekurangan dari website yang saya buat terlebih lagi pada mobile versionnya masih berantakan. mohon saran dan kritiknya dari teman teman semua agar memajukan lagi ilmu yang saya punya. terima kasih
+
+<br>
+
+3.  [https://company-project-materialize.netlify.app/]  
+     **dhan's 9th**  
+
+      Assalamualaikum warahmatullahi wabarokatuh
+
+      Permisi izin kirim project Company Profile. Project ini saya bikin setelah menonton video pak shandika tentang Materialize CSS. Untuk Project nya kalau bisa Dibuka dalam Ukuran Desktop bukan mobile karena belum saya custom. Oiya project company profile ini saya buat dengan referensi dari Web : https://www.choosesteel.ca/
+
+      Ini Link project nya : https://company-project-materialize.netlify.app/
+
+      Ini source code nya : https://github.com/RamadhaniRiparro/Materialize-CSS-1
+
+      Teknologi : 
+      - HTML
+      - CSS
+      - JS
+      - Materialize CSS
+
+      Terimakasih 🙏
+
+<br>
+
+4.  [https://fahmiidris.vercel.app/]  
+     **Fahmi Idris A**  
+
+      Assalamualaikum Wr. Wb.
+      Selamat malam semua nya, para WPU subs dan pak Sandhika Galih. 
+
+      Izin share project profile pribadi hasil belajar react js. 
+      Teknologi yang aku guain yaitu :
+      - Next.js
+      - TypeScript
+      - Tailwind CSS v.2
+      - Framer Motion
+      - dll
+
+      Berikut Link nya :
+      Github : https://github.com/fahmiidris-labs
+      Link Repo nya : https://github.com/fahmiidris-labs/fahmiidris.dev
+      Link Project Profile Pribadi nya : https://fahmiidris.vercel.app/
+
+
+      Terimakasih semua nya 🙏🏼🙏🏼🙏🏼
+
+<br>
+
+5.  [https://drive.google.com/file/d/1CeaaMDqR8iT7YtHrzY1gr12DAhRI4vm7/view?usp=drivesdk]  
+     **MikuniTensai**  
+
+      Assalamualaikum wr. wb selamat malam pak Sandhika Galih dan warga barbar WPU. perkenalkan nama saya Mochamad Yusuf mahasiswa dari Institut Teknologi Nasional Malang, izinkan saya ikutan showcase untuk pertama kalinya juga.  Game yang saya bagikan ini merupakan hasil yang saya gunakan untuk pembuatan skripsi yang nantinya akan saya kembangkan ke beberapa platform yang tentunya saya sadar masih banyak kekurangannya. tentu saja saran dan kritik dipersilahkan. Pembuatannya membutuhkan waktu 5 bulan bisa langsung didownload, linknya dibawah dan link demo yang saya bagikan merupakan hasil dari demo bulan lalu. 
+
+      Judul gamenya The Meet kalau dibaca bahasa jawa bisa jadi Demit nah kalau semisal digabungkan jadi The Meet Demit yang artinya bertemu dengan hantu. Game ini bergenre first person survival.
+
+      kepoin : 
+      ig: mikunitensai
+
+      Jangan lupa bantu saya untuk isi form berikut ya teman" : 
+      https://forms.gle/proZ5XFSGdpQq2xa6
+      dan
+      https://forms.gle/gi9ftkQc6HmDsZCF7
+
+      Teknologi yang saya pakai :
+      1. Unreal Engine Terbaru Blueprint C++
+      2. Adobe Premier
+      3. Adobe Photoshop
+      4. Faceware Studio
+      5. Bridge
+      6. Fuse
+      7. Blender
+      8. Metahuman
+      9. Audacity
+
+      Link download : https://drive.google.com/file/d/1CeaaMDqR8iT7YtHrzY1gr12DAhRI4vm7/view?usp=drivesdk (5GB SIZE)
+      Sambil download bisa dicek teknologi yang saya pakek pak wkwk
+
+      Spesifikasi rekomendasi
+      Processor : i5
+      GPU : VRAM 2GB
+      RAM : 8GB
+      5GB Storage HDD/SSD Rekomendasi
+
+      Mungkin cuma itu saja pak yang bisa saya bagikan. dan saya ucapkan terimakasih untuk warga WPU. 
+
+
+<br>
+
+6.  [https://iodev.vercel.app/]  
+     **saiful-akbar**  
+
+      Assalamualaikum.
+
+      Hello teman-teman WPU, semoga semua dalam keadaan sehat selalu.
+
+      Perkenalkan saya Saiful.
+      Izin share hasil project website portfolio yang telah saya dan teman saya Novan @404  buat. Project ini hanya website statis untuk menampilkan hasil project yang telah saya buat sebelumnya.
+
+      Adapun teknologi yang saya gunakan untuk mengembangkan website ini adalah sebagai berikut:
+
+      Teknologi
+      - HTML
+      - CSS
+      - Javascript
+      - Figma
+
+      Library / Framework
+      - React JS (pengembangan antar muka)
+      - Material UI (react ui component)
+      - Framer Motion (animasi)
+      - Redux (state management)
+      - SASS (styling)
+      - Vercel (hosting)
+
+      Link Repo: https://github.com/saiful-akbar/io-dev
+
+      Link Website: https://iodev.vercel.app/
+
+      Mohon kritik dan sarannya dari teman-teman semua untuk menambah wawasan, ilmu dan pengetahuan saya.
+
+      Terima kasih.
+
+<br>
+
+7.  [https://albirru.netlify.app/]  
+     **||Hide||**  
+
+      Assalamualaikum, halo pak sandika dan mahasiswa WPU,
+
+      Permisi perkenalkan saya ||HIDE||/ Haidar siswa kelas 9, izin mengirim project portfolio untuk toko orang tua saya, mohon maaf gaada reponya soalnya githubku error ( katanya can't found remote gitu). itu productnya blum lengkap hehe ( yg buat ayahku imgnya, harganya blum valid juga) klo mau yg valid jangan lupa dikepoin ig sama fbnya, langsung cus dibeli productnya. 😀 Aku ngerjain project ini cukup memakan waktu lama sekitar 2 bulanan ( maklum pemula), 2 minggu sekali buatnya, dan butuh waktu lamaa selesainyaa 
+
+      Teknologi yang ku pakai:
+      - HTML
+      - CSS
+      - JS
+      - framework yang lumayan banyak : )
+      - Animate pkai AOS
+
+      link project: https://albirru.netlify.app/
+      Terimakasih 🙏 
+
+
+<br>
+
+8.  [https://github.com/slowy07/clifter_highway]  
+     **arfy.slowy**  
+
+      Selamat malam pak dhika, kembali lagi, kali ini saya ingin showcase project saya and luminette, athallamajid di bidang transportasi, yang sebelumnya sudah di bidang kesehatan, kesenian, industri. kali ini saya ingin showcase sebuah project yang menggunakan CNN, (convolutional neural network) yang saya improvisasi kembali untuk project saya (mengembangkan CNN dan algoritma lainnya dengan versi tersendiri), nama project saya bernama clifter highway yang dimana, sebuah kendaraan akan otomatis berjalan dengan sendirinya tanpa sentuh tangan dari user, problem yang sering terjadi pada sistem auto driving atau autonomous car adalah dmana sebuah objek kendaraan lain bergerak secara random atau acak, maka dari itu membutuhkan beberapa sub task yang harus dipenuhi yaitu deteksi objek, identifikasi objek, serta pergerakan objek dan prediksi pergerakan objek, sistem dari auto driving ini sistemnya circular dimana setiap observasi diproses ke dalam sistem kemudian melakukan aksi kemudian berulangan kembali,  disni juga saya menggunakan svm atau support vector machine  yang merupakan bagian dari pattern recognition algorithm, kemudian saya juga menggunakan gradient boosting yang merupakan bagian dari decision matrix algorithm, yang dibuat versi saya sendiri.untuk selebihnya bisa dilihat pada paper,dll serta demo online sederhana dari self auto driving dari clifter highway bisa di cek pada repositori saya dibawah ini
+      https://github.com/slowy07/clifter_highway
+      teknelogi yang digunakan:
+      - pytorch (stable baseline)
+      - pygame
+      - gym
+      note: untuk beberapa yng ingin pull request dipersilahkan, dan free untuk semua kalangan, serta bagi yang  ingin belajar ilmu machine learning, deep learning, dll, disarankan untuk tidak melompat2 supaya ilmu yang didapat lebih efektif, serta untuk proses demo agak sedikit memakan waktu, untuk hasil jadi bisa dilihat pada folder output dan di documentation/output_dat.
+
+      note: ibu saya nonton setiap saya showcase project :v
+      terima kasih pak dhika 
+
+
+<br>
+
+9.  [https://arpracreative.com/]  
+     **Aldi Tegar Prakoso**  
+
+      Halo pa Sandhika dan teman-teman,
+
+      Izin share project website blog saya yang di buat menggunakan Hugo. Nama blognya adalah Arpra Creative, yang memuat sebuah konten berupa artikel dan video. Untuk video ini di ambil dari channel youtube yang saya embed ke blog ini.
+
+      Berikut adalah linknya :
+
+      https://arpracreative.com/
+
+      Untuk source codenya tidak saya publish untuk umum, jadi kalau teman-teman ingin mencoba membuat blog pribadi menggunakan Hugo bisa ke channel Sekolah Koding dari Mas Hilman.
+
+      Follow juga ig Arpra Creative :
+
+      https://www.instagram.com/arpra.creative/
+
+      Terima Kasih sebelumnya 
+
+
+<br>
+
+10.  [https://ridoarap.github.io/drum-virtual/]  
+     **ridohakiki**  
+
+      assalamu'alaikum wr.wb
+
+      Hallo teman-teman wpu,semoga semua dalam keadaan sehat selalu
+
+
+      perkenalkan saya muhammad ridho hakiki.
+      ingin share project virtual-drum yang telah saya buat,
+      project ini belum respounsive.
+
+      Teknologi yang digunakan:
+      -HTML
+      -CSS
+      -JAVASCRIPT
+
+      Berikut linknya:
+      Github:
+      https://github.com/ridoarap/drum-virtual
+      link reponya:
+      https://ridoarap.github.io/drum-virtual/
+
+      Mohon kritik dan sarannya dari teman-teman 
+      sekalian untuk menambah wawasan,dan ilmu pengetahuan.
+
+<br><br>
+
