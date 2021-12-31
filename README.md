@@ -80,10 +80,6 @@ setiap hari Sabtu, pukul 14.00WIB (jika tidak ada perubahan :p)
    Bahasa yang digunakan : PHP Native + bootstrap 4
    <br/>
 
-4. [http://nunnaa.com/desa/]  
-   **nahers24**
-   <br/>
-
 5. [https://satrianet.com/]  
    **SATRIA**  
    ngikut ahhh..
