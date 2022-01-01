@@ -12179,3 +12179,263 @@ SISWA
 
 <br><br>
 
+### 1 Januari 2022
+
+
+1.  [https://benas-coffee.netlify.app/]  
+     **HudYA**  
+
+      Hallo mahasiswa wpu,
+      perkenalakan nama saya hud yusuf atsigah.
+      izin share project coffee shop website template untuk sepupu saya ,
+      tolong saran dan masukan sebelum saya kasih liat project ini ke sepupu saya
+
+      Teknologi
+      -HTML
+      -CSS
+      -Javascript
+
+      Library/Framework
+      -swiper.js
+
+      Link Website:https://benas-coffee.netlify.app/
+
+      Terima-kasih 🙏
+
+<br>
+
+2.  [https://foxxydevs.netlify.app/]  
+     **James Watt**  
+
+      Hallo semua,
+      Izin showcase lagi pak,
+      saya ingin showcase landing page organization digithub dengan metode slicing dari figma ke codingan 
+      jadi rencananya saya ingin bangun organisasi opensource yang didalamnya terdapat repo untuk pembelajaran UI
+      framework nya seperti react, vuejs, svelte dll, dan awalnya untuk pembelajaran slicing design dari figma.
+
+      Link : https://foxxydevs.netlify.app/
+      Repo : https://github.com/foxxydevs
+      Design Figma : https://www.behance.net/gallery/132903639/Foxxydevs
+
+      Web ini blm sepenuhnya jadi masih ada link yang belum terupdate bagi kalian yang pengen belajar kontribusi di organisasi ini silahkan,
+      karena organisasi yang dibuat ini sangat terbuka kalian tinggal fork lalu PR ke kita. atau kirim pesan melalui webnya.
+
+      Teknologi: 
+      - GSAP
+      - Typescript React
+      - Emotion [CSS in JS]
+      - Email.js
+      - Core.js
+      - Plausible Analytics
+
+      AYO OPENSOURCE ❤️ 
+
+
+<br>
+
+3.  [https://muryp.my.id/]  
+     **muryp**  
+
+      Assalamu'alaikum wr.wb
+
+      Hallo pak Dika dan  teman-teman  sekalian.
+
+      Perkenalkan nama saya Alief Prihantoro, disini saya ingin share blog pribadi saya.
+
+      Oh ya, jika ada kendala masalah tampilan di desktop, mohon maaf. Soalnya ini saya coding dari hp
+
+
+      Technology dan tools :
+      - HTML
+      - SASS/SCSS
+      - ES6/JS
+      - BASH (sedikit)
+      - HUGO(backend)
+      - NVIM(code editor)
+      - NETLIFY (hosting)
+      - Disqus Comment
+
+      Fitur :
+      - Load More
+      - Live Search
+      - Komentar
+
+      Link  blog : https://muryp.my.id/
+      Link repo : https://github.com/alifprihantoro/muryp-new
+
+      Terima Kasih~
+
+<br>
+
+4.  [http://pakuwojo.rf.gd/]  
+     **saifuddien_**  
+
+      Assalamualaikum warahmatullahi wabarakatuhu. 
+
+      saya Arief dari Jepara, kuliah di International University of Africa (IUA) Sudan fakultas islamic studies. sudah lama mengikuti  pak dhika. alhamdulillah sekarang udah selesai php.
+
+      dan saya ingin berbagi project iseng saya, saya beri nama pakuwojo. pakuwojo adalah salah satu organisasi kekeluargaan yang ada di sudan.
+
+      project ini hanya dibuat dengan :
+      - HTML
+      -CSS
+      -JS
+
+      features: 
+      - dark mode
+      - smooth scroll
+      - tab, mobile mode
+
+
+      web : http://pakuwojo.rf.gd/
+      github : https://github.com/saifuddien/project/
+
+      semoga memotivasi temen2 yang baru belajar programing meskipun tidak kuliah IT.
+
+      saya tertarik dengan coding, karena ada temen africa dari nigeria seangkatan kuliah di fakultas IT jago coding, akhirnya saya mulai belajar dengan dia.
+
+      baarakallahu fikum
+
+<br>
+
+5.  [http://iyanfatur1412.github.io/zenplayers]  
+     **iyanfatur**  
+
+      Assalamualaikum, 
+
+      Izin share project yg saya buat, website yg dibuat adalah website pemutar musik
+
+      Dibuat dengan:
+      -Html
+      -Css
+      -Javascript 
+
+      Link:
+      Github pages : http://iyanfatur1412.github.io/zenplayers
+
+      Kalo bisa minta sarannya agar bisa lebih bagus lagi
+
+      Terima kasih
+
+<br>
+
+---
+SPONSOR
+---
+
+6.  [https://rizkicitra.my.id/]  
+     **Rimara**  
+
+      Selamat pagi teman-teman WPU, izin share personal website saya.
+
+      Tujuan bikin website ini adalah pesonal branding dan juga buat sharing knowledge atau pun curhatan pribadi saya (menulis artikel), jadi pada dasarnya rumah saya di Internet lah, 😆.
+
+      Stack:
+      - React.js( Preact for Production)
+      - Next.js
+      - Tailwind CSS
+      - Strapi
+      - etc.
+
+      untuk production bisa dilihat di https://rizkicitra.my.id/
+
+      codenya bisa dilihat di https://github.com/rizkimcitra/rizkicitra 
+
+
+<br>
+
+7.  [https://storypedia.netlify.app/]  
+     **Buleeeeee**  
+
+      Hallo semuanya, perkenalkan nama saya faldi atau biasa disapa dengan Buleeeeeee.
+      Saya ingin share project lagi yang saya buat sendiri. 
+      Web ini dibuat untuk mengukur kemampuan saya dalam memahami stack-stack yang saya pakai, dan agar terhindar dari tutorial hell. 
+
+      Web ini dibuat dengan teknologi MERN stack.
+      - MongoDB 
+      - ExpressJS
+      - ReactJS
+      - NodeJS
+
+      Seluruh pembuatan web ini menggunakan layanan yang 100% gratis, jadi kalau loadingnya lama harap maklum ya. 
+
+      Masih ada beberapa bugs, dan kedepannya akan ditambahkan fitur lagi. 
+
+      Web : https://storypedia.netlify.app/
+      Github : https://github.com/faldibule/storypedia
+
+<br>
+
+8.  [https://youthful-bose-d74d03.netlify.app/]  
+     **vinopalebangan**  
+
+      Assalamu'alaikum wr.wb
+
+      Hallo Pak Sandhika Galih dan Warga WPU
+
+      Perkenalkan nama saya Vino, disini saya ingin share project portfolio saya
+      
+      didalam nya terdapat nama saya, skill saya, dan contoh-contoh hasil project.
+
+
+      Technology :
+      - HTML,
+      - CSS,
+      - Bootstrap 5, dan
+      - JS
+
+
+      Link website : https://youthful-bose-d74d03.netlify.app/
+      Link repository : https://github.com/joanvino/Portfolio
+
+      sekian dan Terima Kasih Semuanya~
+
+<br>
+
+9.  [http://kimiaxbindo.epizy.com/]  
+     **dapa**  
+
+      Assalamualaikum warahmatullahi wabarakatuh 
+
+      Perkenalkan nama saya Daffa Aryasatya dari SMAN 31 JAKARTA kelas 12
+      Projek ini berawal dari tugas kolaborasi antara kimia dan bhs indo dengan membuat artikel kimia, lalu saya berinisiatif utk membuat web supaya dpt nilai tambahan dan menguji kemampuan Web Development yg saya miliki.
+
+      Teknologi :
+      -HTML
+      -CSS
+      -JS
+      -Bootstrap
+      -GSAP
+      -Particles.js
+      -AOS
+
+      Link: http://kimiaxbindo.epizy.com/
+      Repo: https://github.com/daffaaryapp/kimiaXbindo31
+
+      Terima Kasih Pak Dhika
+
+<br>
+
+10.  [https://web-school-template.netlify.app/]  
+     **TepanUyy**  
+
+      Halo Pak Dika dan kawan-kawan, perkenalkan saya Stevan Andreas dari SMK 7 Samarinda kelas 10... Ijin ikutan showcase lagi yang..... ke 3 atau ke 4? lupa hehe... kali ini saya ikutan showcase web template sebenernya lebih spesifik ke web template untuk sekolah yang biasa2 aja sih...
+
+      Webnya di bikin pakai
+      - HTML
+      - CSS
+      - JS
+      - Bootstrap
+      - Swiper JS
+      - Particle JS
+
+      Web ini saya jual untuk sebagai template, tapi kalau misalnya ada yang berminat terus mau request minta ditambahin fitur apa, semoga saya bisa buat hehe.... Terus karna webnya masih cuman frontend (only template/tampilan) kalau misalnya ada yang minat terus minta sekalian dibikinin untuk backend nya mungkin saya bisa buat....
+
+      Untuk portofolio saya di http://stpndrs.epizy.com/ kalau mau menghubungi bisa lewat email yang ada disitu...
+
+      Link websitenya di https://web-school-template.netlify.app/, dan untuk source code nya di repo saya gak kasih karna pengen dijual webnya hehe...
+
+      Mohon saran-sarannya teman-teman, Terima Kasih~~
+
+<br><br>
+
