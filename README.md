@@ -12439,3 +12439,244 @@ SISWA
 
 <br><br>
 
+
+### 9 Januari 2022
+
+
+1.  [https://smbrang.github.io/demo-operator-javascript/]  
+     **_muss**  
+
+      Halo pak Sandhika Galih dan teman-teman,
+
+      Izin ikut showcase-projectnya lagi pak, pada showcase ini saya ingin share web sederhana dengan nama DEMO OPERATOR JAVASCRIPT, website ini adalah website iseng-iseng dan sekalilgus latihan saya dalam belajar menggunakan operator javascript, walaupun web nya gak guna2 amat, karena kita bisa buka diconsole hehehe…
+
+      dibuat dengan :
+
+      HTML
+      CSS
+      JAVASCRIPT
+      BOOTSTRAP 5
+
+      Link web : https://smbrang.github.io/demo-operator-javascript/
+      Link repo : https://github.com/smbrang/demo-operator-javascript
+
+      Terima kasih pak, teman-teman.
+      GitHub
+
+<br>
+
+2.  [https://hn.aliif.space/github-activity-generator]  
+     **aliif**  
+
+      assalamualaikum warahmatullahi wabarakatuh 
+
+      Halo semua, Perkenalkan nama saya Aliif Arief.
+      Projek ini saya buat karena ingin menghibur diri setelah UAS semester 1 ini, ini sebenarnya simpel proyeknya jadi saya bikin github activity generator, jadi dengan program ini kita bisa memanipulasi timeline activity GitHub kita agar terlihat sangat konsisten dan aktif setiap hari jadi hijau semua gitu, cara pakenya ada di file README repo, cara kerja programnya ada di blog Hashnode saya
+
+      Teknologi :
+      -Python
+      -Git
+
+      Repo : https://github.com/aliifam/github-activity-generator
+
+      cara kerja: https://hn.aliif.space/github-activity-generator
+
+      Terima Kasih Pak Dhika
+
+<br>
+
+3.  [https://play.google.com/store/apps/details?id=com.wibucode.wibux2]  
+     **Andre R 🐧**  
+
+      Hallo semuanya 👋
+
+      Izin share project bareng kita @Huda Damar#7599 
+
+      Masih sama dengan showcase kemarin yaitu Wibux2. Namun dengan konsep yang berbeda.
+
+      Kali ini kita mengunakan TWA ( Trusted Web Activity ) sama kayak PWA yang berjalan di atas Chrome, tetapi yang membedakanya TWA bisa upload di Playstore dan di jalankan layaknya App Native. Size nya juga ringan.
+
+      Description: Wibux2 merupakan aplikasi yang berfungsi untuk menghilangkan Noise pada gambar. Sama seperti Waifu2x, ini juga mengunakan API dari Waifu2x sehingga secara fungsional sama.
+
+      Xampple image: https://anonfiles.com/10lbO0k2w4/images_40_jpeg
+
+      Untuk link App nya: https://play.google.com/store/apps/details?id=com.wibucode.wibux2
+
+<br>
+
+4.  [https://renzichwan.github.io/project/]  
+     **Nguyen Thu Wann**  
+
+      Halo pak Sandhika Galih dan teman-teman,
+
+      Izin ikut showcase-projectnya lagi pak, Belajar make anime.js juga sebenarnya
+      dibuat dengan :
+
+      HTML
+      CSS
+      JQUERY
+      ANIME.JS
+
+      Link web : https://renzichwan.github.io/project/
+      Link repo : https://github.com/renzichwan/project
+
+      Terima kasih pak, teman-teman.
+
+<br>
+
+5.  [https://abdmmar.github.io/wc-toast/]  
+     **Ammar**  
+
+      👋🏻 Hallo semuanya, izin showcase project. Baru-baru ini belajar tentang web component dan coba bikin komponen sederhana buat tau gimana cara kerjanya. Karena sering pake react-hot-toast akhirnya nyoba buat implementasiin pake API dari web component dan coba share komponennya di NPM. Barangkali ada yang butuh komponen notifikasi di proyek Vue, Svelte, atau Reactnya, bisa banget buat cobain ini karena ini framework agnostic.
+
+      Beberapa fitur yang ada:
+      ✍🏻  Easy to use
+      🌏  Use anywhere you like - React? Vue? Svelte? Everywhere!
+      👋🏻  Emoji and SVG Support
+      🎨  Customizable
+      ✅  Accessible - Tested using Windows 10 Narrator
+      🍃  Lightweight - Only ~3.6KB Minified+Gzipped including styles
+      💙  Dark Mode
+
+      💾 Repository:
+      https://github.com/abdmmar/wc-toast
+
+      💻 Demo:
+      https://abdmmar.github.io/wc-toast/
+
+      Any review, issues, and feedback on how it could be improved or any addition would be appreciated! Terima kasih
+
+<br>
+
+6.  [https://fadzrinmadu.github.io/insure-landing-page/]  
+     **Aan**  
+
+      Halo teman-teman,
+
+      Izin share project website landing page, project ini merupakan salah satu challenges dari web frontendmentor.io. Di website tersebut kita bisa memilih challenges yang mau diselesaikan dan nantinya akan diberikan starter code + file design. File design yang diberikan berupa gambar, kalau mau download file figma/sketchnya harus daftar jadi pro member. Berikut daftar teknologi dan tools yang digunakan untuk project ini:
+
+      - HTML
+      - CSS
+      - JavaScript
+      - Figma
+
+      Project ini dibuat menggunakan html, css dan javascript. Khusus css saya tulis dengan bantuan SASS. Untuk membuat tampilan web yang sesuai dengan desain yang sudah diberikan saya menggunakan bantuan figma. berikut saya cantumkan link projectnya:
+
+      Link: https://fadzrinmadu.github.io/insure-landing-page/
+      Source code: https://github.com/fadzrinmadu/insure-landing-page
+      Web Challenges: https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8
+
+      Mohon kritik dan sarannya yah teman-teman, terima kasih.
+
+<br>
+
+7.  [https://ariq2901.vercel.app/]  
+     **!               Ariq Jusuf**  
+
+      Halo pak dhika dan kawan-kawan,
+
+      Saya izin ikut showcase projectnya pak, berikut ini link website portfolio sederhana saya :
+
+      https://ariq2901.vercel.app/
+
+      Website ini dibuat dengan framework Next JS & library framer motion, barangkali ada yg tertarik dengan library nya : https://www.framer.com/motion/
+
+      Terima kasih! 
+
+
+<br>
+
+8.  [https://ahznimation.github.io/NewYearCountDown/]  
+     **! Ahz Nimation**  
+
+      Halo Pak Dhika dan teman-teman WPU, izin ikut showcase project ya.
+
+      Perkenalkan nama saya Ahza kelas 7, ini pertama kalinya saya ngirim project ke Showcase Project. Awalnya saya ingin mengirimkan Website Portfolio saya terlebih dahulu, tetapi karena sudah dekat dengan tahun baru, saya ingin mengirimkan Website New Year Count Down saya terlebih dahulu. Mungkin masih banyak bug di websitenya soalnya saya juga masih belum selesai nonton tutorial JS dasar di channel WPU. Berikut daftar teknologi dan tools yang  digunakan untuk project ini:
+
+      - HTML
+      - CSS
+      - JavaScript
+
+      Berikut link projectnya:
+
+      Link: https://ahznimation.github.io/NewYearCountDown/
+      Source code: https://github.com/AhzNimation/NewYearCountDown
+      Fire Work Source Code:
+      https://codepen.io/whqet/pen/Auzch
+
+<br>
+
+9.  [https://github-leaderboard.vercel.app/]  
+     **Kapiten Pattimura**  
+
+      Assalamualaikum pak Sandhika Galih (Top 1 dengan followers Github terbanyak SEINDONESIA 👏🏻), para om, tante helper, dan kawan semuanya.
+
+      Perkenalkan saya Feri Irawan kelas 9 SMPN 40 Bulukumba. Oke setelah beberapa pekan absen dari acara showcase yang GG ini, saya mohon izin untuk showcase projek yang kelima kalinya, yakni projek gabut yang open source bernama Github Leaderboard API
+
+      Sesuai namanya, projek ini berisi data tentang:
+
+      - Pengguna, yaitu pengguna dengan followers, repositori, commit, dan kontibusi terbanyak di github (baik secara global maupun bedasarkan lokasi)
+      - Repositori, yaitu repositori dengan jumlah stars, forks, size terbanyak di github
+      - Topik, yaitu topik dengan jumlah repositori terbanyak di Github
+      - yang lain akan menyusul 😄
+
+      Github Leaderboard API
+
+      Repo URL: https://github.com/feri-irawan/github-leaderboard-api
+      Web URL: https://github-leaderboard-api.vercel.app/
+
+      Dibuat dengan:
+
+      - NodeJS
+      - Fastify
+      - Sisanya cek dependensi 🙏🏻 
+
+      Github Leaderboard Web (Demo & Docs)
+
+      Repo URL: https://github.com/feri-irawan/github-leaderboard-web
+      Web URL: https://github-leaderboard.vercel.app/
+
+      Dibuat dengan:
+
+      - NextJS
+      - TailwindCSS
+      - Sisanya cek dependensi 🙏🏻
+
+      Mohon masukannya pak Sandhika Galih dan kawan" semuanya.
+
+      Jangan lupa follow, stars nya kawan"⭐ , dan ingat ini open source siapa pun boleh ikut berkontribusi di repo API atau pun repo WEB projek ini. 
+
+      Terima kasih semuanya. 
+
+
+<br>
+
+10.  [https://quranin.gatsbyjs.io/]  
+     **ShiRo**  
+
+      Hi Penduduk WPU,
+
+      Halo, Rifqi disini dan ini adalah quranin, sebuah aplikasi qur'an sederhana, terinspirasi dari aplikasi mobile quranly. aplikasi ini masih sekedar prototype dan belum ada fitur-fitur lengkap, namun untuk main feature seperti membaca alquran sudah bisa berjalan dengan baik (semoga saja) selain itu masih terdapat banyak bug juga 🙂
+
+      Pada saat awal membangun aplikasi ini saya berencana menggunakan Next.js, dan semua berjalan dengan lancar. Tetapi karena aplikasi ini membutuhkan kecepatan, karena untuk setiap ayat kita harus melakukan request ke server di Next.js.  Memang terdapat static generation menggunakan getStaticProps & getStaticPath, tetapi karena alasan tertentu saya tidak bisa mengaplikasikannya ke website. 
+
+      Jika menggukanan serverSide saya rasa akan kurang ideal untuk kecepatan dan pengalaman user. Sehingga, sy putuskan untuk transisi menggunakan Gatsby.js dengan gatsby-node.js apinya disini sya mendapatkan kemudahan dalam memanipulasi source rest apinya, kemudian Gatsby.js membantu mentransformasikan data tsb ke Graphql untuk kita consume., 
+
+      Dengan cara ini semua halaman akan tersedia pada waktu build-time (statically generated). Jadi setelah build selesai halaman website ini akan menyediakan lebih dari  >6000 halaman mengingat jumlah ayat yang tersedia. meskipun begitu navigasi antar ayat masih terasa nyaman 🙂 i don't know.
+
+      dibangun menggunakan:
+      - Gatsby.js
+      - Tailwind.css
+      - React Spring (animation)
+      - Formik (form handling)
+      - Firebase (authentication & storage)
+      - API (sutanlab api)
+
+      link website: https://quranin.gatsbyjs.io/
+      link repository: https://github.com/rifqirosyidi/quranin/
+
+      Masih banyak sekali kekurangan dalam website ini, seperti searching data, saving data, handling authentication dsb yg masih belum berjalan dengan baik. 🙂 terimakasih 
+
+
+<br><br>
+
