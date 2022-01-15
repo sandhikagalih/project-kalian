@@ -12680,3 +12680,244 @@ SISWA
 
 <br><br>
 
+
+### 15 Januari 2022
+
+
+1.  [https://main-english.netlify.app/]  
+     **Ksm**  
+
+      Selamat pagi/siang/sore/malam Pak Dika dan semua warga WPU, semoga sehat selalu. Saya Rendra (kalo online biasa dipanggil Kusuma) mau ikutan showcase project untuk pertama kalinya. Kebetulan saya adalah mahasiswa Sastra Inggris (baru selesai semester 1) yang kemaren sempet dapet tugas bikin vocabulary cards, nah dari situ saya nyoba-nyoba bikin generator vocabulary cards. Akhirnya jadi, dan sudah saya tambahkan satu game lagi yaitu tebak kata. Website ini tujuan utamanya adalah untuk belajar bahasa Inggris melalui penambahan vocabulary.
+
+      Link website: https://main-english.netlify.app/
+      Link repo: https://github.com/MainLah/main-eng
+
+      Website ini hanya front end saja (mohon maklumi designnya juga, gabisa design saya wkwkwk), belum ada back end, dan teknologi yang saya gunakan yaitu
+      - HTML dan CSS
+      - Bootstrap
+      - JavaScript
+      - Typed.js
+
+      Mohon masukannya 🙏 
+      Terima kasih semuanya 
+
+<br>
+
+2.  [https://nasa-spacex.netlify.app/]  
+     **Doni ws**  
+
+      Halo pak dika dan semuanya Nama saya (Doni) Wahyu Saputra 
+      dan umur 15 y.o
+      Saya Mau ikut show case, ini adalah showcase pertama saya
+      website ini memiliki 4 page.
+      website ini tentang nasa dan spacex, rocket spacex dan astronaut nasa.
+      terinsipirasi dari kerja sama spacex dan nasa.
+
+      link website:
+      https://nasa-spacex.netlify.app/
+
+      link repository:
+      https://github.com/Doniws/Nasa-And-Spacex-Cooperation
+
+      Teknologi yang digunakan:
+      -Java Script Native(untuk slide dan yang lainnya)
+      -AOS (untuk animasi scroll)
+      -gsap (biasa,grab,control/tween animasi
+      (for payload crew dragon play dan reverse))
+      -360deg.js (robot dan astronaut ada di main )
+      -html dan css
+      -font awesome 6(animation dan ikon) 
+<br>
+
+3.  [https://vandueniecky.github.io/jasainer/]  
+     **Viecky Dan Nue**  
+
+      Assalammu'alaikum wr wb .
+      Selamat Pagi, Selamat Siang, Selamat Malam, Kapanpun waktu lihatnya, Semoga sehat selalu Pak Sandhika, dan Warga titik koma. Perkenalkan saya Van Due Niecky asli Indonesia bukan keturunan Belanda, memang namanya aja yang susah. Saya mau izin Showcase Project yang saya perlajari dari playlist ngobar channel WPU. Project ini dinamai Jasainer (Jasa Desain), alhamdulillah sudah menghasilkan beberapa orderan Desain.
+      Project ini hanya memiliki fitur form kontak yang terhubung dengan google sheet seperti yang divideo WPU. Berikut ini teknologi dan tools yang digunakan untuk project ini:
+      - HTML
+      - CSS
+      - Bootstrap 5.0
+      - sedikit Vanilla Javascirpt "untuk validation form hubungi kami masih ada kekurangan masih bisa kekirim walau data yang dimasukan tidak valid, setelah dikirim tanda validasi nya masih muncul terus, perlu diload kalau mau kembali keadaan awal". **/mohon dibetulkan
+      - JQuary 3.6.0
+      - Tilt JS
+      - FakeLoader JS
+
+      Link Website :
+      https://vandueniecky.github.io/jasainer/
+      Link Repostitory :
+      https://github.com/vandueniecky/jasainer
+
+      Sekalian promosiin dikit boleh kali pak :), Saya menerima jasa desain barangkali teman-teman ada yang minat bisa hubungi saya di website atau discord.
+      Terima Kasih atas waktu dan kesempatannya untuk men-Showcase Project saya.
+      Mohon saran dan kritik teman-teman.
+
+<br>
+
+4.  [https://adrdroid.github.io/]  
+     **adriandroid**  
+
+      Halo Pak Sandhika & Sahabat WPU semua. Perkenalkan, Nama saya Adrian Satoto. Izinkan saya untuk share website portfolio sederhana saya.
+
+      Website portfolio ini merupakan project pertama saya.
+
+      Teknologi yang digunakan:
+      - Bootstrap 5
+      - HTML
+      - CSS
+      - Javascript
+      - AOS
+      - Swiper
+
+      Link Website : https://adrdroid.github.io/
+      Link Repository : https://github.com/adrdroid/adrdroid.github.io
+
+      Website yang saya buat ini pastinya masih memiliki banyak kekurangan. Dengan memberikan beberapa saran dan kritikan, Supaya saya dapat membuat website yang lebih menarik kedepannya. Sekian terimakasih
+
+<br>
+
+5.  [https://addienzakia.github.io/Rumus-Calculator/]  
+     **Addien Zakia**  
+
+      Hallo semuanya, izin showcase project untuk pertama kalinya ya, project ini adalah sebuah kalkulator bertema neumorphism yang tidak dapat melakukan penjumlahan seperti pada kalkulator umumnya, melainkan kalkulator ini dapat menghitung luas, keliling, volume pada bangun datar dan bangun ruang.
+      sedikit cerita ide inspirasi pada project ini sudah sejak berbulan-bulan mungkin hampir setahun yang lalu terpikir oleh saya tapi karna dlu saya blum bisa dalam bidang web development jadi ide inspirasi ini cukup saya simpan dan alhamdulillah sekarang baru bisa terwujud setelah sekian lama belajar dalam bidang web development, dan sekalian project pertama saya dari hasil belajar tailwind.
+
+      dibuat menggunakan teknologi:
+      - HTML
+      - TailwindCSS v2.2 (saya buatnya sebelum v3 release)
+      - Vanilla javascript
+
+      fitur" yang tersedia
+      - Dark mode
+      - Dapat melihat proses/Cara penyelesaian
+      - Neumorphism theme
+      - Sudah responsive
+
+      btw kalau bingung cara pakainya di pojok kiri atas kalkulator ada tombol/icon help mark bisa di klik aja ya, mohon kritik dan sarannya, terimakasih 🙂
+
+      - Demo: https://addienzakia.github.io/Rumus-Calculator/
+      - Github: https://github.com/AddienZakia/Rumus-Calculator
+
+<br>
+
+---
+SPONSOR
+---
+
+<br>
+
+6.  [https://fadelun.github.io/tekken-7]  
+     **udell**  
+
+      halo teman-teman semua, smoga kalian sehat selalu
+
+      perkenalkan saya fadil, izinkan saya untuk pertama kalinya showcase project disini.
+      website ini bertema game TEKKEN yang merupakan game fighting yang cukup populer,disini saya hanya menampilkan inforamsi setiap petarung sperti gambar,region dan umur.
+      teknologi yang digunakan :
+      -html
+      -sass
+      -javascript
+      -boostrap
+      -AOS(untuk animasi)
+
+      demo : https://fadelun.github.io/tekken-7
+
+      repo : https://github.com/fadelun/tekken-7/tree/plan-C
+
+      mohon kritik dan sarannya teman-teman 🙏
+
+      GitHub
+      GitHub - fadelun/tekken-7: click this to visit
+      click this to visit. Contribute to fadelun/tekken-7 development by creating an account on GitHub.
+
+<br>
+
+7.  [https://khoirony.github.io/]  
+     **khoirony**  
+
+      Halo Pak Sandhika & Sahabat WPU semua. Perkenalkan, Nama saya Khoironi Arief Mahasiswa Semester 7 Teknik Informatika. Izinkan saya untuk share website portfolio sederhana saya.
+
+      Teknologi yang saya gunakan:
+
+      - HTML
+      - CSS
+      - Javascript
+      - Bootstrap 5
+      - AOS
+      - GSAP
+      - API dari Formspree
+
+
+      Link Website : https://khoirony.github.io/
+      Link Repo : https://github.com/khoirony/khoirony.github.io
+
+
+      Demikian dari saya, mohon saran dan kritikannya supaya saya dapat membuat website yang lebih menarik kedepannya. Sekian terimakasih :)
+
+<br>
+
+8.  [http://monocloth.store/]  
+     **Venilyn**  
+
+      Halo Pak Dika, mau ikutan nih buat pertama kalinya hihihi...
+      Ini project akhir kelompok kuliah semester 5 saya. Hasil belajar laravel 8 dari channel pak dika. Dan saya sendiri sebagai backend nya (masih monolithic)
+      Ini adalah project ecommerce, namun sayangnya belum responsive.
+
+      Link Website : http://monocloth.store/
+
+      My contact : https://www.linkedin.com/in/vincentmoeljopranoto/
+
+      Teknologi :
+      - HTML
+      - CSS
+      - PHP
+      - Jquery
+      - Bootstrap 5
+      - Laravel 8
+      - API RajaOngkir
+
+      Terima kasih
+
+<br>
+
+9.  [https://brainlabs.netlify.app/]  
+     **KusenaDev**  
+
+      Assalamualaikum wr wb Selamat malam pak dika saya M Kusen A izin share project hasil belajar di channel pak dika
+
+      project berbasis web yaitu e-learning , project ini  masih tampilan nya aja static web hasil belajar html css js dan framework bootstrap
+
+      Teknologi yang saya pakai
+      - html
+      - CSS
+      - JS
+      - Bootstrap
+      Link Website : https://brainlabs.netlify.app/
+      github : https://github.com/kusenabdullah-123/BrainLeb-web
+      untuk responsive mobile nya masih belum bisa , masih belajar
+      Terimakasih Pak dika
+      jangan lupa titik koma; 
+
+
+<br>
+
+10.  [https://celvineadiputra.vercel.app/]  
+     **celvine**  
+
+      Selamat pagi semua, halo semua dan halo pak Sandika semoga Tuhan memberikan kesehatan untuk kita semua. Perkenalkan saya Celvine adi putra, saya dr kota Palembang, saya mau izi untuk mengikuti showcase project untuk pertama kalinya, terimakasih. Website ini bertujuan untuk web profile pribadi.
+
+      website ini di bangun dengan bantuan dari :
+      1. Html
+      2. Scss / Css
+      3. Tailwindcss 2.x
+      4. Boostrattap v5
+      5. Javascript
+
+      Berikut ini link websitenya : 
+      https://celvineadiputra.vercel.app/
+
+
+      Website ini, masih ada kekurangan sehingga bapak dan teman teman di sini bisa memberikan masukan dan kritik untuk saya, sehingga dapat belajar lagi, dan informasi tambahan untuk teman teman yg lainnya, Terimakasih banyak
+
+<br><br>
+
