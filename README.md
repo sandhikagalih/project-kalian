@@ -13060,6 +13060,10 @@ SPONSOR
       Semua gambar yang ada di dalam website bukan milik saya dan beberapa nama brand dan logo yang saya tambahkan hanya untuk mengisi website tersebut, terimakasih atas waktunya. 
 
 <br>
+<hr>
+###SPONSOR
+<hr>
+<br>
 
 6.  [http://kominfo-wangy.herokuapp.com/]  
      **KuchingNeko**  
