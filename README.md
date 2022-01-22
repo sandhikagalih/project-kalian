@@ -12921,3 +12921,259 @@ SPONSOR
 
 <br><br>
 
+
+### 22 Januari 2022
+
+1.  [https://ebook-apps.000webhostapp.com/]  
+     **Fauzy**  
+
+      Halo Pak Dika dan teman-teman WPU.
+
+      Perkenalkan nama saya Ahmad Fauzy.
+      Izin share project pertama saya dari belajar playlist "Belajar PHP Untuk Pemula (WPU)". Sedikit penjelasan tentang project ini,  eBook Apps adalah aplikasi web yang membantu orang-orang mencari ebook dari mana saja menggunakan smartphone dan laptop. 
+
+      Beberapa fitur pada project ini yaitu, CRUD, Sign In dan Sign Up, serta Login Multi User (Level Member dan Admin).
+
+      Teknologi:
+      - HTML
+      - CSS
+      - Javascript
+      - PHP
+      - Bootstrap 5
+      - Jquery 3.6
+      - Sweetalert2
+
+      Link Repo: https://github.com/madfauzy/eBook-Apps
+
+      Link Website: https://ebook-apps.000webhostapp.com/
+
+      Demo Account Admin (Will be delete after showcase)
+      username: tester
+      password: 12345678
+      level: admin
+
+      Bagi teman-teman ingin menambahkan beberapa fitur atau memperbaiki beberapa bug/error yang ada, bisa melakukan fork lalu pull request ke repo saya ya. Bisa juga saling follow-followan github.
+
+      Terima kasih Pak Dika dan teman-teman WPU.
+
+<br>
+
+2.  [https://portfolio-hapis.vercel.app/]  
+     **Hapis**  
+
+      Halo semua👋 
+
+      Perkenalkan nama saya Hafizh. Project yang saya bagikan ini adalah website portofolio saya. Project ini dibuat untuk melihat sejauh mana kemampuan saya dalam belajar pemrograman web. Project ini akan terus di kembangkan seiring dengan peningkatan skill saya.
+
+      Teknologi yang digunakan:
+      1. HTML
+      2. CSS
+      3. JS
+
+      Teknologi yang saya gunakan merupakan pure html, css, dan javascript (nyontek youtube karena belum belajar ampe javascript :v). Dan untuk tools yang saya gunakan adalah figma dan vscode. Ini adalah pertama kalinya saya mengikuti showcase project jadi maaf jika masih ada kekurangan pada website, serta mohon kritik dan sarannya terima kasihh.
+
+      Link repo:
+      https://github.com/HapisPro/hafizh-portfolio
+
+      Link project:
+      https://portfolio-hapis.vercel.app/
+
+<br>
+
+3.  [https://to-do.fatoni-dev.com/]  
+     **fatoni**  
+
+      Halo Pak Dika dan semuanya..
+      Perkenalkan nama saya Achmad Fatoni.
+      Di sini saya ingin membagikan project sederhana saya yaitu To Do APP. di mana user di sini bisa register dan login serta membuat To Do list di website ini dan juga ada halaman profile sederhana untuk merubah nama, password , dll.
+
+      Teknologi yang saya gunakan :
+      1. Laravel JetStream
+      2. Livewire
+      3. Livewire datatables
+      4. Tailwind
+
+      ini link website :
+      https://to-do.fatoni-dev.com/
+
+      ini link repo :
+      https://github.com/fatoni-ach/To-Do-App
+      (repo akan di private setelah show case. hehe... )
+
+      Silahkan kalau mau di coba2 websitenya, tapi tolong jangan di rusak ya, hehe... dan kalau mau follow2 an juga boleh ...
+
+      Terimakasih Pak Dika dan Semuanya ...
+
+<br>
+
+4.  [https://photosheets.web.app/]  
+     **creeperpinky**  
+
+      Halo temen temen semua, saya izin share project ya..
+
+      Jadi project ini sebenarnya udah pernah ada dilist showcase, cuma disini ada beberapa perbedaan yakni: 
+      - Fitur Forgot Password
+      - Fitur Validasi Email
+
+      Untuk fitur forgot password saya menggunakan fitur bawaan firebase, sedangkan fitur validasi email saya menggunakan Nodemailer sebagai pengirim email validasi dan uuidv4 sebagai token.
+
+      Teknologi yang saya pakai
+      - HTML
+      - CSS
+      - JS
+      - Bootstrap
+      - ReactJS
+      - Nodemailer
+      - Firebase
+      - ServiceWorker/PWA
+
+      Link Website : https://photosheets.web.app/
+
+
+      Email asli photosheets : 
+      - photosheets@gmail.com
+      - noreply@photosheets.firebaseapp.com
+      Selain diatas adalah palsu!
+
+      Terimakasih Pak dika
+      jangan lupa titik koma;
+
+<br>
+
+5.  [https://codemyyy.netlify.app/]  
+     **Artezio**  
+
+      Malam semua, perkenalkan saya Ezi, saya izin mengikuti Showcase Project, terimakasih. Website ini dibuat dengan tujuan untuk mengembangkan kemampuan saya dalam men-design web.
+
+      Sebelumnya website ini cukup simpel, hanya single page dan ada beberapa hal yang akan saya tambahkan di waktu mendatang seperti versi mobile-nya dan beberapa page tambahan.
+
+      Website ini dibangun dengan menggunakan:
+      1. HTML
+      2. CSS (SCSS)
+      3. Javascript (regular Javascript dan GSAP)
+
+      Berikut ini link website dan Github repository-nya: 
+      https://codemyyy.netlify.app/
+      https://github.com/Artezi0/codemy
+
+      Untuk catatan
+      Semua gambar yang ada di dalam website bukan milik saya dan beberapa nama brand dan logo yang saya tambahkan hanya untuk mengisi website tersebut, terimakasih atas waktunya. 
+
+<br>
+
+6.  [http://kominfo-wangy.herokuapp.com/]  
+     **KuchingNeko**  
+
+      Halo pak dika dan warga titik koma, bertemu lagi dengan saya KuchingNeko wkwkwk, izin share project sederhana saya.
+
+      Project ini di buat karna saya selalu bosan dan g tau mau ngapain jadi ya iseng" doang dan jg sekalian ngelanjutin project sebelumny.
+
+      Project ini dibuat dengan :
+      Vanilla:
+      - PHP 
+      - HTML
+      - CSS
+      Bantuan:
+      - Bootstrap 5
+      - Scroll reveal js ( untuk animasi )
+
+      Link website: http://kominfo-wangy.herokuapp.com/
+      Link api : https://kominfo-scrap.herokuapp.com/
+
+      Link repository web : https://github.com/kuchingneko28/kominfo-landingpage-v2
+      Link repository api : https://github.com/kuchingneko28/kominfo-scrap
+
+      Karna project sebelum ny hanya tampilan landing page aja skrng saya buat lebih wangy lagi 😆 ,oh iya sebenarnya pengen pake react ketimbang php tapi karna laptop saya kentang (ram 2gb) jadi saya putuskan pake php aja.
+
+      Untuk artikel yg ada dihalaman index itu hasil dari scrap yg saya buat langsung dari web asli ny  menggunakan axios & cheerio trs saya jadikan api lewat express js, dan tentu bisa di click 😉
+
+      Mohon kritik dan saran ny teman-teman.
+      Dan yang terakhir untuk pihak yg terkait tolong jangan ciduk saya pak hehehe 🙃
+
+<br>
+
+7.  [https://habriramdani.github.io/]  
+     **habri**  
+
+      Assalamualaikum wr wb. Halo Pak Dhika dan warga planet WPU. Perkenalkan nama saya Aliyan Habri Ramdani, saya kelas 10 SMA. Selamat pagi, malam, siang atau kapanpun warga planet menonton.
+      Izin mau showcase project portfolio yang sederhana sekali ini. Saya buat website ini hanya untuk iseng iseng saja, habis PAS libur tanggal 8 dan mencoba ngoding tanggal 18 desemebr kemarin. Gara-gara ada 1 live showcase membuat saya ingin buat website juga. Di website ini saya menggunakan full HTML & CSS, belajar ngulik ngulik tentang css yang menarik, aneh dan abstrak 😅 
+
+      - HTML
+      - CSS 
+
+      Link Repository - https://github.com/HabriRamdani/HabriRamdani.github.io.git
+      Link Website - https://habriramdani.github.io/
+
+      Mohon kritik dan sarannya, sangat membantu 🙏 
+      (DISCLAIMER : website saya buat sebelum saya paham sekali tentang flexbox dan css grid, jadi mohon maaf kalo masih belum responsive dan website terlalu sederhana/kaku 🙏  )
+
+      Terima Kasih & Jangan Lupa Titik Koma ; 
+
+<br>
+
+8.  [http://myshop-vuejs.s3-website-us-east-1.amazonaws.com/]  
+     **dzulfikardev**  
+
+      Assalamu'alaikum Pak Dika dan warga WPU semoga sehat selalu izin showcase project juga. Ini adalah Website Electronic Online Shop berbasis SPA yang disertai dengan Stripe payment gateway dan admin dashboardnya.
+
+      Link Website: http://myshop-vuejs.s3-website-us-east-1.amazonaws.com/
+      Link Login: click link yang ada di Hero Section
+
+      Stack:
+      * Front End.
+      -Vue.js 2.6
+      -Vuetify
+      -Vuex
+      -Vue Router
+      -Link Repo: https://github.com/dzulfiardev/My-Shop-E-Commerce---Front-End-Vue-Js
+
+      * Back End.
+      -PHP 8
+      -Laravel 8
+      -Laravel Sanctum
+      -Link Repo: https://github.com/dzulfiardev/My-Shop-E-Commerce---Backend-Laravel-8-Test
+
+      Trimakasih Pak Dika saya banyak belajar PHP dan JavaScript dari playlist anda, semangat menyebarkan ilmu yang bermanfaat Pak Jazakallah Khair.
+      Web portfolio saya https://dzulfiardev.github.io/ promosi dikit pak saya seorang Freelance Web Developer hehe. 
+
+<br>
+
+9.  [https://main-english.netlify.app/]  
+     **dhan's 9th**  
+
+      Assalamualaikum pak Shandika izin kirim project iseng iseng buat seru-seruan 🤣
+      Jadi ini web nya ada animasi Petasan dengan Library Fireworks JS
+
+      Teknologi nya
+      - HTML
+      - CSS
+      -Fireworks JS
+
+      Ini web nya : https://fireworks-2022-dhans.netlify.app/ (ini gak responsif jadi dikonputer aja)
+
+      Ini github source code saya : https://github.com/RamadhaniRiparro/New-Year-Fireworks.js
+
+      Ini dokumentasi Fireworks JS : https://github.com/crashmax-dev/fireworks-js/
+
+
+      Boleh nih temen-temen yang mau make buat seru-seruan tahun baru 😎😂
+
+<br>
+
+10.  [https://adhywiranto44.github.io/simple-web-profile/]  
+     **adhywiranto44**  
+
+      Halo guys,
+
+      Kembali lagi bersama saya Adhy Wiranto, kali ini saya mau showcase projek Front-End untuk Website Profil. Desain UI terinspirasi dari Fluent Design-nya Microsoft ❤️ dari aspek warna background dan elemennya.
+
+      Teknologi: HTML, CSS, Fontawesome, Figma (Buat slicing)
+
+      Untuk sekarang desain masih lebih baik dilihat di komputer karena responsive-nya belum dibuat, kedepannya bakal ditambahkan responsive dan animasi juga.
+
+      Link gan: https://adhywiranto44.github.io/simple-web-profile/
+
+      Thanks 😁
+
+<br><br>
+
