@@ -237,7 +237,7 @@ setiap hari Sabtu, pukul 14.00WIB (jika tidak ada perubahan :p)
    <br/>
 
 5. [http://host.hartonomotor.xyz/quiz]  
-   **Johansen Junias**  
+   **Anonymous**  
    halo teman-teman, saya sedang belajar membuat quiz online realtime seperti Kahoot,
    Teman-teman bisa coba membuat quiz sendiri di sana dan juga bisa bermain langsung dengan teman-teman kalian
 
