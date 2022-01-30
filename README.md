@@ -13181,3 +13181,254 @@ SPONSOR
 
 <br><br>
 
+### 30 Januari 2022
+
+1.  [https://codepen.io/pamela-sarnia/pen/OJMLbbr]  
+     **pam**  
+
+      Halo. Saya masih baru belajar. Portofolio saya hasil dari pelatihan di freecodecamp dan Dicoding. Semoga ke depannya saya bisa lebih produktif. Mohon bimbingannya Pak Dhika dan suhu-suhu di sini 🙏
+
+<br>
+
+2.  [https://61ceb187901303df267d4051--pedantic-ritchie-00eb10.netlify.app/]  
+     **Rajar01**  
+
+      Halo Pak Dika dan teman-teman WPU.
+
+      Perkenalkan nama saya Rajar.
+      Izin share project pertama saya dari belajar library react js. Sedikit penjelasan tentang project ini, nTask adalah aplikasi web yang membantu orang-orang mengelist task dari mana saja menggunakan smartphone dan laptop. 
+
+      Beberapa fitur pada project ini yaitu membuat task dan menghapus task
+
+      Teknologi:
+      1. axios v.0.24.0
+      2. json-server v.0.17.0
+      3. react-icons v.4.3.1
+      4. react-toast-notifications v.2.5.1",
+      5. react-loading v.2.0.3",
+      6. tailwind v.3.0.8
+      7. react
+
+      Link Website : https://61ceb187901303df267d4051--pedantic-ritchie-00eb10.netlify.app/
+      Link Github : https://github.com/Darkcode321/n-task-react
+
+
+      Bagi teman-teman ingin menambahkan beberapa fitur atau memperbaiki beberapa bug/error yang ada, bisa melakukan fork lalu pull request ke repo saya ya. Bisa juga saling follow-followan github.
+
+      Terima kasih Pak Dika dan teman-teman WPU.
+
+<br>
+
+3.  [hhttps://andreasnotokusumo.vercel.app/]  
+     **fullstack.dre**  
+
+      Halo teman-teman,
+
+      Izin share kembali project saya yang kedua disini yaitu personal portfolio site. Project ini saya design dan develop pada awal bulan Desember, tepatnya saat liburan di SMA saya dimulai. Website ini didokumentasi dan direncanakan di Notion, didesain menggunakan Figma (UI dan wireframe) dan didevelop menggunakan NextJS, Tailwind CSS dan Contentful (Headless CMS).
+
+      Disini saya menggunakan NextJS guna mempermudah routing dan server-side rendering, lalu TailwindCSS (JIT Mode) untuk kecepatan development dan Headless CMS yaitu Contentful agar mempermudah manajemen konten di portfolio saya yang pada umumnya berupa blog post. 
+
+      Website ini saya desain dengan Figma dan menerapkan design system mini saya sendiri dengan tujuan konsistensi dan tampilan yang responsif. Setelah development sekitar dua minggu, saya mendeploy site ini melalui Vercel karena faktor kemudahan sekaligus menambahkan plugin analisis yaitu Checkly. Melalui plugin ini, saya lega melihat performa website saya yang dikunjungi beberapa visitor mampu mendapatkan nilai rata rata 92. Tentu masih ada beberapa kekurangan. Oh ya, domain saya di bawah ini belum fix dan akan saya ubah menjadi domain custom beberapa minggu ke depan. 
+
+      Untuk recap, techstack yang saya gunakan dalam project ini adalah:
+      1. Figma untuk wireframing dan UI design.
+      2. Notion untuk planning dan development documentation.
+      3. Whimsical untuk pembuatan information architecture dan userflow.
+      4. NextJS 
+      5. TailwindCSS
+      6. Contentful CMS
+      7. Vercel + Checkly
+
+      Berikut referensi link untuk project ini:
+      1. Site: https://andreasnotokusumo.vercel.app/
+      2. Repository: https://github.com/fullstack-dre/personal-portfolio
+      3. Instagram saya untuk update project, design dan progress mingguan saya ✌️ : https://www.instagram.com/fullstack.dre/
+
+      Terimakasih, semangat tahun baru dan semoga sharing saya kali ini menginspirasi!
+
+<br>
+
+4.  [https://e-voting.w3llsquad.or.id/]  
+     **Mamet Nugraha**  
+
+      Assalamu'alaikum selamat siang Pak Dika dan temen-temen WPU semuanya semoga sehat selalu. izin ikut showcase project untuk pertama kalinya 😁. Project yang saya bagikan adalah E-Voting Service. E-voting ini dibuat dengan tujuan mengurangi dan mempersingkat waktu selama pemungutan suara dan penghitungan suara.
+
+      Teknologi yang saya gunakan :
+      * Front End :
+      - Bootstrap 4.5.3
+      - Fontawesome Pro
+      - CSS
+      - Javascript
+      * JavaScript Libraries and Functions :
+         - JQuery
+         - DataTables
+         - jsEncrypt
+         - cropperJs
+         - jquery-cropper
+         - Chart.js
+
+      * Back End
+      - PHP 7.4.25
+      - PHP MVC
+      - MySQL (PDO) PHP
+
+
+      Preview / Demo :
+      Login E-voting  : https://e-voting.w3llsquad.or.id/
+      Login Panel       :  https://e-voting.w3llsquad.or.id/panel
+      Quic Count (Live/Realtime) : https://e-voting.w3llsquad.or.id/quiccount
+
+      Login Panel :
+      Email : cso@w3llsquad.or.id
+      Password : 12345678
+
+      Login E-voting :
+      id : 1710910070076
+      Password : 12345678
+      Role : Staff
+
+      id : 2010916040028
+      Password : 12345678
+      Role : Mahasiswa
+
+      * User lebih lengkap login panel -> user management -> user (Password : 12345678 | Semua user)*
+
+      Github    : https://github.com/mametNg/E-Voting-Service
+      Templates : https://themes.getbootstrap.com/product/purpose-website-ui-kit/
+
+      Mohon kritik dan sarannya temen-temen WPU, terima kasih. 😄 
+
+<br>
+
+5.  [https://tio-pratomo.github.io/bangun-datar/index.html]  
+     **Sulistio**  
+
+      Assalamualaikum Para pasukan titik koma WPU. salam sejahtera bagi kita semua.
+      Izin untuk share project web static yang saya buat, yaitu belajar matematika dengan tema bangun datar.
+
+      Latar belakang project ini, waktu dulu sekitar kelas 4 atau 5 sd pas ketemu materi ini, cukup sulit karena paling tidak harus tau/hapal rumusnya.
+
+      Mungkin juga dari kita, orang dewasa juga pasti ada yang lupa, rumus-rumus bangun datar ini, dan pastinya searching dulu, agar tau bagaimana menghitung luas dan keliling nya.
+      Websitenya sederhana, hanya masukkan nilai yang diketahui, untuk mendapatkan hasilnya.
+
+      Seiring waktu saya coba menambahkan halaman lain salah satunya tema bangun ruang. 
+
+      Teknologi yang digunakan tentunya :
+      * HTML
+      * CSS
+      * dan Javascript.
+
+      Untuk deployment dan Version Control System menggunakan:
+      * Github
+      * Git
+      * Parcel.js
+
+      Tentunya menggunakan bootstrap v.4.5  untuk memudahkan layout dan responsive layar.
+
+      Berikut link demonya : [matematika bangun datar](https://tio-pratomo.github.io/bangun-datar/index.html)
+
+      Berikut link githubnya : [github](https://github.com/Tio-pratomo/bangun-datar)
+
+      Mohon maaf jika terlalu panjang, semoga kita semua sehat selalu. Terimakasih 🙏 
+
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://ikkirama.github.io/]  
+     **ikki**  
+
+      Website udah lama
+      Ceritanya saya bikin website itu untuk pdkt waktu itu, tpi ngga sampe 1 bulan saya dah diputusin wkwk
+
+      Repo : https://github.com/IkkiRama/IkkiRama.github.io
+      Link website : https://ikkirama.github.io/
+
+<br>
+
+7.  [https://travelindo.netlify.app/]  
+     **Nomad.Suf**  
+
+      Assalamualaikum warahmatullahi wabarrakatuh dan selamat pagi/siang/sore/malam semuanya.
+
+      Kali ini saya ingin membagikan sebuah website yang bernama "travelindo", dimana website ini adalah hasil slicing  dari event-of-the-year  yang Alhamdulillah di event itu saya dapet peringkat 15 (dari bawah..😁).
+
+      Adapun teknologi yang saya gunakan adalah:
+      - HTML
+      - CSS 
+      - JS
+      - Adobe XD (untuk desain webnya)
+
+      Tapi, hasil slicing web ini tidak 100% mirip dengan desain aslinya karena ada yang saya ubah / perbaiki saat di slicing.
+
+      Bagi kalian yang penasaran dengan hasilnya bisa di lihat di: https://travelindo.netlify.app/
+
+      Atau bagi yang ingin menggunakan website ini baik untuk keperluan belajar atau apapun boleh langsung di download / fork di github saya: https://github.com/adeyusuf211/travelindo
+
+      Mohon maaf kalau hasilnya jelek
+      Terimakasih...
+
+<br>
+
+8.  [https://ebook-apps.000webhostapp.com/]  
+     **Ridwan Maulana**  
+
+      Assalamualaikum pak Dika
+      Perkenalkan nama saya Ridwan Maulana, izin share project yang bernama quran-id yang dimana aplikasi ini merupakan aplikasi al-quran berbasis web app(PWA) dan juga di lengkapi dengan doa tahlil.
+
+      Tech stack
+      1. Nuxtjs
+      2. TailwindCSS
+
+      Hosted on Vercel🚀
+
+      Berikut repositori dan link project.
+      1. Repo : https://github.com/R1dwanMaulana/quran-id.me
+      2. Site : https://www.quran-id.me/
+
+      Terimakasih🙏🏻 
+
+<br>
+
+9.  [https://laravel-maps-demo.herokuapp.com/]  
+     **Bagus**  
+
+      haloo lagi semuaa
+      lagi coba-coba buat library/package untuk laravel mungkin masih banyak bug dan kekurangan
+      librarynya sederhana saja semacam helper untuk membantu kita membuat map lewat controller/backend jadi nanti di view otomatis akan menggenate kode javascript yang di perlukan untuk membuat map-nya
+      map yang di dukung baru leaflet dan mapbox dengan fitur-fitur basic seperti menambahkan marker,popup,geojson,event dan fungsi-fungsi dasar dari mapnya
+      untuk librarynya bisa langsung di install lewat composer
+      composer require bagusindrayana/laravel-maps
+
+      untuk demo langsung penggunaan librarynya bisa di lihat disini : https://laravel-maps-demo.herokuapp.com/
+      untuk repo librarynya bisa di cek disini : https://github.com/bagusindrayana/laravel-maps
+
+      masih banyak kekurangan seperti kode yang belum rapi dan dokumentasi yang belum lengkap jadi mohon kritik dan sarannya
+      kalau ada bug/error atau minta tambahin fitur bisa lapor di issue githubnya
+
+<br>
+
+10.  [https://quran-ic-rct.vercel.app/]  
+     **Union**  
+
+      Assalamualaikum semua
+      Perkenalkan saya Rayhan Rizki Putra, izin share project yang bernama quranIC, applikasi ini saya buat saat belajar React JS (API) dan mohon maaf jika desain nya sangat simple 🙂
+
+      Use :
+      1. Tailwind CSS
+      2. React JS
+      3. Bootstrap
+
+      Hosted on Vercel
+
+      Berikut repositori & link project
+      1. Repo : https://github.com/Ryhann/quranIc-rct
+      2. Link Project : https://quran-ic-rct.vercel.app/
+
+      Thank You 🙂
+
+<br><br>
+
