@@ -13432,3 +13432,275 @@ SPONSOR
 
 <br><br>
 
+
+### 5 Februari 2022
+
+1.  [https://navdplay.github.io/Aidenify/]  
+     **NavdPlay**  
+
+      Assalamualaikum Padika dan teman-teman semuanya, perkenalkan nama saya Naadir Al Atilla, saat ini masih duduk di kelas 8 SMP di salah satu sekolah di Sumbawa Barat. Project ini adalah project kedua yang saya kirim di 🎨showcase-project 
+
+      (Mohon maaf, tanggal 6 februari mendatang saya bakal ngikutin olimpiade computer science, mohon doanya ya teman2)
+
+      Saya ingin share project website saya yang bernama Aidenify. Project ini adalah project gabut tahun baruan saya. Jadi waktu itu saya lagi jenuh banget, trus saya scroll tiktok dan saya menemukan satu video yang membahas bahasa rahasia simple yang bernama Aiden isfir. Setelah mengetahui cara penggunaan bahasa tersebut saya langsung terinspirasi untuk membuat seperti google translatenya untuk bahasa ini. Saya membuat website ini dalam waktu 2 hari dimana satu harinya hanya digunakan untuk debugging algoritma penerjemahnya :wpulul:. Di website nya sudah ada cara translate bahasa Aiden Isfir tersebut, jika mungkin masih kurang paham, bisa langsung ke video tiktoknya, linknya juga sudah saya taruh di websitenya.
+
+      Fitur:
+      -Translate dari teks biasa ke bahasa Aiden dan sebaliknya.
+      -Sudah dilengkapi dengan darkmode.
+      -Design web yang sudah responsif.
+
+
+      *Note: Saat ini masih ada bug saat user memasukkan input karakter non-alphabet.
+
+      Bahasa dan alat yang digunakan: 
+      - Visual Studio Code :vscode: 
+      - HTML5 :html: 
+      - CSS :css: 
+      - JavaScript dan library JQuery :javascript: 
+      - Library FontAwesome 
+
+      Link Website: https://navdplay.github.io/Aidenify/
+      Link Repository: https://github.com/NavdPlay/Aidenify/
+
+      Saran dan kritiknya ditunggu ya
+
+<br>
+
+2.  [https://webbtools.netlify.app/]  
+     **domge**  
+
+      Assalamulaikum WR. WB. Teman-teman semua! Perkenalkan saya Raya Alkautsar Kelas 10 SMA, izin share project pertama saya. 
+
+      Website yang saya buat ini adalah website yang dapat membantu teman-teman untuk mencari tools pendukung yang dapat mempermudah dan mempercepat pekerjaan teman-teman semua. Ide membuat website ini terinspirasi dari video Pak Dika yang membahas tentang tools pendukung untuk programmer dan web development. 
+
+      Kedepannya, pilihan-pilihan toolsnya akan terus saya tambah.
+
+      Use :
+      - HTML
+      - CSS
+      - JavaScript
+      - BOOTSTRAP 5
+      - Owl Carousel
+      - GSAP
+
+      Link Website     : https://webbtools.netlify.app/
+
+      Link Repository : https://github.com/RayaAlkautsar/WebbTools.github.io
+
+      Semoga website yang saya buat ini bisa bermanfaat bagi temansemuanya!
+
+      Tolong beri Saran dan Kritiknya ya teman teman
+
+<br>
+
+3.  [https://serabikocorbuyuni.my.id/]  
+     **muryp**  
+
+      Assalamualaikum wr wb 
+
+      Selamat malam pak dika dan teman-teman semua.
+
+      Mohon izin untuk show case lagi
+      Dan perkenalkan kembali, saya Alief Prihantoro. Dan kali ini saya ingin membagikan sebuah landing page. Yang saya buat untuk memasarkan produk ibu saya yaitu makanan tradisional Serabi khas Ngampin/ambarawa.
+
+      Oh ya mohon saran dan kritik ya lagi untuk versi desktop, soalnya masih koding di hp.
+
+      [Link web](https://serabikocorbuyuni.my.id/)
+
+      [Link repo](https://github.com/alifprihantoro/serabi)
+
+      Feature :
+      - SPA(maybe) soalnya cuman landing page
+      - PWA
+      - Maps
+
+      Tech :
+      - SCSS/CSS
+      - HTML5
+      - ES6/JS
+      - JSON
+      - HUGO
+      - NETLIFY
+
+      Other :
+      - NVIM (text editor)
+
+      Kekurangan :
+      - belum tahu untuk ukuran desktop
+      - masih lambat/script masih kurang evisien(bar bar)
+
+      Terimakasih~
+
+<br>
+
+4.  [http://baayoes.rf.gd/]  
+     **baayoes**  
+
+      Assalamualaikum Pa dika dan teman-teman semuanya, perkenalkan nama saya Bayu Surya Wirayudha, saat ini masih duduk di kelas 10 SMK. Project ini adalah project pertama yang saya kirim di 🎨showcase-project 
+
+      Saya membuat website portofolio ini karna lagi bosen aja dirumah liburan, jadi saya buat website ini cuma asik" aja. nah di website ini saya menambahkan satu fitur yaitu secret message, jadi orang lain bisa memberi pesan kepada saya tanpa diketahui nama dari pengirim. saya membuat itu dengan php sederhana. disini saya juga memakai bootstrap untuk framework cssnya.
+
+      Fitur:
+      - Pesan Rahasia 
+      - Web sudah responsif.
+
+
+      Bahasa dan alat yang digunakan: 
+      - Visual Studio Code
+      - HTML
+      - CSS
+      - Bootstrap
+      - Php
+      - JavaScript
+
+      Link Website: http://baayoes.rf.gd/
+
+      Saran dan kritiknya ditunggu yaa teman²
+      Terimakasih!
+
+<br>
+
+5.  [https://heker-jere.rifkiromadhan.repl.co/]  
+     **ikki**  
+
+      Bocil be like, heker y bang
+
+      Repo  : https://github.com/IkkiRama/heker-jere
+      Link website : https://heker-jere.rifkiromadhan.repl.co/
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+
+6.  [https://profilbachrulpanji.netlify.app/]  
+     **bachrulpanjigumilang**  
+
+      Assalamulaikum selamat malam,siang,subuh pak dika dan teman-teman semuanya perkenalkan nama saya Bachrul Panji Gumilang saat ini saya adalah mahasiswa IAI Al-Aziz yang berada di mahad Al-Zaytun indramayu jawa barat. ini adalah project pertama saya yang saya kirim di 🎨showcase-project 
+
+      saya membuat portofolio ini karena saya ingin belajar lebih dalam yang berkaitan dengan pemograman dan mengisi waktu luang saya di rumah dari hasil saya menghayal jam 1:30 malam saya mendapatkan hidayah untuk membuat portofolio saya ahirnya jadi dalam 1 bulan 
+
+      tolong jangan di ejeknya maklum masih jelek dalam pembuatanya dan mohon kritik dan sarannya 
+
+      link web:https://profilbachrulpanji.netlify.app/
+      link repo:https://github.com/bachrul0038/Portofolio2Bachrulpanji
+      link github:https://github.com/bachrul0038
+      link instrgram:https://www.instagram.com/bachrulgumilang/
+
+      bahasa yang di gunakan 
+      html 
+      css
+      javascript
+
+<br>
+
+7.  [https://veco-school.web.app/]  
+     **aBStractive**  
+
+      Halo, selamat malam. Izin showcase nih dari saya. Sebelumnya perkenalkan nama saya Dion bekerja sebagai fullstack dev.
+
+      Saya membuat sistem informasi untuk sekolah. Tujuannya agar orang tua siswa dapat dengan real time memonitor kegiatan anaknya di sekolah, baik itu berupa nilai atau perilaku anaknya. Aplikasi yang saya share disini merupakan aplikasi dari sisi sekolah.
+      Aplikasi untuk orang tua siswa dan siswa merupakan aplikasi mobile.
+      Btw saya start membuat aplikasi ini sebelum adanya wabah covid, so aplikasi ini cocok untuk sekolah dengan sistem tatap muka. Awalnya mau saya jual, tapi karena corona jadi aplikasinya bakal kurang optimal untuk digunakan.
+      Saya share disini juga karena bisa dibilang aplikasi ini sudah outdated yaitu masih untuk KURTILAS (Kurikulum 2013). Sekarang sedang melakukan pengembangan ulang untuk menyesuaikan dengan kurikulum saat ini & mengganti beberapa tech stack.
+      Saya akui dari segi tampilan agak kurang menarik dan warnanya norak. Hehehe
+
+      Tech stack:
+      - react js (including redux reducer & redux saga)
+      - firestore database
+      - firebase function (backend mobile)
+      - firebase authentication (email & password)
+      - firebase push notification
+      - material UI
+      - flutter (mobile iOS & android)
+
+      link web: https://veco-school.web.app/
+      Untuk coba coba login bisa menggunakan credential ini
+      email: antoniusheruh@gmail.com
+      password: 848790
+
+      Mohon maaf tidak bisa share source code 😄 
+      Terima kasih.
+
+<br>
+
+8.  [https://skolaxy-web.netlify.app/]  
+     **KianSantang**  
+
+      Hallo teman teman, saya Taufik Hidayatulloh, singkat cerita beberapa waktu lalu saya dan team (bintang nur pradana, Muhaecal dwi Khatami ) mengikuti sebuah event it antar kampus , walau pun belum juara 1, tapi alhamdulillah dapet juara 2, bidang yang saya ikuti yaitu Front-end web developer.
+
+      Tema yang dilombakan yaitu web pembelajaran interaktif dikala pandemi.
+
+      Terimakasih pak...
+
+
+      Page :
+      - Landing page
+      - Dashboard
+      - Kelas (materi + kuis)
+      - Ulangan
+      - Penugasan
+      - Presensi
+      - Siswa
+      - Meet
+      - Setting
+
+      Tools :
+      - VueJs
+      - TailwindCss
+      - Headless Ui
+      - Apexchart
+
+
+      Link repo & demo:
+      https://skolaxy-web.netlify.app/
+      https://github.com/Taufik-H/skolaxy
+
+      Team :
+      https://github.com/Taufik-H
+      https://github.com/Bintang73
+      https://github.com/mhaecal
+
+<br>
+
+9.  [https://fiqrychoerudin.dev/]  
+     **piq**  
+
+      Halo temen temen izin showcase web portfolio saya yang dibuat pake NextJs 😁
+      Github Repo : https://github.com/fiqryq/Fiqrychoerudin.dev
+      Web : https://fiqrychoerudin.dev/
+
+<br>
+
+10.  [https://yukngode.ammarbahtiar.my.id/]  
+     **ammarbahtiarasli**  
+
+      Assalamualaikum wr wb. Pa Dika dan teman-teman semuanya, perkenalkan saya Ahmad Ammar Bahtiar, saat ini mahasiswa informatika unpas semester 1.
+
+      Saya membuat website ini karena ada challenge bersama teman-teman saya yaitu membuat web pembelajaran seperti codepolitan, progate, dll, dan saya membuat nya seperti ini.
+
+      dibuat menggunakan :
+      -HTML
+      -CSS
+      -Bootstrap 5
+      -Bootstrap icon
+      -AOS js
+
+      text editor: 
+      visual studio code
+
+      os : 
+      windows 11
+
+      kritik & saran nya dipersilahkan untuk membuat saya lebih baik kedepannya
+
+      link web : https://yukngode.ammarbahtiar.my.id/
+      link github : https://github.com/ammarbahtiarasli/web-yukngode
+      instagram : https://instagram.com/ammarbahtiarasli
+
+      Terimakasih Pak Dika! 
+
+<br><br>
+
