@@ -13704,3 +13704,295 @@ SPONSOR
 
 <br><br>
 
+
+### 12 Februari 2022
+
+1.  [https://abinoval.github.io/PowQuran]  
+     **Pow**  
+
+      Halo...
+
+      Setelah sekian lama saya tidak meramaikan showcase projek, kali ini saya akan ikut lagi mengirim projek yang ke-5 kalinya untuk dishowcase. Projek ini adalah projek sederhana yang hanya menggunakan HTML + Tailwind CSS + Javascript saja. Nama projeknya PowQuran  yang sebenarnya awal niat membuat projek ini adalah untuk redesign projek teman saya yang kemarin dishowcase yang nama projeknya itu quranIC dari @Union.
+
+      Kenapa saya membuat projek ini? Karena untuk mengisi waktu luang dan waktu pusing saat mengerjakan projek lain dan untuk melatih skill javascript saya, selain itu saya juga ingin melatih skill tailwind saya di v3 sekarang (karena saya juga mulai oleng ke framework sebelah sebab lagi ngerjain projek yang harus cepet selesai :v).
+
+      Tidak seperti quranIC yang menggunakan framework react, saya hanya menggunakan plain html dikarenakan hanya untuk mengisi waktu luang saja. Saya juga menambah beberapa fitur yang saya rasa tidak ada di quranIC, seperti search (meskipun belum optimal), deskripsi surat, dan audio. Tapi ada juga fitur yang sudah ada di quranIC tapi belum ada di PowQuran, yaitu dark mode. Website ini juga hanya ada 1 halaman.
+
+      Desc:
+      Teknologi: HTML, TailwindCSS, JavaScript
+      Asset: Font(nunito, poppins), Icon(boxicons), API(https://api.quran.sutanlab.id/)
+      Waktu pengerjaan: 16:40 - magrib
+
+      Link
+      PowQuran: https://abinoval.github.io/PowQuran
+      quranIC: https://quran-ic-rct.vercel.app/
+      Github(PowQuran): https://github.com/abinoval/PowQuran
+      Github(quranIC): https://github.com/Ryhann/quranIc-rct
+      IG saya: https://www.instagram.com/envil.a/ :v
+      YT (masih baru siapa tau mau mampir): https://www.youtube.com/channel/UChTEy7EAeKJVvcK1GkmHpJA :v
+
+      Kedepannya saya ingin menambahkan tafsir per-ayat dan mengembangkan search enginenya lagi supaya lebih mudah mencari.
+
+      Jika ada bug atau error atau hal yang ingin ditanyakan, bisa langsung disampaikan. Saran dan masukkan diterimaa dan semoga bermanfaat. Terimakasih. 
+
+
+<br>
+
+
+2.  [https://cekkopit.manudinata.me/]  
+     **hendramanudinata03**  
+
+      Halo, selamat malam semua!
+
+      Perkenalkan, saya Hendra Manudinata, siswa kelas 9 di salah satu SMP di Denpasar, Bali. Izinkan saya untuk showcase project pertama saya ini.
+
+      Ini adalah CekKopit, sebuah situs sederhana yang menampilkan data statistik kasus COVID-19 di Indonesia untuk hari ini dan 7 hari kebelakang. Situs ini menggunakan jQuery $.getJSON untuk mengambil / parse data API (https://apicovid19indonesia-v2.vercel.app/api) data kasus COVID-19 di Indonesia.
+
+      API-nya berdasarkan API dari pemerintah Indonesia (covid19.go.id), namun saya memakai yang ini karena adanya masalah keamanan CORS di API pemerintah.
+
+      Situs ini dibuat dengan tujuan untuk menampilkan data statistik COVID-19 di Indonesi yang sederhana, simpel, dan ringan, tanpa berita dan fancy UI.
+
+      Situs ini dibuat sebagai hobi dan mengasah kemampuan saya. Masih banyak yang perlu ditambahkan dan diperbaiki, seperti peningkatan UI, optimisasi kode, perbaikan data chart, dan lain-lain.  Dan akan saya lakukan satu-per-satu di waktu luang.
+
+      Dibuat dengan:
+
+      - HTML
+      - Javascript
+      - Bootstrap
+      - jQuery library
+
+      dan menggunakan Visual Studio Code sebagai text editor diatas OS Windows 11 + WSL2 (Ubuntu 20.04).
+
+      Link project: https://cekkopit.manudinata.me/
+      Link GitHub: https://github.com/hendramanudinata03/CekKopit
+
+      Informasi mengenai project bisa dilihat di situs.
+
+      Kritik dan saran sangat diterima untuk meningkatkan situs ini dan juga sebagai perbaikan diri.
+
+      Terima kasih semua!
+
+<br>
+
+
+3.  [https://optimistic-wing-fb1e2f.netlify.app/]  
+     **patrick.start**  
+
+      Todo app, dibuat dengan react js 
+      link : https://optimistic-wing-fb1e2f.netlify.app/
+      Github : https://github.com/hafizmfadli/React-SimpleTodo
+
+<br>
+
+
+4.  [https://zdnpl.github.io/showclick/]  
+     **zdnpl**  
+
+      Assalamualaikum Pak Dhika dan temen temen WPU
+
+      Perkenalkan, saya Zidan (zdnpl), saya ijin ikutan showcase project lagi nih, kali ini saya bikin website yang terinspirasi dari teman saya,
+      waktu itu temen saya bilang kalau dia bisa ngoding dia maubikin website cps test, nah dari situ saya langsung kepikiran untuk membuat website ini.
+
+      Project ini saya kasih nama "Showclick", website ini bertujuan untuk melatih kecepatan klik dan bersaing satu sama lain.
+
+      Fitur :
+      - CPS Test
+      - Leaderboard
+
+      Project ini dibuat dengan :
+      - HTML
+      - CSS
+      - Javascript
+      - Bootstrap
+      - Sedikit Jquery
+
+      Link : https://zdnpl.github.io/showclick/
+      Repo : https://github.com/zdnpl/showclick
+
+      Kalau ada bug, kritik, atau saran boleh DM saya
+      sekian terimakasih~
+
+<br>
+
+
+5.  [https://navdplay.github.io/Aidenify/]  
+     **mbari**  
+
+      assalamualaikum Pak Dhika dan semua teman-teman wpu
+
+      saya adalah fathul bari. saya baru pertama kali ikutan showcase dan sebenarnya masih grogi karena ini project yang sangat sederhana.
+
+      #intro
+      ini adalah project dari hasil mengikuti video di wpu tentang mengirim data dari form HTML ke google spreadsheet. kebetulan di organisasi saya lagi mengadakan pendataan biodata anggota. project yang mau saya showcase ini sebenarnya hanya sebuah formulir pendataan anggota yang hasilnya di input ke google spreadsheet.
+
+      #project ini saya buat menggunakan:
+      - HTML
+      - CSS
+      - spreadsheet dengan google app script
+      - Javascript
+
+      #manfaat
+      - bisa digunakan untuk pendataan
+      - bisa digunakan untuk pddb online
+      - bisa digunakan untuk untuk proses registrasi apapun secara online
+
+      #fitur
+      - formulir online
+      - form validation
+
+      #link
+      - web : https://fathb.github.io/pendataananggotaansor/
+      - repo : https://github.com/Fathb/pendataananggotaansor
+
+      untuk channel wpu dan Pak Dhika terima kasih atas show-case nya dan untuk semuanya terima kasih atas kritik dan sarannya.
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://appsensi.herokuapp.com/]  
+     **Union**  
+
+      Halo, ketemu lagi dengan saya 🙂
+
+      Izin memperkenalkan diri saya rayhan. ingin share project mengenai sistem absensi yang dibuat karena tugas dari sekolah dan saya iseng2 untuk hosting. Dan tentunya saya gabut. 
+
+      Use :
+      - Laravel
+      - Bootstrap
+      - Sweet Alert
+      - Toastr
+
+      Feature :
+      - Absen hadir
+      - Absen Tidak hadir
+      - Keterangan Waktu
+      - Profile Page
+
+      Benefit :
+      - Bisa untuk data kehadiran siswa
+
+      Link :
+      - Repo : https://github.com/Ryhann/absensi-school ( give me star ) 🙂
+      - Web : https://appsensi.herokuapp.com/
+
+      Account 
+      admin : nis : 12008000, pw : 123
+      student : nis :12008001, pw: 123
+
+      Terimakasih
+
+<br>
+
+
+7.  [https://sessionclass.engineer/]  
+     **reiandika10**  
+
+      Assalamualaikum semuanya..
+      Perkenalkan nama saya Reihan Andika AM, izin share project saya yaitu website kelas saya Session Class. Di web ini terdapat gallery foto, blog, dan hasil project yang telah dibuat.
+
+      Dibuat menggunakan Next Js dan tailwind css sebagai Frontend dan Backend nya menggunakan Laravel.
+
+      Link 
+      - Repo : https://github.com/reiulen/session-blog
+      - Web : https://sessionclass.engineer/
+
+
+      Terima kasih semuanya🙏
+
+<br>
+
+
+8.  [https://json.web.id/]  
+     **daniwebdev**  
+
+      Assalamu'alaikum wr.wb
+      Hallo pa dika, dan teman-teman semuanya, saya mau share project yang saya buat beberapa hari yang lalu, yaitu https://json.web.id/
+
+      Project ini merupakan json rest api yang bisa melakukan CRUD,  sebagai alternative jsonplaceholder,
+
+      Fitur:
+      - api key (opsional jika disini akan membuat data yang unik, tidak di campur dengan user lain)
+      - namespace (opsional, ini jika kita mau membuat aplikasi dengan key yang sama tapi untuk kasus yang berbeda, misal: todo, users, event, dll.)
+
+      Dibuat dengan :
+      - PHP 8.0 (Native) dan saat ngoding dibantu github copilot 😄
+      - Ace JS (Code Editor)
+      - Bootstrap 5
+      source: https://github.com/daniwebdev/json-web-id
+
+
+      Ide nya berawal pada saat saya belajar front-end di flutter dan untuk melakukan crud di flutter harus membuat rest api kecil, soalnya di jsonplaceholder hanya read doang, dan saya maunya ada simulasi ketika data bertambah, berkurang, dan berubah, untuk mebuat rest api kecil mungkin untuk orang yang berpengalaman di back-end bukan masalah, tapi untuk yang tidak ada pengalaman sama sekali akan merasa sulit, dan saya harap project ini bisa menjadi solusi utuk teman2 yang baru belajar front-end, 
+
+      Terimakasih Semuanya..
+      ---------------------------------------------------------
+      Barangkali mau follow saya 😀 
+      GH: https://github.com/daniwebdev
+      TW: https://twitter.com/daniwebdev
+      IG: https://instagram.com/coderotodidak
+
+<br>
+
+
+9.  [https://toko-albirru.000webhostapp.com/]  
+     **Nomad.Hidden**  
+
+      Assalamualaikum, halo pak sandika dan mahasiswa WPU,
+
+      Permisi perkenalkan saya ||HIDE||/ Haidar siswa kelas 9, sebelumnya mengucapkan terimakasih kepada pak sandika yang udah ngasih saran ke websitenya, bagian about udah ga kukasih framework typejs, namun yang bagian homenya blum kuganti bg-imagenya karena blum sempat memotret depan toko.
+
+      Mohon izin mengirim project lanjutan portfolio untuk toko orang tua saya yang kemarin, aku udah tambah cart biar bisa belanja gitu, (itu aku ambil source code di sini trus ku edit gitu https://richard.id/demo/tokopekita/ ). itu productnya blum lengkap hehe ( yg buat image untuk productnya ayahku, harganya blum valid juga. Nanti bakal kuganti harga sama productnya di admin panel klo udah tau harganya berapa aja...soalnya ndak tau berapa harganya 😅 ), langsung cus dibeli productnya. 😀
+
+      Teknologi yang ku pakai:
+      - HTML
+      - CSS
+      - JS
+      - framework dan library yang lumayan banyak : )
+      - Animate pkai AOS
+      - PHP
+      - MySQL
+      - hosting: webhost
+
+      Login guest:
+      username: guest
+      password: guest
+
+      link project: https://toko-albirru.000webhostapp.com/
+      link github: https://github.com/Haaiiidaaarrr/albirru
+      link instagramku: https://instagram.com/haidar_rosy.id?utm_medium=copy_link
+
+<br>
+
+
+10.  [https://youtube-music-player-five.vercel.app/]  
+     **Vann**  
+
+      Halo semuanya, kenalin nama saya Stevan (lebih enak dipanggil Vann) saya kelas 11 SMK, saya developer bot discord yang bernama Overtunes, jadi saya disini mau izin ngeshare project Youtube Music Player yang sudah saya kerjakan kurang lebih seminggu.
+
+      Project ini saya buat menggunakan
+      Nextjs
+      Tailwindcss
+
+      Sebagai backend nya saya pakai
+      Express
+      ytdl
+      ytsr
+      axios
+
+      Ide awal bikin ini karena hobi, dan terinspirasi dari youtube music, spotify dan lain lain, sebenarnya sudah ada rencana untuk membuat sistem saved track, tapi saya belum ada waktu untuk menambahkan nya.
+
+      Oh ya API yang saya gunakan disini adalah Youtube sebagai source audio.
+
+      Untuk link project nya ada disini:
+
+      Link Project:  https://youtube-music-player-five.vercel.app/
+      Link repo: https://github.com/Vann-Dev/Youtube-Music-Player
+      Github saya: https://github.com/Vann-Dev
+
+      Kalo ada saran atau tambahan bisa hubungi saya, karena saya juga tau banyak kekurangan dari segi model dan lain lain, terimakasih :D
+
+<br><br>
+
+
