@@ -297,7 +297,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
       Kalo ada saran atau tambahan bisa hubungi saya, karena saya juga tau banyak kekurangan dari segi model dan lain lain, terimakasih :D
 
-<br><br>
+<br><hr>
 
 
 ### 19 Februari 2022
@@ -562,4 +562,4 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Terima kasih semuanya 🙏
 
 <br>
-
+<hr>
