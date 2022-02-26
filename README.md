@@ -563,3 +563,265 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 26 Februari 2022
+
+1.  [http://teymii.herokuapp.com/]  
+     **ShaWann**  
+
+      Assalamualaikum, Hai semuanya
+
+      Perkenalkan nama saya Muhammad Syafwan Ardiansyah, izin share project dengan nama TeyMii, di project ini kita bisa berbagi pesan tanpa diketahui siapa pengirimnya kayak secreto gitu.
+
+      teknologi yang digunakan :
+      -Laravel 8
+      -Laravel Livewire
+      -Laravel Share
+      -Bootstrap
+      -Clipboard.js
+      -Javascript
+      -Fontawesome
+
+      Web: 
+      http://teymii.herokuapp.com/
+      http://teymii.herokuapp.com/6YWhKrU
+
+      Repo: 
+      https://github.com/Syafwan000/teymii
+
+      Mohon kritik dan sarannya, jika suka dengan projectnya jangan lupa kasih star
+      Terimakasih :D 
+
+
+<br>
+
+2.  [https://www.npmjs.com/package/custom-error-exceptions]  
+     **brtgz**  
+
+      Assalamualaikum. Halo  semuanya, nama saya C.A. Sugianto. Izin showcase project berupa paket library kecil untuk error handling dan logging di level microservice (API) yang berbasis NodeJS dengan framework Express.  Sebenarnya paket library ini sudah saya publish sejak 2 tahun lalu, sekarang sudah memasuki versi 1.2.4.
+
+      Library ini sudah bisa dipakai untuk publik di link berikut:
+      https://www.npmjs.com/package/custom-error-exceptions 
+
+      Untuk instalasi :
+      ```
+            $ npm install custom-error-exceptions
+      ```
+
+      Contoh Penggunaannya adalah sebagai berikut:
+      ```
+            const express = require('express');
+            const {
+            handlers: { errorHandler },
+            errors: { BadRequestError }
+            } = require('custom-error-exceptions');
+
+            const app = express();
+            const port = 3044;
+            app.use(express.json());
+
+            //TEMPLATE BAD REQUEST ERROR 
+            app.post('/', (req, res) => {
+            const name = req.body.name;
+            if (typeof name !== 'string') {
+            throw new BadRequestError();
+            }
+            res.send(
+            req.body
+            );
+            });
+
+            //Error Handler
+            app.use(errorHandler);
+            app.listen(port, () => console.log(`app listen on port ${port}`));  
+      ```
+
+      
+      Untuk contoh lengkapnya bisa dilihat di link ini: https://github.com/trotrindonesia/custom-error-exceptions/blob/master/example/src/index.js
+
+      Repo lengkap nya bisa dilihat disini: https://github.com/trotrindonesia/custom-error-exceptions 
+
+      Mohon masukan dan sarannya. Terima Kasih.
+<br>
+
+3.  [https://ramadityo.github.io/]  
+     **Ramz**  
+
+      Assalamualaikum, hai semuanya
+
+      Perkenalkan nama saya Kafka Ramadityo, salah satu murid SMKN 7 Samarinda dan saya sekarang kelas 12, jadi hari ini saya izin showcase project portfolio saya, ya mungkin biasa saja, tapi semoga kalian suka ya, 😆 
+
+      teknologi yang digunakan :
+      1. HTML
+      2. CSS
+      3. Javascript
+      4. GSAP
+      5. jQuery
+      6. Velocity.js
+      7. Font Awesome
+      8. Ion Icons
+      9. Locomotive Scroll (Testing)
+      10. Barba.js (Soon) 
+      11. Three.js (Hover Effect)
+
+      Web: 
+      https://ramadityo.github.io/
+
+      Repo: 
+      https://github.com/ramadityo/ramadityo.github.io
+
+      untuk web saya dominan menggunakan warna hitam putih dan crimson, dan hijau muda untuk bagian tertentu, dan web saya juga masih dalam tahap pengembangan atau WIP, jadi saya masih ingin menambahkan sesuatu di web saya (contact form masih belum berfungsi, masih bentuk UI nya dulu)
+
+      mohon kritik dan masukannya yak 😁
+
+      Oh ya kalau mau follow, bisa ke akun github saya yang ini ya :v
+      https://github.com/RzCodez 
+
+<br>
+
+4.  [https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc]  
+     **kucingputih.js**  
+
+      Beri warna tampilan text editor VS Code / Codium kalian dengan tema tampilan Mayukai Theme yang menarik dan pewarnaan yang mudah dibaca. Varian yang tersedia ada banyak pilihan seperti Mayukai Mirage, Mayukai Semantic Mirage, Mayukai Dark, Mayukai Mirage Gruvbox Darktooth, Mayukai Mono, Mayukai Alucard, Mayukai Sunset, dan Mayukai Reversal. Cek preview dan instalasinya disini 
+      https://marketplace.visualstudio.com/items?itemName=GulajavaMinistudio.mayukaithemevsc
+
+      Untuk instalasi di VS Code/Codium, cukup cari di menu Marketplace, dan search "mayukai" .
+
+      —-
+
+      Tidak lupa kami menyediakan variant custom dari font Iosevka yang kami beri nama Iosevka Mayukai. Font ini merupakan gabungan dari beberapa style font Iosevka dengan tambahan Glyph dan Ligature yang lengkap. Spesimen font, instalasi, dan pemasangan dapat dilihat disini.
+      https://github.com/Iosevka-Mayukai/Iosevka-Mayukai
+
+      Untuk unduh font, langsung saja ke Github Release Page berikut
+      https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases
+
+<br>
+
+5.  [https://tic.hasheemi.my.id/]  
+     **Hash.anthz**  
+
+      assalamualaikum wr wb
+      halo warga wpu , saya hasheemi rafsanjani (hash)  14 tahun akan membagikan proyek yang saya kerjakan di waktu luang yaitu "Tic Tac Toe multiplayer"
+
+      yang merupakan remake dari tic tac toe dari channel codingnepal
+      https://www.youtube.com/watch?v=sNO5awLw9h0
+      tapi saya tambahkan fungsi multi player dengan nodejs, express dan socket.io (alias ATM wkwk), waktu pengerjaan 10 hari
+
+      link
+      website: https://tic.hasheemi.my.id/
+      github: https://github.com/hasheemi/tic-tac-toe-multi
+      referensi: https://www.youtube.com/watch?v=sNO5awLw9h0
+
+      sekian terima kasih wassalaamu alaikum wr wb
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://adeyusuf.netlify.app/]  
+     **human.id**  
+
+      Assalamualaikum..., Saya mau share karya saya yang ke sekian kalinya..
+
+      Karya ini sebenarnya telah saya showcase sekitar 1 tahun lalu yaitu berupa web portfolio saya pribadi. Tapi kali ini saya melakukan perubahan besar - besaran pada web portfolio saya ini mulai dari desain sampai dengan layout.
+
+      Saya terpikir untuk melakukan redesign karena menurut saya web ini sudah cukup jadul dan saya menginginkan agar website pribadi saya ini terlihat lebih segar oleh karena itu saya merubah totoal website ini.
+
+      Adapun teknologi yang digunakan masih sama yaitu:
+      HTML
+      CSS
+      Javascript.
+
+      Dan inilah hasilnya:
+      https://adeyusuf.netlify.app/
+
+      Ini repositori githubnya:
+      https://www.github.com/adeyusuf211/my-portfolio
+
+      Terimakasih..🥰 
+
+
+<br>
+
+7.  [https://m4rc000.github.io/elementsgame/]  
+     **Prime**  
+
+      Selamat  Pagi/Siang/Malam Pak Dhika dan Teman-teman WPU Semuanya
+
+      Perkenalkan nama saya Marco Antonio, saya baru pertama kali mengikuti showcase-project, ini website project pertama saya, dari segi tampilannya tidak terlalu mewah konsepnya. 
+      Project ini hasil reinkarnasi dari video latihan dom js suwit jawa 2.0.
+
+      Teknologi yang saya gunakan :
+      - HTML
+      - CSS
+      - Javascript
+      - Bootstrap
+
+      Link : https://m4rc000.github.io/elementsgame/
+      Repo : https://github.com/M4rc000/elementsgame/
+
+      Sekian dari saya Terima Kasih atas Perhatiannya :wpusiap:
+
+<br>
+
+8.  [https://dribbble.com/shots/17315423-NFT-Marketplace-Mobile-App-Concept]  
+     **ridhoadtyaa**  
+
+      Haloo semua izin share hasil eksplorasi yaa 🤩 https://dribbble.com/shots/17315423-NFT-Marketplace-Mobile-App-Concept
+
+<br>
+
+9.  [https://bagusindrayana.github.io/]  
+     **Bagus**  
+      
+      hallo semua izin share web portofolio saya masih coba-coba jadi mungkin enggak terlalu responsif
+      web ini di buat dengan HTML,CSS,JS
+      masih belum pake library2 lainnya
+      link webnya : https://bagusindrayana.github.io/
+      link repo : https://github.com/bagusindrayana/bagusindrayana.github.io
+
+<br>
+
+10.  [https://github.com/xrafffcode/coding-aja-web]  
+     **!xrafff**  
+
+      Assalamualaikum, hai semuanya
+
+      Perkenalkan nama saya Muhamad Rafli Alfarizqi,ini adalah showacase web kedua saya.Saya salah satu murid SMK TELKOM PURWOKERTO dan saya sekarang kelas 11, jadi hari ini saya izin showcase project lomba HACKATON saya yang berhasil Juara 1 :3 
+
+      teknologi yang digunakan :
+      1. PHP
+      2. HTML
+      3. CSS
+      4. Javascript
+      5. Bootsraps 5
+      6. AOS
+      7. Font Awesome
+      8. particles-js
+
+
+      Web: 
+      - Karna belum dihosting jadi bisa instal via localhost:D
+      - Donwload Repo
+      - Bikin Databse Dengan Nama coding-aja
+      - Terus Import Databasenya
+      - Kemudian Bisa Buka Web Nya
+
+      Fitur:
+      - User Bisa Register dan Login
+      - Tersedia Panel Admin
+      Username: admin
+      Password: admin22
+      - Admin Bisa Mengatur Kelas
+
+
+      Repo: 
+      https://github.com/xrafffcode/coding-aja-web
+
+
+      mohon kritik dan masukannya yak 😁 
+
+<br>
+
