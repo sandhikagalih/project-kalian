@@ -824,4 +824,278 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       mohon kritik dan masukannya yak 😁 
 
 <br>
+<hr>
+
+### 5 Maret 2022
+
+1.  [http://tutorialbertanya.github.io/]  
+     **Nomad.Vins**  
+
+      Halo! izin showcase project... 
+
+      ini adalah project gabut, sekalian project pertama yang saya koding di 2022. saya buat website ini untuk orang orang yang masih sering nanya tapi tidak jelas masalahnya, biar nanti saya gk perlu ngejelasin lagi cara nanyanya, jadi tinggal kasih link website ini deh.  di website ini kita bisa dapet setifikat juga tapi maaf kalo sertifikatnya jeleq wkwkwkw, contoh sertifikatnya ada di bawah ✌️
+
+      website ini di buat mengunakan:
+      - html
+      - css
+      - javascript
+      - smtp.js 
+
+      website: http://tutorialbertanya.github.io/
+      source code: http://github.com/tutorialbertanya/tutorialbertanya.github.io
+
+      maaf kalo ada yang typo atau semacamnya karena saya ngebuatnya sambil speedrun karena udh tengah malam...
+
+      semoga membantu :v 
+
+<br>
+
+2.  [http://gaboet.herokuapp.com/]  
+     **Hairul Lana**  
+
+      Selamat pagi
+
+      Perkenalkan nama saya Hairul Lana, disini saya ingin sharing project saya berupa aplikasi chatting. Sudah bisa digunakan namun masih belum sepenuhnya selesai
+
+      Dibuat dengan
+      - Laravel 8
+      - Bootstrap 5
+      - PostgreSQL
+      - Pusher
+
+      Terima kasih
+
+      Repositori : https://github.com/hairullana/gabut-chat
+      Website : http://gaboet.herokuapp.com/
+
+<br>
+
+3.  [https://harimayco.github.io/aov_wallpaper_generator/]  
+     **harimayco**  
+
+      Selamat siang
+
+      izin showcase project gabut, aplikasi wallpaper generator game Arena Of Valor
+
+      Dibuat dengan
+      - Javascript
+      - HTML
+      - Webpack
+      - Konva JS
+
+      Terima kasih
+
+      Repositori : https://github.com/harimayco/aov_wallpaper_generator
+      Website : https://harimayco.github.io/aov_wallpaper_generator/
+
+<br>
+
+4.  [https://js-game-house.netlify.app/]  
+     **HudYA**  
+
+      Assalamulaikum pak dhika dan teman-teman wpu, Perkenalkan nama saya huud yusuf atsigah , Ini adalah project kedua saya di server wpu.
+
+      Kali ini saya ingin membagikan website javasacript game house , Yang di mana web ini saya buat untuk melatih algoritma saya dalam pemrogramman karna menurut saya  membuat game adalah cara yang paling bagus untuk melatih algoritma.
+
+      TEKNOLOGI :
+      - HTML
+      - SCSS
+      - JS
+
+      LINK WEB : https://js-game-house.netlify.app/
+
+      Sementara ini baru ada 2 game saja insyallah akan saya tambah seiring waktu 
+
+      Bagi yang ingin kasih kritik/saran bisa ke github saya : https://github.com/HudYuSa/js-game-house 
+
+      Mohon maaf jika terlalu panjang, Terimakasih 🙏 .
+      Assalamualaikum 
+
+<br>
+
+5.  [https://rinoagung.github.io/]  
+     **rino a**  
+
+      Assalamualaikum wr.wb semuanya
+      Selamat sore
+      Nama saya Rino Agung, di sini saya akan mencoba showcase saya pertama kali di channel WPU dengan menggunakan web portofolio saya.
+      Web portofolio ini merupakan hasil dari ilmu yang saya pelajari di WPU, berbagai channel youtube lain, dan juga berbagai sumber belajar dari internet.
+      Berikut berbagai rempah-rempah dan bumbu yang digunakan untuk membuat website ini:
+      1.    Html
+      2.    Css
+      3.    Bootstrap 5
+      4.    Aos dan gsap
+      5.    Feather (icon)
+      6.    Javascript
+      7.    Tilt.js
+      Website: https://rinoagung.github.io/
+      Github: https://github.com/rinoagung/rinoagung.github.io
+      Terima kasih
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [http://scrollpage-js.netlify.app/]  
+     **Bagus**  
+
+      hallo lagi semuanyaa
+      kali ini saya mencoba membuat sebuah library/package javascript  pertama saya yang bernama scrollpage-js ,library/package ini berasal dari fitur yang ada di portofolio saya yaitu fitur full page scroll animation yang sebelumnya saya buat menggunakan vanilla javascript atau javascript murni
+      akhirnya saya jadikan library/package aja sekalian biar nanti bisa di pakai lagi fitur tersebut dengan mudah
+
+      fitur-fitur yang ada terinspirasi dari https://alvarotrigo.com/fullPage/ 
+      dan animasinya menggunakan rumus easing dari https://easings.net/
+
+      library/packagenya bisa langsung di install lewat npm
+      npm i scrollpage-js
+
+      atau bisa juga lewat CDN
+      https://cdn.jsdelivr.net/npm/scrollpage-js/scrollpage.min.js
+
+      untuk penggunaannya bisa di lihat di reponya 
+      https://github.com/bagusindrayana/scrollpage-js
+
+      untuk demo dan contoh-nya langsung bisa di lihat di sini
+      DEMO : http://scrollpage-js.netlify.app/
+      CODEPEN : https://codepen.io/bagusindrayana/pen/QWOWKeY
+
+<br>
+
+7.  [https://moneytory.000webhostapp.com/]  
+     **adhywiranto44**  
+
+      Hai guys,
+
+      Kembali lagi bersama saya Adhy Wiranto, kali ini saya mau men-showcase projek Full Stack untuk Pengelolaan Inventory dan Keuangan bernama Moneytory, fitur-fitur yang dibuat dengan cara "menerawang kebutuhan client" namun juga ada inspirasi dari jurnal.id dan BukuWarung.
+
+      ---
+
+      == Definisi ==
+      Moneytory adalah aplikasi berbasis website yang diperuntukan untuk oleh Usaha Mikro Kecil Menengah (UMKM) untuk mengelola data inventory dan keuangan.
+
+      == Proses Bisnis ==
+      Inventory & Money Management
+
+      == Teknologi yang Digunakan ==
+      - Bahasa Pemrograman: PHP v8.x
+      - Framework: Laravel v8.x
+      - Database: MySQL v8.x
+      - UI: Bootstrap v5.x
+
+      == Fitur yang Ditawarkan ==
+      - Pengelolaan Bahan Mentah
+      - Pengelolaan Bahan dalam Proses
+      - Pengelolaan Barang Jadi
+      - Pengelolaan Pemasukan / Order, Pengeluaran, dan Hutang
+      - Pencarian Data Pemasukan Berdasarkan Produk Terjual
+      - Laporan Keuangan (Pemasukan, Pengeluaran, dan Hutang)
+      dan masih banyak lagi.
+
+      == Link Demo ==
+      Link gan: https://moneytory.000webhostapp.com/
+
+      username: user_testing
+      password: 12345678
+
+      == Video Demo ==
+      - registrasi profil perusahaan: https://youtu.be/FQBSOiXS2YM
+      - mengelola pemasukan / order: https://youtu.be/ZOGVfJI0DM8
+      - mencari pemasukan berdasarkan tanggal dan produk: https://youtu.be/5JAvecC_zt0
+
+      ---
+
+      Waktu pembuatan projeknya sendiri sekitar 1 bulanan, sebelum itu proses perancangan. Tentunya tidak sampai sini saja, fitur Moneytory akan terus menerus di-upgrade.
+
+      Sebenernya projek ini mau saya jual dengan lisensi sekali beli, ada yang mau beli? 😄 Kalau berminat bisa hubungi saya melalui Discord WPU yaa, atau sekadar mereview pun tidak apa-apa :D.
+
+      Atau bisa kunjungi link Fastwork berikut ini: https://fastwork.id/user/adhyws44/web-development-55935259 
+
+
+<br>
+
+8.  [https://tagihanku.my.id/]  
+     **Hannn**  
+
+      Halo semuanya,
+
+      Ini pertama kalinya saya mengikuti showcase project hehe. Kali ini saya ingin membagikan project React pertama saya.  Ini  adalah landing page SPA sederhana.
+
+      Teknologi yang Digunakan:
+      - React
+      - Tailwind
+      - SASS
+
+      Link Demo & Repo
+      Demo: https://tagihanku.my.id/
+      Github Repo: https://github.com/tagihanku/tagihanku
+
+      Kalau teman-teman ada kritik atau saran bisa hubungi saya ya karena itu akan sangat membantu saya.
+
+      Terima kasih.
+
+<br>
+
+9.  [https://seleku-kit.herokuapp.com/]  
+     **daberdev**  
+
+      Halo Semuanya
+
+      beberapa waktu yang lalu saya membuat suatu framework frontend web dengan javascript dengan nama seleku-kit yang merupakan framework pertama saya di mana framework ini terinspirasi dari React dan Svelte tetapi sintaks nya lebih mirip dengan react yaitu sebagai berikut
+
+      ```
+      import { dabMain, Render } from "dabcom";
+
+      Render(<h1>Hello World!</h1>,document.body);
+      ```
+
+
+      apakah framework ini di buat dengan react jawaban nya adalah tidak seleku-kit benar benar saya program dari 0 dengan menggunakan konsep yang berbeda dengan react mulai dari state management nya hingga ke sistem render nya, walaupun sintaksnya mirip namun terdapat cukup banyak perbedaan yang kuat
+
+      seleku-kit berjalan dengan dabcom library (library yang saya buat sendiri) yang memang di khususkan untuk seleku-kit, saya memulai project ini pada pertengahan desember 2021 lalu dan telah rilis versi stabil nya pada pertengahan januari lalu
+
+      seleku-kit juga di khususkan untuk pengembangan web3 dan pendukungan dalam pengembangan grafis dan metaverse tetapi fitur -  fitur ini dalam tahap pengembangan dan yang telah di rilis adalah fitur utama dalam pengembangan web component 
+
+      untuk mempelajari lebih jauh silahkan berikut saya cantumkan repo github dan web dokumentasinya
+
+      web docs : https://seleku-kit.herokuapp.com/
+      github repo: https://github.com/daberpro/dabCom
+      npm : https://www.npmjs.com/package/seleku-kit
+
+      seleku-kit berjalan dengan bundler esbuild shingga bagi anda yang terbiasa dengan penggunaan bundler akan merasa sangat terbantu
+
+      dan saat ini saya masih mencari collaborator yang ingin ikut serta dalam mengembangkan project berbasis javascript khusunya frontend
+
+      Terima kasih. 
+
+
+<br>
+
+10.  [https://github.com/reacto11mecha/auto-attendance]  
+     **reacto_mecha!**  
+
+      Halo selamat malam semuanya
+
+      Izin showcase project, project saya kali ini itu bot absensi otomatis ke website belajar yang punya sistem login dan logout sebagai absensi. Alasan saya membuat bot ini karena ribet kalo mau absen harus login sama logout segala, jadi cukup ribet kalo mau belajar berurusan mesti login dulu kalo dah selesai logout, padahal terkadang guru ngasih tenggat tugas di luar jam itu. Jadi saya buat dua proses itu otomatis pake bot absen.
+
+      Cara kerja singkat dari bot ini kalo absen masuk dia login dulu. Kalo absen keluar bot ini pertama-tama dia login dulu baru logout lagi. Semisal proses login atau logoutnya udah berhasil bakalan dikirim ke discord pake discord webhook. Lebih lengkapnya cara kerja sama diagramnya ada di Readme projectnya.
+
+      Bot ini dibuat dengan
+      - puppeteer => Library yang dipake buat automasi chrome
+      - discord-webhook-node => Library yang dipake ngirim pesan ke discord pake discord webhook
+      - chalk => Pemercantik tulisan command line, biar enak diliat pas local development
+      - dotenv => Library yang load environment variable
+
+      Oiya, bot ini bisa dijalanin di github action, jadi ga usah-usah deploy di hostingan, cukup dijalanin aja di github. Ini repository template, jadi dipake aja dari templatenya. Untuk cara pemakaian udah ada di readme repositorynya.
+
+      Link project: https://github.com/reacto11mecha/auto-attendance
+
+      Contoh action yang berhasil absen
+      Absen masuk: https://github.com/reacto11mecha/auto-attendance/runs/5149406433?check_suite_focus=true
+      Absen keluar: https://github.com/reacto11mecha/auto-attendance/runs/5152306207?check_suite_focus=true
+
+      Terimakasih
+
+<br>
 
