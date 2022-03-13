@@ -1098,4 +1098,250 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Terimakasih
 
 <br>
+<hr>
 
+### 13 Maret 2022
+
+1.  [https://navdplay.github.io/ShySay/]  
+     **NavdPlay**  
+
+      Assalamualaikum Padika dan teman-teman semuanya, perkenalkan nama saya Naadir Al Atilla, saat ini masih duduk di kelas 8 SMP di salah satu sekolah di Sumbawa Barat. Project ini adalah project ketiga yang saya kirim di showcase-project 
+
+      Saya ingin share project website saya yang bernama ShySay. Project ini adalah project gabut saya buat valentine. Jadi waktu itu saya lagi gabut, gak produktif, dll. Trus saya inget "bulan ini kan ada valentine", jadi langsung gas bikin repo baru. Web ini cocok buat orang yang mau confess atau sejenisnya, tapi malu buat ngomong langsung ke doi, bisa pake web ini. Bisa dibilang ini web bucin lah. Saya membuat website ini dalam waktu 4 hari. Nanti ada tiga input untuk user: nama pengirim, nama penerima dan pesan, berdasarkan data2 tersebut, website ini akan men-generate link untuk si penerima, yang dimana didalam link itu berisi query input2 tadi, namun diubah menjadi base64, agar penerima gak tau isi pesannya dari url
+
+      Note: Masih ada bug saat user menggunakan emoji untuk input, karena web ini menggunakan base64 yang tidak bisa nge-encode emoji ke base64
+
+      (webnya buat orang bucin tapi yg bikin masih jomblo 🤦‍♂️ )
+
+      Fitur:
+      -Dilengkapi dengan 2 bahasa: Indonesia & English
+      -Design web yang sudah responsif.
+
+      Bahasa dan alat yang digunakan: 
+      - Visual Studio Code :vscode: 
+      - HTML5 :html: 
+      - CSS :css: 
+      - JavaScript dan library JQuery :javascript: 
+      - Library FontAwesome 
+
+      Link Website: https://navdplay.github.io/ShySay/
+
+      Link Repository: https://github.com/NavdPlay/ShySay/
+
+      Saran dan kritiknya ditunggu ya
+
+<br>
+
+2.  [https://engxzu.netlify.app/]  
+     **Elvn**  
+
+      Halo Pak @sandhikagalih dan Semuanya  :wpuhai: 
+      Jadi saya (Elvina) ingin showcase project collab saya bersama kembaran sya @Emore  (Elvira) yaitu project yg bernama Engxzu, jadi Engxzu ini adalah tempat untuk belajar dasar bahasa Inggris. Project ini kami buat dengan bentuk Dashboard yang sudh kami design di Figma nah dibagian index kami sudah menyiapkan landing page yang menjelaskan apa yang ada didalam Engxzu lalu untuk kebagian demo kalian kalian bisa langsung melihat materi2 yg sudah dibuat berdasarkan kategori2 nya dan kami minta maaf karena materi yg kami berikan tidak terlalu lengkap karena ini adalah project yang sebenarnnya kami copy dari project collab pertama. Didalam Engxzu ini kami menyediakan fitur Quiz yang bisa mengetes kemampuan kalian dalam berbahasa inggris (A1, A2, B1, B2, C1 dan C2).
+
+      Link WEB: https://engxzu.netlify.app/
+
+      Tools yang kami pakai: 
+
+      - HTML/CSS 
+      - BOOTSTRAP 
+      - JAVASCRIPT dan LIBARY JQUERY 
+      - FIGMA 
+      - GOOGLE DEVELOPERS TOOLS 
+      - LIBRARY FONT AWESOME 
+      - VISUAL STUDIO CODE 
+      - CRISP
+
+      jika ada kesalahan, kami minta maaf dan jika ingin kontak kami boleh langsung ke features yang kami buat didalam web tadi (contact section atau chatbox)
+
+      Terima Kasih pak dan semuannya
+
+<br>
+
+3.  [https://guppi.netlify.app/]  
+     **human.id**  
+
+      Halo, selamat pagi/siang/sore/malam/dini hari semuanya..
+
+      Kali ini saya ingin membagikan sebuah projek website yang bernama Guppi, yang merupakan singkatan dari Gudang Public API.
+
+      Dimana pada web ini kalian dapat melihat berbagai Public API yang data-data nya diambil dari:
+      https://github.com/davemachado/public-api
+
+      Adapun teknologi yang digunakan:
+      - HTML
+      - CSS
+      - JavaScript
+
+      Mohon masukan dan sarannya
+
+      Terimakasih..😇 
+
+      Link github: https://www.github.com/adeyusuf211/guppi
+      Link website: https://guppi.netlify.app/
+
+<br>
+
+4.  [https://adisan103.github.io/disanjaya/projeck/valentineDayCard/index.html]  
+     **Disan j**  
+
+      Halo selamat malam kakak dan teman-teman,
+      Perkenalkan saya Disan, saya ingin share sedikit tentang projek sederhana saya yaitu Valentine Day Card. Projek ini terinspirasi dari keinginan saya membuat surprise dalam hari raya valentine dengan low budget dan saya terpikirkan mungkin saja ada orang lain yang berfikir seperti apa yang saya pikirkan. Valentine Day Card ini bangun dengan HTML, CSS, dan Javascript. Untuk web pages saya gunakan fitur pada github.
+
+      Untuk projek ini source codenya  gratis dan boleh teman-teman gunakan, semoga bermanfaat 😊
+      Link akses Valentine Day Card : https://adisan103.github.io/disanjaya/projeck/valentineDayCard/index.html
+      Link cara menggunakan : 
+      https://www.instagram.com/p/CLPPhc-FnoO/?utm_medium=copy_link 
+      untuk portofolio projek saya lainnya :
+      https://adisan103.github.io/disanjaya/ 
+
+      jika ada masukan atau hal yang ditanyakan boleh banget, maaf bila masih ada hal yang kurang berkenan, terima kasih
+
+<br>
+
+5.  [https://btsadewa.github.io/Math.io/]  
+     **sadewa**  
+
+      Halo selamat pagi/siang/sore/malam temen - temen, perkenalkan nama saya Sadewa, saya adalah lulusan smk teknik elektro yang awalnya tidak mengetahui apapun tentang web programing, namun setelah nonton playlist dari WPU saya saya jadi kecanduan.
+      Saya ingin share project pertama saya setelah  mengikuti playlist dari Youtube WPU, Project pertama saya ini bernama Math. Project ini berisi tentang menghitung volume, luas dan keliling bangun datar maupun bangun ruang dan juga ada kalkulator serta kurs mata uang. 
+
+      Teknologi yang digunakan: 
+      - HTML
+      - CSS
+      - JavaScript dan Jquery
+      - Bootstrap
+      - AOS
+
+      Mohon saran dan masukannya dari temen² agar bisa membantu saya untuk lebih baik lagi. Terima Kasih 
+
+      link repo : https://github.com/btsadewa/math.io
+
+      link web : https://btsadewa.github.io/Math.io/
+
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://pilipscode.github.io/game-batu-gunting-kertas/]  
+     **PILIPUS**  
+
+      Halo teman-teman perkenalkan nama saya Pilipus Kuncoro wismoady,Umur 15 th,Saya memodifikasi game suid Jawa milik pak sandhika, menjadi batu gunting kertas dengan tampilan saya sendiri dan saya tambahkan fitur P1 vs P2,bot vs bot,skor,akan tetapi saya tidak pandai mendesain jadi jelek tampilan nya hahahahahah , Maaf baru pemula Jan dihujat ya wkwkekeke,terimakasih.......
+
+      Teknologi yang saya gunakan 
+      -html
+      -css
+      -javascript
+      -sweetAlert untuk p1 vs P2
+      -aos
+      -boostrap-icon
+
+
+      Dan ini link website game batu, gunting, kertasnya: https://pilipscode.github.io/game-batu-gunting-kertas/
+
+      Link repository nya: https://github.com/PILIPSCODE/game-batu-gunting-kertas 
+
+<br>
+
+7.  [https://pengukurberatbadan.netlify.app/]  
+     **Bachrul Panji**  
+
+      Assalamualaikum wr.wb semuanya
+      Selamat malam pagi siang dan sore
+      Nama saya Bachrul Panji, di sini saya akan mencoba showcase project saya yang kedua kalinya di channel showcase-project  ini saya ingin menampilkan web sederhana pengukur masa tubuh manusia ini hasil saya menerawang di sekitar pondok pesantren yang dulu saya tempatin karena waktu itu di pondok saya untuk mengukur saja masih manual ahirnya malam itu saya langsung meditasi dan menghayal alhamduliah allah memberikan saya hidayah ketika saya sujud solat jumat project ini jadi selama 2 bulan 
+      berikut kajian-kajiannya
+      HTML
+      CSS
+      dan JAVASCRIPT
+
+      link web
+      https://pengukurberatbadan.netlify.app/
+
+      link repo
+      https://github.com/bachrul0038/pengukurberatbadan.git
+
+      minta kritik dan sarannya pak sandhika dan warga WPU????
+
+<br>
+
+8.  [https://share.streamlit.io/tudemaha/forms-streamlit/main/forms-streamlit.py]  
+     **Mahardika a.k.a. tudemaha**  
+
+      Halo Pak @sandhikagalih dan semua warga WPU! Kenalin saya Tude Maha (tapi aslinya Mahardika :v). Ini merupakan showcase-project  pertama saya dan saya mau showchase sebuah website yang saya build dengan menggunakan Streamlit, library front-end dari Pyhton (btw ini project ini juga project pertama saya di Python dan saya juga pemula di bahasa Python hehe)
+
+      Website yang saya buat sederhana aja, yaitu buat nampilin data responden dari Google Form secara lebih dinamis dan dengan lebih banyak pilihan chart untuk direpresentasiin dan juga kita bebas milih data mana aja yang mau ditampilin, yang mana ini gak bisa dilakuin di view analytics-nya Google Form
+
+      Teknologi yang saya pake:
+      1. tentunya bahasa Python :python: 
+      2. Streamlit (front-end)
+      3. Matplotlib (plotting chart)
+      4. library pendukung lain (ada di GitHub)
+      5. Google Form
+      6. Google Sheets
+
+      Link2nya:
+      - Website: https://share.streamlit.io/tudemaha/forms-streamlit/main/forms-streamlit.py
+      - Google Form: https://docs.google.com/forms/d/e/1FAIpQLSdz4jIkzSr6-adQfuZhkh86gHMyk72wUDWSVJiR_sRsZ_53BA/viewform
+      - Github: https://github.com/tudemaha/forms-streamlit
+
+      Karena saya masih newbie di Python, tolong saran, kritik, dan masukkannya yaaa Pak Dhika dan temen2 WPU
+
+<br>
+
+9.  [https://cardbot.netlify.app//]  
+     **Nomad.HiddenAltz**  
+
+      Assalamualaikum wr. wb pak sandika dan seluruh mahasiswa WPU, semoga selalu sehat selalu, saya Haidar / ||Hide|| ( ini pkai akun satunya...lagi masalah akunku yg @Nomad.Hidden )
+      Kali ini saya akan mengshare project yg kubuat.
+
+      Nama Project: CardBot
+      Versi: 1.0.2 
+
+      Cardbot adalah framework css yang digunakan untuk membuat berbagai macam kartu, nama cardbot terinspirasi dari Cardbot di seri Boboiboy Galaxy. Dalam cerita Cardbot dapat memberikan banyak kartu kepada seseorang, semoga framework ini dapat digunakan untuk memberi dan membuat banyak kartu dengan mudah. hanya tinggal copy code html, dan sedikit css (seperti color,bg,dll). Kalian juga dapat berkontribusi dalam pengembangan CardBot ini dengan cara menambah berbagai macam card, karena saat ini baru ada 4 card 😅 .
+
+      Link website:
+
+      https://cardbot.netlify.app/
+
+      Link NPM:
+
+      https://www.npmjs.com/package/cardbot
+
+      Link CDN:
+
+      https://unpkg.com/cardbot/style.css
+
+      Mohon kritik, saran, dan masukkannya ya pak sandika dan seluruh mahasiswa wpu 
+
+<br>
+
+10.  [https://dfsdanimaulana.github.io/simple-snake/]  
+     **dnm17_**  
+
+      Assalamualaikum wr. wb pak sandhika dan teman semua, perkenalkan nama saya dani maulana. izin showcase project ke dua saya di sini yaitu game ular sederhana
+
+      Nama Project : Simple Snake 
+      Di buat menggunakan :
+      - HTML :html: 
+      - CSS :css: 
+      - JavaScript :javascript: 
+      - Firebase :firebase: 
+      - Sweetalert 
+
+      Fitur yg sudah ada :
+      - login/signup
+      - game points
+      - scoreboard
+      - settings ( untuk merubah warna nav, board, ular dll.)
+      - chatroom ( sekedar fitur tambahan untuk chat ke sesama user atau report bug dll)
+
+      Link Website : https://dfsdanimaulana.github.io/simple-snake/
+
+      Link Repo:
+      https://github.com/dfsdanimaulana/simple-snake
+
+      Mohon kritik dan sarannya, sekian dan terima kasih... salam titik koma 
+
+<br>
+<hr>
