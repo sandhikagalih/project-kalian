@@ -1345,3 +1345,284 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 19 Maret 2022
+
+1.  [https://shortest-paths.netlify.app/]  
+     **saugi**  
+
+      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding (mencari shortest path) yang diajarin di kampus matkul algoritma. Visualisasi algoritma ini dibuat dalam bentuk grid.
+
+      Algoritma yang baru tersedia:
+      - Dijkstra Algorithm
+      - A* Algorithm
+
+      Fitur:
+      - Bisa ubah ukuran grid
+      - Bisa ubah posisi start dan end
+      - Bisa bentuk wall sendiri
+      - Animation speed
+
+      Stack yang dipakai:
+      - HTML & CSS (memakai HTML5 Canvas)
+      - TypeScript
+
+      Demo: https://shortest-paths.netlify.app/
+      Github: https://github.com/zuramai/shortest-path-algorithms
+
+      Niatnya mau nambahin algoritma Bellman Ford dan Floyd Warshall. Tapi kalau ada yang mau nambahin algoritma baru sangat dipersilakan. 
+
+<br>
+
+2.  [http://klazbay.freecluster.eu/]  
+     **bayupm**  
+
+      Selamat Pagi, Siang, Malam Pak Sandhika Galih dan temen-temen wpu.
+      Perkenalkan nama saya bayu priyambada dari cikarang pusat [kawasan pabrik]
+
+      Ijin showcase project front end ya dengan Website Klazbay
+
+      Webiste ini dibuat dalam waktu 3 - 5hari karena kegabutan saya sambil menunggu hasil penerimaan hasil program bootcamp jcc bandung.
+
+      Klazbay ini merupakan tempat dimana bisa belajar basic pemograman dengan gratis tidak ada status pembayaran.
+
+      Dan rencananya akan di perbagus dan di kembangkan dalam waktu beberapa bulan kedepan sebagai platform aktif digunakan secara umum dengan sistem backend dan frontend.
+      Karena solo player jadi lumayan lama pembuatan backendnya maka ditampilkan dulu versi frontendnya hehe.
+      Dan fitur dashboard user [ commingsoon di project showcase berikutnya]
+
+      Fitur Halaman:
+      Insyaallah sudah responsive hehe.
+      index.html
+      buku.html
+      single-buku.html
+            data-saya.html << Author Klazbay
+      kursus.html
+      single-kursus.html << Author Kursus Klazbay
+      blog.html << Author dan Admin Klazbay
+      404.html
+      masuk.html
+      register.html
+
+      Teknologi:
+      Frontend:
+            Html css
+            tailwindcss alpinejs
+            javascript Top button
+
+
+      Link Repo:
+      [https://github.com/bayupb/Klazbay]
+
+      Link Website:
+      [http://klazbay.freecluster.eu/]
+
+      Terima kasih teman-teman, kritik dan saran yang pedas tolong disampaikan saja agar dapat lebih baik. 
+
+
+<br>
+
+3.  [https://festive-khorana-bf73fb.netlify.app/]  
+     **dihpan**  
+
+      Hai teman-teman assalamualaikum, perkenalkan nama saya Aji Mustofa. dan ini pertama kalinya saya mengikuti showcase. jadi agak sedikit gugup.
+
+      jadi saya mau showcase game sederhana yang saya buat dengan Rust. game ini awalnya saya buat dengan python dan pygame (untuk yang mau mengikuti tutorialnya bisa ke channel youtube saya https://www.youtube.com/watch?v=ghYdg_a0d1w) namun karena akhir-akhir ini saya sedang belajar Rust, jadi saya coba buat ulang dengan Rust dan macroquad.
+
+      Demo: https://festive-khorana-bf73fb.netlify.app/ 
+      Control: Panah Kanan dan Kiri
+      (pas awal-awal buka agak lama, soalnya download asset-assetnya dulu. dan pastikan browser teman-teman support WebAssembly)
+
+      Github Repo: https://github.com/pepega90/car-game
+
+      Teknologi yang digunakan:
+      - Rust (https://www.rust-lang.org/)
+      - Macroquad (https://github.com/not-fl3/macroquad)
+      - Assetnya by kenney (https://www.kenney.nl/assets/racing-pack)
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+4.  [https://logicsekai.com/]  
+     **Kwaii**  
+
+      Halo semuanya, ini adalah pertama kalinya saya mengikuti showcase-project . Di project ini saya membuat website untuk portfolio komunitas saya yang awalnya hanyalah sebuah grub kecil dimana masing" anggotanya memiliki bakat di berbagai bidang. Mulai dari coding, video editor, desainer, gamer, pembuat musik dll.
+
+      Awalnya saya membuat website ini karena yang tadinya grub kecil(Cloud Center) dan memutuskan untuk membentuk sebuah komunitas(logic Sekai) sehingga harus memperbarui website utamanya.
+
+      Dan karena bosan dengan tampilan website yang begitu" saja juga sama dengan kebanyakan website, pada akhirnya saya memutuskan untuk membuat website yang terinspirasi dari situs" game.
+      Website ini sudah saya kerjakan selama hampir 1 bulan dengan waktu pengerjaanya rata" 3 jam perhari.
+
+      - Jika ingin preview versi mobilenya jangan pakai mobile simulator karna tidak support (pakai devtool dan reload atau langsung dihp)
+      - Untuk tampilan Mobilenya sendiri ada beberapa yang berbeda dengan tampilan yang ada di desktop
+
+      (terutama saat hp atau smartphone di goyangkan.)
+
+      Btw ini web simple banget.
+
+      Saya membuat website ini hanya dengan
+      - HTML :html: 
+      - CSS :css: 
+      - Javascript :javascript: 
+      - Photoshop :photoshop: 
+
+      99% vanilla, karena 1%nya saya pakai bootstrap hanya untuk margin dan padding saja
+
+      Website: https://logicsekai.com/ | Repo: https://github.com/LogicSekai/logicsekai.github.io
+
+<br>
+
+5.  [https://blkkbaitulhikmahdepok.netlify.app/]  
+     **PR4GAN**  
+
+      Halo semuanya, ini adalah pertama kalinya saya mengikuti 🎨showcase-project . saya membuat project portofolio website untuk komunitas BLK (Balai Komunitas Kerja) untuk di setorkan ke kemnaker, perkenalkan nama saya M Alif fadlan, saya masih dibangku sekolah kelas 11 SMA. di pondok jadi jika masih banyak kekurangan mohon di maklumi, sayakan trus belajar.
+      Teknologi yang digunakan :
+      HTML 5
+      Bootstrap V4.3
+      CSS3 
+      Javascript 
+      FontAwesome (for icons)
+      
+      Github Repo  : https://github.com/MAliffadlan/blog-website-blkk
+      Link Website : https://blkkbaitulhikmahdepok.netlify.app/
+
+      Sekali lagi Terima kasih semuanya 
+
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://al-quran-digital.netlify.app/]  
+     **ShaWann**  
+
+      Assalamualaikum, Hai semuanya
+
+      Perkenalkan nama saya Muhammad Syafwan Ardiansyah, izin share project hasil belajar react, yaitu qur'an digital yang dibuat dengan react itu sendiri, react bootstrap dan animate.css
+
+      API : https://api.quran.sutanlab.id/
+      Web : https://al-quran-digital.netlify.app/
+      Repo : https://github.com/Syafwan000/quran-digital
+
+      Mohon kritik dan sarannya, jika suka dengan projectnya jangan lupa kasih star
+      Terimakasih :D 
+
+
+<br>
+
+7.  [https://nulis-zaadev.vercel.app/]  
+     **zXD**  
+
+      Assalamualaikum pak shandika dan semuanya :>
+
+      Perkenalkan nama saya Kejaa.
+      Kali ini saya membuat project sederhana dari node js. yaitu, Nulis Online. Mohon maaf bila terjadi bug :D
+
+      Saya terinspirasi dari website https://layzbot.my.id/
+
+      Sebagian html saya dapat dari github untuk landing page dan indexnya :D
+
+      Untuk pengguna smartphone saya saranin pake situs desktop ya :>
+
+      Bahasa yang di gunakan :
+
+      - JavaScript
+      - Css
+      - Html
+
+      Framework :
+
+      - Tailwind CSS
+
+      Fitur : 
+      
+      - Ganti Font
+      - Ganti Buku
+      - Set Tanggal
+      - Set Nama
+      - Set Mapel
+      - Set Kelas
+
+      Link website : https://nulis-zaadev.vercel.app/
+      Link repo : https://github.com/zaadevofc/nulis-online 
+
+<br>
+
+8.  [https://notreiss.netlify.app/]  
+     **Kyo**  
+
+      Assalamualaikum pak dhika dan kawan - kawan, perkenalkan nama saya Tegar Deyustian kali ini pengen share salah satu website blog post bernama "Notreiss" yang isi nya tulisan saya sendiri yg sifatnya edukatif, yang saya buat sendiri dari hasil belajar framework "Hugo" & template nya, teknologi yang digunakan js, scss (css preprocessor), dan boostrap jga....
+
+      Jadi Hugo ini framework yang memungkinkan website kita dirender dulu secara static sebagai file html baru di tampilkan, jadi data dinamis nya buka dari db, itu semua dilakuka hugo dan ketika ingin update content kita cukup menambahkan md file, mekanisme page ke page nya mirip kaya router di vue/react, jadi terdapat folder yang merepresentasikan path url
+
+      saya menggunakan netlify untuk hosting static web & forestry untuk cms static nya.... 
+
+      Link :  https://notreiss.netlify.app/
+      Repo : https://github.com/lynxeevnxx/notreiss
+      Static CMS : http://forestry.io/
+
+<br>
+
+9.  [https://jajankuydemo.netlify.app/]  
+     **Prasetyo**  
+
+      Assalamualaikum.
+      Selamat malam pa dika dan masyarakat discord WPU. Perkenalkan saya Prasetyo. Seorang pendamping santri di asrama, di salah satu pesantren di Bandung.
+      Ini proyek "cukup serius" pertama saya. Saya beri nama Jajan Kuy. Jajan Kuy merupakan aplikasi pesan jajan online berbasis web.
+      Berangkat dari permasalahan di pesantren saya dimana akibat dari covid gelombang 3 ini, para santri tidak bisa jajan secara langsung ke kantin-kantin. Oleh sebab itu, para pendamping santri di asrama harus memfasilitasi jajan santri dengan mencatat setiap pesanan santri dan mengirimkannya ke kantin via WhatsApp.
+      Dari pandangan saya, proses santri memesan, pendamping menuliskan pesanan, sampai pendamping mengirimkan pesanan via WhatsApp memakan waktu cukup lama. Maka dari itu, saya membuat aplikasi Jajan Kuy ini untuk sedikit membatu pekerjaan para pendamping.
+
+      Teknologi dan teknik yang saya gunakan :
+      - HTML
+      - Vanilla CSS
+      - Javascript
+      - DOM Manipulation
+      - Local Storage
+      - Spreadsheet API
+      - Sweet Alert
+      *) Kenapa saya pake mereka? Karena baru ini yang saya mengerti. Hehe..
+
+      Aplikasi ini terbagi menjadi beberapa bagian, diantaranya :
+      - Sisi client (untuk santri memesan)
+      - Sisi admin (untuk admin/pendamping merekap)
+      - Spreadsheet
+
+      Cara kerja Jajan Kuy kurang lebih dijelaskan pada berikut : https://i.ibb.co/c2yNGtB/jajankuy.png
+
+      Link demo untuk client : https://jajankuydemo.netlify.app/
+      Link demo untuk admin : https://jajankuydemo.netlify.app/admin.html
+      *) (edit) Silakan bisa langsung dicek untuk memastikan apakah sudah berjalan atau belum.
+      Link github repository : https://github.com/Hulhay/JajanKuy.github.io
+
+      Saya menyadari masih banyak kekurangan seperti penggunaan Spreadsheet yang latencynya kurang bagus. Oleh karenanya, mohon feedback dari pa dika dan rekan2 sekalian. 
+
+<br>
+
+10.  [https://aysrg9.github.io/wartegbinggris/]  
+     **Ujanh**  
+
+      Halo semuanya
+
+      Sebelumnya saya mohon izin untuk ikut showcase-project  pertama kali nya ya. Perkenalkan nama saya Egiditya, saya masih duduk dibangku kelas 11 SMA. dan disini saya ingin membagikan project web sederhana pertama kalinya yang saya buat. Jadi jika masih banyak kekurangan atau pun kesalahan mohon di maklumi, dan saya akan terus coba belajar mengenai programing
+      Website ini bertema Website Rumah Makan cerita nya hehehe, supaya lebih jelas bisa langsung kunjungi link dibawah ya. Terima kasih
+
+      Teknologi yang digunakan:
+      HTML
+      Bootstrap 5 
+      CSS
+      Javascript
+      AOS 
+      GSAP
+      Google Sheet
+      Google Maps
+      Google Script
+      
+      Github Repo :githubdark: : https://github.com/AYSRG9/wartegbinggris
+      Link Website : https://aysrg9.github.io/wartegbinggris/
+
+      Sekali lagi Terima kasih semua nya
+
+<br>
+
