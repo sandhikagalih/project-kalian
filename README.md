@@ -1807,26 +1807,5 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Atas perhatiannya kami ucapkan terima kasih!! 
 
 <br>
-
-8.  [https://shortest-paths.netlify.app/]  
-     **saugi**  
-
-      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding
-
-<br>
-
-9.  [https://shortest-paths.netlify.app/]  
-     **saugi**  
-
-      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding
-
-<br>
-
-10.  [https://shortest-paths.netlify.app/]  
-     **saugi**  
-
-      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding
-
-<br>
 <hr>
 
