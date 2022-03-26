@@ -1626,3 +1626,207 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
+<hr>
+
+
+### 26 Maret 2022
+
+1.  [https://stpndrs.github.io/wisata-pulau-jawa/]  
+     **TepanUyy**  
+
+      Halo warga wpu, saya kembali lagih setelah beberapa abad tidak masuk youtube dan akhirnya ada 1 project yang bisa di showcase lagi walaupun saya sendiri belum terlalu puas dengan hasilnya :v.
+
+      Perkenalkan nama saya Stevan Andreas, dari SMK Negeri 7 Samarinda kelas 10 umur 15 tahun jurusan PPLG (Pemrograman Perangkat Lunak dan Game)
+
+      Ini website buatan saya dalam rangka tugas bahasa inggris temanya wisata, sebenernya disuruh buat PPT cuman saya pengen aja bikin basis web... 
+
+      Untuk designnya lagi saya meminta ijin sama @Arif hermawan untuk pakai designnya di event wpu jam kemarin...
+
+      Walaupun hasilnya gak terlalu mirip hehe karna ada beberapa yang saya modifikasi dan saya hilangkan dari designnya @Arif hermawan 
+
+      Link repo : https://github.com/stpndrs/wisata-pulau-jawa
+
+      Link Github Pagesnya : https://stpndrs.github.io/wisata-pulau-jawa/
+
+      Dibuat pakai :
+      - HTML
+      - CSS
+      - JS
+      - Tilt JS
+      - Swiper JS
+      - Bootstrap
+      - AOS
+
+
+      Website ini dibuat dalam waktu 3-4 hari karna layout, dan beberapa kombinasi warna saya ambil dari designnya... (belum rapih responsivenya ya kak :v)
+
+      Sekian dari saya, selamat malam semuahh
+
+      Oiya minta sarannya ya hehe soalnya ga jago design :v 
+
+
+<br>
+
+2.  [https://xenodochial-kalam-f9db77.netlify.app/]  
+     **dihpan**  
+
+      Hai teman-teman assalamualaikum, nama saya Aji Mustofa. saya mau showcase game sederhana yang saya buat dengan JavaScript, gamenya adalah game Pong. yang saya beri nama PongChamp
+
+      Demo: https://xenodochial-kalam-f9db77.netlify.app/
+      Control: Panah atas dan bawah
+
+      Github Repo: https://github.com/pepega90/PongChamp
+
+      Teknologi yang digunakan:
+      - JavaScript
+      - kaboom.js (https://kaboomjs.com/)
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+3.  [https://nodejs-todolistapp.herokuapp.com/]  
+     **deo.rb**  
+
+      Halo warga wpu, sebelumnya saya mohon untuk ikut showcase-project  pertama saya.
+
+      Perkenalkan nama saya Deo Subarno, kelas 11 dari SMK Negeri 1 Kota Bekasi, umur 16 tahun jurusan Rekayasa Perangkat Lunak.
+
+      Ini merupakan aplikasi yang saya buat pertama kali yaitu aplikasi todolist sederhana.
+
+      Namun aplikasi saya ini masih banyak kekurangan, seperti belum ada fitur login yang membuat data todolist ini jika dibuka di tempat lain akan selalu sama. (Update soon)
+
+      Link Web : https://nodejs-todolistapp.herokuapp.com/
+
+      Link Repo Github: https://github.com/aphrodeosubarno/node-js-todo-app
+
+      Teknologi yang saya gunakan : 
+      - HTML :html: 
+      - Sass :sass: 
+      - Javascript :javascript: 
+      - Node JS :nodejs: 
+      - Express JS 
+      - MongoDB :mongodb: 
+
+      kritik dan saran diterima supaya saya bisa jadi lebih baik lagi hehe :wpugege: 
+
+      sekian dan terimakasih semuanya
+<br>
+
+4.  [https://azkifairuz.netlify.app/]  
+     **moonphase**  
+
+      hallo semuaa 
+
+      perkenalkan nama saya azkia ajmal fairuz, saya mahasiswa semester 2 di Universitas Cendekia Abditama ini pertama kali saya ikut showcase karena saya baru mendapat level 5 pagi ini hehehe
+
+      saya disini membuat  game "connect four" karena saya ingin melatih logic javascript saya 
+
+      Teknologi yang saya gunakan
+      -HTML
+      -CSS
+      -BOOTSTRAP
+      -JAVASCRIPT 
+      - JQUERY
+
+
+      link Website = >   https://azkifairuz.netlify.app/
+
+
+<br>
+
+5.  [https://yoghantara08.github.io/TaraCafe/]  
+     **Kusho**  
+
+      Halo Pak Sandhika Galih dan warga WPU semuanya, mohon izin untuk showcase project. Ini adalah pertama kalinya saya mengikuti 🎨showcase-project.
+
+      Perkenalkan nama saya Gustut Yoghantara asal dari Bali. Kali ini saya akan showcase project Website hasil dari belajar selama kurang lebih 2 Bulan dari channel Web Programming Unpas :youtube: . 
+
+      Website yang saya buat sangat sederhana yaitu website tentang Coffee Shop bernama : TaraCafe. Website ini merupakan landing page cafe / coffee shop pada umumnya.
+
+      Teknologi yang digunakan:
+      1. HTML :html: 
+      2. CSS :css: 
+      3. Javascript :javascript: 
+      4. Bootstrap :bootstrap: 
+      5. Jquery :JQUERY:
+      6. fslightbox.js (plugin untuk membuat lightbox)
+
+      Tools lainnya:
+      1. Unsplash (hampir semua images saya ambil dari situs web ini)
+      2. Dribbble (untuk mencari inspirasi design web)
+
+      Link Website : https://yoghantara08.github.io/TaraCafe/
+      Link Repo Github : https://github.com/yoghantara08/TaraCafe
+
+      Sekian Terimakasih teman2 semuanya, mohon kritik dan sarannya :wpugege:
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://joan-linktree.netlify.app/]  
+     **hehehe**  
+
+      hai! selamat pagi pak Sandika, teman-teman, abang kakak sekalian
+
+      perkenalkan nama aku Joan, aku masih duduk di kelas 1 smk Telkom Medan, kali ini aku ingin mengikuti showcase, doakan saya biar bisa terpilih hehe 🙂
+
+      link web yg mau showcase =>
+      https://joan-linktree.netlify.app/  
+
+
+<br>
+
+7.  [https://bql.co.vu/]  
+     **Dimmm**  
+
+      Halo kawan-kawan WPU semuanya!!
+
+      Terima kasih pak Sandhika sudah membangun wadah untuk para developer memamerkan projek2 untuk bisa dilihat orang banyak. 
+
+      Ini adalah pertama kalinya aku ikut acara showcase-project, jadi mohon bantuannya.
+
+      Di projek ini aku dan temanku @Whisper  membuat program untuk memendekkan link website yang panjang menjadi link yang lebih pendek, atau biasa dikenal sebagai link shortener.
+
+      Aku dan temanku sudah menambahkan segala fitur yang aku dan temanku rasa perlu ditambahkan untuk membuat website kita terlihat bagus, namun jika dirasa ada hal yang masih bisa diperbaiki dalam projek kami, akan sangat membantu jika kawan-kawan memberi masukan.
+
+      Projek kami dapat kawan-kawan lihat di https://bql.co.vu/
+
+      Repo projek kami di https://github.com/dimmmslots/bing-qi-link
+
+      Stack Teknologi yang kami gunakan : 
+      - HTML5 :html: 
+      - CSS3 (Bootstrap 5) :bootstrap: 
+      - JS (VueJS 3) :vuejs: 
+      - FontAwesome Icon 
+      - Firebase :firebase: 
+
+      Atas perhatiannya kami ucapkan terima kasih!! 
+
+<br>
+
+8.  [https://shortest-paths.netlify.app/]  
+     **saugi**  
+
+      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding
+
+<br>
+
+9.  [https://shortest-paths.netlify.app/]  
+     **saugi**  
+
+      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding
+
+<br>
+
+10.  [https://shortest-paths.netlify.app/]  
+     **saugi**  
+
+      Halo, ini adalah project iseng untuk visualisasi algoritma pathfinding
+
+<br>
+<hr>
+
