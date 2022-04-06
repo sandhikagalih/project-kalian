@@ -1809,3 +1809,263 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 <hr>
 
+### 6 April 2022 (Special Showcase)
+
+1.  [https://github.com/athallahmaajid/wamo]  
+     **sensei majed**  
+
+      Assalamualaikum saya sudah membuat aplikasi pencari wallpaper yang diberi nama wamo (WAllpaper MObile)
+
+      Repo:
+      https://github.com/athallahmaajid/wamo
+
+      Dibuat dengan:
+      - Flutter
+
+      Api (saya sendiri yang buat):
+      https://maajid-wallpaper-api.deta.dev/
+
+      Note: apk sudah ada di release, dan logonya juga saya yang buat
+
+      ---
+
+      Halo pak, izin showcase project portofolio saya 🙏 
+
+      Dibuat Dengan:
+      - HTML
+      - CSS
+      - Javascript
+      - animate.css
+      untuk background nya saya membuat nya dengan inkscape dan disimpan dalam bentuk svg
+
+      Github:
+      https://github.com/athallahmaajid/athallahmaajid.github.io
+
+      Website:
+      https://athallahmaajid.github.io/
+
+<br>
+
+2.  [https://www.figma.com/file/3i9yQgH1xXJimp2WjPOVcT/E---Ngaji-TPQ?node-id=0%3A1]  
+     **Wahyu_Saputra**  
+
+      assalamualaikumm semuanyaa , ijin showcase projek ya , sedikit cerita ini projek ui ux untuk mewakili kampus saya di event lomba ui ux di univ malang 
+      dengan konsep aplikasi yaitu E - Ngaji , kenapa saya buat E - Ngaji awalnya ide saya ini muncul karena di TPQ desa saya sedang ada kendala semenjak pandemi Covid jadi saya ada inisiatif , insyaallah untuk membuat aplikasi untuk anak anak di TPQ desa saya sendiri , untuk saat ini baru desain karena untuk proses developing nya masih mencari" teman desa yang bisa membantuu 
+
+      link figma : [https://www.figma.com/file/3i9yQgH1xXJimp2WjPOVcT/E---Ngaji-TPQ?node-id=0%3A1] 
+
+<br>
+
+3.  [https://github.com/reacto11mecha/nesbaen]  
+     **reacto_mecha!**  
+
+      Assalamualaikum pak dika, izin showcase project lama saya yang namanya nesbaen yang berasal dari kata absen. Jadi ini adalah project bot absensi yang berawal dari keresahan saya dimana pada saat PJJ semester 1 itu perlu absen lewat whatsapp atau google form, semisal kalo absen di whatsapp itu absennya perlu nunggu temen dulu dan terkadang gara-gara absen aja ada yang ribut gara-gara ngirim di waktu yang sama. Semisal pake google form juga perlu ngisi hal yang sama berulang kali, jadi cukup makan waktu sih kalau mau absen lagi.
+
+      Jadi bot ini saya buat karena alasan itu, saya buat bot whatsapp ini buat ngatasin masalah saya. Petunjuk pemakaian ada di readmenya, semisal ada yang mau ditanyain bisa ditanya aja lewat issue repositorinya.
+
+      Sedikit cerita, bot ini sebelumnya udah dicoba di ajuin ke sekolah, saya ketemu guru informatika sekolah, udah ditest akhirnya bisa, tapi telat gara-gara sekolah udah keduluan make web e learning yang saya juga bikin auto absensinya di repositori https://github.com/reacto11mecha/auto-attendance yang ini.
+
+      Link repositori: https://github.com/reacto11mecha/nesbaen
+      Terima Kasih!
+
+      ---
+
+      Halo pak, izin showcase project lagi, ini yang ketiga. Showcase yang ketiga ini project web portofolio pribadi saya yang repositori awalnya mandek udah dari juni 2021 karena tugas dan lain hal.
+
+      Kesulitan pas buat ini adalah ngatur gambar di card project sama ngatur warna border card di skill sama project. Kalo diliat css bagian component project jangan kaget kalo media querynya seabrek wkwkwk.
+
+      Project ini dibuat dengan
+      - Next JS
+      - Typescript
+      - Typed.js
+      - Picnic CSS
+
+      Link Website: https://www.rmecha.my.id/
+      Link Repositori: https://github.com/reacto11mecha/web-portofolio
+
+      Minta saran dan kritiknya ya temen-temen 🙏 
+      Terima kasih! 
+
+
+<br>
+
+4.  [http://kelompok4.tibsi2020.com/]  
+     **AlyaKagero**  
+
+      assalamualaikum pak sandhika dan teman-teman WPU.. saya izin mengikuti showcase project untuk pertama kalinya..
+      saya Alya Zalfa atau AlyaKagero. mahasiswi dari Universitas Bina Sarana Informatika semester 4 prodi Teknologi Informasi. ini project pertama saya namanya library.io, sebenarnya project ini hanya untuk memenuhi tugas UAS dari mata kuliah Web Programming 1 waktu semester 3 yang lalu..
+      jadi website ini adalah perpustakaan berbasis web (e-book) yang dapat memberikan akses untuk membaca secara Online dan ada fitur download yang bisa diakses secara offline (tapi gak semua buku yang bisa di download).
+      sebelum masuk ke website tersebut, harus login terlebih dahulu.
+
+      username: Admin
+      password :123456
+
+      teknologi yang digunakan:
+      - HTML 
+      - Boostrap 5
+      - Owl Carousel
+      - AOS (Animate On Scroll)
+      - PHP (sistem di laman login)
+
+      link Repo : https://github.com/AlyaKagerou/library.io
+      link Web : http://kelompok4.tibsi2020.com/
+
+      sekian terimakasih, 
+      mohon kritik dan sarannya...
+      wassalamualaikum... wr wb
+
+      ---
+
+      Assalamualaikum pak sandhika dan teman-teman WPU... saya izin showcase lagi
+      ini showcase kedua saya adalah personal web sederhana (portfolio) saya sendiri 
+
+      di project saya menggunakan :
+      - HTML
+      - Tailwindcss (CDN Version)
+      - typed.js
+
+      link Repo: https://github.com/AlyaKagerou/MyPersonalWeb
+      link Web : https://alyakagerou.github.io/MypersonalWeb/
+
+      mohon kritik dan sarannya ya kawan... karena web ini banyak kekurangannya..
+      terimakasih semuanya...
+      wassalamualaikum... wr. wb.
+
+<br>
+
+5.  [https://hollux.herokuapp.com/]  
+     **Jarjit ga nangis?**  
+
+      Selamat malam pak Dika dan teman-teman semua, izin ikutan showcase projek saya. Projek ini sebenarnya adalah tugas dari sekolah. Singkatnya, kelas saya disuruh membuat aplikasi berbasis website yang berguna untuk melakukan reservasi kamar hotel. Pengerjaannya sekitar seminggu sesuai deadline dari sekolah, untuk kodenya belum saya rapihin lagi, soalnya males🗿
+
+      Gambaran umum sistem: Hotel Hebat berencana membuat sistem pemesanan kamar berbasis web. Sistem yang akan dikembangkan terdiri atas tiga pengguna yaitu Tamu, resepsionis dan administrator. Aplikasi ini hanya digunakan untuk melakukan reservasi online, tidak mencakup fitur pembayaran.
+
+      Fiturnya bisa diliat di repositori aja ya.
+
+      Demo: https://hollux.herokuapp.com/
+      Repo: https://github.com/abinoval/hollux
+
+      Dibuat menggunakan TALL Stack > :tailwind: :alpinejs: :laravel: :livewire: < dengan versi terbaru dari masing² teknologi + database menggunakan PostgreSQL :postgresql: 
+
+      Akun:
+
+      Admin: adminnovalabi612@gmail.com
+      Resepsionis: receptionistnovalabi612@gmail.com
+      User: usernovalabi612@gmail.com
+
+      Password dari semua akunnya password.
+
+      Terimakasih, jangan lupa cek projekku yang lain hehe😅☝️ 
+
+
+<br>
+
+6.  [https://mainlah.github.io/portfolio-kusuma/]  
+     **Kusuma**  
+
+      Selamat pagi/siang/malem semuanya, izin share project kedua saya yaitu portfolio (iya, project pertama saya yang dishowcase bukan portfolio wkwk)
+
+      Link website : https://mainlah.github.io/portfolio-kusuma/
+      Link repo: https://github.com/MainLah/portfolio-kusuma
+
+      Project ini saya buat menggunakan HTML, CSS, JavaScript dan library starback.js (salah satu project warga WPU yaitu mas Saugi yang pernah di showcase juga).
+
+      Saya bikin portfolio ini dengan menerapkan latihan-latihan dan design-design yang saya dapat dari website 50projects50days.
+
+      Mohon masukannya, terima kasih 🙏
+
+      Note: iya fotonya sementara bukan foto saya, malu wkwkwk 
+
+
+<br>
+
+7.  [https://islamiah.vercel.app/]  
+     **Feri Irawan**  
+
+      Assalamualaikum pak Sandhika Galih dan kawan-kawan semua, apa kabar?
+
+      Perkenalkan saya Feri Irawan kelas 9 SMPN 40 BULUKUMBA.
+
+      Baiklah, izin untuk ikutan showcase projek yang GG ini lagi. Jadi ini adalah showcase ke-6 saya, yakni projek bernama "Islamiah"
+
+      Islamiah berisi tentang:
+      - Jadwal sholat hari ini (disertai suara adzan)
+      - Qur'an (disertai translate dan audio)
+      - Berita islamic
+      - Kalender sholat per bulan
+      - Yang lain menyusul. Hhhii 😊
+
+      Projek ini adalah projek yang saya buat untuk menyambut bulan suci Ramadhan dengan tampilan yang bertemakan Pinky. Hhhiii..
+
+      Link: https://islamiah.vercel.app/
+      Repo: https://github.com/feri-irawan/Islamiah
+
+      Dibuat dengan:
+      - ❤️
+      - NextJs
+      - TailwindCSS
+      - API jadwal sholat dan berita
+
+      Mohon kritik dan sarannya kawan-kawan.. Jangan lupa star ⭐ dan follownya juga yaa hhiii.. 😊
+
+      Semoga kita semua sehat selalu di bulan suci ramadhan, mohon maaf lahir dan bantin.
+
+      Sekian terima kasih
+
+<br>
+
+8.  [https://stpndrs.github.io/wisata-pulau-jawa/]  
+     **adhywiranto44**  
+
+      Halo Pak Sandhika dan kawan-kawan sekalian, izinkan saya untuk showcase projek sederhana saya. Jadi projek ini bernama Rumus matematika, teknologi yang dipakai adalah Next JS. Sebenernya tujuan dibuatnya projek ini untuk anak sekolahan SD-SMP-SMA sih jadi mau diimplementasiin jadi aplikasi desktop pake Electron jadi mudah diakses dari komputer/laptop mereka, tapi untuk sekarang develop dlm bentuk website dulu. Rumus-rumus yang sedang dibuat masih tentang bangun datar sama bangun ruang.
+
+      Link gan: https://rumus-matematika.vercel.app/
+      Bagi reponya dong gan: https://github.com/adhywiranto44/rumus-matematika/
+
+      Terimakasih Pak 
+
+<br>
+
+9.  [https://www.owncode.space/]  
+     **julians**  
+
+      Halo Pak Sandhika dan kawan-kawan 😄 akhirnya bisa ikut showcase juga setelah kejar projek ini. Projek ini saya berinama "OwnCode" yang pada awalnya memang dari "OwnTest" (nama framework testing javascript yang saya buat versi CLI), setelah saya lihat Pak Sandhika sering buat video untuk push CodeWars akhirnya terpikirkan untuk membuatnya sendiri versi indonesia menggunakan framework testing yang saya buat juga, sehingga namanya full dengan "OWN".
+
+      Projek ini tidak menggunakan Server Backend sendiri, jadi saya bangun menggunakan ServerLess dengan sentuhan Worker sehingga proses pembuatannya lebih cepat hanya 1 minggu saja.
+
+      Projek ini saya buat dengan:
+      - Next Js (Untuk FrontEnd)
+      - BootStrap 5 (Bagian UInya)
+      - Rust (Sebagai Worker dari Testingnya)
+      - Redis (Untuk cache data user ke Serverless)
+      - MongoDB (sebagai Database Utama)
+      - Golang API (hanya untuk auth)
+      - Sentry (untuk monitoring FrontEnd)
+      - Datadog HQ (untuk monitoring Serverless dan Backend)
+
+      fyi: alasan saya tidak menggunakan Docker untuk tes solusi dari user yaitu ketika spawn docker container lebih lambat dari proses tesnya, sehingga saya memiliki membuat 3 worker dengan Rust (worker tes), Javascript (worker cache frontend dan worker API ke Serverless), semuanya berjalan multithread. 
+
+      Semoga platform ini bisa menjadi tempat teman-teman berlatih algoritma sebelum terjun ke interview kerja langsung, nextnya saya akan tetap update soal yang relate dengan interview juga.
+
+      Jika teman-teman ingin mencoba bisa mendaftar dengan kode undangan : webprogrammingunpas 😄 (kode undangan saya hapus setelah showcase ya)
+
+      Link Website: https://www.owncode.space/ (Ruang Kode Sendiri)
+      Link Framework Testing: https://rahmatagungj.github.io/owntest/index.html
+
+      Projek ini close source dan menerima kontributor untuk mengembangkannya secara tim. 
+
+
+<br>
+
+10.  [https://slowy07.github.io/]  
+     **arfy slowy**  
+
+      selamat pagi pak dhika, kembali lagi dengan saya arfy, kali ini saya ingin showcase yang agak sedikit berbeda dari biasanya, yang sebelumnya saya selalu showcase yang berhubungan dengan kecerdasan buatan atau AI,. ah kali ini saya ingin showcase web portofolio saya, yah dari sini saya belajar dari temen2 helper, dan terima kasih juga untuk mereka yang sudah memberikan saran yang baik dan serta bantuannya, terkhususnya @Kusuma 💯 ( terima kasih ), disini saya tidak mengutamakan bentuk dan desain tetapi diutama isi dari portofolio dan dari project ini juga saya belajar sedikit banyak tentang framework.
+      pada kali ini saya membuat web portofolio saya dengan menggunakan
+      - boostrap 5 ( content font nya menggunakan font jetbrains )
+      - typed js ( untuk membuat efek ketikan )
+      - splide js ( untuk membuat content slide dan image carouselnya )
+      untuk web portofolionya bisa dilihat disini
+      https://slowy07.github.io/
+
+      sekali lagi terima kasih untuk para helper wpu yang telah memberikan saran yang baik, dan membantu saya, and terima kasih pak dhika, boleh di roasting, bebas ;v
