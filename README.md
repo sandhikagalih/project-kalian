@@ -2069,3 +2069,274 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       https://slowy07.github.io/
 
       sekali lagi terima kasih untuk para helper wpu yang telah memberikan saran yang baik, dan membantu saya, and terima kasih pak dhika, boleh di roasting, bebas ;v
+
+<br>
+<hr>
+
+### 22 April 2022
+
+1.  [https://nate-configurator.netlify.app/]  
+     **naonvl**  
+
+      Halo Pak Sandhika Galih dan temen-temen WPU semuanya, izin untuk showcase project. Ini pertama kalinya saya mengikuti showcase-project .
+
+      Sebelumnya perkenalkan saya Naoval Luthfi dari Bandung saya berprofesi di bidang 3d design and development kali ini saya mau showcase project pribadi saya yaitu 3d product configurator/customizer. 
+
+      Dikarenakan beberapa video showcase project yang sudah-sudah saya belum melihat yang pakai teknologi webgl, CMIIW, dan kebetulan juga saya menekuni 3d design dan front-end development.  Saya membuat project ini bertujuan mempelajari webgl melalui Playcanvas, juga semoga bisa jadi media pembelajaran bagi temen-temen yang tertarik di dunia webgl.
+
+      Teknologi yang digunakan:
+      1. WebGl menggunakan Playcanvas 
+      2. HTML:html: 
+      3. Vanilla JS :javascript: 
+      4. CSS:css: 
+      5. Bootstrap:bootstrap: 
+
+      Tools Lainnya
+      1. Blender 
+      2. Autodesk FBX Viewer
+
+      HTML, JS, dan CSS digunakan untuk pembuatan UI dan interaksi dengan entity/object di dalam canvas nya Playcanvas.
+      Blender saya gunakan untuk modelling, uv unwrapping, texturing, dll. Mohon maaf jika aga lambat ketika loading karena belum saya optimize lebih jauh.
+
+      Link website : https://nate-configurator.netlify.app/
+      Link github : https://github.com/naonvl/vespa-configurator-playcanvas (Export dari Playcanvas Editor)
+      Link Playcanvas Editor : https://playcanvas.com/project/893704/overview/product-configurator
+
+      Untuk membuka Playcanvas editor harus daftar dulu, atau bisa gunakan akun demo saya buatkan khusus untuk showcase
+
+      email : tudnuf@a.zeemail.xyz
+      password : showcaseprojectwpu
+
+      Lalu klik editor -> product showcase scene, untuk melihat bagaimana saya membuat configurator tersebut.
+
+      Sekian dan terimakasih buat semua atas kesempatannya, mohon kritik dan sarannya.
+
+<br>
+
+2.  [https://mfaqihridho.vercel.app/]  
+     **mfaqihridho**  
+
+      Assalamualaikum halo pak dhika dan kawan kawan di wpu semua, perkenalkan nama saya Faqih, sebelum masuk ke projectnya saya ingin berterima kasih kepada pa dhika tentunya karena dengan adanya channel youtube wpu saya bisa sampai di level ini meskipun belum jago sih hehe, 
+      projectnya hanya personal portofolio website saja, tadinya saya mau showcase semua project saya tapi karena kebanyakan jadi sekalian aja hehe, mohon maaf saya belum sempet compress beberapa imagenya jadinya performa speednya belum terlalu bagus
+
+      Teknologi yang digunakan:
+      React js :reactjs: 
+      Tailwind CSS :tailwind: 
+      Gsap 
+
+      Github Repo: https://github.com/MFaqihRidho/personal-portfolio
+      Link Website: https://mfaqihridho.vercel.app/
+
+      Sekian terima kasih mohon kritik dan sarannya dari para suhu.
+
+<br>
+
+3.  [https://cryptoddash.netlify.app/]  
+     **hanif**  
+
+      Halo Pak Sandhika Galih, halo semua teman” penonton WPU. Saya Hanif, siswa SMA di Jakarta. Kali ini saya izin showcase project, juga ini pertama kalinya buat saya hehe. 
+
+      Jadi nama sitenya CryptoDash, merupakan website yang menyajikan live data dari top 100 cryptocurrency. Data ini diambil dari API coingecko, juga website ini tidak menggunakan backend sama sekali. Jadi website ini hanya mengambil data dari API dan menampilkannya. 
+      Tambahan sedikit, disini ada hal kecil yang cukup unik bagi saya. Dimana data harga (angka-angka) dari APInya, dikirim tanpa penanda koma untuk besarannya. Tetapi dengan beberapa cara, saya dapat mengubah angka tersebut menjadi ada penandanya. Misal “123456”, akan di convert menjadi “123,456”, atau juga bisa menjadi “123,4 thousand” sesuai dengan ketetapan besarannya.
+
+      Beberapa teknologi/tools yang digunakan : 
+      - HTML
+      - CSS
+      - TailwindCSS
+      - Javascript
+      - CanvasJS (Untuk visualisasi data chart ke bentuk canvas, Link : https://canvasjs.com/)
+      - Coingecko API (Link : https://www.coingecko.com/)
+
+      Github Repo : https://github.com/hanif-page/CryptoDash
+      Live Website : https://cryptoddash.netlify.app/
+
+      Sangat membantu jika ada saran dan masukan dari bapak sendiri, ataupun teman-teman yang menonton. Mohon maaf juga jika codenya masih kurang dan tidak begitu clean. Terima kasih Pak Sandhika, dan teman-teman
+
+<br>
+
+4.  [https://upbeat-rosalind-125fd2.netlify.app/]  
+     **dihpan**  
+
+      Hai teman-teman assalamualaikum, nama saya Aji Mustofa saya mau showcase game sederhana yang saya buat dengan JavaScript dan kaboom.js. Jadi ini adalah game clone dari "Feeding Frenzy" yang saya beri nama "Feeder Frenzy". untuk lama pengerjaanya 1 bulan
+
+      Demo: https://upbeat-rosalind-125fd2.netlify.app/
+
+      Github Repo: https://github.com/pepega90/feeder-frenzy
+
+      Teknologi yang digunakan:
+      - Kaboom.js (https://kaboomjs.com/)
+      - Assetnya by davidprasetyo (http://www.mediafire.com/file/6fhwfa58qh3ttut/ikanjahat.davidprasetyo.com.rar/file)
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+5.  [https://docs.wibusaka.moe/]  
+     **QCTFW**  
+
+      Assalamu'alaikum wr wb
+      Halo semuanya!
+
+      Nama saya Azhar dan saya mau showcase project terbaru saya yaitu WibuSaka API.
+      Sebenarnya ini adalah project lanjutan dari project sebelumnya, WibuSaka.
+      WibuSaka API ini adalah REST API untuk memberikan data berupa platform yang tersedia untuk anime yang ditentukan melalui request API berdasarkan ID anime list favorit kalian. (Saat ini baru support MyAnimeList dan AniList)
+
+      Project ini cocok untuk kalian yang memiliki bot Discord / extension web browser yang mengutamakan anime.
+
+      Saat ini, WibuSaka API hanya menyediakan 2 endpoint, yaitu:
+      1. https://api.wibusaka.moe/v1/resources/anime/myanimelist?id=
+      2. https://api.wibusaka.moe/v1/resources/anime/anilist?id=
+
+      Misalkan user ingin mengetahui platform yang tersedia untuk menonton anime "One Piece".
+      Cari ID MyAnimeList/AniList untuk "One Piece" dengan melihat URL nya. (Untuk One Piece, URL nya adalah https://myanimelist.net/anime/21/One_Piece, berarti ID nya adalah 21)
+      Request ke API seperti ini. https://api.wibusaka.moe/v1/resources/anime/myanimelist?id=21
+      Lalu nanti akan muncul hasilnya.
+      Jika ingin merequest banyak ID, pisahkan ID-ID dengan koma ?id=1,12,20,21
+
+      Semoga API ini bisa bermanfaat dan digunakan oleh kalian.
+      Kritik dan saran sangat diapresiasi. 🙏
+
+      Tools & Libraries:
+      - Laravel 9  :laravel:
+      - Redis :redis:
+      - Netlify :netlify: (untuk hosting API Docs)
+      - StyleCI (untuk penyesuaian style code)
+      - GitHub Actions :githubdark: (untuk testing fitur)
+      - Repository [arm-server](https://github.com/BeeeQueue/arm-server) dan [anime-offline-database](https://github.com/manami-project/anime-offline-database) (untuk sinkronisasi ID)
+
+
+      Untuk informasi lebih lanjut, kunjungi link-link berikut ini.
+      API Base URL: https://api.wibusaka.moe/
+      API Documentation: https://docs.wibusaka.moe/
+      GitHub Repository: https://github.com/qctfw/wibusaka-api
+
+<br>
+
+6.  [https://anijp.netlify.app/]  
+     **Richardo**  
+
+      Halo semuanya, izin showcase project saya. Ini pertama kali saya mengikuti showcase project.
+
+      Perkenalkan saya Richardo dari Riau. Saya ingin showcase Website Music Player yang saya buat selama belajar React. Sebenarnya fitur - fitur yang ada website ini saya meniru dari Spotify dan Joox, jadi mungkin banyak kesamaan. Lagu - lagu yang ada baru sedikit, karena cape download lagu dari google terus upload lagi ke server backend.
+
+      Fitur - fiturnya sudah saya buat semaksimal mungkin agar bekerja semua. Kalau ada yang fitur yang tidak bekerja atau ada yang error, akan sangat membantu jika teman - teman memberikan masukan.
+
+      Teknologi yang digunakan:
+      ReactJS :reactjs: 
+      Tailwind :tailwind: 
+      Firebase :firebase: 
+      Sanity
+      Slick
+      TippyJS 
+
+      Github Repo : https://github.com/Re-Creators/anijp-react
+      Link Website : https://anijp.netlify.app/
+
+      note : kalau mau lihat versi mobile harus refresh page dulu
+
+      Sekian dari saya, Terimakasih semuanya.
+
+<br>
+
+7.  [https://jhvonsky.netlify.app/]  
+     **jhvonsky**  
+
+      Halo Pak Sandhika Galih dan temen-temen WPU semuanya, izin untuk showcase project. Ini pertama kalinya saya mengikuti 🎨showcase-project .
+
+      Sebelumnya perkenalkan saya Jeriko Ichtus Seo dari Jakarta saya adalah siswa dari sekolah SMK MediaInformatika Jakarta Kelas 11 kali ini saya mau showcase project pribadi saya yaitu Website Portfolio Saya.
+
+      Dikarenakan beberapa video showcase project yang sudah-sudah saya belum melihat yang pakai teknologi CMS jadi kali ini saya akan membuat portfolio menggunkan CMS yaitu Sanity.io.
+
+      Teknologi yang digunakan:
+      1.React :reactjs: 
+      2. Framer-Motion
+      3. Sanity.io
+      4. Sass / Scss
+      5. Javascript :javascript: 
+
+      Tools Lainnya
+      1. nodemon
+      2. React HOC(Higher Order Component)
+
+      React,Javascript digunakan sebagai menampilkan UI lalu ada Sass digunakan untuk mempercantik halaman web tanpa menggunakan framework css lain kemudian ada Framer-Motion yang digunakan sebagai animasi untuk setiap elemen yang ada di web, yang terakhir dan tidak kalah penting adalah Sanity.io, sanity digunakan sebagai content management system sehingga saya tidak perlu ribet-ribet mengganti konten yang ada kode tetapi dengan hany menggunakan CMS pengaturan kontent semakin mudah.
+
+      Link Website : https://jhvonsky.netlify.app/
+      Link Github : https://github.com/signofcommunication/Portfolio-2.0
+      note: Folder backendnya belum bisa diupload dikareankan ada masalah ketika upload
+      Sekian dan terimakasih buat semua atas kesempatannya, mohon kritik dan sarannya.
+
+<br>
+
+8.  [https://kalkulatorbmi.netlify.app/]  
+     **smbrang**  
+
+      Hallo teman-teman izin pamerin project saya namanya Kalkulator BMI
+      Kalkolator ini untuk menghitung apakah berat badan kita itu normal, kurang, berlebih atau obesitas.
+      Dan kalkulator ini juga akan memberikan rekomendasi berat badan yang ideal untuk kita jika berat badan kita kurang, berlebih atau obesitas
+
+      link web : https://kalkulatorbmi.netlify.app/
+      link repo : https://github.com/musmuliadi26/kalkulator-bmi
+
+      Dibuat dengan : 
+      -html
+      -css
+      -bootstrap 5
+      -javascript
+
+      terima kasih
+
+<br>
+
+9.  [http://bisa-ngopi.herokuapp.com/]  
+     **ShaWann**  
+
+      Assalamualaikum
+
+      Halo Pak Sandhika Galih dan semuanya, selamat pagi/siang/sore/malam, mohon izin untuk showcase project.
+      Perkenalkan nama saya Muhammad Syafwan Ardiansyah, project ini merupakan project kasir cafe yang saya beri nama BisaNgopi dan memiliki 3 role yaitu Admin, Manager, Cashier. Saya buat cukup sederhana, karena untuk memenuhi tugas di sekolah.
+
+      Teknologi yang digunakan :
+      1. Laravel 9
+      2. Livewire 2
+      3. Bootstrap 5
+      4. Laravel Excel
+      5. DomPDF
+      6. Template Dashboard
+
+      Demo akun :
+      -Admin
+      username: admin000
+      password: password
+
+      -Manager
+      username: manager000
+      password: password
+
+      -Cashier
+      username: cashier000
+      password: password
+
+      Link Web : http://bisa-ngopi.herokuapp.com/
+      Link Repo : https://github.com/Syafwan000/bisa-ngopi
+
+      Mohon maaf jika projectnya biasa biasa saja, dan mohon untuk kritik dan sarannya, Terimakasih
+
+<br>
+
+10.  [https://go-simp.humanz.moe/]  
+     **yarn**  
+
+      Hi, saya Yarn, dan saya redesign sebuah website orang untuk bot discord untuk menampilkan member vtuber. Funfact sebelumnya pake bootstrap (abailan dashboard nya). Anyway botnya pake GO.
+
+      Teknologi:
+      - Vue 3 latest
+      - Tailwind 3 latest
+      - Font awesome 6
+
+      Link web: https://go-simp.humanz.moe/
+      Link repo (website): https://github.com/JustHumanz/Go-Simp/tree/master/service/new-web-vue
+
+      Thanks
+
+<br>
+
