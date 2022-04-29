@@ -2339,4 +2339,187 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Thanks
 
 <br>
+<hr>
+
+
+### 29 April 2022
+
+1.  [https://quran-digiweb.vercel.app/]  
+     **Yakeeniku**  
+
+      Assalamualaikum warahmatullahi wabarakatuh, perkenalkan nama saya Rizky Rafi Azhara. Disini saya mau showcase project yang pas banget nih lagi di bulan Ramadhan
+
+      Disini saya membuat website Al-Qur'an yang datanya diambil dari API. Pengerjaanya ini dari 3 hari yang lalu dan saya membuat ini sambil untuk belajar lebih Vue.js
+
+      Tools & Libraries yang digunakan:
+      - Vue.js 3
+      - Tailwind CSS
+      - Vue.js Loading Overlay
+
+      Url: https://quran-digiweb.vercel.app/
+      Github: https://github.com/rizkraf/vue-quran
+      API: https://github.com/renomureza/quran-api-id
+
+      Mungkin sekian dari saya, mohon juga kritik dan sarannya ya, Terima Kasih.
+      Waalaikumsalam warahmatullahi wabarakatuh
+
+<br>
+
+2.  [https://azimcopas.netlify.app/]  
+     **dev/azim**  
+
+      Assalamualaikum wr wb perkenalkan nama saya azim saya baru pertama kali ikutan show case jadi saya mau show simple web portfolio saya
+
+      Siapa tahu ada teman teman yang dapat ide setelah melihat  web portfolio saya
+
+      Tool & library 
+      Reactjs
+      Bootsrap
+
+      Link : https://azimcopas.netlify.app/
+      Github : https://github.com/BudAzimbud/portfolio_web
+
+      Masih banyak kekurangannya dari segi struktur kode nya dan tampilanya tapi akan saya update terus karena baru 2 bulan belajar react plus html css nya
+      Sekian dari saya mohon kritik dan saran nya terima kasih
+      Waalaikumsalam wr wb
+
+<br>
+
+3.  [https://tugaslist.netlify.app/]  
+     **PILIPUS**  
+
+      Hallo teman teman Wpu Perkenalkan nama saya PILIPUS,ini adalah showcase project kedua saya,dan kali ini saya sudah membuat web yaitu TugasList yang gunanya untuk mencatat tugas agar kalian tidak lupa dengan tugas sekolah kalian,ditugaslist terdapat fitur:todolist,chat room(rencana), login,sign,untuk signup email-nya sembarangan aja contoh: ngawur@gmail.com , password harus:8karaker,1hurufbesar,1angka,1teks unik,
+      untuk sekarang chat room  hanya tampilannya saja belum berfungsi sebagai mana mestinya. Sekian terimakasih
+
+      •saran dan masukkan saya terima kalo pengen ribet from contacts sudah berjalan!!!
+
+      Teknologi yang saya gunakan
+      -Mern
+      -sweetAlert
+      -react bootstrap untuk halaman Home
+      -particleBg
+
+
+      •link website nya: https://tugaslist.netlify.app/
+
+<br>
+
+4.  [https://sautmanurung.my.id/]  
+     **Saut manurung**  
+
+      Hallo teman teman Wpu Perkenalkan nama saya Saut Manurung,ini adalah showcase project yang saya tidak tau udah berapa kali ,dan kali ini saya sudah membuat web yaitu Portofolio website sederhana yang saya buat.
+
+      Mohon maaf atas kesederhanaan nya dikarenakan saya tidak pandai dalam frontend dev
+
+      Teknologi yang saya gunakan
+      - Bootstrap 4.5.3
+      - Menu Blog (lagi dalam proses membuat)
+
+      Link website nya : https://sautmanurung.my.id/
+
+<br>
+
+5.  [https://kajian.netlify.app/]  
+     **Nomad.HiddenAltz**  
+
+      Assalamualaikum Pak dika dan Mahasiswa WPU , kali ini saya ingin mengirim projek sederhana, yaitu formulir absensi kajian, yang saya gunakan untuk absensi saat kajian malam di sekolah saya beberapa minggu lalu
+
+      Teknologi yg saya pakai:
+      - HTML
+      - TailwindCSS
+      - JS
+      - Google spreadsheet
+
+      Fitur :
+      - Nama minimal 2 karakter (aku pkai min-leght di htmlnya)
+      - Absensi Minimal 1 dan Maximal 31 (pkai min dan max)
+      - Isi Rangkumannya minimal 15 kata ( ini aku pkai function javascript...pas itu pada protes minimal rangkumannya kebanyakan🗿)
+      - Untuk Melihat Berapa kata yg dah ditulis dibawahnya ada word counting (itu jg aku pkai function javascript)
+      - Oiya itu kalian bisa kirim" gpp udah ga kepakai 👍
+
+      Linknya :
+      Formnya : https://kajian.netlify.app/
+      Spreadsheetnya : https://docs.google.com/spreadsheets/d/1X0yVzkJXASiHotlW1UCbb67ytsw2t1QTvWDsB1yFVbc/edit?usp=drivesdk 
+
+
+<br>
+
+6.  [https://virtohardiman.github.io/dicoding-bookshelf-app/]  
+     **Virto**  
+
+      Halo semuanya, perkenalkan nama saya Virto Hardiman ingin membagikan projek aplikasi manajemen buku sederhana menggunakan local storage browser yang pernah saya buat dua bulan yang lalu untuk tugas submission salah satu kelas Dicoding front end. Maaf karena tampilan aplikasinya belum dibuat responsif, dan terima kasih.
+
+      Teknologi yang digunakan:
+      1. HTML :html:
+      2. CSS :css:
+      3. JavaScript :javascript:
+
+      Tools lainnya:
+      1. Figma :figma: (untuk edit gambar dan desain)
+
+      Link website: https://virtohardiman.github.io/dicoding-bookshelf-app/
+      Link Github: https://github.com/VirtoHardiman/dicoding-bookshelf-app
+
+<br>
+
+7.  [https://wiklapandu.github.io/suit-game/]  
+     **wikla**  
+
+      Assalamualikum pak Dhika. 
+      ijin share game suit sederhana dengan rule suit jepang. game ini dibuat dengan sederhana hanya menggunakan pure css, js, html dan library sweetalert.
+      Mohon saran dan dukungannya, supaya kedepannya saya makin semangat untuk memperbaiki game ini 😂
+
+
+      Link Github : https://github.com/wiklapandu/suit-game
+      Link Website : https://wiklapandu.github.io/suit-game/
+<br>
+
+8.  [https://github.com/HanzHaxors/NonSense]  
+     **Hanz**  
+
+      Assalamu'alaikum pak...
+      Izin share CLI app sederhana. Perkenalkan NonSense, suatu app kecil yang dapat membuat kombinasi suku kata unik yang dapat digunakan untuk kebutuhan apapun. Unlicensed.
+
+      Link Repository: https://github.com/HanzHaxors/NonSense
+
+<br>
+
+9.  [https://rieckypoerwadiredja.github.io/business-website/]  
+     **Zernox**  
+
+      Halo semuanya, izin showcase project saya. Ini pertama kali saya mengikuti showcase project.
+      
+      Sebelumnya perkenalkan saya Riecky dari Bandung, kali ini saya mau showcase project pribadi saya yaitu Website Bisnis.
+
+      Halaman web ini terlihat sederhana namun tetap terlihat modern dengan sedikit tambahan animasi. Dalam pemilihan tema warna saya memilih biru tua karena warna biru memiliki makna kepercayaan dan profesionalisme yang sesuai dengan tujuan website saya, dimana perusahaan perlu memberikan kesan pertama yang baik kepada konsumen.
+
+      Website Dibuat dengan : 
+      - html 
+      - vanilla css 
+      - vanilla javascript
+
+      Link Github : https://github.com/rieckypoerwadiredja/business-website
+      Link Website: https://rieckypoerwadiredja.github.io/business-website/
+
+      Mohon untuk kritik dan sarannya, Terimakasih
+
+<br>
+
+10.  [https://rizkimuhpasinringi.github.io]  
+     **Rizki;**  
+
+      Assalamualaikum pak Dhika.
+      Perkenalkan nama saya Rizki. Saya sekarang duduk di bangku SMP kelas 8..saya belajar web di Channel pak Dhika udah kurang lebih sebulan.
+      Saya izin share project Pertama saya yaitu portfolio...ini adalah project pertama saya setelah belajar sama pak Dhika😃..mohon saran dan kritik nya.
+
+      Teknologi Yang Saya Gunakan:
+      - Html
+      - CSS
+      - Bootstrap
+
+      Link github : https://github.com/RizkiMuhPasinringi/rizkimuhpasinringi.github.io
+      Link Website :  https://rizkimuhpasinringi.github.io
+
+<br>
+
 
