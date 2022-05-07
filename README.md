@@ -2521,5 +2521,194 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Link Website :  https://rizkimuhpasinringi.github.io
 
 <br>
+<hr>
+
+### 7 Mei 2022
+
+1.  [https://muhammad-saufi-roja-f1326a.netlify.app/]  
+     **oja**  
+
+      Halo Pak Sandhika Galih dan temen-temen WPU semuanya, izin untuk showcase project. Ini pertama kalinya saya mengikuti 🎨showcase-project .
+
+      perkenalkan nama saya Muhammad Saufi Roja dari Banjarmasin, saya merupakan mahasiswa akuntansi yang salah jurusan
+
+      website ini merupakan website portofolio, tujuan saya membuat portofolio ini adalah untuk menampilkan hasil project saya dan pengalaman yang pernah dicapai, meningkatkan personal branding, menampilkan skill dan kemampuan saya, dan mendapatkan tawaran kerja
+
+
+      Teknologi yang digunakan adalah
+      - Reactjs
+      - Material UI
+
+      link website: https://muhammad-saufi-roja-f1326a.netlify.app/
+      link github: https://github.com/saufiroja/portofolio
+
+
+<br>
+
+2.  [https://socialmediamernstack-v2.herokuapp.com/]
+     **ilhamrizqullah**  
+
+      Assalamualaikum pak dhika dan kawan - kawan, perkenalkan nama saya Ilham Rizqullah kali ini saya pengen share salah satu website Social Media V2 karena ini adalah penyempurnaan dari Versi 1
+
+      Sosial Media V2 adalah platform digital yang memfasilitasi penggunanya untuk saling berkomunikasi atau membagikan konten berupa tulisan, foto, video, dan merupakan platform digital yang menyediakan fasilitas untuk melakukan aktivitas sosial bagi setiap penggunanya
+
+      Fitur Spesial:
+      - Voice Call
+      - Video Call
+      - Realtime Notification
+
+      Stack yang kami gunakan:
+      - MongoDB
+      - ExpressJs
+      - ReactJs
+      - NodeJs
+
+      Link :  https://socialmediamernstack-v2.herokuapp.com/
+
+<br>
+
+3.  [http://todo-list.lovestoblog.com/]  
+     **Yabsir Aditya**  
+
+      Assalamualaikum Pak Dhika dan teman-teman WPU
+      Perkenalkan nama saya Yabsir, izin mengikuti Showcase Project pertama saya yaitu website To-Do-List sederhana yang saya gunakan untuk mencatat tugas saya.
+
+      Teknologi yang di gunakan :
+      -Tailwind CSS
+      -Sweetalert2
+      -PHP
+      -SQL
+
+      Link Github : https://github.com/yabsiraditya/to-do-list
+      Link Website : http://todo-list.lovestoblog.com/
+
+      Mohon untuk kritik dan saranya, supaya lebih semangat lagi kedepannya, Terima Kasih
+
+<br>
+
+4.  [https://piketvue.vercel.app/]  
+     **saifuddien**  
+
+      sore pak dhika waktu sudan...hhe
+
+      saya Arief Saifuddien dari Jepara
+      saya mau tunjukkan project iseng kedua  saya , san kali ini dengan vue, dari implementasi vue yang udah dipelajari,  composition api script setup , dan vue router...
+
+      project ini iseng2an buat sehari jadi,, judulnya 'piket sabtu' karena kebetulan disini kan ramadhan biasanya ada saung indo buat masak2 buka dan sahur, lah perpiket biasanya pada buat pamflet2 menu2nya,, dari situ saya memilih buat web app menampilkan menu2 per pekan khusus hari sabtu.. 
+
+      fiturnya :
+      - info menu persabtu (data masih statik dari json, ngga pake db, karena cuma iseng)
+      - info jadwal sholat (data dinamis dari API)
+      - info cuaca (data dinamis dari API) bisa diubah dengan input form 
+
+      tech :
+      - vue js & vue router
+      - tailwind
+      - vite
+      - vercel
+      - json
+
+      app version: 
+      - expo
+      - react native (webview)
+
+      bisa cek github saya :
+      https://github.com/saifuddien/piket_vue
+
+<br>
+
+5.  [https://www.fahmiidris.dev/]  
+     **Fahmi Idris**  
+
+      Assalamualaikum sadayana, pak dhika, para dosen, km, mahasiswa, dan rakyat indonesia.
+      Alhamdulillah udah level 10 ya gaes ya, izin mau ikutan 🎨showcase-project.
+
+      Perkenalkan saya Fahmi Idris dari Kab. Bogor.
+      Ini project website pribadi saya, sebenernya ini sudah pernah masuk 🎨showcase-project dulu akhir tahun 2021, namun sekarang sudah di rubah total untuk UI nya hehe.
+
+      Link Website : https://www.fahmiidris.dev/
+      Link GitHub: https://www.github.com/fahmiidris-labs/fahmiidris.dev
+
+      Project ini menggunakan Teknologi:
+      - Next.js
+      - Tailwind CSS
+      - TypeScript
+      - dll
+
+      UI ini terinspirasi dari website tailwindcss.com, dan jujurly ada banyak kode yang nyomot dan di modifikasi (ATM) dari reponya.
+
+      Terimakasih semua nya 🙏🏻
+
+
+<br>
+
+6.  [http://ukmteateroksigen-unmuhjember.unaux.com/]  
+     **dwi.adisa**  
+
+      Assalamualakum wr wb  pak Shandika Galih
+      saya Arrrohim Dwi Ksatria mahasiswa TI Unmuh jember,izinkan saya mengikuti 🎨showcase-project  pertama kalinya
+      Dikarenakan UKM saya membutuhkan sebuah website profil akhirnya saya membuat project gabut berupa website profil ukm. Dan juga sebelumnya terima kasih kepada semua anggota UKM yang telah membantu saya membuat project ini. Dan project ini kedepannya akan ditambah fitur rekrutment dengan menggunakan CI versi 3 yang sedang in progress. Semoga cepat selesai.
+
+      Tools yang saya pakai
+      1. Wordpress
+
+      Semoga web ini bermanfaat kritikan dan saran akan kami terima dan sebagai pelajaran ke depannya 
+      Link website : http://ukmteateroksigen-unmuhjember.unaux.com/  (mohon maaf jika hostingan bermasalah)
+
+      Ataa perhatiannya kurang lebihnya kami mohon maaf terima kasih
+
+<br>
+
+7.  [https://indoxxi.navetacand.my.id/]  
+     **navetacandra**  
+
+      Selamat pagi/siang/sore semuanya,
+      Saya mau izin share project yang baru aja saya selesai-in kemarin.
+
+      Sebelumnya perkenalkan nama saya Naveta Candra, siswa kelas 9 SMP dari Kab. Tangerang. Setelah sekian lama saya tidak mengikuti 🎨showcase-project, akhirnya kembali mengikuti lagi.
+
+      Website yang saya kerjakan ini adalah Website Streaming Film, jadi mungkin melanggar Hak Cipta. Dan sedikit-banyak mengandung iklan di streaming yang tidak bisa saya kendalikan (bukan saya pengiklan-nya).
+
+      Project kali ini juga sedikit berbeda karena mengerjakannya dengan 2 device berbeda yakni Handphone(Android) dan PC(Windows 10). Hal ini karena menurut saya pengolahan data lebih cepat dikerjakan di HP saya (karena PC-nya masih HDD), selain itu saya juga ingin mencoba membuat API di HP, dan alasan yang terakhir karena PC saya tidak bisa install Git.
+
+      Tools/App yang digunakan :
+      - VSCode
+      - Termux & Nano
+      - Browser
+
+      Teknologi yang digunakan :
+      - ReactJS
+      - Bootstrap
+      - Firebase Hosting (Web)
+      - Heroku Hosting (API)
+      - Heroku Dyno Scheduler (API)
+
+      Link GitHub (Web) : https://github.com/navetacandra/indoxxi-cinema
+      Link GitHub (API) : https://github.com/navetacandra/indoxxi-api
+
+      Link Web : https://indoxxi.navetacand.my.id/
+
+<br>
+
+8.  [https://baitulhikmahdepok.com/]  
+     **PR4GAN**  
+
+      Assalamualaikum pak Sandhika Galih, saya izin mau mengikuti 🎨showcase-project  kedua kalinya. 
+
+      Perkenalkan nama saya M Alif fadlan, saya adalah santri dari pondok pesantren Baitul Hikmah Depok dan sekarang di bangku kelas 12
+
+      Dikarenakan posisi saya disini sebagai sekretaris pondok, akhirnya saya disuruh untuk mengurusi website ini. Tetapi saya tidak lupa dengan teman saya yang sudah membantu juga yaitu @IbnuSholeh  dan @veren22 
+
+      Tools yg saya pakai hanya:
+      1.Wordpress
+
+      Semoga Website ini bisa bermanfaat. 
+      Kritikan kalian semua akan kami terima dan akan kami perbaiki untuk kedepannya yang lebih baik. 
+
+      Link Website : https://baitulhikmahdepok.com/
+      Atas perhatiannya kurang lebih nya mohon maaf terima kasih!!
+
+<br>
+<hr>
 
 
