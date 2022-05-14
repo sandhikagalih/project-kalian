@@ -2712,3 +2712,190 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <hr>
 
 
+### 14 Mei 2022
+
+1.  [https://gura.waifu.click/]  
+     **Andre R**  
+
+      Selamat malam, mau share project bareng @Huda Damar  & @selene466 
+
+      Gura Click merupakan web app hiburan yang bertema anime ( Vtuber ). Cara bermainnya sangat simpel dan sederhana hanya mengklik atau tap pada karakter anime tersebut maka akan menampilkan score. Dan juga dapat bersaing dengan penguna di seluruh dunia.
+
+      Teknologi yang di gunakan:
+      - React Js
+      - Firebase
+      - TailwindCSS
+
+      Link Website:
+      https://gura.waifu.click/
+
+      Link Mobile App:
+      https://play.google.com/store/apps/details?id=com.wibucode.guraclick
+
+
+
+      Terimakasih 🙏
+
+<br>
+
+2.  [https://illumination-landingpage.vercel.app/]  
+     **KuchingNeko**  
+
+      Haloo semua sebelumny perkenalkan nama saya KuchingNeko.
+
+      Izin share project sederhana saya yang di buat saat ramadhan kemarin, sedikit cerita awal ny saya g tau mau ngapain jadi iseng" ngebuat design di figma, karna saya tambah bosan jadi putuskan untuk lanjut ke slicing agar menjadi real web dan sekalian improve skill saya
+
+      Ini pertama kaliny saya nyoba full design di figma trs lanjut ke slicing, jadi kalo ada kekurangan di project ini mohon di maklumi.
+
+      Terma kasih pak dika atas video playlist css ny akhirny saya pelan" bisa keluar dari Tutorial Hell 🐱‍💻
+      
+      Project ini dibuat dengan seperti biasa vanilla :
+      - HTML
+      - CSS
+      - JS
+
+      Tambahan : 
+      - Owl carousel ( Untuk slide ) 
+      - Lightbox ( Untuk image viewer ) 
+
+      Pengerjaan memakan waktu 2 minggu lebh karna banyakny assets yg harus di siapkan.
+
+      Link web : https://illumination-landingpage.vercel.app/
+      Link github repo : https://github.com/kuchingneko28/illumination-landingpage
+      Link design : https://dribbble.com/shots/18236355-Illumination-Landingpage
+
+<br>
+
+3.  [https://nezu.my.id/]  
+     **KagChi**  
+
+      Hai ! izin share landing page untuk bot discord ku !
+
+      Build with:
+      - Next.js & Typescript 
+      - Tailwindcss
+      - Backend API menggunakan rabbitmq untuk communicate dengan bot
+
+      Link website: https://nezu.my.id/
+
+<br>
+
+4.  [https://youtube-music-player-five.vercel.app/]  
+     **Vann**  
+
+      Halo semuanya, kenalin nama saya Stevan kemarin sempat showcase juga disini, cuma web nya lagi kebanyakan request, jadi error, sekarang, mau showcase lagi, karena web nya juga udah dibenerin soal request, special thanks to KagChi dah bantu benerin
+
+      Project ini saya buat menggunakan
+      Nextjs
+      Tailwindcss
+
+      Sebagai backend nya saya pakai
+      Express
+      ytdl
+      ytsr
+      axios
+
+      Oh ya, beberapa video kena region block, jadi mohon maaf
+
+      Link Project:  https://youtube-music-player-five.vercel.app/
+      Link repo: https://github.com/Vann-Dev/Youtube-Music-Player
+      Github saya: https://github.com/Vann-Dev
+
+<br>
+
+5.  [https://guessyourcrush.netlify.app/]  
+     **ShaWann**  
+
+      Hai semuanya, izin share project bernama GuessYourCrush, 
+
+      Jadi di project ini kita bisa nebak nama mau itu nama crush/temen atau siapa pun, tebak nama ini cuman bisa nebak 1 kata nama aja, jadi misal namanya Muhammad Syafwan Ardiansyah yang bisa ditebak hanya diantara 3 kata itu. dan cuman bisa nebak sampe nama yang terdiri dari 7 huruf saja. (bisa sih lebih cuman banyak bug sama error, ini pun 7 huruf kadang masih ada bug). dan untuk cara mainnya sudah dijelaskan di dalam websitenya.
+
+      Ide project ini saya dapatkan dari buku catatan sekolah saya saat smp, setelah itu saya kepikiran untuk dijadikan website. project ini saya buat menggunakan React.
+
+      Web: https://guessyourcrush.netlify.app/
+      Repo: https://github.com/Syafwan000/guess-your-crush
+
+      *kalau terjadi bug di refresh saja dan jika tebakannya salah berarti kamu ada yang salah di step sebelumnya hehehe
+
+      Mohon kritik dan sarannya
+      Terimakasih :D
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://atranathemes.github.io/]  
+     **Andreww**  
+
+      Akhirnya,,,Rilis juga template atrana admin dashboard versi v1.0, masih banyak kekurangan dan bugnya,  tetapi next bakal update lagi ke versi berikutnya...
+
+      NOTE: Rilis pertama ini masih dalam pengembangan, jadi terdapat bug, tampilan tidak responsive. ect
+
+      Repo: https://github.com/atranathemes/Atrana
+      Preview: https://atranathemes.github.io/Atrana
+
+<br>
+
+7.  [https://muhammad-saufi-roja-f1326a.netlify.app/]  
+     **:^)**  
+
+      Halo Pak Sandhika Galih dan temen-temen WPU semuanya, izin untuk showcase project. Ini pertama kalinya saya mengikuti 🎨showcase-project .
+
+<br>
+
+8.  [https://song-list.vercel.app/]  
+     **oja**  
+
+      Halo semuanya, nama saya Sheez dan ini pertama kali saya ikut showcase.
+
+      Saya izin share website pertama saya yang memakai teknologi webgl menggunakan threejs.
+
+      Website ini saya buat untuk belajar webgl. Jadi, efek2nya masih simple & belum responsive. Dan juga maaf kalo websitenya ngelag karena saya masih belum tahu cara optimisasi dengan baik dan benar 😅
+
+      Teknologi yang saya gunakan:
+      - HTML
+      - SCSS
+      - JS
+      - Three.js
+      - GSAP
+      - Vite (build tool)
+
+      NOTE: Kalau mau distream mungkin websitenya harus dimute dulu biar ga kena copyright
+
+      Link website: https://song-list.vercel.app/
+
+<br>
+
+9.  [https://altilunium.github.io/smabekasi/]  
+     **rtnF**  
+
+      Dalam rangka menyambut PPDB SMA yang semakin dekat, saya membuat peta sekolah negeri di kota saya. Tujuannya, untuk memudahkan orang tua murid dalam mengambil keputusan memilih SMA terbaik (dan terdekat) bagi putra putrinya.
+
+      Sumber data dari https://top-1000-sekolah.ltmpt.ac.id/. Tech stacknya : qgis, mapbox
+
+      Link demo : https://altilunium.github.io/smabekasi/
+
+
+<br>
+
+10.  [https://github.com/pepega90/pepega-knife]  
+     **dihpan**  
+
+      Hai teman-teman assalamualaikum, nama saya Aji Mustofa saya mau showcase game sederhana yang saya buat dengan C++ dan raylib (btw jika ada teman-teman yang tertarik untuk belajar membuat game dengan C++ dan raylib, bisa kunjungi channel youtube saya https://youtu.be/sW8ducAQ2XM). Jadi ini adalah game clone dari "Knife Hit" yang saya beri nama "Pepega Knife.
+
+      Demo: untuk demonya teman-teman bisa clone projectnya, lalu klik main.exe
+      Control: Tekan "Space" untuk throw knifenya
+
+      Github Repo: https://github.com/pepega90/pepega-knife
+
+      Teknologi yang digunakan:
+      - raylib (https://www.raylib.com/)
+      - C++
+      - assetnya nyari-nyari di github
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
