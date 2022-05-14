@@ -2841,13 +2841,6 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 7.  [https://muhammad-saufi-roja-f1326a.netlify.app/]  
      **:^)**  
 
-      Halo Pak Sandhika Galih dan temen-temen WPU semuanya, izin untuk showcase project. Ini pertama kalinya saya mengikuti 🎨showcase-project .
-
-<br>
-
-8.  [https://song-list.vercel.app/]  
-     **oja**  
-
       Halo semuanya, nama saya Sheez dan ini pertama kali saya ikut showcase.
 
       Saya izin share website pertama saya yang memakai teknologi webgl menggunakan threejs.
@@ -2868,7 +2861,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-9.  [https://altilunium.github.io/smabekasi/]  
+8.  [https://altilunium.github.io/smabekasi/]  
      **rtnF**  
 
       Dalam rangka menyambut PPDB SMA yang semakin dekat, saya membuat peta sekolah negeri di kota saya. Tujuannya, untuk memudahkan orang tua murid dalam mengambil keputusan memilih SMA terbaik (dan terdekat) bagi putra putrinya.
@@ -2880,7 +2873,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-10.  [https://github.com/pepega90/pepega-knife]  
+9.  [https://github.com/pepega90/pepega-knife]  
      **dihpan**  
 
       Hai teman-teman assalamualaikum, nama saya Aji Mustofa saya mau showcase game sederhana yang saya buat dengan C++ dan raylib (btw jika ada teman-teman yang tertarik untuk belajar membuat game dengan C++ dan raylib, bisa kunjungi channel youtube saya https://youtu.be/sW8ducAQ2XM). Jadi ini adalah game clone dari "Knife Hit" yang saya beri nama "Pepega Knife.
@@ -2899,3 +2892,21 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
+10.  [https://cempat-in.vercel.app/]  
+     **AurelionSol**  
+
+      Halo semuanya, perkenalkan nama saya shola, saya ingin showcase platform sharing cerita tiap tempat yang dikunjungin bebasis map yaitu Cempat.in. 
+
+      Link website: https://cempat-in.vercel.app/
+      Link repo: https://github.com/Aqshola/cempat.in
+      Teknologi yang digunakan:
+      - ReactJS
+      - Mapbox
+      - Supabase
+
+
+      web ini dibuat selain buat sharing2 cerita juga buat bahan saya mendalami react nguehehe
+      Ceritain tempat yang dikunjungin? ya di cempat.in
+
+<br>
+<hr>
