@@ -2910,3 +2910,243 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+
+### 21 Mei 2022
+
+1.  [https://determined-hopper-b7f2a0.netlify.app/]  
+     **acla**  
+
+      Hello everyone :hehehe: , I'm thrilled to share some of my project (my friend ask me to join this showcase-project) here it is my Game News API project that alhamdulillah got 5 Star before in Dicoding Backend Basic last Project at Bangkit Academy 2022 as Cloud Computing Student rn :
+
+      Stacks used :
+      - HTML 5
+      - CSS 3
+      - JavaScript & Ajax
+      - 🎮 Game API
+
+      Website: https://determined-hopper-b7f2a0.netlify.app/
+      Github: https://github.com/Aclaputra/games-portal
+
+      Not the best but still okay i presume, its just fetching some API with ajax for loop also its Already responsive using CSS Media Query that I learned it before at Progate Bootcamp in new year 2021. hope its accepted, thank you everyone
+
+<br>
+
+2.  [https://alavanta.dev/]  
+     **alavanta**  
+
+      Selamat pagi/siang/sore teman2 semuanya
+
+      Perkenalkan Saya Dhieo Deva Alavanta, saya ingin mengikuti #show-case-project ini.
+
+      Awal mula saya bingung ingin membuat website portofolio seperti apa, tetapi setelah research tentang daftar2 website portofolio keren di internet
+      saya memutuskan untuk membuat website portofolio interactive (interactive cv).
+      Selanjutnya saya melakukan design menggunakan figma dengan cara saya menulis dulu mvpnya.
+      dan kemudian saya lanjut melakukan research pada teknologi yang akan saya gunakan dan terpilihlah teknologi seperti berikut:
+      - HTML
+      - CSS
+      - Javascript
+      - Phaser3
+      - Module bundler: Parcel
+      - Hosting: Google Cloud Platform(GCP)
+      - Image Editor(untuk membuat assets): Aseprite
+      - Design App : Figma
+      
+      Link Website: https://alavanta.dev/
+
+      Terimakasih atas perhatiannya dan salam ngoding!
+
+<br>
+
+3.  [https://wa.yehezgun.com/]  
+     **YehezkielGunawan**  
+
+      Hai semuanya,
+
+      Perkenalkan, saya Yehezkiel Gunawan dari Bogor. Saya ingin showcase web app sederhana yang bisa generate WhatsApp link, sehingga gak perlu repot lagi untuk mengirim pesan ke satu nomor WA apabila nomor HPnya belum di-save. Selain itu ada fitur copy link yang bisa menyalin link WA yang telah digenerate.
+
+      Sebenarnya ini mini-project yang cukup mainstream, tapi saya buat versi saya sendiri karena awalnya merasa biar gak repot kalau mau kirim pesan WA tanpa harus save nomor HP orangnya wkwk.
+
+      Tech Stack yang digunakan:
+      - Next.js (Typescript)
+      - Tailwind CSS
+      - Tinyurl API (sebagai link shortener)
+
+      Link Demo: https://wa.yehezgun.com/
+
+      Walaupun sebenarnya saya buat untuk diri saya sendiri, tetapi boleh banget apabila teman2 sekalian ingin mencoba menggunakannya juga. Terima kasih
+
+<br>
+
+4.  [http://43.247.36.85/ci-tiket/]  
+     **bahyusanciko**  
+
+      Halo World, perkenalkan nama saya Bahyu Sanciko.
+
+      Izin share project KKP penulisan saya tentang ticketing bus, disini aplikasi di bangun di tahun 2019 dan penulisan selesai tahun 2022 alhamdulillah sudah sidang KKP tinggal menunggu lg untuk saya sidang skripsi, dimana ini project web pertama saya yang kompleks, di mana ada menu pembelian tiket dan managent bus nya lalu tiketnya.
+      
+      Project ini dibuat menggunakan :
+      - Frontend (Boostrap,Jquery) 
+      - Backend (CodeIgniter, Mysql)
+
+      Link web : http://43.247.36.85/ci-tiket/
+      Link github repo : https://github.com/bahyusanciko/ci-tiket 
+
+
+<br>
+
+5.  [https://exploreindonesia.netlify.app/]  
+     **Ry.anthz**  
+
+      Selamat pagi, siang sore, perkenalkan saya Ry berumur 10 tahun, Izin saya mau share project yg saya kerjakan dari awal mei
+
+      Explore indonesia adalah website yg memberikan sedikit informasi tentang wisata di indonesia, explore indonesia ini hanya untuk computer ya blm responsive dan di saran kan untuk menggunakan 100% zoom web
+      mohon maaf kalo banyak kurang nya , mohon saran nya ya teman2 dan pak dhika .
+
+      Teknologi yang di gunakan:
+      - html 
+      - css
+      - scss
+      - bootstrap 
+
+      Link Website : https://exploreindonesia.netlify.app/
+
+      Link github repo : https://github.com/RNRYT/exploreindonesian.github.io 
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://polmed.epizy.com/index.php?page=home]  
+     **amal**  
+
+      Selamat malam pak saya M. Amal Ikhsani, umur saya 18 tahun, hobi saya ngoding dan membuat project.
+
+      kali ini saya membuat website social media untuk kampus saya yaitu polmed (Polsri Media), alasan saya membuat website ini karena saya ingin mahasiswa polsri saling berkomunikasi, saya terinspirasi dari mark zukerberg pembuat facebook.
+
+      teknologi yang di gunakan :
+      - html
+      - css
+      - js
+      - php
+
+      Link Website : https://polmed.epizy.com/index.php?page=home
+
+<br>
+
+7.  [https://muhamadramdani275.github.io/]  
+     **sora**  
+
+      Selamat pagi, siang, sore dan malam Pak Dhika serta warga titik koma. Perkenalkan nama saya Muhamad Ramdani Hidayatullah, saya seorang Staff Tata Usaha di sebuah sekolah negeri di Jawa Barat yang suka sama web programming. Akhirnya bisa ikut showcase project lagi.
+
+      Kali ini saya mau coba kirim Web Portfolio, web ini masih bagian frontend nya aja. Rencana nanti mau dikasih admin panel dan backend supaya bisa add project yg sudah pernah dibuat dan mau ada blog section untuk iseng tulis2 artikel sama launching project yang baru dibuat. Intinya dibuat menjadi CMS kecil2an.
+
+      Teknologi yg digunakan :
+      1. HTML
+      2. CSS
+      3. Javascript
+      4. TailwindCSS
+      5. Boxicons (Icon)
+      6. Font Awesome (Icon Toast untuk Contact Form)
+      7. AOS.js
+      8. LightGallery.js
+      9. Typed.js
+      10. Emailjs (Library untuk kirim pesan dari Contact Form ke email)
+
+      Untuk menu "Certificates" belum jalan karena belum dibuat sectionnya. Nanti akan ditambahkan.
+      Buat temen2 yg ngerasa familiar dengan tampilan dari web saya, web saya ini hasil ATM dari video Channel Youtube Bedimcode.
+
+      Ini link video nya : https://www.youtube.com/watch?v=27JtRAI3QO8&t=1605s
+
+      Saya porting web portfolionya dengan menggunakan TailwindCSS dan saya modif juga beberapa bagian seperti bagian "Skills" yg divideo aslinya pake persentase. Saya ubah jadi hanya menampilkan logo dari teknologi yg saya kuasai.
+
+      Link Portfolio : https://muhamadramdani275.github.io/
+
+      Link Github : https://github.com/muhamadramdani275/muhamadramdani275.github.io
+
+      Terima kasih sebelumnya Pak Dhika dan temen2 yg lain, sudah mau review project saya.
+
+<br>
+
+8.  [https://raneysha.github.io/poorman-nitro/source.html]  
+     **debb**  
+
+      Halo teman-teman WPU sekalian. Perkenalkan nama saya Cahyo Dwi Setiono(debb). Saya mahasiswa prodi Pendidikan Teknik Informatika dan Komputer Universitas Negeri Semarang (UNNES).
+      Ini adalah showcase project pertama saya. Disini saya membuat web untuk generate reaction image dari kata kunci yang ada. Web ini saya buat saat saya belajar tentang javascript, fetch dan JSON. Judul dari project ini adalah Poorman-Nitro.  Alasan saya membuat project ini  adalah agar kita dapat menggunakan banyak reaction image di discord meskipun tidak memiliki nitro. 
+      Teknologi yang digunakan : 
+      1.    HTML
+      2.    CSS
+      3.    Javascript
+      4.    Bootstrap
+      Link repository : https://github.com/raneysha/poorman-nitro
+      Link web : https://raneysha.github.io/poorman-nitro/source.html 
+
+
+<br>
+
+9.  [https://www.mangatlx.my.to/]  
+     **wiryaimd**  
+
+      Halo.. izin share projek dari saya
+      perkenalkan saya wirya, siswa SMK, saya sebenarnya seorang android developer dan saat ini sedang mendalami bidang web development
+      disini saya punya projek yang merupakan versi website dari aplikasi saya yaitu Manga Translator
+
+      jadi web ini dapat melakukan translate komik ke berbagai bahasa secara instan, 
+      hanya perlu memasukan gambar komik atau url web komiknya sudah mendapat hasil translate yang cukup akurat
+
+      Teknologi yang saya gunakan:
+      * Web:
+      - Reactjs
+      - Bootstrap
+      - Spring Boot
+      - MySQL
+      - GCP, Vision API
+
+      * Android:
+      - Java
+      - ML Kit
+
+      Website: https://www.mangatlx.my.to/
+      Android App: https://play.google.com/store/apps/details?id=com.wiryaimd.mangatranslator
+      Repository Web: https://github.com/wiryaimd/mangatlx
+
+      sample komik yang dapat digunakan
+      https://kumacdn.club/images/f/fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru/chapter-46/11-61d27c495d4da.jpg
+      https://kumacdn.club/images/f/fukushuu-o-koinegau-saikyou-yuusha-wa-yami-no-chikara-de-senmetsu-musou-suru/chapter-46/9-61d27c44329fb.jpg
+
+<br>
+
+10.  [http://chat-app-1-one.vercel.app/]  
+     **OR Abdillah**  
+
+      Halo, semuanya
+      Perkenalkan saya Oka R. Abdillah asal Kalimantan Selatan. Izin untuk bisa bergabung pada showcase project kali ini 🙌🏻🙌🏻
+
+      Kesempatan kali ini saya mau membagikan sebuah project pribadi saya berupa slicing design UI ke dalam real interface, disini saya mencoba berkoloborasi dengan salah satu member UI/UX Designer Indonesia di FB dalam membangun aplikasi web based dengan konsep chat app ✌🏻
+
+      Tools dan teknologi yang saya gunakan :
+      1. Vue JS 3
+      2. Vite JS
+      3. Tailwind
+      4. Pinia State Management
+      5. Vue Router
+
+      Cara kerja aplikasi ini mengandalkan Pinia sebagai state management dan router dalam melalukan pertukaran data antar component, namun ini belum saya lakukan persisted pada state nya, jadi kalo di refresh kembali ke awal 🙂
+
+      Untuk code editor saya masih pakai Micro Text Editor terminal based karna waktu itu belum terlalu bisa pakai NeoVim 😂, oiya untuk tahap development saya cuman pakai aplikasi termux di android buat jalanin terminal dan lain2 di smartphone ✨
+
+      Untuk dokumentasi dan live previewnya ada dibawah ini ya mungkin aja ada dari kawan2 disini mau mengembangkannya lagi ✌🏻 ,,
+      Oiya... di akun instagram saya juga sering posting hasil project slicing design pake Vue JS dll,, mungkin kalo berkenan mau mampir dipersilahkan @or.abdillh 👍🏻
+
+      Terima Kasih Pak Dika 🙌🏻🙌🏻
+
+      Repository GitHub
+      https://github.com/or-abdillh/chat-app
+
+      Live preview :
+      http://chat-app-1-one.vercel.app/
+
+<br>
+
