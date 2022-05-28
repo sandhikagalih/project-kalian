@@ -3149,4 +3149,261 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       http://chat-app-1-one.vercel.app/
 
 <br>
+<hr>
+
+
+### 28 Mei 2022
+
+1.  [http://fian-news.herokuapp.com/]  
+     **AlFian**  
+
+      Halo semuanya!
+      Perkenalkan Nama saya Fian 16 tahun, ini pertama kalinya saya ikut show case project ☺️
+
+      Saya membuat System Blog sederhana yang didalamnya ada admin dashboard untuk memposting article yang menggunakan format penulisan seperti README github.
+
+      Teknologi yang digunakan
+      * HTML
+      * CSS
+      * JavaScript
+      * PHP v8+
+      * MariaDB (database)
+
+      Login Admin Dashboard
+      Username : wpu
+      Password : wpu123
+
+
+      Repository Github : https://github.com/fiandev/blog
+      link website : http://fian-news.herokuapp.com/
+
+<br>
+
+2.  [https://blog.huntstopup.com/]  
+     **RAY Hunts**  
+
+      Assalamualaikum Wr. Wb.
+
+      Halo semuanya!
+      Perkenalkan Nama saya Rehan 19 Tahun dari Probolinggo.
+      Saya baru mengenal Pemograman sejak Agustus Tahun lalu, melaului bootcamp gratisan HTML CSS JS dari Progate
+      Terimakasih Progate dan Inside Coding yang membuat saya kecanduan ngoding
+
+      Alhamdulillah setelah mengenal WPU pengetahuan saya semakin bertambah.
+
+      Saya membuat website blog dengan menggunakan framework Laravel yang merupakan praktek dari Playlist Laravel 8 di WPU,
+      Project ini memakan waktu 2 minggu setelah saya marathon playlist tersebut kira-kira 5 kali. Sebenarnya sudah hampir selesai pada munggu pertama. Tapi karena saya menginstall laravel/breeze, beberapa view direset oleh breeze, sehingga saya harus mempelajari blade component terlebih dahulu, terimakasih kepada Channel Youtube Parsinta yang telah menyediakan materi mengenai breeze dan blade component. dan terimakasih kepada Mahasiswa WPU Discord yang telah membantu saya dalam mengatasi berbagai masalah yang terjadi.
+
+      Dalam project ini teknologi yang saya gunakan yaitu:
+      - Laravel 9.8
+      - Laravel Mix
+      - Laravel Breeze
+      - Laravel Blade Component
+      - TailwindCSS
+      - tw-elements   https://tailwind-elements.com/
+      - Merakiui https://merakiui.com/
+      - Git Version Control
+      - Github Copilot
+
+      Credential untuk login bisa didaftarkan di langsung di website-nya dengan menggunakan email yang valid karena masih ada proses verifikasi.
+
+      Mungkin teman teman bisa bantu ramaikan articlenya dulu agar paginationnya bisa direview antinya.
+
+      link repository ~ branch breeze:
+
+      https://github.com/RAYHunts/laravel-blog/tree/breeze
+
+      link website:
+
+      https://blog.huntstopup.com/
+
+      Kritik dan sarannya bisa dikirimkan melalui issue di repository tersbut.
+
+      Wassalamualaikum Wr. Wb
+
+<br>
+
+3.  [https://bean791.github.io/AsPi]  
+     **Pemula**  
+
+      Hallo semuanya salken saya Robin dari kelas XTKJ 1 SMK Petra Surabaya. 
+
+      Sekilas cerita awalnya saya tidak begitu suka pemprograman cuma bulan Desember kemarin salah satu teman saya membagikan tentang channel WPU dari sana saya mulai tertarik dengan pemrograman karena saat saya melihat projects showcase ternyata banyak cerita menarik yang cerita cerita tersebut malah Tanpa di sadari membakar semangat saya sehingga saya mulai mendalami pemprograman walaupun belum mahir saya sangat berterima kasih pada pak Dhika karena telah banyak mengshare cerita dan projects yang waw.
+
+      Kembali ke topik utama hari ini ijinkan saya mengshare web dokumentasi kelompok saya. Untuk web ini sendiri sebenarnya di buat untuk mempromosikan projects AsPi yang kami buat selama hampir 1 semester menggunakan bahasa pemrograman python, sekaligus sebagai web hasil pertama saya dalam belajar tailwind. 
+
+      Sekilas tentang AsPi. AsPi merupakan projects yang bertujuan untuk membuat AI yang memiliki GUI dengan tujuan dapat membantu dan memudahkan user.
+
+      Di web ini terdapat 3 page di mana ada halaman utama, kontributor,dan dokumentasi
+      Untuk pages dokumentasi bisa di pakai untuk mencari info tentang fitur di AsPi 
+      Contoh:
+      Utama : untuk mencari tentang halaman utama
+      Semua : untuk menampilkan semua fitur
+      Login : untuk menampilkan fitur login 
+      Dll
+
+      Untuk teknologi yang di gunakan:
+      -Html
+      -JS
+      -CSS
+      -tailwind
+
+      Link web:
+      https://bean791.github.io/AsPi
+      Link repo:
+      https://github.com/Bean791/AsPi
+
+      Btw saya agak minder saat mau ikutan projects showcase ini. Karena selain ini pertama kali saya mengikuti nya projects showcase ini jugalah yang membuat saya menjadi bersemangat dalam pemrograman 🔥
+
+      Btw kalau boleh kasih kritik dan saran ya 😁
+
+<br>
+
+4.  [https://harryrc.netlify.app/]  
+     **Past**  
+
+      Halo semuanya! Salken nama saya Harry. Disini saya ingin share web portfolio saya. Saran dan kritik bisa di kirim lgsung di dm atau pake contact form yang disiapin. (Bisa juga lewat sosmed)
+
+      Dibuat dengan :
+      • HTML
+      • Tailwind CSS
+      • JScript
+      • Formsubmit
+      • Heroicons
+
+      Web: https://harryrc.netlify.app/
+      Github: https://github.com/PastGH/harryrc-portfolio-tailwind
+
+<br>
+
+5.  [https://arblo.vercel.app/]  
+     **arfian-rp**  
+
+      Assalamualaikum pak dika, nama saya Arfian,
+      saya ingin showcase project blog buatan saya Arblo => article blog, 
+
+      website : https://arblo.vercel.app/
+      github : https://github.com/arfian-rp/arblo
+      jangan lupa starnya kawan 🙂
+
+      project ini saya buat dengan:
+      - nextjs typescript
+      - mongodb
+      - bcrypt (untuk hash password)
+      - jwt
+      - tailwindcss
+
+      website ini saya buat setelah belajar nextjs, kekurangannya tidak bisa mengupload gambar,
+
+      mohon kritik dan saran, Terimakasih
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://altilunium.github.io/timeliine/]  
+     **rtnF**  
+
+      Halo, selamat malam..
+
+      Latar Belakang 
+      Kebetulan sekarang saya mendapat amanah menjadi 'Project Manager'. Oleh karena itu, saya membutuhkan aplikasi untuk membuat timeline, untuk memonitor keberlangsungan project saat ini.
+      
+      Rumusan Masalah 
+      Setelah saya cari di Google, ternyata tidak ada satupun aplikasi web pembuat timeline yang gratis.
+
+      Deskripsi Solusi dan Implementasi
+      Akhirnya, saya buat sendiri, sebuah library javascript untuk membuat timeline.
+
+      https://github.com/altilunium/timeliine
+
+      Dibuat pakai D3.js
+
+<br>
+
+7.  [https://quie.000webhostapp.com/]  
+     **Moch iqbal**  
+
+      Assalamuaikum,
+      Hallo pak dhika dan teman teman semuanya Kali ini saya mau share project saya
+      inspirasi dari website secreto .ini website ke 3 kalinya yang masuk ke showcase-project pak sandhika
+
+      website ini di buat menggunakan:
+      -laravel
+      -hostingan gratisan
+
+      waktu pengerjaan:
+      -3 hari
+
+      Link Website : https://quie.000webhostapp.com/
+      Link Repo : https://github.com/iqbalroni/secreto_KW
+
+      Demikian dari saya, mohon saran dan kritikannya supaya saya dapat membuat website yang lebih menarik kedepannya. Sekian terimakasih 🙂
+
+<br>
+
+8.  [https://twice-tribute.vercel.app/]  
+     **Sharon**  
+
+      Halo Pak Sandhika dan kawan-kawan. Saya Dhafit, kali ini saya ingin showcase project iseng yang berisikan tentang idol grup favorit saya yaitu TWICE.
+
+      Teknologi yang saya gunakan:
+      - Next JS
+      - Typescript
+      - MongoDB (mongoose)
+
+      Link: https://twice-tribute.vercel.app/
+      Github: https://github.com/dhafitf/twice
+
+      Jika ingin menggunakan API yang digunakan pada web ini, silahkan scroll sampai bawah dan klik For Developers. Atau klik link https://twice-tribute.vercel.app/developers
+
+<br>
+
+9.  [https://github.com/Iosevka-Mayukai/Iosevka-Mayukai]  
+     **kucingputih.js**  
+
+      Halo semuanya, silahkan bisa dicoba font custom build Iosevka kreasi saya yang diberi nama Iosevka Mayukai Font. Font ini adalah font yang dapat dipakai untuk pemrograman yang dipasang pada sistem operasi masing-masing, sehingga dapat dipakai di text editor dan IDE yang digunakan.
+
+      Font ini ada beberapa varian, yaitu 
+
+      - Iosevka Mayukai Codepro
+      - Iosevka Mayukai Sonata
+      - Iosevka Mayukai Monolite
+      - Iosevka Mayukai Serif
+      - Iosevka Mayukai Original
+
+      Keterangan lebih lengkap bisa dilihat disini , serta sampel spesimen fontnya.
+      https://github.com/Iosevka-Mayukai/Iosevka-Mayukai
+
+      Jika ingin mengunduh font nya bisa dilihat disini 
+      https://github.com/Iosevka-Mayukai/Iosevka-Mayukai/releases
+
+      Untuk instalasi, cukup ikuti petunjuk yang tertera. Atau bisa googling dengan kata kunci "how to install font <tulis sistem operasi yang digunakan>" . Misalnya di Linux bisa dipasang pada folter ./local/share/fonts , sedangkan di Mac bisa menggunakan aplikasi Fontbook.
+
+<br>
+
+10.  [https://angpau-generator.netlify.app/]  
+     **!masadam**  
+
+      Halo, semuanya!
+
+      Perkenalkan saya Adam. Ini adalah pertama kali saya ikut showcase-project di WPU. Jadi ceritanya, kemarin sekitar h-3 lebaran Idul Fitri saya kepikiran untuk membuat aplikasi yang berkaitan dengan lebaran. Akhirnya kepikiran untuk bikin angpau generator yang mungkin bisa bikin suasana bagi-bagi angpau hari raya lebih menarik sedikit.
+
+      Konsepnya sebenarnya mirip-mirip dengan to do list yang bisa add item dan remove item, hanya saja kemudian saya tambahkan fitur pemilihan item sebagai hadiah/angpau secara acak.
+
+      Aplikasi ini masih sederhana karena pengerjaannya hanya sempat 2 hari saja dan belum saya lanjutkan untuk tambah fitur-fiturnya. Serta karena saya juga belum tahu mau nambahin fitur apa. Karena itu, saya sangat terbuka untuk menerima kritik, saran, dan masukan dari teman-teman semuanya.
+
+      ### Live web app: [Angpau Generator (Netlify)](https://angpau-generator.netlify.app/)
+
+      # Teknologi yang Digunakan
+
+      1. React.JS
+      2. Chakra-UI
+
+      Online repo: [masadamsahid - Github](https://github.com/masadamsahid/angpau-generator)
+
+<br>
+<hr>
 
