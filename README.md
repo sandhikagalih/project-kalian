@@ -3407,3 +3407,272 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 <hr>
 
+
+### 4 Juni 2022
+
+1.  [https://glovid.wildani.tech/]  
+     **Covilyn**  
+
+      Haloohh wpu, kombek lagih ke sowkes projek. Kali ini saya mengajak om wil @wild  untuk koleb (iseng-iseng mengkeren) . Saya di bagian HTML, CSS + tampilan²nya... 
+
+      Ooya web ini namanya Glovid, isinya data² covid ya walaupun mungkin copid udah lumayan reda... Web ini juga ada aplikasi androidnya, tapi beda API karna yang bikin beda orang hehe (kalau nonton ini sowkes makasih banyak ya kak aheheh)...
+
+      Sebenernya web ini dibikin iseng² karna yang aslinya (android app) itu tugas sekolah (disuruh bikin pakai java tapi saya penginnya kotlin :v) jadinya API nya beda, sekaligus bikin aplikasi mobile siapa tau berguna buat saya kedepannya (siapa tau minat mempelajari kotlin hehe)
+
+      Mungkin ini aja dari saya (Stevan) sisanya om wil yang ngejelasin teknologi²nya... 
+      . 
+      . 
+      Karena API eksternal ini tidak bisa langsung di akses oleh aplikasi front-end, Sebuah mini backend perlu dibuat sebagai API Proxy yang menjembatani third party API dengan front-end.
+
+      Bahasa Pemrograman:
+      - HTML
+      - CSS
+      - Vanilla Javascript
+      - Node.js
+
+      Teknologi yang digunakan:
+      - express.js             : API proxy server
+      - webpack                : Javascript Bundler
+      - axios                  : http client (back & front end)
+      - chart.js               : chart statistic
+      - countup.js             : animasi penghitung angka
+      - leaflet                : Maps infografi 
+      - moment.js              : Pengolahan datetime
+      - swiper.js                 : Carousel
+      - Bootstrap               : Hampir semua komponen
+      - docker   (utk vm deployment saja)
+
+      Repo : https://github.com/stpndrs/glovid-web
+
+      Website : https://glovid.wildani.tech/
+
+<br>
+
+2.  [https://tangerine-naiad-ce088d.netlify.app/]  
+     **dihpan**  
+
+      Hai teman-teman assalamualaikum, nama saya Aji Mustofa saya mau showcase game sederhana yang saya buat dengan Golang dan ebiten (btw jika ada teman-teman yang ingin mencoba untuk membuat game dengan ebiten, bisa kunjungi channel youtube saya https://youtu.be/p2cSHYwxZzY). Jadi akhir-akhir ini saya sedang belajar Golang, khususnya di web development. nah karena setelah belajar bahasa pemrograman biasanya bikin project kecil-kecil untuk latihan, maka saya buat game. gamenya saya beri nama "Pepega Space"
+
+      Demo: https://tangerine-naiad-ce088d.netlify.app/ (jangan lupa browser teman-teman harus support WebAssembly)
+
+      Control: 
+      - Tekan "Space" untuk menembak
+      - Panah kanan/kiri untuk bergerak
+
+      Github Repo: https://github.com/pepega90/pepega-space
+
+      Teknologi yang digunakan:
+      - Ebiten (https://ebiten.org/)
+      - Golang
+      - assetnya dari kenney (https://www.kenney.nl/assets/space-shooter-redux)
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+3.  [https://baitulhikmahquranapp.netlify.app/]  
+     **PR4GAN**  
+
+      Assalamualaikum warahmatullahi wabarakatuh, 
+
+      Halo kawan-kawan WPU semuanya!!
+
+      Sebelumnya perkenalkan saya Muhammad Alif fadlan dari Tangerang selatan saya adalah santri dari pondok pesantren Baitul Hikmah Depok Kelas 11 kali ini saya mau showcase project aplikasi yang bernama Baitul Hikmah Qur'an.
+
+      Di project ini saya benar2 sendiri yang mengerjakan program tersebut yang memakan waktu kisaran 7 bulan. Jika ingin ditambahkan segala fitur untuk aplikasi ini beri masukan untuk lebih baik kedepannya, namun jika ada bug dalam aplikasi tersebut, saya sangat berterima kasih jika kawan2 langsung dm ke saya. 
+
+      Untuk download aplikasi nya ada di website berupa via google drive bisa cek di bawah
+
+      Teknologi yang digunakan:
+      - kotlin:kotlin: 
+      - Java:java: 
+
+      Live Website: https://baitulhikmahquranapp.netlify.app/
+      Github Repo : https://github.com/MAliffadlan/BaitulHikmah-Quran-App
+
+
+      Mungkin sekian dari saya, mohon juga kritik dan sarannya ya, Terima Kasih.
+      Waalaikumsalam warahmatullahi wabarakatuh
+
+<br>
+
+4.  [https://portfolioted.netlify.app/]  
+     **Tedy**  
+
+      Assalamualaikum
+      halo pak dika dan kawan kawan  semua, perkenalkan nama saya tedy
+      project kali ini hanya mini portofolio website saja, fitur nya hanya darkmode, jangan download CV saya itu hanya halaman pdf kosong cuma buat hiasan saja🤣
+
+      Teknologi yang digunakan:
+      -html
+      -css
+      -js
+      -scss
+
+      -portfolio
+      Link Website: 
+      https://portfolioted.netlify.app/
+
+      Sekian terima kasih mohon kritik dan sarannya.
+
+<br>
+
+5.  [https://edsentra.id/]  
+     **axmad386**  
+
+      Assalamualaikum temen2 WPU. 
+      Salam kenal, perkenalkan nama saya Akhmad Salafudin FullStack web developer dari Pekalongan (tapi kerja di Semarang).
+      Saya ingin share sebuah website blog yang dibuat menggunakan framework nodejs namanya Lunox. Lunox ini masih saya kembangkan bareng temen2 KodePandai.
+
+      Link website: https://edsentra.id/
+      Link Demo Admin Panel: https://dev.edsentra.id/admin/login
+      - email: user@example.mail
+      - password: password
+      note: itu admin panelnya khusus development, jadi santai tidak akan mengganggu yang production
+
+      Sekilas fitur Lunox Framework:
+      - MVC seperti Laravel
+      - Middleware, support middleware express
+      - Service Provider
+      - Service Container
+      - Artisan command
+      - Tinker
+      - Exception Handler
+      - Filesystem manager
+      - Session
+      - Basic Auth
+      - Database Manager
+      - Encryption, Sudah ada contoh untuk csrf protection
+      - Facade
+      - Macro
+      - Unit Testing
+      - dll, nanti detailnya langsung dicoba saja coba create lunox app
+
+      Untuk sekarang view Lunox support svelte dan react, nanti rencana saya tambahkan vue dan solidjs.
+
+      Repo Lunox Skeleton: https://github.com/kodepandai/lunox
+      Repo Lunox framework: https://github.com/kodepandai/lunox-framework
+      Lunox Documentation: https://kodepandai.github.io/lunox
+
+      Teknologi Website Edsentra.Id
+      - lunox sebagai frameworknya
+      - unocss untuk atomic css (mirip tailwind tapi lebih custom)
+      - @unocss/preset-icons untuk penulisan icon via css
+      - svelte sebagai template engine lunox
+      - markdown-it untuk render markdown
+      - @traptitech/markdown-it-katex untuk render latex
+      - stackedit-js untuk input markdown
+      - k3s untuk manage containerisasi
+      - @kodepandai/image-resizer + s3 + cloudflare untuk cache dan resize image secara dinamis
+      - postgresql untuk databasenya
+
+      Teknologi Lunox Framework:
+      - polka sebagai http server
+      - vite sebagai frontend tooling
+      - react & svelte sebagai template engine (untuk sekarang baru dua ini)
+      - knex sebagai Database Manager
+      - Objection sebagai ORM
+      - typescript
+
+      Semoga bisa bermanfaat 😊
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://colorshop.vercel.app/]  
+     **Bagaskoro**  
+
+      Assalamualaikum
+      Halo semuanya, perkenalkan saya Bagaskoro Jati W. asal dari Pati, Jateng. Disini saya akan membagikan hasil belajar saya. Pada project ini saya mencoba untuk meniru website colorhunt.co.
+
+      Teknologi yang digunakan:
+      -NextJS
+      -Sanity CMS
+      -Tailwind
+
+      Link website:
+      https://colorshop.vercel.app/
+
+      Link github:
+      https://github.com/bagaskoro125/colorshop
+
+<br>
+
+7.  [https://anonime.vercel.app/]  
+     **Azura**  
+
+      Assalamu'alaikum 
+      Pak Dika dan teman", nama saya Raul baru lulus SMK jurusan TKJ, saya sudah belajar pemrograman kurang lebih 1 tahun,dan sekrang saya sedang memperdalam,  framework Js (Vue Js) , saya ngebuat website streaming anime, walau masih static websitenya, minta kritik dan saran dari kawan kawan ..
+
+      Tech :
+      Vue Js & Tailwind css
+
+      Link :
+      https://anonime.vercel.app/
+
+<br>
+
+8.  [http://34.229.142.244/]  
+     **Saut manurung**  
+
+      Hallo teman teman Wpu Perkenalkan nama saya Saut Manurung,ini adalah showcase project yang saya tidak tau udah berapa kali ,dan kali ini saya sudah membuat sebuah API sederhana yaitu sebuah API Discussion Forum Like Google Classroom yang dimana API ini merupakan mini project saya selama mengikuti kegiatan Kampus Merdeka
+
+      Teknologi yang saya gunakan
+      - Golang (Echo)
+      - JWT (Auth)
+      - Railway (Database)
+      - AWS (Server)
+      - Swagger (Docs API)
+      - Docker
+
+      Link website nya : http://34.229.142.244/
+      Link Swagger nya : http://34.229.142.244/swagger/index.html#index.html
+      Link Github nya : https://github.com/sautmanurung1/Mini-Project-Saut
+
+<br>
+
+9.  [https://5huruf.netlify.app/]  
+     **Kutu Buku**  
+
+      halo semuanya, perkenalkan nama saya hanif ramadhani. dikali kedua showcase project ini saya akan memamerkan hasil belajar javascript lanjutan dan juga API. saya membuat website dengan nama 5huruf. 5huruf adalah website untuk mencari sebuah kata yang terdiri dari 5 huruf untuk membantu dalam permainan yang sedang ramai dimainkan beberapa waktu belakangan ini yaitu katla. katla adalah wordle versi bahasa indonesia yaitu permainan menebak kata yang terdiri dari 5 huruf sebanyak 6 kali setiap harinya. saat bermain katla saya sering kebingungan dengan kata apa yang harus ditebak. ketika saya bermain wordle saya tidak terlalu kebingungan karena ada website yang dapat membantu saya dalam menebak kata yaitu https://www.wordhippo.com/what-is/word-finder-unscrambler.html. tetapi website tersebut kurang maksimal dalam mencari kata yang harus ditebak. jadi, saya kepikiran ide untuk membuat website serupa tetapi dengan peningkatan dalam pencarian dan menggunakan bahasa indonesia untuk membantu dalam bermain katla.
+      teknologi yang saya gunakan di 5huruf yaitu :
+      - html
+      - css
+      - javascript
+      - bootstrap 5.1.3
+      - json (sebenarnya tidak menggunakan API tapi hanya menggunakan json yang dibuat secara manual)
+      fitur yang tersedia :
+      - pencarian kata dengan posisi huruf yang spesifik
+      - pencarian kata dengan huruf yang terdapat didalam kata
+      - pencarian kata tanpa huruf yang tidak ada didalam kata
+      5huruf dibuat dengan barbar koding dan masih belum terlalu responsif jadi saya minta saran dan kritik dari member wpu sekalian agar 5huruf dapat menjadi lebih baik. sekian terima kasih
+      website 5huruf : https://5huruf.netlify.app/
+      github 5huruf : https://github.com/haniframadhani/5huruf
+      website katla : https://katla.vercel.app/
+
+      terima kasih kepada helper javascript yang sudah membantu saya dalam membuat 5huruf di fitur yang cukup penting yang saya merasa kesusahan dalam membuatnya.
+
+<br>
+
+10.  [https://vectus86.github.io/Website-ParallaxJS/]  
+     **DaBroLexx**  
+
+      Halo Semuanya, Perkenalkan Nama Saya Calvin di Showcase Pertama saya ini saya ingin
+      menampilkan website sederhana dengan menggunakan parallax-js dan website ini juga sudah responsive. mungkin masih banyak
+      kekurangan nya karena saya masih baru dan masih belajar HTML-CSS. Tujuan dari website ini sebenarnya untuk menampilkan keindahan pulau di sulawesi
+
+
+      Teknologi Yang Saya Pakai :
+      1. HTML
+      2. CSS
+      3. Parallax JS
+
+      Link Website : https://vectus86.github.io/Website-ParallaxJS/
+
+      Link GitHub : https://github.com/Vectus86/Website-ParallaxJS
+
+<br>
+<hr>
