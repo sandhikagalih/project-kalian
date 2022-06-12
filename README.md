@@ -3676,3 +3676,195 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+
+### 12 Juni 2022
+
+1.  [https://gamebuatanbangsa.netlify.app/]  
+     **Ryact**  
+
+      Selamat pagi, siang, sore, malam pa dhika dan teman teman, sy yg kemarin kirim exp indonesia
+      game buatan bangsa ini sedikit memberikan/memberitahu informasi tentang game yg di buat oleh anak bangsa, website  ini  masi untuk computer Blm terlalu responsive (next responsive) mohon maaf & mohon saran nya pa dhika dan teman2
+
+      Teknologi yang saya gunakan :
+      - html
+      - css
+      - scss
+      - js(sedikit)
+      - bootstrap 5.2 
+      - aos 
+      - tilt-js
+
+      Link Website : https://gamebuatanbangsa.netlify.app/
+
+      Link Github Repo : https://github.com/RNRYT/gamekaryaanakbangsa.github.io 
+
+
+<br>
+
+2.  [https://pangkeyblog.herokuapp.com/]  
+     **nath**  
+
+      Halo teman-teman semua, perkenalkan saya Jonathan Andreas dan ini adalah showcase project pertama saya yang merupakan sebuah blog web app, disini kita bisa login dengan username dan password masing-masing dan mencoba menulis dan memposting tulisan kita, disini kita bisa melihat semua postingan dan postingan milik kita sendiri yang juga bisa kita hapus. Website ini masih mempunyai banyak kekurangan karna saya juga masih pemula dan dalam tahap belajar hehe, mungkin teman-teman bisa memberikan kritik dan saran, Terimakasih.
+
+      Teknologi yang saya gunakan :
+      - HTML
+      - CSS
+      - Bootstrap
+      - Flask python framework
+      - sqlalchemy
+
+      Fitur
+      - Signup dan Login
+      - Add post
+      - View our posts
+      - View all posts
+      - Delete posts
+
+      Link website : https://pangkeyblog.herokuapp.com/
+
+      Link github repo : https://github.com/Jonathanpangkey/Blog-web-app 
+
+<br>
+
+3.  [https://find-images.vercel.app/]  
+     **Roooy**  
+
+      Selamat pagi/siang/sore/malam pak dhika dan teman-teman, perkenalkan nama saya Ricky Roy.
+      Ini adalah showcase project saya yang pertama. Kali ini saya membuat sebuah project sederhana mengenai website yang dapat digunakan untuk mencari gambar-gambar, project ini saya buat untuk mengisi waktu luang sekaligus belajar react.
+
+      Teknologi yang digunakan:
+      - React JS
+      - Tailwind CSS
+      - Pixabay API
+
+      Website : https://find-images.vercel.app/
+      Github : https://github.com/rickyroynardson/find-images
+
+      Terima kasih pak dhika & teman-teman semua 🙏 
+
+
+<br>
+
+4.  [https://221810270.skripsi.stis.ac.id/]  
+     **pakpoo**  
+
+      Assalamualaikum warahmatullahi wabarakatuh, selamat pagi/siang/sore/malam pak dikha dan teman teman, perkenalkan nama saya Erik Rihendri. Ini adalah showcase project saya yang pertama. Kali ini saya membuat sebuah project sistem pemesanan E-Canteen Webmobile. Fungsi utama sistem ini adalah pembeli dapat memesan secara online. Project ini saya buat untuk memenuhi tugas akhir skripsi.
+
+      Teknologi yang saya gunakan:
+      - SSO, Oauth Google
+      - Codeigniter 4
+      - Bootsrap
+      - Jquery
+      - ChartJs
+      - SWALL
+      - Datatable
+
+      Penjelasan sistem:
+      Fungsi utama dari sistem pemesanan adalah pembeli dapat melakukan pemesanan secara online dan penjual dapat menerima pesanan dari pembeli. pembeli disediakan pilihan menu yang tersedia di kantin. Selain fungsi utama tersebut sistem juga menyediakan fitur pengelolaan menu dan toping, pengelolaan pengguna, pengelolaan transaksi atau pesanan, dan penyediaan API data transaksi untuk keperluan developer lain yang ingin melakukan analisis data, pengembangan dll.
+
+      Website E-Canteen: https://221810270.skripsi.stis.ac.id/
+      Website Dev E-Canteen: https://221810270.skripsi.stis.ac.id/Dev
+      Github: https://github.com/erikrihendri20/kantin
+
+      dan bagi teman-teman yang berkenan memberikan penilaian dapat mengisi form SUS berikut
+      Survei: https://docs.google.com/forms/d/e/1FAIpQLSfDxZZDytXELLExXe4-7Z5LmM6cRm9AmMg1XyjgM3grjxHgGA/viewform
+
+<br>
+
+5.  [https://glovid.wildani.tech/]  
+     **Covilyn**  
+
+      Haloohh wpu, kombek lagih ke sowkes projek. Kali ini saya mengajak om wil @wild  untuk koleb (iseng-iseng mengkeren)
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://app-music-ncs.netlify.app/]  
+     **Doni ws**  
+
+      Halo Semuanya ,Perkenalkan Nama Saya Doni Wahyu Saputra ,Kelas 1 SMK TKJ, 
+      ini showcase kedua saya di discord wpu,Project saya buat kali ini adalah Music Web App,
+      Terinpirasi dari Youtube music dan Spotify, Ada Beberapa UI Nya yang agak mirip , 
+      Musik dan Image Yang di Gunakan Berasal dari Website Ncs dan Videonya Berasal dari Youtube,Website Ini Sudah Responsive.
+
+      Teknologi Yang Saya Gunakan :
+      - HTML , CSS , JavaScript 
+      - Swiper JS
+      - Jquery (litle)
+      - Google Font
+
+      link Website 
+      https://app-music-ncs.netlify.app/
+
+      link Github 
+      https://github.com/Doniws/Music-Web-App 
+
+
+<br>
+
+7.  [https://github.com/kykurniawan/incaan]  
+     **rizkykurniawan**  
+
+      Halo, saya Rizky Kurniawan izin share tool yang sangat sederhana bernama Incaan, ini adalah sebuah aplikasi node js yang berfungsi sebagai dummy image server yang berjalan di local environment. Incaan dapat digunakan untuk membuat dummy image atau avatar saat merancang halaman frontend tanpa memerlukan koneksi internet jadi tidak perlu ada network request. Dibuat karena jaringan tempat saya lagi susah, dummy image saya yang awalnya saya ambil dari via.placeholder.com sering tidak bisa tampil.
+
+      Teknologi yang digunakan:
+      - Node JS
+      - Express
+      - Canvas
+
+      GitHub: https://github.com/kykurniawan/incaan
+
+<br>
+
+8.  [https://github.com/Paiiss/bot-wa]  
+     **Paise**  
+
+      Hallo, selamat pagi saya pais ingin share project bot whatsapp, saya membuat ini karna menurut saya ini yang saya sukai dalam hal percodingan, jika tertarik bisa click link github di bawah
+
+      Teknologi yang saya gunakan:
+      - Node JS
+
+      Github: https://github.com/Paiiss/bot-wa
+
+<br>
+
+9.  [https://bay-s.github.io/]  
+     **BayuSetiaji**  
+
+      Selamat pagi/siang/sore/malam pak dhika dan teman-teman, perkenalkan nama saya Bayyu.
+      Ini adalah showcase project saya yang pertama.
+      Kali ini saya membuat sebuah project Movie App menggunakan TMDB API.
+
+      Teknologi yang digunakan:
+      - React JS
+      - CSS3
+      - react-router
+      - TMDB API
+
+      link Website :
+      https://bay-s.github.io/ 
+
+      link Github :
+      https://github.com/bay-s/react-movie-app
+
+<br>
+
+10.  [https://glovid.wildani.tech/]  
+     **IM_TOBING**  
+
+      assalamualaikum semuanya,perkenalkan nama saya yoga ariyanto dan saya ingin mengeshare projects portfolio saya, jika tertarik kalian bisa kunjugin link di bawah ini ya:
+
+      Teknologi yang saya gunakan:
+      - HTML 
+      - CSS 
+      - JS 
+      - Bootstrap 5 
+
+      Link website nya : https://yoga312.netlify.app/
+
+<br>
+<hr>
