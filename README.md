@@ -3993,6 +3993,10 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Kurang lebihnya mohon maaf, terima kasih.
 
 <br>
+<hr>
+###SPONSOR
+<hr>
+<br>
 
 6.  [https://meme-master.netlify.app/]  
      **Rambe**  
