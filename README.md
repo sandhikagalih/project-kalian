@@ -3770,12 +3770,6 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       dan bagi teman-teman yang berkenan memberikan penilaian dapat mengisi form SUS berikut
       Survei: https://docs.google.com/forms/d/e/1FAIpQLSfDxZZDytXELLExXe4-7Z5LmM6cRm9AmMg1XyjgM3grjxHgGA/viewform
 
-<br>
-
-5.  [https://glovid.wildani.tech/]  
-     **Covilyn**  
-
-      Haloohh wpu, kombek lagih ke sowkes projek. Kali ini saya mengajak om wil @wild  untuk koleb (iseng-iseng mengkeren)
 
 <br>
 <hr>
@@ -3783,7 +3777,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <hr>
 <br>
 
-6.  [https://app-music-ncs.netlify.app/]  
+5.  [https://app-music-ncs.netlify.app/]  
      **Doni ws**  
 
       Halo Semuanya ,Perkenalkan Nama Saya Doni Wahyu Saputra ,Kelas 1 SMK TKJ, 
@@ -3806,7 +3800,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-7.  [https://github.com/kykurniawan/incaan]  
+6.  [https://github.com/kykurniawan/incaan]  
      **rizkykurniawan**  
 
       Halo, saya Rizky Kurniawan izin share tool yang sangat sederhana bernama Incaan, ini adalah sebuah aplikasi node js yang berfungsi sebagai dummy image server yang berjalan di local environment. Incaan dapat digunakan untuk membuat dummy image atau avatar saat merancang halaman frontend tanpa memerlukan koneksi internet jadi tidak perlu ada network request. Dibuat karena jaringan tempat saya lagi susah, dummy image saya yang awalnya saya ambil dari via.placeholder.com sering tidak bisa tampil.
@@ -3820,7 +3814,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-8.  [https://github.com/Paiiss/bot-wa]  
+7.  [https://github.com/Paiiss/bot-wa]  
      **Paise**  
 
       Hallo, selamat pagi saya pais ingin share project bot whatsapp, saya membuat ini karna menurut saya ini yang saya sukai dalam hal percodingan, jika tertarik bisa click link github di bawah
@@ -3832,7 +3826,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-9.  [https://bay-s.github.io/]  
+8.  [https://bay-s.github.io/]  
      **BayuSetiaji**  
 
       Selamat pagi/siang/sore/malam pak dhika dan teman-teman, perkenalkan nama saya Bayyu.
@@ -3853,7 +3847,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-10.  [https://glovid.wildani.tech/]  
+9.  [https://yoga312.netlify.app/]  
      **IM_TOBING**  
 
       assalamualaikum semuanya,perkenalkan nama saya yoga ariyanto dan saya ingin mengeshare projects portfolio saya, jika tertarik kalian bisa kunjugin link di bawah ini ya:
@@ -3865,6 +3859,261 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       - Bootstrap 5 
 
       Link website nya : https://yoga312.netlify.app/
+
+<br>
+<hr>
+
+
+### 18 Juni 2022
+
+1.  [https://bellshade-website.vercel.app/]  
+     **navetacandraム**  
+
+      Selamat pagi/siang/sore/malam semuanya.
+
+      Perkenalkan nama saya Naveta Candra Chairullah.
+
+      Sebelumnya mohon izin kepada Bellshade Teams karena project kali ini bersangkutan dan terinspirasi dari Github Bellshade dan beberapa halaman mengambil source code dari repository bellshade-website-v2.
+      Perlu diketahui juga, website ini masih dalam tahap pengembangan alhasil belum lengkapnya fitur dan halaman dokumentasi yang disediakan.
+
+      *Dibuat dan dikembangkan menggunakan framework NextJS
+
+      Library/module yang saya gunakan:
+      - React
+      - ESLint
+      - Prettier
+      - Husky (Git hooks)
+      - TailwindCSS
+      - @iconify/react
+
+      App yang saya gunakan:
+      - VSCode
+      - Browser
+
+      Fitur-fitur yang tersedia:
+      - Syntax highlighter dengan tema One Dark Pro
+      - Tersedia copy text untuk contoh syntax
+
+      Dokumentasi yang sudah tersedia:
+      - Javascript
+      - Java
+
+      Github: https://github.com/navetacandra/bellshade-website
+      Website: https://bellshade-website.vercel.app/
+
+      Project kali ini sedikit tersendat, karena mulai masuk penyelenggaraan PPDB (Ditulis tanggal 28 Mei 2022).
+      Mohon doa-nya agar saya bisa diterima Target Sekolah saya🙏
+
+<br>
+
+2.  [https://joke-bapak-bapak.netlify.app/]  
+     **KianSantang**  
+
+      Saya Taufik Hidayatulloh , Halo pak dhika selamat sore.
+      Showcase kemarin saya share projek tim yang frontend web e-learning skolaxy, sekarang saya mau share projek sendiri, sebenarnya si cuman iseng" bikin projek ini. 
+
+      ini adalah sebuah website kuis sederhana yang dibangun dengan :
+      Html
+      TailwindCss
+      Vanilla Javascript
+
+      selamat mengerjakan, bagi yang mau intip reponya silahkan :
+      Demo: https://joke-bapak-bapak.netlify.app/
+      Repo : [Joke bapak-bapak](https://github.com/Taufik-H/Joke-bapak-bapak.git)
+      GtiHub: [Taufik-H](https://github.com/Taufik-H)
+
+      cerita dikit : kemarin saya udah upload ini pak, belum selesai ngetik mau di enter eh malah tombol shift ga kepencet, auto kekirim, terus malah saya hapus ga saya edit, pas resend ternyata ada cooldown 6jam, kocak waiting 🥲
+      
+      Terimakasih 
+
+
+<br>
+
+3.  [http://slavuwus.rf.gd/]  
+     **Martini**  
+
+      Assalamualaikum bre,
+      Saya Agha ingin saya ingin membagikan project web portofolio pertama saya, kalo mau kepoin saya bisa kunjungin web saya di :
+
+      http://slavuwus.rf.gd/ 
+
+      Kalau mau tau dalemannya, bisa cek di github saya :
+
+      https://github.com/Tsunomon221/Bio-2.0 
+      Teknologi yang saya gunakan :
+
+      HTML (55,7%) 
+      CSS (42,3%) 
+      JS (2%)  
+
+<br>
+
+4.  [https://warnetku.up.railway.app/]  
+     **BayuDC**  
+
+      Assalamualaikum
+      Hai teman-teman, saya ingin membagikan salah satu project saya yang bernama Warnetku. Jadi project ini merupakan sebuah web admin yang tujuan utamanya mempermudah perkerjaan OP Warnet. Fiturnya banyak, seperti mengelola komputer, mengelola harga, menghitung tagihan yang harus dibayar customer secara otomatis dan masih banyak lagi(selebihnya bisa dilihat di README).
+
+      Teknologi yang dipakai:
+      - Laravel
+      - Bootstrap
+      - MySQL
+
+      Link web: 
+      https://warnetku.up.railway.app/ 
+      https://warnetku.herokuapp.com/ (rada lelet)
+      note: username ama password buat login bisa diambil di README
+
+      Link Repo:
+      https://github.com/BayuDC/warnetku
+
+<br>
+
+5.  [https://gamebuatanbangsa.netlify.app/]  
+     **dihpan**  
+
+      Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game sederhana yang saya buat dengan Rust dan macroquad (seperti biasa jika ada teman-teman yang tertarik untuk belajar membuat game dengan rust, bisa liat tutorial saya https://youtu.be/kXQ-EdrbiYM). Jadi ini adalah game clone dari "Duck Hunt" salah satu game Nintendo yang dulu mungkin pernah teman-teman mainkan, begitu juga saya. gamenya saya beri plesetan nama "Dick Hunt". tapi tenang aja kok, teman-teman tetap nembak "duck" bukan "dick" awkoakwoaw
+
+
+      Demo: https://super-cool-site-by-pepega90.netlify.app/ (pas awal-awal buka agak lama, soalnya download asset-assetnya dulu. dan pastikan browser teman-teman support WebAssembly)
+
+      Control: Make mouse, klik kiri untuk nembak
+
+
+      Github Repo: https://github.com/pepega90/dick-hunt
+
+
+      Teknologi yang digunakan:
+
+      - Rust 
+      - macroquad (https://github.com/not-fl3/macroquad)
+      - assetnya by Pik (https://www.spriters-resource.com/custom_edited/duckhuntcustoms/sheet/63915)
+
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+6.  [https://meme-master.netlify.app/]  
+     **Rambe**  
+
+      Halo Semuanya,
+
+      Izin share project saya, Meme Master. Website ini merupakan meme generator, kita bisa memilih salah satu meme sebagai template, setelah memilih template, isi input yang ada dan klik generate meme button. Meme yang telah digenerate bisa didownload.
+
+      Teknologi Yang digunakan :
+      - ReactJS
+      - React Router v6
+      - Styled-Components
+      - FontAwesome
+      - API (https://imgflip.com/api)
+
+      Link Github :
+      https://github.com/LukmanRambe/Meme-Master
+
+      Link Website : 
+      https://meme-master.netlify.app/
+
+      Terima Kasih 😄
+
+<br>
+
+7.  [https://isci-team.000webhostapp.com/]  
+     **{Code}**  
+
+      assalamualaikum pak dhika dan semuanya...
+
+      perkenalkan, nama saya Sulthan. saya ingin share project website....ini website komunitas saya, yang saya buat dengan teknologi 
+      1. HTML :html: 
+      2. CSS :css: 
+      3. JS :javascript: 
+      4. PHP :php: 
+      5. Bootstrap :bootstrap: 
+      6. Tailwind :tailwind: 
+
+      link website : https://isci-team.000webhostapp.com/
+      link repository : https://github.com/RCode777/ISCI-Website
+
+      btw ini experimen saya, tailwind css + bootstrap framework
+
+<br>
+
+8.  [https://github.com/Trackmania-Asia-OCE/aotc-broadcast-package]  
+     **resir014**  
+
+      Halo semuanya, saya kembali lagi nih pengen nunjukkin hasil project beberapa minggu kemarin!
+
+      Jadi kemarin di livestream-nya pak Dhika saya sempet nyebut kalau sempat menjadi komentator dan panitia penyelenggara turnamen Trackmania kelas Asia-Pacific. Nah, sebagai penyelenggara waktu itu saya juga bantu tim produksi livestream bikin overlay dinamis buat kompetisi tersebut.
+
+      Nah design dan arsitekturnya mirip dengan overlay livestream saya pribadi, cuman kita coba bikin dengan  Google Sheets sebagai "dashboard" untuk edit-edit konten overlay-nya saat sedang live. Dan ini juga support parallel broadcast, karena kita juga livestream ke tiga bahasa sekaligus, Inggris, Indonesia, dan Perancis.
+
+      Stack yang digunakan:
+      - React + Next.js + Typescript
+      - Tailwind CSS buat styling
+      - Google Sheets sebagai database + "broadcast dashboard".
+
+      Kalau mau melihat pemakaian overlay-nya secara langsung, bisa dilihat di contoh2 klip berikut:
+
+      - https://clips.twitch.tv/DeterminedRelievedSeahorseResidentSleeper-gRZL5gBFrjROuBxo
+      - https://clips.twitch.tv/ImpartialGracefulJellyfishPupper-hZNa06b-5nIlZ2tZ
+      - https://clips.twitch.tv/SuperAlertScallionDoritosChip-F8czHCvaEJFvi0B7
+      - https://youtu.be/3rzrJWzkEf4
+
+      Kemarin aku juga sempet publish blog-post tentang cara bikinnya:
+      https://resir014.xyz/posts/2022/05/31/dynamic-broadcast-overlays-with-google-sheets-and-web-technologies
+
+      Kalau mau liat source code-nya, ada juga di sini:
+      https://github.com/Trackmania-Asia-OCE/aotc-broadcast-package
+
+      Terima kasih sebelumnya!
+
+<br>
+
+9.  [https://stproject.datadimain.in/]  
+     **kangsin**  
+
+      Hi All,
+
+      mau sharing sedikit project yang setengah selesai, tp daripada terpendam gitu aja. Barangkali ada masukan dari temen-temen. Saya mencoba membuat dashboard untuk kasus Covid-19 berdasarkan data yang tersedia dari DKI Jakarta. Data terakhir adalah bulan April 2022, saya belum sempat update lagi.
+
+      Bahasa Program:
+      Python
+
+      Library:
+      Pandas, Streamlit, Seaborn, Matplotlib, dll.
+
+      Link website:
+      https://stproject.datadimain.in/
+
+      Link source code:
+      https://github.com/aasina/dashboardcovid.git
+
+<br>
+
+10.  [https://taqiyyaghazi.com/]  
+     **Ghazi Taqiyya**  
+
+      Assalamualaikum, halo temen-temen semua sebelumnya perkenalkan nama saya Ghazi, ini pertama kali saya showcase project. Saya ingin membagikan salah satu project saya yaitu My Personal Web. Project ini saya buat sebagai CV online saya yang kontennya yaitu bio, pengalaman, project portfolio, kontak, dan satu fitur yang sedang saya kembangkan yaitu AI Chatbot. Jadi AI Chatbot ini saya kembangkan untuk membantu menjawab pertanyaan user tentang saya. Tapi model AI Chatbot ini masih belum bisa menjawab banyak pertanyaan karena modelnya baru dilatih dengan data yang sedikit. Kalau temen-temen ingin coba mungkin bisa chat dengan pertanyaan dasar seperti "hai", "siapa kamu", atau "makasi". Atau mungkin temen-temen bisa mengirim pertanyaan apapun yang temen-temen kepoin dari saya otomatis akan masuk ke database yang nantinya akan saya jadikan sebagai bahan pelatihan model.
+
+      Teknologi yang digunakan:
+      - React JS
+      - Email JS 
+      - react-tsparticles
+      - react-chat-widget 
+      - Swiper JS
+      - Python 
+      - Tensorflow (Training Model Chatbot)
+      - Flask (Back-end AI Chatbot)
+      - MongoDB (Menyimpan pesan yang tidak terhandle/probability prediksi <0.5)
+      - Vercel (Deploy Frontend)
+      - Heroku (Deploy Backend Chatbot)
+
+      Link Web : 
+      https://taqiyyaghazi.com/
+
+      Link Repo :
+      - Frontend (React JS) : https://github.com/taqiyyaghazi/reactjs-personal-web
+      - Backend (Python) : https://github.com/taqiyyaghazi/python-ai-chatbot
 
 <br>
 <hr>
