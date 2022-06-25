@@ -4121,3 +4121,238 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+
+### 25 Juni 2022
+
+1.  [https://magangmerdeka.vercel.app/]  
+     **cims**  
+
+      Halo temen-temen, mau kenalin project saya. Project ini mengumpulkan data dari API Magang Kemdikbud, project ini dibuat untuk menampilkan perusahaan yang membuka lowongan di program MSIB Kampus Merdeka Batch 2 - 2022
+
+      Teknologi yang digunakan:
+      - NextJS
+      - TailwindCSS
+      - Vercel
+
+      Link Web:
+      https://magangmerdeka.vercel.app/
+
+      Link Repo: 
+      https://github.com/razanfawwaz/magangmerdeka
+
+<br>
+
+2.  [https://science2masu.herokuapp.com/]  
+     **ky**  
+
+      Hai temen temen, Saya mau share project saya. Ini adalah website profil kelas. Dan ini adalah web app pertama saya. sebenarnya pada saat awal membuat project ini cuman modal html css js dasar aja. nah kemudian belajarlah saya tentang django, karena pengen bikin sistem login buat ngehost surat kepada seseorang wkwkwkwkw. akhirnya saat pembuatan belajar banyak tentang css dan js soalnya dikit dikit google 'how to how to' gitu wkwkwkwk, wajarlah modal pengen doang diawal.
+
+      Teknologi yang digunakan:
+      1. Django
+      2. html css js
+      3. heroku buat deploy
+
+      Link:
+      https://science2masu.herokuapp.com/
+
+<br>
+
+3.  [https://rizki-mp.github.io/Personal-Web-Tailwind/]  
+     **Rizki;**  
+
+      Hallo pak Dhika dan semuanya, perkenalkan nama saya Rizki, izin showcase project web portofolio hasil belajar tailwind di playlist tailwind pak Dhika, ini adalah ke 2 kalinya sy ingin di showcase.
+
+      Note : masih Ada bug yaitu overflow pada tampilan mobile (TOLONG DI FIX PAK WKWKW)
+
+      Teknologi yang di gunakan :
+      1. HTML
+      2. CSS
+      3. TAILWIND
+      4. JAVASCRIPT
+      5. SCSS 
+      6. AOS
+      7. GSAP
+
+      masih banyak kekurangan jadi mohon saran dan kritiknya...
+
+      Link Website : https://rizki-mp.github.io/Personal-Web-Tailwind/
+
+      Link github (repo) :
+      https://github.com/Rizki-MP/Personal-Web-Tailwind
+
+      TERIMA KASIH 
+
+<br>
+
+4.  [https://layanan-voting.vercel.app/]  
+     **Bagus**  
+
+      Halo semua, Perkenalakan saya bagus, Izin sheare project saya kerjakan ketika saya gabut
+
+      Index Kepuasan  dalam E-Voting ini adalah website untuk memberikan kepuasan dalam memilih atau Voting.
+
+      Mohon maaf kalau desain kurang merarik 🙏🏽
+
+      Teknologi yang saya gunakan :
+      - Html 
+      - CSS Bootstrap 
+      - JavaScript 
+
+      📌 DEMO 
+      https://layanan-voting.vercel.app/
+
+      🔗 Link Repositories (GitHub)
+      https://github.com/bagussatoto/Layanan-Voting.git
+
+
+      Terimakasih
+
+<br>
+
+5.  [https://bit.ly/3mfl46o]  
+     **hansel**  
+
+      Halo pak Dhika dan semuanya, perkenalkan nama saya Hans, izin showcase project web 3D portofolio support MULTIPLAYER ONLINE p2p.
+
+      Teknologi yang di gunakan :
+      1. Three.JS (Web GL) 
+      2. Cannon.JS (Physics Engine)
+      3. Socket.IO (WebSocket)
+      4. WebRTC (Peer-to-Peer connection)
+      5. Typescript
+      6. Docker
+      7. Github Actions (Continous Deployment)
+      8. Webpack
+      9. Coturn (Turn Server)
+      10. Certbot (SSL Certificates)
+      11. Blender
+      12. GSAP (Green Sock Animation Platform)
+
+      masih banyak kekurangan jadi mohon saran dan kritiknya...
+
+      Link Website : https://bit.ly/3mfl46o
+      Note: mohon dibuka menggunakan web browser Chrome (PASTIKAN HARDWARE ACCELERATION ON)
+
+      Link github (repo) :
+      https://bit.ly/3NwwfmQ
+
+      Terinsiparsi dari Bruno Simon Portfolio 
+
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://mikpos.space/]  
+     **kyaaaa**  
+
+      Assalammualaikum Pak Dhika dan Kawan-kawan WPU.
+      Sampurasun!
+
+      Saya Muhammad Naufal Azkia dari Bandung, untuk pertama kalinya showcase di WPU mohon koreksi dan sarannya pada project yang showcase ini. cmiiw (Correct Me If I'm Wrong)
+
+      Project ini bernama MIKPOS
+      "MIKPOS" adalah webapp pendukung router mikrotik untuk manajemen user & payment (menggunakan payment gateway) berbasis API RouterOS.
+
+      Tujuan : Membantu pelaku usaha Mini ISP agar pelanggan mereka dapat melakukan pembayaran secara online via QRIS, Virtual Account, Indomart & Alfamart
+
+      Teknologi yang di gunakan : 
+      - CodeIgniter 4
+      - Bootstrap 5
+      -> Lengkapnya ada di GitHub atau Check via wappalyzer extension
+
+      SaaS : https://mikpos.space/
+      GitHub : https://github.com/naufkia/mikpos
+
+      Demo Credential
+      Username : demo
+      Password : demo
+
+      *Akun demo akan diaktifkan saat akan dishowcase oleh Pak Dhika.
+
+      Terima Kasih
+
+<br>
+
+7.  [https://yehezgun.com/]  
+     **YehezkielGunawan**  
+
+      Selamat malam semua.
+
+      Saya Yehezkiel Gunawan dari Bogor yang sempat publish project WA Helper beberapa minggu lalu😄. Sejak awal tahun saya renovasi (revamp) personal web saya yang sebelumnya menggunakan Chakra UI, jadi pakai Tailwind CSS. Alasannya, karena saya mau mendalami fundamental CSS lewat syntax-syntax Tailwind CSS😂, jadilah saya revamp total secara tampilan. Terima kasih juga kepada pak Sandhika Galih atas tutorial Tailwind CSSnya, sangat membantu saya dalam proses revamp web personal saya🙏
+
+      Tadinya, segala data project dan artikel menggunakan Notion API, kali ini saya juga ganti pakai Airtable sebagai CMS. Boleh dilihat-lihat dan semoga bisa menginspirasi teman-teman juga ya. Boleh juga kalau ada feedback😁
+
+      Tech Stack:
+      - Next.js (Typescript)
+      - Tailwind CSS
+      - React Tippy (untuk popover effect)
+      - React Markdown (untuk render markdown text di halaman artikel)
+      - Airtable as CMS (using Airtable JS Client)
+
+      Live demo: https://yehezgun.com/
+      Github repo: https://github.com/yehezkielgunawan/yehezgun-v3
+
+<br>
+
+8.  [https://kusendev.my.id/]  
+     **KusenaDev**  
+
+      Halo Pak Dhika, Halo Temen Semuanya. Saya Kusen Abdullah DI Showcase Kedua saya ijin showcase project website pribadi dan website portofolio saya hasil dari belajar playlist tailwind css 3 dan belajar otodidak sendiri
+
+      Teknologi yang saya pakai
+      1. Next JS
+      2. Tailwindcss 3
+
+      Link Website : https://kusendev.my.id/
+      Link Github : https://github.com/kusenabdullah-123/myporto-website
+      Terimakasih Banyak Pak Dhika Mohon Saran Dan Kritik nya
+      Kusena Dev Portofolio
+
+<br>
+
+9.  [https://github-widget.tobelsoft.my.id/]  
+     **Wiji Fiko Teren**  
+
+      Assalamuaikum,
+      Hallo pak dhika dan teman teman semuanya, perkenalkan nama saya Wiji Fiko Teren saya berusia 17 tahun, baru lulus smk bulan kemaren, saya asal malang dari jawa timur. Kali ini saya mau share project saya. ini project pertama kalinya yang masuk ke showcase-project pak sandhika
+
+      website ini di buat menggunakan:
+      -CI4
+      -Bootstrap5
+
+      waktu pengerjaan:
+      -2 hari
+
+      Link Website : https://github-widget.tobelsoft.my.id/
+      Link Repo : https://github.com/fiko942/github-widget-api
+
+      Demikian dari saya, mohon saran dan kritikannya supaya saya dapat membuat project yang lebih menarik kedepannya. Sekian terimakasih 🙂 
+
+
+<br>
+
+10.  [https://collosal.vercel.app/]  
+     **Eko Susilo**  
+
+      Assalamu'alaikum pak Sandhika dan teman teman semua. Perkenalkan nama saya Eko Susilo, saya seorang fresh graduate SMK jurusan RPL yang baru lulus kemarin. Kali ini saya ingin membagikan salah satu portfolio saya yang saya di sela sela waktu menunggu pengumuman kelulusan kemarin. Website ini bernama Collosal. Saya buat website ini hasil dari slicing salah satu UI Desainnya mas Muhamad Nauval Azhar yang di publikasikan di Figma Community. Mungkin teman teman yang menonton channel youtube Array ID atau pengguna template dashboard stisla kenal dengan beliau. Website ini terdiri dari 15 halaman yang saya sesuaikan dengan desain yang mas Nauval buat. Konten nya pun saya copas dari desain dan bersifat statis. Jadi tolong jangan heran kalau interaksi di website tidak memengaruhi konten yang ditampilkan, contohnya ada pada halaman detail project walaupun mengaksesnya dari nama projek yang berbeda tapi kontennya tetap sama.
+      Website ini saya buat dengan :
+
+      1. Next JS (Typescript)
+      2. Tailwind CSS
+      3. Swiper JS
+      4. React Icons
+      5. AOS - Animate On Scroll
+
+      github : https://github.com/iceboy1406/collosal
+      demo : https://collosal.vercel.app/
+      link UI Desain Figma : https://www.figma.com/community/file/1061303456713302684
+      credit to Muhamad Nauval Azhar - https://nauv.al/
+
+      Sekian terima kasih dan mohon sarannya teman teman
+
+<br>
+<hr>
