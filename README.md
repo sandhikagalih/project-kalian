@@ -4356,3 +4356,218 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 2 Juli 2022
+
+1.  [https://re-kun.github.io/IngfoArt/]  
+     **Schwartz.blade.php**  
+
+      Halo assalamualaikum perkenalkan saya Muhammad Raihan Alifiandra , 17 tahun asal Balikpapan 
+
+      Saya mau share hasil project saya pas ikut idcamp path frontend kelas pemrograman dasar web mungkin ini bisa membantu buat yang masih bingung gmna cara pengerjaan submissionya🙏
+
+      Link website : https://re-kun.github.io/IngfoArt/
+      Link github : https://github.com/Re-kun/IngfoArt
+
+<br>
+
+2.  [https://github.com/faisalfjri/breeze-vue-api]  
+     **faisalfjri**  
+
+      Halo semua
+
+      Perkenalkan nama saya Faisal, Izin share project Authentication starter kit frontend in Vue.js 3 for Laravel Breeze.
+      project ini terinspirasi dari project Breeze Next.js => https://github.com/laravel/breeze-next
+
+      Link GitHub :
+      https://github.com/faisalfjri/breeze-vue-api
+
+<br>
+
+3.  [https://japan-style.vercel.app/]  
+     **Orewa durian**  
+
+      Assalamualaikum, perkenalkan saya Ore umur 17 tahun,.
+      Izin share project simple hasil dari kelas dicoding (HTML, CSS, JS)
+
+      Sebenarnya ini projek untuk submission dicoding tapi kepikiran juga buat di showcase di WPUNPAS.
+      Tema yang saya ambil adalah jejepangan karna suka jepang(bukan berarti ga suka negeri tercinta ini).
+
+      Yang di gunakan (rules dicoding):
+      - HTML
+      - CSS
+      - JS
+
+      Waktu pengerjaan 3 hari karena buta desain UI
+
+      link: https://japan-style.vercel.app/
+      repository: https://github.com/Drian-key/Japanese-Style-Web
+
+      Sekian terimakasih, Wassalamualaikum
+
+<br>
+
+4.  [https://gioverdiansyah.github.io/]  
+     **VERDI**  
+
+      Assalamualaikum wr.wb
+
+      Perkenalkan Nama saya Verdi umur 14th, di showcase ini saya ingin menampilkan website buatan saya 
+      yang sudah saya kerjakan sebulan lebih ini. Yang membuat lama yaitu membuat se responsive pun, yaa walaupun cuma web portofolio tapi saya membuat 3 sekaligus yaitu ada beranda, portofolio dan career & workskills (text yang ada didalam cuma perumpamaan bukan asli).
+
+      Terima kasih juga kepada helper-helper yang telah membantu jika ada error dalam code saya, terimakasih juga pak sandhika yang telah banyak memberikan ilmunya.
+
+      Teknolgi :
+      1. HTML
+      2. CSS
+      3. JavaScript (sedikit)
+      Tanpa framework
+
+      Link Web : https://gioverdiansyah.github.io/
+      (Link utama github)
+
+      Link Repository : https://github.com/gioVerdiansyah/gioverdiansyah.github.io
+
+      Terimakasih bagi yang telah mengunjungi
+      Wa'alaikumsallam wr.wb
+
+<br>
+
+5.  [https://bookshelfs.vercel.app/]  
+     **Eko Susilo**  
+
+      Assalamu'alaikum warahmatullahi wabarakatuh
+
+      Perkenalkan nama saya Eko Susilo, umur 18 tahun. Kali ini saya ingin share hasil Submission dari kelas "Belajar Membuat Front-End Web Untuk Pemula" dari Dicoding. Pada kelas tersebut saya diinstruksikan untuk membuat sebuah web untuk mengelola buku yang dibagi menjadi dua buah rak yaitu rak "Belum Selesai Dibaca" dan "Selesai Dibaca" dan disimpan dalam localstorage. 
+
+      Teknologi yang digunakan :
+
+      - HTML
+      - CSS (SCSS saat development)
+      - JS (Typescript saat development)
+
+      demo : https://bookshelfs.vercel.app/
+      repo : https://github.com/iceboy1406/bookshelf
+
+      Selain ingin showcase saya juga bermaksud untuk membagikannya dengan teman teman yang barangkali mengikuti kelas ini juga. Mungkin source code saya bisa dijadikan referensi.
+
+      Sekian. Wasalamu'alaikum warahmatullahi wabarakatuh.
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://guidequran.netlify.app/]  
+     **Hide a.k.a Haidarr**  
+
+      Assalamualaikum semua,
+      Saya Hide/Haidar kembali akan mengirim sebuah project, setelah sekian lama g kirim project karena lagi genting" nya kelas 9, banyak ujian, daftar SMA dan lain lain. 
+      Alhamdulillah udah selesai semua ujian nya dan hasilnya tidak mengecewakan, dan saya sudah diterima di SMA Science Plus Baitul Qur'an Boarding School, mungkin ini kali terakhir ngirim project sebelum mondok. Kali ini saya ingin mengirim sebuah project sederhana yaitu Link Tree
+
+      Website: https://guidequran.netlify.app/
+      Github: https://github.com/Haaiiidaaarrr/guide-quran
+
+      Project ini dibuat untuk link tree akun instagram saya yang berisi lantunan ayat suci al quran, walaupun baru 150 followenya 😅  kalian bisa dong bantu follow dan like instagramnya.
+      Instagram: https://www.instagram.com/guide.quran/
+
+      Project ini hanya dibuat dengan HTML, Vanilla CSS dan dengan waktu yang sangat cepat 
+
+<br>
+
+7.  [https://fighting-game-milan.netlify.app/]  
+     **Milan Lizriadi**  
+
+      Selamat Malam Pak Dhika dan Teman2 semua.
+
+      Perkenalkan nama Saya Milan, umur saya 10 tahun.
+      ini Showcase pertama saya mumpung saya sudah level 10 saya mau coba share project
+
+      Project saya ini berupa game fighting.
+      Ini saya masih belajar, mohon saran dan masukkannya Pak Dhika dan teman2
+
+      Teknologi yang di gunakan:
+      - JavaScript
+
+      Cara bermain gamenya:
+      Player 1:
+      - W, A, D untuk bergerak
+      - Space untuk menyerang
+
+      Player 2:
+      - Up Arrow, Left Arrow, Right Arrow untuk bergerak
+      - Down Arrow untuk menyerang
+
+      Website: https://fighting-game-milan.netlify.app/
+      Github: https://github.com/MilanLizriadi/fighting-game
+
+<br>
+
+8.  [https://rcode777.github.io/Website-Portfolio/]  
+     **{Code}**  
+
+      Assalamualaikum pak dhika dan semuanyaa....
+
+      Perkenalkan nama saya sulthan, ini kiriman project saya yg ke 2. Btw ini project web pribadi saya yg saya buat dengan teknologi
+
+      - HTML
+      - CSS
+      - Javascript
+
+      - tanpa framework
+
+      Link web : https://rcode777.github.io/Website-Portfolio/
+
+      Link repo : https://github.com/RCode777/Website-Portfolio/
+
+      Note : mungkin ada yg kurang responsive di web nya, and maaf klw masih jelek :)
+
+<br>
+
+9.  [https://quran.edsentra.id/]  
+     **axmad386**  
+
+      Assalamualaikum..
+      Yang terhormat Pak Dhika dan teman2 wpu. Ijin share project. 
+
+      Ini showcase ke 2 saya. Project ini namanya Colorful Quran. Yaitu sebuah aplikasi web pwa yang berisi Al Qur'an dan ada notasi tajwidnya yang berwarna warni. Sudah pwa dan installable. Project ini masih terus dikembangkan karena memang ada beberapa fitur yang masih belum diimplementasikan
+
+
+      Sedikit cerita ini project dulu dibuat untuk acara hacktoberfest, biar temen2 saya bisa belajar cara PR. Tapi malah jadi terlalu serius ngerjainnya, dan dibuatkan desain juga dari mas HiskieAriel (orangnya gak pake discord).
+      Langsung saja berikut linknya
+      aplikasi: https://quran.edsentra.id/
+      repo: https://github.com/KodePandai/colorful-quran
+
+      N.B. karena teknik pewarnaan tajwid menggunakan split  huruf, mungkin di browser lama ada problem terkait ligature (hurufnya gk bisa nyambung). Jadi kalau bisa pakai chrome di android atau dibuka dari laptop saja. Lebih enak dilihat di tampilan mobile. 
+
+      Teknologi:
+      - svelte-kit (adapter static)
+      - tailwindcss
+
+      Info lain:
+      - surat dan ayat diambil dari kemenag
+      - tajweed kita bikin algoritma sendiri, jadi mungkin belum sempurna. Kalau temen2 di sini mau pakai hasil jsonnya silakan, tinggal ambil saja di repo, tp mohon cantumkan sumbernya
+
+      Thanks kepada para contributor
+      @yudian, Tio, Hilmi, Ariel
+
+      Semoga bisa bermanfaat untuk semua
+
+<br>
+
+10.  [https://mgkusumaputra.my.id/]  
+     **MGKPs Pawang Burung**  
+
+      Halo semuanya, setelah sekian lama mengumpulkan niat dan waktu yang cukup akhirnya project yang tak terhitung waktu pembuatannya selesai 😅 Kali ini adalah project portfolio pribadi sembari mempelajari tailwind css, website ini dibuat menggunakan :
+      - Tailwind CSS
+      - HTML
+      - AOS
+
+      Linknya ada disini: https://mgkusumaputra.my.id/
+      Link github siapa tau mau liat (codingan berantakan jangan dipeduliin wowkwkwkwk): https://github.com/Mgkusumaputra/Portfolio-Website
+
+      Mohon kritik dan sarannya semua dan Terima kasih :>
+
+<br>
+<hr>
