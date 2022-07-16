@@ -4677,18 +4677,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-5.  [https://re-kun.github.io/IngfoArt/]  
-     **asd**  
-
-      Halo assalamualaikum perkenalkan saya Muhammad Raihan Alifiandra , 17 tahun asal Balikpapan 
-
-<br>
-<hr>
-###SPONSOR
-<hr>
-<br>
-
-6.  [https://erastushs.netlify.app/]  
+5.  [https://erastushs.netlify.app/]  
      **Angel Of Death**  
 
       Halo Pak Dhika, Halo Temen Semuanya.👋🏽
@@ -4716,8 +4705,12 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Terimakasih sekian showcase project saya mohon saran dan kritiknya agar saya bisa semakin berkembang dengan saran dan kritik kalian.
 
 <br>
+<hr>
+###SPONSOR
+<hr>
+<br>
 
-7.  [http://kirim-pesan-laravel.herokuapp.com/]  
+6.  [http://kirim-pesan-laravel.herokuapp.com/]  
      **Hasan**  
 
       Halo teman teman semua, sudah lama semenjak showcase project terakhir saya CBTSimpel, kali ini saya mau showcase lagi projectnya tidak sekompleks CBT dan termasuk project mainstream yang sudah berkali-kali dishowcase di WPU. 
@@ -4739,7 +4732,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-8.  [https://mhdrijal.my.id/]  
+7.  [https://mhdrijal.my.id/]  
      **CicakUngu**  
 
       Assalamu'alaikum semua
@@ -4759,7 +4752,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-9.  [https://duckenduckies.github.io/]  
+8.  [https://duckenduckies.github.io/]  
      **ROZZΞZA**  
 
       Assalamualaikum pak, nama saya rozzeza, saya belum lama belajar programming dan ini hasil belajar saya dari mengikuti video dari channel WPU
@@ -4780,7 +4773,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-10.  [https://this-national-day.netlify.app/]  
+9.  [https://this-national-day.netlify.app/]  
      **rwd**  
 
       Assalamualaikum halo Pak Shandika dan temen-temen semuanya, kali ini saya mau share project yang bertemakan Hari Nasional. Project ini saya buat untuk latihan ReactJS combined TailwindCSS.
@@ -4797,6 +4790,25 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Kalau ada feedback boleh banget nih disampaikan ya biar bisa improve lagi 🙌
 
       Dan kalo dari temen-temen ada yang mau collab project boleh banget nih nanti sekalian belajar bareng by project biar sekalian jadi Portfolio 😁
+
+      Thank you semuanya
+
+<br>
+
+10.  [https://ff-tawny.vercel.app/]  
+     **KESY APRIANSYAH**  
+
+      Assalamualaikum halo Pak Shandika dan temen-temen semuanya, Perkenalkan Nama Saya Kesy Apriansyah dari Cilacap kali ini saya mau share project yang saya buat  untuk Project UTS kemarin bertemakan Game Freefire. Project ini saya buat dengan ReactJS dan beberapa komponent  TailwindCSS Seperti Flowbite , Tailwind element , kitwind.
+
+      Untuk teknologi yang digunakan seperti : 
+      - React JS
+      - Tailwind CSS
+
+      Link Website : https://ff-tawny.vercel.app/
+      Link Repository : https://github.com/KESYAPRIANSYAH/ff
+
+
+      Mohon maaf jika masih banyak kekurangan karena baru banget di IT 
 
       Thank you semuanya
 
