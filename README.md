@@ -4571,3 +4571,234 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 16 Juli 2022
+
+1.  [https://kagchi.my.id/]  
+     **KagChi**  
+
+      Halo lagi ! Ini showcase project saya yang kedua !
+      Kali ini saya membuat portfolio saya.
+
+      Dibuat menggunakan:
+      - TailwindCSS :tailwind: 
+      - TypeScript :typescript: 
+      - NextJS :nextjs: 
+
+      Preview: https://kagchi.my.id/
+      Repository: https://github.com/KagChi/KagChi 
+
+<br>
+
+2.  [https://vectus86.github.io/Web-Portofolio-Responsive/]  
+     **DaBroLexx**  
+
+      Selamat Pagi/Siang/Sore atau Malam
+
+      Perkenalkan Nama saya Calvin, di showcase kedua ini saya ingin menampilkan web portofolio yang saya sudah buat kurang lebih 1 bulan sambil belajar dan tanya-tanya ke helper html-css
+      ini project yang sempat ke skip kemarin pak hehehehe
+
+      Terima kasih juga kepada #helper html-css dari discord pak sandhika di WPU yang telah membantu jika ada masalah error
+
+      NOTE = (Saya masih bingung pak cara agar bar pada bagian my skill itu jalan pada saat di scroll gimana ya pak)
+
+      Teknolgi :
+      1. HTML
+      2. CSS
+      3. JavaScript (Sedikit)
+
+      Fitur Aktif :
+      1. Contact Form
+      2. Responsive
+      3. Animasi Pada Bar Skill
+      4. Loading Page
+
+      Link Web : https://vectus86.github.io/Web-Portofolio-Responsive/
+      Link GitHub : https://github.com/Vectus86/Web-Portofolio-Responsive
+
+<br>
+
+3.  [https://muraft.github.io/raycasting-test]  
+     **MuRafT**  
+
+      Assalamualaikum, selamat malam semuanya. Perkenalkan nama saya Rafie, umur saya 16 tahun. Disini saya ingin menshowcase sebuah projek yang telah saya selesaikan beberapa pekan lalu. Projek ini adalah percobaan render 3d dengan metode raycasting, nah karena ini hanya percobaan jadi kalian hanya bisa keliling-keliling di mapnya dan mencoba mengatur grafiknya. Teknologi yang saya gunakan adalah:
+      1. HTML
+      2. CSS
+      3. Javascript
+      4. Canvas 2D
+
+      Kalian bisa langsung mencobanya di link berikut, dan projek ini juga bisa dicoba menggunakan handphone
+      https://muraft.github.io/raycasting-test
+
+      Link Repository:
+      https://github.com/muraft/raycasting-test
+
+      Sekian terimakasih
+
+<br>
+
+4.  [https://voice.web8.is/]  
+     **Rubi**  
+
+      Halo teman-teman semua, ini adalah showcase project sampingan pertama saya yang merupakan sebuah web app, disini kita semua dapat berbincang melalui ruang yang dapat dibuat atau yang telah disediakan, Website ini masih mempunyai banyak kekurangan karna saya juga masih pemula dan dalam tahap belajar hehe
+
+      Teknologi yang digunakan
+      - Language: Go (1.18.3), JavaScript (node v16.13.1)
+      - Backend: Gin Framework & RTC
+      - Frontend: Svelte, SvelteKit, KonstaUI, Vite (_build are embedded into Go Binary)
+      - Database: MongoDB (cloud.mongodb.com)
+      - Web Hosting Provider: Fly io
+      - RTC Hosting Provider: Compute Engine GCP
+      - Host Location: Singapore
+      - DNS Service: Cloudflare
+      - Avatar Generator: Dicebear Avatars
+
+      Fitur
+      - No registration
+      - Randomly assigned Name & Profile Picture
+      - Web-based, No need to install
+      - 
+      - Private Room / Public Room
+      - 2 Room Mode
+      - Speaker & Listener Mode
+      - All Participant are Speaker Mode 
+      - Speaker request (wave), Room Owner will able to Accept (or ignore the request)
+      - Attach or Detach Speaker (into listener)
+      - Block participant from room
+      - Limit Participant that are able join into a room
+      - Adaptive Stream: automatically upgrade/downgrade audio quality based on user bandwith
+
+      TODO List
+      - Room recording (export into Audio files)
+      - User-rename ability
+      - A2HS (Add to Home screen)
+      - Logo & Better UI
+
+
+<br>
+
+5.  [https://re-kun.github.io/IngfoArt/]  
+     **asd**  
+
+      Halo assalamualaikum perkenalkan saya Muhammad Raihan Alifiandra , 17 tahun asal Balikpapan 
+
+<br>
+<hr>
+###SPONSOR
+<hr>
+<br>
+
+6.  [https://erastushs.netlify.app/]  
+     **Angel Of Death**  
+
+      Halo Pak Dhika, Halo Temen Semuanya.👋🏽
+
+      Perkenalkan nama saya Erastus HS, kali ini saya mau ikut showcase pertama saya sekaligus project website pertama saya. Project pertama saya ini adalah website portofolio, yang dibuat dengan ilmu yang saya pelajari dari youtube Pak Dhika dan beberapa elemen ada yang terinspirasi dari showcase project disini.
+
+      Teknologi yang digunakan
+      ~ HTML
+      ~ CSS
+      ~ JavaScript
+
+      Library yang digunakan
+      ~ JQuarry
+      ~ Particle.JS
+      ~ Typed.JS
+      ~ Tilt-Vanilla.JS
+      ~ Font Awesome
+      ~ BoxIcon
+      ~ AOS
+
+      📌 Website: https://erastushs.netlify.app/
+
+      🔗Repositori GitHub: https://github.com/erastushs/my-portfolio-website
+
+      Terimakasih sekian showcase project saya mohon saran dan kritiknya agar saya bisa semakin berkembang dengan saran dan kritik kalian.
+
+<br>
+
+7.  [http://kirim-pesan-laravel.herokuapp.com/]  
+     **Hasan**  
+
+      Halo teman teman semua, sudah lama semenjak showcase project terakhir saya CBTSimpel, kali ini saya mau showcase lagi projectnya tidak sekompleks CBT dan termasuk project mainstream yang sudah berkali-kali dishowcase di WPU. 
+
+      Tapi showcase kali ini cukup spesial, karena ini pertama kalinya saya mengerjakan project dengan Laravel dan juga hanya menggunakan HP android. Harapannya showcase ini menginspirasi teman teman yang mau belajar Koding tapi belumpunya PC yang memadai. saya rasa HP zaman sekarang sudah cukup untuk dipakai belajar ngoding, memang tidak akan senyaman di PC. 
+
+      Beberapa kendala yang dihadapi: 
+      1. Ketika pakai andronix versi OS gratis IDE tidak memadai (pake Geany) akhirnya beli versi OS berbayar yang sudah pre-install Code - OSS (vscode versi open-source github).
+      2. Keyboard Google bug double backspace ketika ngoding, solusinya pake aplikasi codeboard
+      3. Termux / Andronix tidak support install database server akhirnya pake cloud via Heroku
+      4. Layarnya kecil, tapi masih oke lah di hp Samsung saya.. 
+
+      Yang belum tahu Andronix, jadi itu aplikasi android yang nyediain script untuk install Distro Linux (Ubuntu, Fedora, Manjaro dll) diatas termux melalui proot. Jadi termux kita jadi sebuah Linux server yang display nya bisa diakses via VNC viewer. Aplikasi command line dasar(git, php, composer, dll) bisa lancar digunakan bahkan di versi gratis. 
+
+      Link ke aplikasinya saya sertakan di bawah http://kirim-pesan-laravel.herokuapp.com/
+      Github : https://github.com/hasanqqsp/kirimPesan
+
+      Stack aplikasi baca di github karena disini kepanjangan 
+
+<br>
+
+8.  [https://mhdrijal.my.id/]  
+     **CicakUngu**  
+
+      Assalamu'alaikum semua
+      Perkenalkan nama saya rijal (tapi lebih sering dipanggil cakcak), saya mulai belajar pemrograman sekitar akhir desember 2021 dari google, youtube, dan baca-baca dokumentasi. Kali ini saya mau share web portfolio saya yang dibuat menggunakan : 
+      - Next JS
+      - Tailwind CSS
+      - Framer Motion
+      - Google Sheets untuk nyimpen data dari form email 
+
+      Website : 
+      https://mhdrijal.my.id/ || https://euxzy.netlify.app/
+      Repository : 
+      https://github.com/euxzy/portfolio
+
+      Form to Sheets : 
+      https://github.com/jamiewilson/form-to-google-sheets
+
+<br>
+
+9.  [https://duckenduckies.github.io/]  
+     **ROZZΞZA**  
+
+      Assalamualaikum pak, nama saya rozzeza, saya belum lama belajar programming dan ini hasil belajar saya dari mengikuti video dari channel WPU
+
+      Teknologi yang digunakan
+      -HTML5
+      -CSS3
+      -Bootstrap 5
+      -JavaScript
+
+      Ini merupakan web profile dari project NFT saya
+
+      Website :
+      https://duckenduckies.github.io/
+
+      Repo:
+      https://github.com/duckenduckies/duckenduckies.github.io
+
+<br>
+
+10.  [https://this-national-day.netlify.app/]  
+     **rwd**  
+
+      Assalamualaikum halo Pak Shandika dan temen-temen semuanya, kali ini saya mau share project yang bertemakan Hari Nasional. Project ini saya buat untuk latihan ReactJS combined TailwindCSS.
+
+      Untuk teknologi yang digunakan seperti : 
+      - React JS
+      - Tailwind CSS
+      - Netlify
+      - Dan API dari https://api-harilibur.vercel.app/ (Buatannya mas Satya Kresna)
+
+      Link Website : https://this-national-day.netlify.app/
+      Link Repository : https://github.com/rolandopranata/national-day
+
+      Kalau ada feedback boleh banget nih disampaikan ya biar bisa improve lagi 🙌
+
+      Dan kalo dari temen-temen ada yang mau collab project boleh banget nih nanti sekalian belajar bareng by project biar sekalian jadi Portfolio 😁
+
+      Thank you semuanya
+
+<br>
+<hr>
