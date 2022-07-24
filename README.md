@@ -4814,3 +4814,192 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 24 Juli 2022
+
+1.  [https://hafidz-annur.github.io/resume/]  
+     **hafidz**  
+
+      assalamualaikum, perkenalkan saya Hafidz, 
+      mau share projek resume saya pribadi, dimana didalamnya saya kasih beberapa api (weather api + wikipedia api untuk bagian skills) dan terdapat versi dark mode. buat tampilannya lebih fokus ke mobile , anda dapat melihat perkiraan cuaca sesuai lokasi anda dengan mengizinkan akses lokasii ketika membuka aplikasi ini
+
+      teknologi yang digunakan:
+      - Vue 3 
+      - Bootstrap 5
+      - Sass
+      - Axios
+      - Splide JS
+      - Firebase (store data contact us)
+
+      link: https://hafidz-annur.github.io/resume/
+
+      siapa tau temen2 bisa bantu kasih masukan dan saran.
+      terima kasih 
+
+
+<br>
+
+2.  [https://monkeytype-clone.vercel.app/]  
+     **stevnn**  
+
+      halo siang semuanya, perkenalkan nama saya Steven, izin share projek pribadi (Monkeytype Clone), dimana kita bisa latihan mengetik baik di PC maupun mobile.
+
+      Teknologi yang digunakan NextJS dan TailwindCSS.
+
+      link: https://monkeytype-clone.vercel.app/
+
+      boleh saran dan star nya di github :) terima kasih
+
+<br>
+
+3.  [https://www.syafwan.xyz/]  
+     **ShaWann**  
+
+      Halo, Selamat Pagi/Siang/Malam
+
+      Nama saya Syafwan, izin share portfolio saya yang lumayan simple, saya hanya menggunakan 
+      -React, 
+      -Bootstrap dan 
+      -Package pendukung lainnya.
+
+      Web: https://www.syafwan.xyz/
+      Repo: https://github.com/Syafwan000/portfolio
+
+      Mohon kritik dan sarannya, terimakasih :3
+<br>
+
+4.  [https://emailphphtml.000webhostapp.com/]  
+     **savaarr**  
+
+      Assalamualaikum selamat siang pak dhika dan rekan rekan semua
+
+      Perkenalkan nama saya Syafarudin, ig @savaarr , ini adalah showcase-project pertama saya. Saya coba membuat aplikasi email menggunakan php, html, css dan untuk penyimpanan file nya saya menggunakan hosting 000webhost, gratis, disini kita bisa kirim email tanpa harus login dulu, nanti bisa dicoba tes kirim ke email masing-masing.
+
+      Aplikasi ini tidak menggunakan database, jadi proses pembuatannya sangat sederhana, tapi lumayan berguna untuk kirim email tanpa harus punya akun email.
+
+      Silakan kunjungi aplikasinya klik link dibawah ini:
+
+      Project:
+      https://emailphphtml.000webhostapp.com/
+
+      Source:
+      https://github.com/savaarr/emailphphtml
+
+      Kontak: 
+      https://instagram.com/savaarr
+
+<br>
+
+5.  [https://khencahyo13.github.io/city-introduction-website/]  
+     **Khen Cahyo**  
+
+      Assalamualaikum selamat malam pak dhika dan teman2 discord wpu. Perkenalkan nama saya Khen Muhammad Cahyo, bisa dipanggil Cahyo. Saya sedang mendalami tentang Frontend Web Developer. Disini saya membuat website portofolio untuk memperkenalkan kota saya yaitu Kota Kediri. Dalam project ini saya menggunakan framework Bootstrap 5 dan SCSS buat custom style bawaan Bootstrap nya atau buat style sendiri. Hosting saya menggunakan Github. Next project/pembelajaran saya mau mempelejari tentang JS dan API di playlistnya pak dhika yaitu Jalur FE WEB DEVELOPER
+
+      Monggo temen2 yang mau lihat atau ngasih saran ke saya bisa dilihat website nya disini.
+
+      Link : https://khencahyo13.github.io/city-introduction-website/
+
+      Souce Code : https://github.com/KhenCahyo13/city-introduction-website
+
+<br>
+
+6.  [https://streamgift.netlify.app/]  
+     **pan kamil**  
+
+      Halo Pak Dhika dan teman2 semua. Perkenalkan saya Irfan Kamil. Kali ini saya mau share project saya yang terinspirasi dari web saweria dan web donasi lainnya. Jadi project yang saya buat adalah stream-gift (gatau ini nama asal lewat), tujuan dari web ini adalah untuk streamer yang ingin merasakan overlay dari web donasi tetapi tidak ingin menerima donasi (contoh: bang windah). Overlaynya pun bisa text dan video.
+
+      Cara penggunaannya: 
+      - login
+      - buat akun menjadi akun streamer
+      - masuk streamer dashboard
+      - masuk ke link here
+      - copy link overlay dan paste di obs
+      - link ngirim pesan itu untuk di share
+
+      Teknologi yang digunakan: 
+      - React JS
+      - Mongo db
+      - Express
+      - Node JS
+      - Socket IO
+
+      Link website : https://streamgift.netlify.app/
+      Source Code : https://github.com/IrPanK/stream-gift
+
+      Kritik dan Saran dari kalian akan sangat berguna, Terima Kasih
+
+<br>
+
+7.  [https://gloriastore.ga/]  
+     **canti - sama**  
+
+      Assalamualaikum selamat malam pak dhika dan temen2 WPU,
+      Perkenalkan nama saya Faishal umur 18th, di showcase saya yang pertama ini ingin memamerkan e-commerce website buatan saya berjudul Gloria Store. Disini saya menggunakan Bootstrap yang saya custom pake SCSS( sudah responsif )  dan PHP native untuk backend nya. Sebagai temen2 bisa melakukan transaksi dan untuk admin bisa melakukan CRUD products dan users. Minta kritik dan sarannya ya pak, temen2 juga hehe. Link portfolio web saya cantumkan juga dibawah. Terimakasih pak dhika, temen2 WPU.
+
+      Link Project :
+      - https://gloriastore.ga/
+
+      Github
+      - https://github.com/Faishql
+
+      Portfolio
+      - https://faishal.netlify.app/
+
+<br>
+
+8.  [http://gudangcomputeraysrg9.epizy.com/]  
+     **aysrg9**  
+
+      Assalamuallaikum Pak Dhika dan temen" WPU, Perkenalkan nama saya Egyditya umur 16th izin untuk ikut showcase kedua kalinya disini. dishowcase kali ini saya membuat website e-commerce sederhana. Untuk teknologi yang saya gunakan kurang lebih ada Bootstrap 5 dan PHP native untuk backendnya. untuk fitur admin bisa melakukan CRUD contohnya : tambah product, ubah product, delete product, dll. Dan untuk fitur user kurang lebih ubah profile, add to cart, dan juga checkout, btw mohon maaf kalo belom responsive  hehehe.  kalo mau nyoba chekout liat stock dulu gays takut nya udah habis ( udah ada yang nyoba" duluan ) cara tambah stock bisa ke halaman admin. Terima Kasih 🙂
+
+      login admin
+      username : admin
+      password : 123
+
+      Demo : http://gudangcomputeraysrg9.epizy.com/
+      Halaman Admin : http://gudangcomputeraysrg9.epizy.com/admin/
+      Link Github : https://github.com/aysrg9/gudangcomputer
+
+      Sekali lagi terima kasih
+
+<br>
+
+9.  [https://cekrs-com.vercel.app/]  
+     **Septian Adhitya**  
+
+      Assalamualaikum selamat malam pak dhika dan teman teman WPU, Perkenalkan nama saya Septian Adhitya umur 18th izin ikut showcase untuk pertama kalinya. Di showcase kali ini saya membuat website informasi sisa bed rumah sakit. Untuk teknologinya saya menggunakan Next.js, Tailwind CSS, dan package pendukung lainnya. Website ini diambil data backend nya dari github Satya Wikananda, website ini saya mengerjakan front end nya saja. Untuk link github backend nya saya cantumkan dibawah.
+
+      Monggo temen temen yang mau lihat atau ngasih saran ke saya bisa dilihat website nya disini.
+
+      Link Website:
+      https://cekrs-com.vercel.app/
+
+      Link Github:
+      https://github.com/saepp/cekrs.com
+
+      Link Github Backend:
+      https://github.com/satyawikananda/rs-bed-covid-indo-api
+
+      terimakasih semuanya.
+
+<br>
+
+10.  [https://github.com/devanka761/notipin]  
+     **devanka**  
+
+      Halo, Pak Dhika dan teman-teman semua. Saya ingin share salah satu project saya yaitu Notipin. Awalnya saya membuat kustomisasi untuk alert saja. Tetapi, karna saya sering membutuhkannya, jadi saya menyimpannya di github agar bisa mendapatkannya dengan mudah. Dan teman-teman bisa menggunakannya juga di dalam website teman-teman sendiri. Kustomisasi yang dibuat antara lain adalah alert, confirm, dan prompt.
+
+      Notipin dibuat hanya menggunakan Javascript & CSS saja.
+
+      Instalasi:
+      Cukup dengan meletakkan script ini di dalam body
+      ```<script src="https://cdn.statically.io/gh/devanka761/notipin/v1.21.04/all.js"></script>```
+
+
+      Cara Penggunaan dan Selengkapnya:
+      Repo: https://github.com/devanka761/notipin
+
+      Saran & masukkan sangat saya butuhkan untuk pengembangan dan perbaikan kedepannya. Terima kasih ^^)
+
+<br>
+<hr>
