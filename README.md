@@ -5003,3 +5003,251 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+1.  [https://www.vickyalex.my.id/]  
+     **Vicky doang**  
+
+      Halo semuanya, semoga kalian sehat selalu
+
+      Hari ini mau share tentang project tugas akhirku. Project ini adalah sistem manajemen guest house yang dirancang dari:
+      1. Framework Laravel
+      2. Livewire
+      3. Node.js
+      4. Trix Editor
+      5. Bootstrap
+
+      sebagai berikut untuk linknya:
+      demo: https://www.vickyalex.my.id/
+      github: https://github.com/vick1208/guesthouse.git
+
+      untuk mencoba login admin:
+      email: super@gmail.com
+      password: test1234 
+
+      Update terbaru: Aku sudah tinggal menggumpulkan berkas yang diperlukan buat yudisium.
+
+<br>
+
+2.  [https://pujayana.com/]  
+     **Hai Puja**  
+
+      Halo Pak Sandhika dan Teman-teman semuanya, perkenalkan saya Pujayana, berikut saya akan membagikan project website portfolio saya.
+
+      Terkait proses pengerjaannya saya mengerjakannya dengan Vue JS dan Tailwindcss. 
+
+      Disini saya menggunakan Vue JS 3 + routing, saya membuat component juga untuk memudahkan pengelompokan suatu section, routing sendiri saya gunakan untuk redirect halaman yang tersedia dan tidak tersedia (404 Page Not Found).
+
+      Kemudian untuk Tailwindcss sendiri disini saya mengatur terlebih dahulu confignya seperti menyiapkan pondasi terlebih dahulu, karena class Tailwind sudah cukup kompleks memudahkan saya dalam membuat suatu component atau section, terdapat juga "arbitrary value" yang memudahkan dalam custom style sesuai yang diinginkan, serta adanya fitur darkMode dimudahkan juga dengan menggunakan Tailwindcss ini.
+
+      Terdapat juga AOS untuk animasi scroll pada halaman.
+
+      Teknologi yang dipakai:
+      1. Vue JS
+      2. Tailwindcss
+      3. AOS (Animate On Scroll)
+      4. Formspree (Custom Forms with No Server Code)
+
+      Link Website: https://pujayana.com/
+
+      Terima kasih Pak Sandhika dan Teman-teman semuanya 
+
+
+<br>
+
+3.  [http://dream-room.vercel.app/]  
+     **Tomi Renaldi**  
+
+      Assalamualakum bapak sandhika, dan teman - teman titik koma. 
+
+      Perkenalkan nama saya Tomi Renaldi. Eksperimen ini sangat menjaga performa fps. Idenya adalah menambahkan objek 3d lalu memisahkan layar monitor dan mengatur skala layar tersebut. Untuk video saya render pada layar monitor yang terpisah, kemudian screen saver menggunakan texture loader. 
+
+      Tech Stacks:
+      Webpack
+      Three.js
+      Tweakpane
+      Stats.js 
+
+      [http://dream-room.vercel.app/]
+
+<br>
+
+4.  [https://graph.scathach.dev/]  
+     **Sinxr**  
+
+      Hai kawand, kali ini sy mau ikutan showcase project, terimakasih utk pak dika dan kawand2 WPU karena bisa showcase tanpa leveling
+
+      Disgrowth: visualize your discord bots growth into statistics and chartable website
+      Sebuah web visualisasi data pertumbuhan bot discord ke dalam chart dan statistik website, juga bisa meramal & memprediksi pertumbuhan bot dimasa depan
+      Motivasi utk membuat module ini karena ingin memonitoring dan memprediksi pertumbuhan bot dgn usaha yg sedikit
+
+      Buat temen2 discord bot developer bisa menggunakan template ini untuk memonitoring pertumbuhan bot kamu sendiri, tidak perlu post data guilds dan semacamnya, 
+      bahkan tanpa mengubah sedikitpun constructor di botmu masing masing, karena kita memanfaatkan website dari https://top.gg/
+
+      Teknologi yang digunakan: 
+      - Vuejs
+      - Vue-chartjs (Vue.js wrapper for Chart.js)
+      - Disgrow (https://disgrow.js.org/)
+      - Memcache utk storing data
+
+      Demonstrasi: https://graph.scathach.dev/
+      Template & Repository: https://github.com/sinkaroid/disgrow-visualization
+
+      Sorry kalau data nya kadang ndak muncul, apinya sering down..
+
+      Terimakasih kawand, semoga selalu sehat dan senang.
+
+<br>
+
+5.  [https://github.com/slowy07/congenial]  
+     **arfy.slowy - propulsion engineer**  
+
+      selamat pagi/siang/sore/malam/tengah malam pak dhika, kali ini saya ingin showcase hasil project game sederhana saya yang bernama congenial, project ini dibuat karena saya tidak bisa tidur malam, jadinya saya buat project gabut ini, kemudian dibawa serius jadilah dia ;v,  game ini dibuat selama 2/3 hari ( sekali2 projectnya non AI ) :hehehe: , gamenya based game mario bros, cman beda desain ui and gk langsung mati (kecuali jatuh) 
+      game ini dibuat dengan:
+      - karakter, terrain, coin, dll : digital draw (software krita)
+      - develop menggunakan:
+      - python ( library pygame)
+      mungkin next akan dikembangan lagi kalo gak sibuk kerjaan, and untuk cara penginstalan dan cara penggunaanya bisa cek disini
+      https://github.com/slowy07/congenial
+
+      terima kasih pak dhika, lupakan titik koma ;v 
+
+
+<br>
+
+6.  [https://voluble-pixie-c91ff7.netlify.app/]  
+     **dihpan**  
+
+      Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game sederhana yang saya buat dengan JavaScript dan phaser.js (seperti biasa jika ada teman-teman yang tertarik untuk belajar membuat game dengan phaser, bisa liat tutorial saya https://youtu.be/uJHS9wxSpEI). jadi ini adalah game "Brekaout" yang sedikit saya plesetkan menjadi "Berakout" akwokawoa. ini sebenernya project lama, jadi untuk pengerjaanya saya agak lupa. namun kalau tidak salah seminggu
+
+
+      Demo: https://voluble-pixie-c91ff7.netlify.app/ 
+      (note: ada sedikit bug, terkadang bolanya suka keluar dari game, nah ketika ini terjadi tungguin aja nanti bolanya balik lagi. atau tekan "R" untuk restart)
+
+      Control: 
+      - Panah Kanan/Kiri untuk gerak
+
+
+      Github Repo: https://github.com/pepega90/berakout
+
+
+      Teknologi yang digunakan:
+
+      - JavaScript
+      - Phaser.js (https://phaser.io/)
+      - Webpack (https://webpack.js.org/)
+      - assetnya by Kenney (https://www.kenney.nl/assets/puzzle-pack)
+
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+7.  [https://rakbukuu.netlify.app/]  
+     **bak2**  
+
+      haloo teman-teman assalamualaikum wr wb, perkenalkan nama saya Bhakti Ramadhani atau biasa dipanggil bakbak asal Banjarmasin, jadi kemarin saya mengikuti beasiswa idcamp di Dicoding, nah disini saya mau showcase submission saya yang ada di kelas "Belajar Membuat Front-End Web untuk Pemula" di Dicoding
+
+      websitenya sederhana saja yang bisa berfungsi untuk menambahkan buku ke rak , menghapus buku, dan apabila ingin mencari bukunya dengan mudah cukup dengan memakai fitur cari buku
+
+      dibuat dengan:
+      -html
+      -css
+      -vanilla javascript
+      -sweetalert2
+
+      repo github: https://github.com/bhaktiramadhanii/bhaktiramadhanii.github.io
+      link: https://rakbukuu.netlify.app/
+
+      saya masih baru di dunia pemrograman, saran & dan masukkan dari kalian sangat saya butuhkan untuk bisa lebih berkembang lagi, Terimakasih pak dhika dan teman teman 
+
+
+<br>
+
+8.  [https://lunatic.my.id/]  
+     **Kwaii**  
+
+      Halo pak dan teman" yang lagi nonton. Ini adalah project saya ke 2 di channel WPU. Setelah saya membuat project pertama yang logicsekai.com dan lihat showcase project" terbaru. Saya beberapa kali terkena demage dari project" baru itu dan merasa Insecure buat bikin project lagi. Tapi karena saya sadar kalau seperti ini terus saya akan tertinggal lebih jauh lagi.
+
+      Dan di project showcase ini saya memperkenalkan project terbaru saya yang bernama "LUNATIC" merupakan sebuah website yang bekerja untuk mencari title atau judul Anime dengan sumber gambar/GIF/stiker atau identifikasi karakter anime, acara, episode & waktu dari tangkapan layarnya.
+
+      Kenapa saya memilih project ini. Itu karena bertepatan dengan saya yang sedang belajar tentang, cara kerja, dan membuat program AI kemudian di ikuti dengan masalah teman" saya di sosmed dimana mereka posting gambar screenshot scene anime dan mau nonton tapi tidak tau judulnya. Dan ketika posting hal tersebut butuh waktu untuk orang yang mengetahui judulnya untuk membalas judul anime tersebut.
+
+
+      Untuk mencari judul anime bisa menggunakan alamat url gambar atau unggah berkas gambar screenshot dengan kondisi tdk terpotong/crop.
+      Untuk detail sinopsis, studio, genre, jumlah EP, dll. Saya ambil dari MAL (MyAnimeList)
+
+      Sample: https://i.ytimg.com/vi/LW5hsOywZ_k/maxresdefault.jpg (atau bisa cari di google image)
+      Unggah: File support jpg, jpeg, png, web, webp, gif Max File size 1MB
+
+      Fitur lain:
+      - Anime yang tayang hari ini
+      - Jadwal tayang anime musim ini
+      - Top rank anime musim ini
+      - Anime populer
+      - Waifu
+      - Tracker | Reverse Search
+      - Live Room Chat Public
+
+      Bahasa program umum yang dipakai:
+      - PHP
+      - JAVASCRIPT
+      - HTML
+      - CSS
+      - C#
+
+      Perhatian: Maaf kalau di pencarian Tracker lambat atau hasil website jadi blank putih itu karena AI nya bekerja keras sedangkan server minimum.
+      Solusi: Tinggal tekan F5 | Atau klik tombol Arrow di pojok kiri atas browser.
+
+      Link Website : https://lunatic.my.id/ | Github Profile : https://github.com/LogicSekai
+
+<br>
+
+9.  [https://stevanandreas.com/]  
+     **Covilyn**  
+
+      Halo youtube, (perkenalan udah dari showkase kemarin yah hehe) saya mau ikutan showcase lagih, showcase web porto + domain websitenya yang baru. Sebenernya cuman beda design yang dibikin lebih soft, tapi teknologi yang digunakan rata-rata masih sama dengan yang lama (Ci4, Bootstrap, JS, Dkk) jadi cuman beda design aja...  Dan kalau ada yang ngira web ini "dinamis" hehe, mungkin nungguin niat mau ngelanjutin bikin admin page + crudnya wkwk (tapi untuk beberapa hal sudah disimpan di db), jadi sementara masih web statis sampai ada niat yang terkumpul untuk melanjutkan menjadi dinamis (menggunakan backend ci4 tadi...)
+
+      Mungkin sekian dari sayah, link website ada dibawah yah 😄
+
+      Link website : https://stevanandreas.com/
+
+<br>
+
+10.  [https://pakuwojo.netlify.app/]  
+     **saifuddien**  
+
+      Assalamualaikum warahmatullah pak,, 
+
+      Hhe. Saya kembali lagi ikut showcase.. saya Arief Saifuddien dari jepara yang kuliah islamic studies di Sudan.. 
+
+      Kali ini project ke tiga yang saya show kan di sini..
+      1. https://pakuwojo.netlify.app/
+      2. https://piket-vue.vercel.app/
+
+      3. https://ppisudan.com/
+
+      organization blogs web,
+
+      technologinya :
+      - reactjs (front end) 
+      - tailwindcss (front end) 
+
+      - nodejs (back end) 
+      - php (back end)
+
+      - mysql (database) 
+      - mongodb (database) 
+
+      Dilengkpai juga PWA.
+
+      Repo github : https://github.com/saifuddien/ppi_web
+
+
+      Bonus web api quran.. rencana mau buat api quran beda riwayat.. cuman datanya masih development.
+
+      https://quran-rewayah.vercel.app/
+
+      Collab sama temen nigeria yang kuliah informatika di sini.. dia bantuin inputin data... server, dan front end, saya yang ngerjain.. hhe
+
+<br>
+<hr>
