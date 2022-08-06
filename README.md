@@ -2567,7 +2567,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-3.  [http://todo-list.lovestoblog.com/]  
+3.  [http://todo-list02.epizy.com/]  
      **Yabsir Aditya**  
 
       Assalamualaikum Pak Dhika dan teman-teman WPU
@@ -2580,7 +2580,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       -SQL
 
       Link Github : https://github.com/yabsiraditya/to-do-list
-      Link Website : http://todo-list.lovestoblog.com/
+      Link Website : http://todo-list02.epizy.com/
 
       Mohon untuk kritik dan saranya, supaya lebih semangat lagi kedepannya, Terima Kasih
 
