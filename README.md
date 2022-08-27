@@ -5251,3 +5251,323 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 27 Agustus 2022
+
+1.  [https://devonyt.space/]  
+     **Idhamsyah**  
+
+      Assalamualaikum, Pak Sandhika dan teman2 semua
+
+      Setelah sekian lama mengikuti pembahasan showcase di channel WPU,  akhirnya bisa ikut nulis di sini juga.
+
+      Untuk project pertama yaitu Developer On Youtube. Sebuah website yang mengumpulkan channel Youtube yang membahas programming. Untuk temen2 yang channel favoritnya belum ada di list, bisa ikut menambahkan di menu kontribusi.
+
+      Stack:
+      - Laravel + Bootstrap
+      - Nextjs + Tailwind
+
+      Link website: https://devonyt.space/
+
+      Sekian, Pak Dika
+      Terima kasih.
+
+<br>
+
+2.  [https://pancakaki.id/]  
+     **NiceGum**  
+
+      Assalamualaikum, Pak Shandika dan kawan2 semua. Perkenalkan saya agung.
+
+      Ini showcase project pertama saya dan ingin memperkenalkan website sosial media buatan sendiri. Media sosial ini dibuat karena ingin mengenal silsilah keluarga seperti heritage, project nya sudah dibuat sangat lama di 2014 tapi baru diseriuskan lagi di 2015 sampai sekarang walaupun masih banyak kekurangannya.
+
+      Teknologi:
+      - PHP
+      - JS ajax push reload
+      - jquery mobile
+      - bootstrap
+
+      Link website: https://pancakaki.id/
+
+      Maaf tidak ada github nya
+
+      Sekian.
+
+<br>
+
+3.  [https://isci.rf.gd/]  
+     **Ketua Intelijen BIN**  
+
+      Assalamualaikum pak dhika dan semua nya.....perkenalkan nama saya sulthan, saya kelas 1 SMP. ini showcase project saya yg ke 3 dan merupakan update an dari website di atas.....website ini saya buat dengan 
+
+      - HTML
+      - CSS
+      - Javascript
+      - PHP
+      - AOS Library
+      - Tailwind CSS
+      - Bootstrap Framework
+      - SweetAlert2
+
+      Fitur yang ada di website ini
+
+      - Light Mode & Dark Mode
+      - Certification
+      - CTF / Hacking Challenge
+
+      Apa saja update an nya dengan website di atas?
+
+      - User akan mendapat sertifikat jika sudah menyelesaikan Hacking Challenge
+
+      - Tambahan section Our History
+      - Penambahan level CTF
+      - dah itu aja sih :)
+
+      Link Web : https://isci.rf.gd/
+
+      Link github repo : https://github.com/RCode777/ISCI-Website-V2/
+
+      Cobainn CTF nya yaa :>
+
+      Sekian, mohon maaf klw ada salah kata di pesan yg singkat ini :)
+
+      Assalamualaikum....
+
+<br>
+
+4.  [https://www.vickyalex.my.id/]  
+     **Arnadi atakana.com**  
+
+      Singkat cerita langsung saja, masih sama dgn yg sebelumnya tanpa framework, kata pak Dika native GANK 😁
+
+      * HTML
+      * CSS
+      * PHP
+      * JAVASCRIPT
+      ++++++++++++++++++
+      * JOTA TEXT EDITOR
+      * KSWEB
+      * OPPO F9
+      ++++++++++++++++++
+      Menu di Portfolio
+      * Home
+      * Blog
+      * About
+      * Contact
+      * Project
+      * + Page
+      * + Project
+      * Login
+      * Logout
+      ++++++++++++++++++
+      Menu di Blog
+      * Beranda
+      * Artikel
+      * Sitemap
+      * Tentang
+      * Kontak
+      * Disclaimer
+      * Privacy
+      * + Artikel
+      * Buka Draft
+      * Pengaturan
+      * Login
+      * Logout
+      ++++++++++++++++++
+      Akun
+      * Register, aktivasi via email
+      * Ganti password, konfirmasi email
+      * Login
+      * Logout
+      * Perbarui akun
+      * Hapus akun
+      ++++++++++++++++++
+      Dan masih ada beberapa lagi di halaman dashboard termasuk fitur pasang iklan. Namun beberapa fitur yang saya sebutkan & yang ada di dashboard terbatas untuk sebagian pengguna.
+
+      Mf 🙏 halaman dashboard masih alakadar, belum sempat dirapikan, desainnya sangat sederhana.
+
+      Yang terpenting semua fiturnya berjalan normal, berfungi semua tanpa error.
+
+      Fitur Lainnya:
+      * Live searching
+      * Pengguna dapat berlangganan artikel terbaru.
+      * Pengguna dapat menyampaikan kritik dan saran kepada penulis dan pengembang.
+      * Pengguna dapat melaporkan konten yang menyalahi aturan.
+      * Komentar, notif via email.
+
+      Penulis:
+      * Menulis & menerbitkan artikel
+      * Merubah & menghapus artikel
+      * Membuat & memperbarui akun
+
+      Khusus halaman membuat & edit artikel di draft sudah dilengkapi dengan fitur preview, ala2 Blogger gitu :)
+
+      Pengembang:
+      * Full access fitur 🙂 🙏
+
+      Portfolio https://atakana.com/
+
+      Blog Atakana.Com https://atakana.com/artikel/beranda
+
+      Repository https://github.com/masadiwebdev/portfolio-blog
+
+      Mf 🙏 scriptnya belum terstruktur dgn rapi, maklum pemula :)
+
+      Blog Atakana.Com saya buka untuk umum, siapa saja dapat menulis & menerbitkan artikel sesuai dgn kategori yang dikuasai, kategorinya sendiri bisa dipilih saat menulis artikel.
+
+      Kritik saran teman2 & pak Dika sangat saya harapkan :) 🙏
+
+      Doakan Atakana.Com dapat awet bertahan & bermanfaat bagi semua.
+
+      Amiiin...
+
+      Terima Kasih 🙏 
+
+<br>
+
+5.  [https://portfolio-adityanovadianto.vercel.app/]  
+     **ditskuyy**  
+
+      Assalamualaikum Wr. Wb. pak sandhika galih dan teman-teman semuanya..... perkenalkan nama saya aditya novadianto pratama biasa dipanggil adit. saya sekarang duduk dibangku 3 SMA, saya umur 17 tahun dan tinggal di daerah tangerang selatan. project kali ini yaitu adalah project pertama yang ingin saya showcase ke channel bapak. pada project saya kali ini yaitu saya membuat porfolio. project ini saya buat kurang lebih hampir 2 minggu karena sambil menghadapi kesibukan di kelas 11 pada saat itu. website ini saya buat menggunakan:
+
+      - React Js
+      - Tailwind CSS
+      - AOS (Animate On Scroll)
+      - Swiper Js
+      - SweetAlert
+      - Typed Js
+
+      Fitur yang ada di website ini yaitu:
+
+      - Light Mode & Dark Mode
+
+      Link Website: https://portfolio-adityanovadianto.vercel.app/
+      Link Github: https://github.com/AditNovadianto/Portfolio
+
+      Terima kasih Pak Sandhika Galih dan Teman-teman semuanya maaf bila ada kekurangan di dalam portfolio saya, saran dan kritik akan saya terima dengan senang hati, Wassalamualaikum Wr. Wb.
+
+<br>
+
+6.  [https://rausky.vercel.app/]  
+     **boedegoat**  
+
+      Halo semuanya assalamualaikum pak dhika dan warga wpu. Nama saya Bre dari Tangerang Selatan. Kali ini saya mau showcase project kedua saya yang merupakan hasil kolaborasi bersama teman saya @ditskuyy . 
+
+      Jadi waktu itu saya dan teman saya lagi kepikiran buat bikin project bareng, nah kebetulan teman saya yang lain punya usaha topup online. Makanya kita akhirnya memutuskan untuk membuat project fullstack website topup online yang sudah kita buat selama 1 bulanan (lumayan lama karena dibuat ditengah tengah kesibukan kelas 11 SMA dan liburan akhir sekolah 👍)
+
+      komposisi :
+      - Next JS
+      - Prisma + MongoDB
+      - Tailwind CSS
+      - Material UI
+      - Typescript
+      - Framer Motion
+      - Midtrans payment gateway
+
+      Link 
+      - web : https://rausky.vercel.app/
+      - github : https://github.com/AditNovadianto/Rausky-Store
+
+      Sekian pemaparan projectnya, bole banget jikalau ada kritik dan saran karena masih ada banyak kekurangan. Terimakasih semuanya wassalamualaikum wr wb. 
+
+<br>
+
+7.  [http://armandwipangestu.site/]  
+     **Arman Dwi Pangestu**  
+
+      Assalamuallaikum, Pak Sandhika dan teman - teman semua. Perkenalkan nama Saya Arman
+
+      Ini Project Showcase pertama saya dan ingin memperkenalkan website blog yang dimana project ini hasil belajar dari playlist WPU yaitu PHP Dasar
+
+      Teknologi yang digunakan:
+
+      - HTML
+      - CSS
+      - Javascript
+      - PHP
+      - Bootstrap
+      - Font Awesome
+      - Higlight JS
+      - PHP Parsedown
+
+      Link Repository: https://github.com/armandwipangestu/blog
+
+      Link Website: http://armandwipangestu.rf.gd/demo_blog/index.php
+
+      atau
+
+      http://armandwipangestu.site/
+
+      Login Admin:
+      Username: demo
+      Password: demo
+
+      Sekian dan terima kasih. 
+
+
+<br>
+
+8.  [https://newme.dereyez.com/]  
+     **Sitou**  
+
+      Web Newme
+
+      Project website buat lomba tapi gk sempat kelar karena waktu mepet jadinya masih banyak bug
+
+      Tech:
+      - ReactJS
+      - NodeJS
+      - Express
+      - ThreeJS
+      - GSAP
+      - TailwindCSS
+      - Framer Motion
+      - Flowbite
+
+      !! Loading webnya agak lama karena berat
+      Link:
+      - Website: https://newme.dereyez.com/
+      - Github: https://github.com/Sitouxz/newme-web
+
+      Kritik saran teman-teman 
+      Newme
+
+<br>
+
+9.  [https://chatdosen.ga/]  
+     **Rif.**  
+
+      Assalamualakum Pak Sandhika, dan Teman - teman semuanya.
+      Perkenalkan nama saya Arif, berikut saya akan membagikan project website tools chatdosen sederhana yang saya buat menggunakan 
+      - HTML
+      - CSS
+      - JS
+      - PHP
+
+      Tools sederhana ini bekerja dengan menerima input data pada form (seperti nomor dosen, nama mhs, dll) yang kemudian data tersebut akan di-cek (nomor hp) dan dirakit ke dalam api whatsapp kemudian di redirect.
+
+      Terima kasih Pak Sandhika dan Teman-teman semuanya 👋🏻
+
+      Link live : https://chatdosen.ga/ | https://chatdosen.000webhostapp.com/ (masih terkendala dibagian lisensi)
+      Link repo : https://github.com/ardwiinoo/tools_chatdosen 
+
+
+<br>
+
+10.  [https://pokemon-web-app.web.app/]  
+     **Sattriia**  
+
+      Halo semuanya, izin ngeshare yaa projek web pokemon 😄
+
+      Tech stack:
+      - React JS
+      - GraphQL
+      - Firebase
+      - IndexedDB
+
+      Link Github: https://github.com/adhafajri/pokemon-web-app
+      Link Website: https://pokemon-web-app.web.app/
+      Saran kritik nya di persilahkan terimakasihh 🙏
+
+<br>
+<hr>
