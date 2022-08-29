@@ -5569,5 +5569,16 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Link Website: https://pokemon-web-app.web.app/
       Saran kritik nya di persilahkan terimakasihh 🙏
 
+11.  [https://perona.id/]  
+     **Dytra**  
+
+      Halo Saya dytra, izin share project pribadi sampingan Saya. Project ini mirip linktree yang biasa di share di sosial media, namun saya tambahkan extra fitur dengan gratis. teman teman bisa daftar di website saya dgn gratis. Khusus mas Sandhika nanti Saya kasih centang biru ✅
+
+      Tech stack:
+      - ReactJS
+      - Firebase
+
+      Link Website: https://perona.id/
+
 <br>
 <hr>
