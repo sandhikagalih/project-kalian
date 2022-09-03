@@ -5571,3 +5571,223 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 3 September 2022
+
+1.  [https://notta.vercel.app/]  
+     **Rimara**  
+
+      Selamat malam Pak Dhika dan temen2 WPU. Izin share project web kemarin hasil selesain course dari salah satu platform course di Indonesia
+
+      Sederhana saja operasi CRUD dan ada fitur search:
+
+      Stack
+      - Vite
+      - React
+      - Jotai
+      - Tailwind CSS
+
+      GitHub: https://github.com/rizkimcitra/notta
+      Website: https://notta.vercel.app/
+
+<br>
+
+2.  [https://bagiskrip.herokuapp.com/]  
+     **YEEEEEY DAPET PKL DI BANDUNG**  
+
+      Selamat pagi/siang/sore/malam semuanya. Izin ikutan showcase lagi nih. Mungkin masih ada yang inget project http://mycode.great-site.net/ yang pernah saya kirimkan sebelumnya. Karena banyak yang bilang ux websitenya agak ribet, jadi saya ubah sedikit ui/ux-nya dengan hanya menyisakan 2 halaman saja tanpa auth. Saya juga ubah library syntax highlighting-nya jadi pake highlight.js bukan pake prism.js karena banyak yang bilang bagusan pake highlight.js. Saya sudah menambahkan beberapa bahasa pemrograman juga dan sekarang kira-kira ada 200 bahasa pemrograman yang bisa dipilih.
+
+      Untuk stack yang digunakan masih sama seperti sebelumnya yaitu:
+      - Laravel
+      - Tailwind CSS
+
+      Demo: https://bagiskrip.herokuapp.com/
+      Repo: https://github.com/abinoval/bagiskrip (sama kyk yang sebelumnya cuma diganti namanya)
+
+      + Perbedaan visibilitas public dan private adalah kalau public bakal muncul di card di kanan sedangkan kalau private tidak.
+
+      Kalau ada yang mengbug tolong kontak aja, tquuuuu:gud:yang mau contrib juga boleh hehe 
+
+
+<br>
+
+3.  [https://devonyt.space/]  
+     **mad**  
+
+      Selamat malam semua, izin share project web untuk mengisi liburan sekaligus mengingat react js kembali wkwk. Project ini merupakan sebuah web berita yang bisa menampilkan trending news dan mencari berita dengan kata kunci yang diinginkan. 
+
+      Stack :
+      - Next JS
+      - Tailwind CSS
+      - API yang diguakan berasal dari https://newsapi.org/
+
+      Link Github : https://github.com/faqihmadani/news-app
+      Demo Website : https://today-news-us.netlify.app/ 
+
+
+<br>
+
+4.  [https://microsrv.web.app/]  
+     **dedeardiansya**  
+
+      Halo semuanya, semoga kabar kalian baik...
+
+      Saya lagi punya project baru nihhh, nama project-nya itu MICRO. Dalam project ini tuh saya mengimplementasikan arsitektur microservice, yang mana project ini dibangun dari:
+
+      0. Docker
+      1. Auth Service (Node).
+      2. Post  Service (Node).
+      3. Comment  Service (Node).
+      4. Api getaway (Nginx).
+      5. Load balancer (Nginx).
+      6. Frontend (React) - maap yahh frontend nya berantakan.
+
+      link
+      - demo - https://microsrv.web.app/ 
+      - repo - https://github.com/dedeardiansya/microservices-using-express
+
+      Ini tuh project untuk belajar microservice yahh guyss..
+
+<br>
+
+5.  [https://air-music-app.herokuapp.com/]  
+     **Zernox**  
+
+      Hallo guys, izin ikutan showcase project. Project saya kali ini adalah music player, sebenernya project udh lama dan mau cb dilanjut & diperbaikin dikit” walau udh lupa sama kodingan sendiri 😂 (karena dibuat waktu msh awal” belajar dan koding agak bar" jadi agak sedikit acak2an kodingannya wkwk)
+      Project ini dibuat dengan :
+
+      Fromt end :
+      -    Html (EJS)
+      -    Vanilla css
+      -    Vanilla javascript
+
+      Backend :
+      -    Nodejs
+      -    Express
+
+      Link github : https://github.com/rieckypoerwadiredja/music-player
+
+      Link website : https://air-music-app.herokuapp.com/
+
+      Mohon maaf kalau masih banyak benget kekurangan dan mohon masukannya, terima kasih
+
+<br>
+
+6.  [https://akmalmaulana.my.id/]  
+     **Akmal Maulana Basri**  
+
+      Assalamualaikum Pak Dhika, dan Teman - teman semuanya
+      Perkenalkan saya Akmal, Kelas 11 Jurusan PPLG (Pengembangan Perangkat Lunak dan Gim)
+      Saya ingin membagikan projek website Portofolio saya hasil dari mengikuti playlist Laravel WPU
+
+      Teknologi yang digunakan :
+      - Laravel 9
+      - Boostrap
+      - Typist JS
+      - AOS
+      - Free visitor counter
+      - Font Awesome
+
+      - Sb Admin (Hanya basic dashboard)
+      - Trix JS (Crud untuk artikel di halaman admin)
+
+      Terimakasih Pak Dhika atas Materi dan ilmunya yang sangat bermanfaat untuk semuanya
+
+      Link Website : https://akmalmaulana.my.id/
+      Link Repo : https://github.com/akmalmaulanabasri/akmalmaulanabasri
+
+      Kritik dan Sarannya siap ditampung hehe 
+
+
+<br>
+
+7.  [https://portfolio.rifkiromadhan.repl.co/]  
+     **IkkiRama**  
+
+      Assalamu'alaikum wr wb
+      Perkenalkan nama saya Rifki Romadhan, kali ini saya mau share projek website portfolio saya, website ini saya buat menggunakan tailwindcss. Sedikit disclaimer, untuk preload sama section experience-nya saya meniru salah satu anggota group ini.
+
+      Link Repo : https://github.com/IkkiRama/Portfolio
+      Link Website : https://portfolio.rifkiromadhan.repl.co/
+
+<br>
+
+8.  [https://satriaherman.com/]  
+     **_Leonardo_**  
+
+      Assalamu'alaikum Wr. Wb
+      Pak Dhika dan Teman-Teman semua. Izinkan saya ikutan showcase project. Ini adalah web portfolio saya yang sudah saya rebuild  menggunakan react. Untuk ui nya saya pake chakra ui dan untuk backendnya saya pake strapi(headless CMS) 
+
+      Tech Stack Frontend :
+      - React
+      - Chakra UI
+      - Particlejs
+      - Vite
+
+      Backend :
+      - Strapi
+
+      Host :
+      - vercel
+      - heroku
+
+      Link : https://satriaherman.com/ 
+
+
+<br>
+
+9.  [https://medirudiantoni.github.io/main/]  
+     **Medi Rudiant**  
+
+      Assalamualaikum wr wb
+      Hola semua
+
+      Kenalkan saya Medi Rudiant dari lampung,
+      Kali ini saya mau share project website portfolio pribadi saya yang saya bikin dengan sepenuh hati seperti anak sendiri wkwkwk.
+
+      Website ini saya buat untuk sebagai uji kompetensi saya pribadi setelah beberapa lama saya belajar web programming dari channel youtube wpu ( terimakasih paduka eh!!. pak dikha hehe ).
+
+      Saya pikir project ini masih jauh dari kata sempurna, seperti aos yang kadang macet/ ngebug tidak memunculkan element, dan masih pake github pages yg notabene masuk daftar blokir kominfo PSE, dsb. Jadi mohon dimaklumi jika ada beberapa kekurangan, dan saya sangat222 senagn sekali jika ada masukan dan saran apalagi apresiasi dari pak dhika dan kawan2 semua.
+
+      Teknologi yang saya gunakan :
+      HTML
+      CSS
+      Bootstrap 5
+      Javascript
+      Jquery
+      Aos 
+
+      Link github : https://github.com/medirudiantoni/main
+
+      Link website : https://medirudiantoni.github.io/main/
+
+      Terima kasih 
+
+
+<br>
+
+10.  [https://ome.web8.is/]  
+     **Frog**  
+
+      Video Call With Random Stranger! (Ome TV Alternative)
+
+      Halo teman-teman semua, ini adalah showcase project sampingan kedua saya yang merupakan sebuah web app, disini kita semua dapat berbincang melakukan video call dengan orang asing yang dipilih secara acak, Website ini masih mempunyai banyak kekurangan karna saya juga masih dalam tahap belajar
+
+      Teknologi yang digunakan
+      - Go & Svelte
+      - MongoDB
+      - WebRTC
+
+      Fitur
+      - Shuffle/Mengacak lawan bicara
+      - Mute/Unmute
+      - Start / Stop
+      - Total Online Status
+      - Available To Chat Status
+      - semi mobile support
+
+      https://ome.web8.is/ 
+
+
+<br>
+<hr>
