@@ -5791,3 +5791,221 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 10 September 2022
+
+1.  [https://twitteay.netlify.app/]  
+     **ShaWann**  
+
+      Assalamualaikum,
+
+      Halo pak Dika dan semuanya, izin share project yang lumayan simple yang bernama "Twitteay",
+      di project ini kita bisa ngebuat fake tweet dan bisa custom temanya juga, project ini sebenernya baru dikerjain satu hari tapi saya tinggalin sebulan, ga dikerjain karena saya mulai masuk PKL, baru sempet lanjut sekarang. project ini saya buat menggunakan
+      -react
+      -react-icons
+      -react-bootstrap
+      -html2canvas
+
+      Web: https://twitteay.netlify.app/
+      Repo: https://github.com/Syafwan000/twitteay
+
+      Sekian dari saya, mohon kritik dan sarannya. Terimakasihh :3
+
+<br>
+
+2.  [https://softdev.akriliklasercutting.com/]  
+     **ZionExeon**  
+
+      Assalamualaikum,
+
+      Halo pak Dika dan semuanya, perkenalakan saya Tresnanda Agsifa Cakra Buana dari Purbalingga. Kali ini saya mau share project website portfolio komunitas yang saya ikuti. Jadi mohon dimaklumi jika ada beberapa kekurangan dan juga saya sangat suka jika ada saran masukkan ataupun apresiasi dari pak Dika dan kawan-kawan semua.
+
+      Teknologi yang saya gunakan :
+      Laravel 8
+      Css
+      Bootstrap 5
+      Javascript
+      Jquery
+      Aos 
+      Mysql
+
+      Web: https://softdev.akriliklasercutting.com/
+      Repo: https://github.com/zionexeonch/softdev_community.git
+
+      Sekian dari saya, mohon kritik dan sarannya terima kasih.
+
+<br>
+
+3.  [https://pplg2021.smkn7-smr.sch.id/]  
+     **Covilyn**  
+
+      Hamlo wpu, kembali lagi dengan saya Steeepan. (perkenalan dikit) Saya kelas 11 XI PPLG (Pengembangan Perangkat Lunak dan Game) 1 SMK Negeri 7 Samarinda 
+
+      Kali ini mau showcase web kelas lagi, ya, lagi, untuk ke 3 kalinya dengan design yang sedikit2 berbeda daaaan domain website yang sudah berbeda 😎  hehehehhehe.... (designnya gak terlalu bagus webnya karna gak ada ide lagi, biasalah, pemain backend gak bisa ngedesign)
+
+      Teknologi yang digunakan masih sama seperti yang terakhir kali di showcase ada :
+      - Boostsrap
+      - Codeigniter 4
+      - Swiper JS
+
+      webnya aktif untuk kelas saya, dan sudah masuk tahun ke 2 digunakan, jadi mohon maap gak bisa ngasih liat admin pagenya ya hehe. Tapi secara garis besar, ada tambahan halaman untuk bendahara me-manage uangkas kelas dan pengeluaran + pemasukan kelas....
+
+      Link Website : https://pplg2021.smkn7-smr.sch.id/
+
+      Link Web Personal saya (yang kemarin udah di showcase juga hehe) :
+      https://stevanandreas.com/
+
+      Yang mau tanya-tanya mengenai webnya ataupun mungkin yang lain (?) langsung ajah gasss tanya di channel diskusi-programming atau 💬diskusi-non-programming di discord wpu....
+
+      Sekian dari saya  terima kasihhh..... (jangan dibuli bang, masih pemula)
+
+<br>
+
+4.  [https://ucapin.netlify.app/]  
+     **devanka**  
+
+      Halo, Pak Dhika dan teman-teman WPU. Izin untuk mengikuti Showcase Project untuk yang kedua kalinya. Saya ingin membagikan salah satu project saya dengan nama Ucapin. Web ini terinspirasi dari greetingsisland [.] com, di mana para pengguna bisa membuat kartu ucapan secara online.
+      Karna keterbatasan kemampuan, saya mencoba membuatnya yang jauh lebih sederhana. User akan dapat membagikan hasil kartu buatannya kepada siapapun yang memiliki link dari kartu yang sudah dibuatnya tersebut.
+
+      Web ini saya buat menggunakan:
+      1. Firebase (db, storage, & auth)
+      2. Html, CSS, Javascript
+      3. Notipin
+
+      Repo: https://github.com/devanka761/ucapin
+      Link Demo: https://ucapin.netlify.app/
+
+      Kritik & masukkan sangat saya butuhkan untuk perbaikan dan perkembangan kedepannya. Terima kasih ^^)
+
+
+<br>
+
+5.  [https://expp-tracker.vercel.app/]  
+     **Rimara**  
+
+      Selamat pagi Pak Dhika dan temen-temen WPU, izin share side project sederhana hasil eksplorasi dengan Supabase
+
+      Sederhana nya app ini bisa nyatet pengeluaran dan pemasukan, untuk kurensi cuma ada satu (USD), kalo ada Ide buat nambahin kurensi lain seperti IDR monggo open PR,
+
+      untuk fitur mungkin bisa dibaca [disini](https://github.com/rizkimcitra/expense-tracker/blob/main/README.md#todos)
+
+      Stack
+      - Vite ⚡
+      - React ⚛️
+      - Supabase 🔥
+      - TailwindCSS 💨
+      - Miscellaneous 🔌
+      - Framer Motion 🎞️
+      - Jotai 👻
+      - Headless UI 🔋
+      - React Hot Toast 🔔
+      - React Hook Form 📃
+
+      website: https://expp-tracker.vercel.app/
+      GitHub: https://github.com/rizkimcitra/expense-tracker
+
+<br>
+
+6.  [https://zulfatih.github.io/]  
+     **.Gozaru**  
+
+      Hallo semuanya perkenalkan nama saya Zulfatih, ini adalah showcase project pertama saya, project ini berisi portfolio website saya pribadi, mohon maaf apabila banyak kekurangan karena saya masih awam di pengembangan web.
+
+      Dibuat menggunakan : 
+      -HTML
+      -CSS
+      -Bootstrap 5
+
+      Link Website : https://zulfatih.github.io/
+      Repositori : https://github.com/Zulfatih/Zulfatih.github.io
+      Instagram : https://www.instagram.com/muhammadzulfatih/
+
+      Mohon Kritik/Sarannya, Terimakasih :>
+
+<br>
+
+7.  [https://next-karyayudi-id.vercel.app/]  
+     **yudian**  
+
+      Assalamualaikum selamat siang pak dhika dan rekan rekan semua
+
+      Perkenalkan nama saya YudianMalik, ig @yudian_nanda_malik , ini adalah showcase-project pertama saya. Saya coba membuat website portfolio saya sendiri. disini saya mengunakan tailwind untuk styling cssnya dan kerangka next js dan react js serta PWA juga sehinga bisa di Install di hp. 
+
+      disini masih pakai konsep static untuk memnagkas biaya databasenya dan domain gratis dari vercel.
+
+      sengaja mematikan fitur srollwill pada mouse, biar serasa website 80 an.
+
+
+      Silakan kunjungi aplikasinya klik link dibawah ini:
+      Websitenya
+      https://next-karyayudi-id.vercel.app/
+      Github Saya
+      https://github.com/yudianwebdev
+
+      terimakasih 
+
+
+<br>
+
+8.  [https://track-tasks.ilhamkukuh.space/]  
+     **ilhamkukuh**  
+
+      Assalamualaikum,
+
+      bismillahirrahmanirrahim ,perkenalakan saya Ilham Kukuh Prakosa. Kali ini saya mau ikutan showcase project. Ini adalah web clone trello yang bisa membuat board
+
+      Teknologi yang saya gunakan :
+      React js
+      Antd
+      Firebase
+      React beautiful dnd
+
+      Web: https://track-tasks.ilhamkukuh.space/
+      Repo: https://github.com/ilham89/track-tasks
+
+      Sekian dari saya, mohon kritik dan sarannya terima kasih.
+
+<br>
+
+9.  [https://riefplanetary.netlify.app/]  
+     **Ars Magna**  
+
+      Hi, nama saya Rifqi, berikut ini merupakan sebuah portfolio yang saya bangun dengan three.js setelah kurang lebih belajar konsep three.js selama 2-3 bulan, 
+
+      Untuk saat ini websitenya memanfaatkan konsep skybox dan custom control camera pada movement mouse dan beberapa konsep seperti rotation, saya bisa membuat sebuah portfolio sederhana saya. Dalam website ini, saya juga mencoba mengguanakan basic shader yang disediakan oleh three.js yaitu unreal-bloom, yang membantu agar lighting pada scene kita menjadi lebih baik.
+
+      Kedepannya akan menambahkan beberapa fitur serta integrasi dengan gsap untuk menangani custom animation,
+
+      Nama Project: Rief Planetary-System
+      Link Project: https://riefplanetary.netlify.app/
+      Link Github: https://github.com/rifqirosyidi/three-project/
+
+      Teknologi yang digunakan saat ini:
+      - three.js 
+            
+
+<br>
+
+10.  [https://my-quran-seven.vercel.app/]  
+     **AlFian**  
+
+      Assalamualaikum Wr. Wb
+      Halo semuanya perkenalkan nama saya Fian, 
+      ini adalah showcase project saya yang kedua, sebelumnya project saya adalah website blog sederhana menggunakan PHP.
+      Tetapi sekarang saya sedang mempelajari Reactjs karena tertarik mencoba dan mempelajarinya, jadi saya membuat aplikasi berbasis web bernama My Qur'an yang masih sangat sederhana
+
+      Teknologi yang di gunakan :
+      - Reactjs
+      - Axios
+      - React Bootstrap
+
+      Icons :
+      - React Fontawesome
+
+      Data Al Qur'an : bisa dilihat di Repository
+
+      Repo : https://github.com/fiandev/my-quran
+      Demo : https://my-quran-seven.vercel.app/
+
+<br>
+<hr>
