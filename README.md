@@ -29,7 +29,7 @@ setiap hari Sabtu, pukul 14.00WIB (jika tidak ada perubahan :p)
    **CookieJar**  
    bisa dikepoin yaa, web personal yg masih sederhana karna static, semoga bisa berkembang aamiin
    <br/>
-
+text
 5. [http://www.indoskuat.net/]  
    **Asada**  
    Hanya sekedar Landing Page untuk server Minecraft ku yang pakai php dengan API libquerypm, html & css biasa aja.
