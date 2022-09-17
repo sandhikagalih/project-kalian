@@ -6009,3 +6009,231 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 17 September 2022
+
+1.  [http://t.me/cepatnulisbot]  
+     **rename**  
+
+      Halo guys, saya baru bikin bot telegram pake telegraf js
+
+      Teknologi yang digunakan :
+      Serveless framework 
+      Aws lambda 
+      Telegraf js
+      Sharp js
+
+
+      http://t.me/cepatnulisbot
+
+      Untuk reponya masih saya private dulu yaa
+
+      Minta sarannya yaa 
+
+<br>
+
+2.  [https://m4rc000.github.io/Portfolio/]  
+     **Prime**  
+
+      Selamat Malam Pak Dhika dan teman-teman komunitas wpu semuanya, Perkenalkan nama saya Marco  Antonio, ini kedua kalinya saya mengikuti showcase-project, di showcase-project yang pertama saya mengupload tentang game Water Wind Fire (yang ada jumpscarenya 😄 ), di project kedua kali ini saya ingin mengupload Portfolio Website saya yang dibuat dengan hampir dari semua pembelajaran website di channel wpu :wpuclap: .  Mohon saran2 nya Pak Dhika, Terima kasih sebelumnya 🙂
+
+      Notes : Untuk kumpulan lagu-lagunya ternyata ada dua yang copyright, yang Fatrat-Fly Away & Fatrat-Monody
+
+      Teknologi yang digunakan :
+      - HTML
+      - CSS
+      - Javascript
+      - Bootstrap (Framework)
+
+      Link Github : https://github.com/M4rc000/Portfolio
+
+      Link Website : https://m4rc000.github.io/Portfolio/
+
+
+<br>
+
+3.  [https://caringab.rayasabari.com/]  
+     **RYSB**  
+
+      Halo Pak Dhika dan teman-teman semua. 
+      Saya mau izin share project iseng-isengan aja nih hehee, Berawal dari statement pak Menteri Kominfo Johnny G, di podcast Close The Door nya om Deddy, yang mengatakan:
+
+      "Kita harus mampu, bukan saja aplikasi seperti Instagram. Tapi juga search engine pun harus bisa kita buat,"
+
+      karena kebetulan kemarin saya baru nyelesain project kerjaan, terus bingung mo ngapain, yaudah saya coba bikin tampilan ala ala Google aja, tapi saya kasih nama Caringab, yang kalau di breakdown jadi penCARI eNGine Anak Bangsa* (padahal pas bikin ngasal aja kata2 nya pak) .
+      Seletah itu saya posting di instatory (masih frontend doang), dan besok nya ada beberapa media yg ngeliput wkwkkw, tp saya malah jadi overthinking takut malu maluin, yaudah deh saya buatin fungsi search nya pake api wikipedia, setidaknya kalau diketik ada yang muncul gitu. Yowes pak silahkan menuju link TKP nya:
+
+      Link:
+      https://caringab.rayasabari.com/
+
+      Repo:
+      https://github.com/rayasabari/caringab
+      Barangkali ada yg mau lanjut ngembangin silahkan difork aja reponya ya teman-teman 🙂
+
+      Stack:
+      - Nuxt
+      - Tailwind
+
+      Packages:
+      - AOS
+      - Axios
+
+      API:
+      - https://www.mediawiki.org/wiki/MediaWiki
+
+<br>
+
+4.  [https://presensi.pkkmbfmipaunnes.com/]  
+     **G Nafis**  
+
+      Assalamualaikum, 
+
+      bismillahirrahmanirrahim ,perkenalakan nama saya Muhammad Nafis Roni WIjaya, saya mahasiswa jurusan TI sem 5. Kali ini saya mau ikutan showcase project. Ini adalah web presensi PKKMB FMIPA UNNES, awal kegunaan nya itu karena pada Fakultas MIPA ada jurusan ILKOM jadi harus bisa membuat aplikasi presensi hehe. Mohon saran dan masukan pak.
+
+      Presensi ini bisa membuat jadwal dan menyetor perizinan, otw pengembangan realtime chat (semoga pak dika bisa ngasih tau hehe)
+
+      Teknologi yang saya gunakan :
+      Laravel 8
+      Bootstrap
+      AOS
+      Toaster
+      Livewire
+
+      Web: https://presensi.pkkmbfmipaunnes.com/
+      Repo: - tidak saya masukan ke github tapi kalau ada yang mau nanti coba saya push 
+
+      UNTUK EMAIL DAN PASSWORD saya kirim kan ke DM pak
+
+      Sekian dari saya, mohon kritik dan sarannya terima kasih. 
+
+<br>
+
+5.  [https://prismatic-praline-70e302.netlify.app/]  
+     **dihpan**  
+
+      Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game sederhana yang saya buat dengan C++ dan raylib. jadi ini adalah typing game yang saya beri nama "typing galaxy". dimana teman-teman sebagai player harus survive dari serangan meteor, dan di setiap meteor ada kata-kata harus yang teman-teman ketik agar tetap survive
+
+
+      Demo: https://prismatic-praline-70e302.netlify.app/
+
+      Control: 
+      - Keyboard untuk typing
+
+
+      Github Repo: https://github.com/pepega90/typing-galaxy
+
+
+      Teknologi yang digunakan:
+
+      - C++
+      - raylib (https://www.raylib.com/)
+      - emscripten (https://emscripten.org/)
+
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+6.  [https://github.com/bahrie127/flutter_grocery_app]  
+     **bahri**  
+
+      Hai teman-teman assalamualaikum wr wb, nama saya  Saiful Bahri, saya mau showcase project sederhana menggunakan Flutter, dimana temen2 bisa belajar membuat aplikasi android atau ios dengan sekali koding, belajar layouting design dari NOL, dari membuat project.
+
+
+      Demo: https://youtu.be/Ih2Joj9hgys
+
+
+      Github Repo: https://github.com/bahrie127/flutter_grocery_app
+
+
+      Teknologi yang digunakan: Flutter Framework by Google
+
+<br>
+
+7.  [https://github.com/mfcc64/youtube-musical-spectrum]  
+     **mfcc64**  
+
+      Assalamu'alaikum wr wb.
+
+      Nama saya Muhammad Faiz. Saya ingin ikutan showcase di sini.
+      Projectnya bernama YouTube Musical Spectrum, sebuah browser extension yang memberikan audio visualizer pada halaman Youtube.
+      Teknologi yang dipakai:
+      - JavaScipt
+      - Web Audio API
+      - C - WebAssembly
+
+      GitHub:
+      https://github.com/mfcc64/youtube-musical-spectrum
+
+      Google Chrome (bisa juga untuk Chromium based web browser seperti Opera, Edge, dll):
+      https://chrome.google.com/webstore/detail/youtube-musical-spectrum/ddpceafiohdlkiemibjgplcicblnfggi
+
+      Mozilla Firefox:
+      https://addons.mozilla.org/en-US/firefox/addon/youtube-musical-spectrum/
+
+      Library yang digunakan:
+      https://github.com/mfcc64/showcqt-js
+
+      Project ini tidak menggunakan getFloatFrequencyData() / getByteFrequencyData(), tetapi memakai custom time domain to frequency transformation dari showcqt-js library.
+
+      Terima kasih.
+
+<br>
+
+8.  [https://tebakusia.netlify.app/]  
+     **Bachrul Panji**  
+
+      Selamat tengah Malam Pak Dhika dan teman-teman warga wpu semuanya, Perkenalkan nama saya Bachrul Panji Gumilang,saya mahasiswa dari IAI Al-Azis Mahad Al-Zaytun ini ketiga kalinya saya mengikuti showcase-project, di showcase-project  saya mengirimkan project sangat sederhana sekalian mengisi libur kuliah yaitu tentang TEBAK USIA 😄 yang awalnya sih coba-coba kerana ada yang suka berbohong kalo tanya soal umur 😅 😅 sebenernya ini project belum PD untuk di showcase karena melihat teman wpu keren-keren jadi saya pendem aja di file leptop saya karena teman saya menyarankan untuk dikirim dan berkarta "hayo rul kirim aja bagus atau jeleknya urusan nanti intinya mau nyoba saja oke", ya sudah saya kirim saja dan hampir untuk jsnya saya nyontek dari channel wpu gak papahkan pak  🙂 🙂 dan untuk disain saya di bantu sama teman satu angkatan yang bernama Ahadul Fitril Hakim  minta kritik dan sarannya pak dkk WPU sekian terima kasih 🙂
+
+
+      Teknologi yang digunakan :
+      - HTML
+      - CSS
+      - Javascript
+
+
+      Link Github : https://github.com/bachrul0038/TebakUsiaKamu
+
+      Link Website : https://tebakusia.netlify.app/
+
+      link Youtube : https://www.youtube.com/channel/UCg6xerEubVDBWDwulwr1qaQ 
+
+
+<br>
+
+9.  [https://carigatotkaca.my.id/]  
+     **bagusok55**  
+
+      Assalamualaikum Wr Wb
+      Perkenalkan nama saya Bagus, disini saya mau ikutan showcase project.
+      Saya baru belajar nextjs, dan saya membuat web untuk pencarian, disini saya menggunakan data hasil scraping dari google.
+
+      teknologi yang digunakan:
+      - NextJS
+      - Tailwind CSS
+
+
+      Web: https://carigatotkaca.my.id/
+      Repo: https://github.com/bagusok/gatotkaca/
+
+
+      kurang lebihnya mohon maaf. Terima Kasih
+
+<br>
+
+10.  [https://sharei.vercel.app/]  
+     **Bagaskoro**  
+
+      Assalamualaikum, perkenalkan saya Bagas, disini saya akan membagikan project belajar saya, ini merupakan project showcase kedua saya, pada project kali ini saya mencoba untuk cloning unsplash.
+
+      Teknologi yang digunakan:
+      -Next JS
+      -Tailwind
+      -Axios
+      -Moment
+      -Strapi
+      -Cloudinary
+
+      Link website: https://sharei.vercel.app/
+<br>
+<hr>
