@@ -6237,3 +6237,272 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Link website: https://sharei.vercel.app/
 <br>
 <hr>
+
+### 24 September 2022
+
+1.  [https://profile-app-reactjs.netlify.app/setting]  
+     **dev/azim**  
+
+      Halo semua 
+      Nama saya azim , Ini showcase project saya yang kedua sebelum nya show case pertama saya show case example portfolio web menggunakan reactjs dan masih static 
+      kali ini aku bikin web profile sederhana jadi teman teman bisa melengkapi experience dan share profile
+
+      Teknologi :
+      1.Reactjs 
+      2.useNetwork
+      3.Json placeholder
+      4.Bootstrap dan css
+
+      saya menambahkan feature dimana ketika kita offline otomatis profile yang kita update akan tersimpan di local storage
+      mohon maaf kalo web yang di deploy aga not response karena deploy fake api nya di heroku jadi aga lemot sedikit
+      jangan lupa di aplikasi nya share of public nya di jalain ya biar share experience kamu ke yang lain
+
+      github : https://github.com/BudAzimbud/profile_app_example_reactjs 
+      deploy testing : https://profile-app-reactjs.netlify.app/setting
+
+<br>
+
+2.  [https://jadwal.rmecha.my.id/]  
+     **reacto_mecha!**  
+
+      Selamat pagi, siang, dan malam buat pak dika dan yang baca. Izinkanlah saya showcase project saya. Kali ini project saya gak jauh beda sama project yang pernah di showcase sebelumnya, yaitu berhubungan dengan Jadwal Pelajaran. Tapi kali ini cukup beda sama yang sebelumnya soalnya kali ini ada beberapa fitur tambahan.
+
+      Sekolah udah full day, pas denger denger kabar masuk sekolah saya udah dapet file excel jadwal pelajaran buat satu sekolah yang udah memuat guru, mata pelajaran yang diajarkan, waktu belajar dan juga waktu istirahat. Mungkin ada waktu 4 hari sekolah, dimana kalo mau ngerapihin buku, jadwal mesti nyari file excel terus perlu di geser-geser dan perlu bolak balik ngecek hari sama guru mapel itu. Akhirnya saya kepikiran, gimana kalo saya parsing aja file excelnya, terus di ubah jadi json yang isinya data-data jadwal pelajaran dari kelas 10 sampe 12 sekalian keterangan waktunya. Setelah itu saya buat interfacenya pake NextJS sama PicnicCSS yang stylenya agak berbeda dari web yang sebelumnya saya buat.
+
+      Jadi fitur web ini yaitu
+      - PWA
+      - Bisa nampilin jadwal pelajaran dalam jumlah yang banyak
+      - Fitur dark mode biar mata gak sakit kalo ngebaca jadwal kelas spesifik
+      - Keterangan tanggal otomatis sesuai hari dengan ketentuan masih dalam minggu pelajaran atau sudah lewat minggu pelajaran
+            Semisal jadwal belajar tertera sampai jumat jam sekian dan waktu user yang berkunjung masih kurang dari waktu tersebut maka akan ditampilkan tanggal-tanggal minggu saat itu, kalau lebih maka akan ditampilkan tanggal-tanggal minggu depannya
+      - Auto scroll ke jadwal spesifik
+            Semisal hari user berkunjung di hari senin dan kurang dari jam terakhir, maka akan scroll ke hari senin. Jika sudah lewat jam terakhir maka akan di scroll ke hari berikutnya. Jika sudah melewati hari jumat jam terakhir maka akan di scroll ke hari senin.
+
+      Cara pakai dan parser sudah tertera di readme
+      Repo: https://github.com/reacto11mecha/jadwal-ssg
+      Web: https://jadwal.rmecha.my.id/
+
+      Terimakasih 
+
+
+<br>
+
+3.  [http://t.me/cepatnulisbot]  
+     **Buku Berkutu**  
+
+      halo semuanya, perkenalkan nama saya hanif ramadhani. dikali ketiga showcase project ini saya akan memamerkan hasil belajar react js. saya membuat website dengan nama GAHI. GAHI merupakan singkatan dari Gambar Astronomi Hari ini, GAHI merupakan APOD(Astronomy Picture Of the Day) dalam bahasa Indonesia. APOD menampilkan gambar dan video astronomi berbeda setiap harinya dengan disertai penjelasan singkat dari para astronom dalam bahasa Inggris. GAHI juga menampilkan gambar dan video berbeda setiap harinya tetapi dengan penjelasan berbahasa Indonesia. Website resmi dari APOD yaitu https://apod.nasa.gov/apod/. saya sesekali mengunjungi APOD, melihat desain website dari APOD sangat biasa dan susah berpindah hari untuk melihat gambar astronomi di hari yang berbeda saya memutuskan untuk meredesign website APOD. teknologi yang digunakan GAHI yaitu : 
+      - html
+      - css
+      - react js
+      - Luxon
+      - API APOD dari NASA
+      - API translasi dari MyMemory (maaf bila hasil translatenya kurang bagus)
+      fitur yang tersdia : 
+      - gambar dan video yang berbeda setiap hari
+      - berpindah tanggal untuk melihat gambar dan video dihari lain
+      Gambar dan video yang ditampilkan akan berubah setiap harinya pada jam 11 wib atau jam 12 malam waktu new york, amerika serikat sesuai kantor pusat NASA.
+      berikut website dan repo github GAHI
+      website GAHI : https://gahi.netlify.app/
+      github GAHI : https://github.com/haniframadhani/gahi
+      bagi teman-teman yang ingin mencoba GAHI saat live stream showcase project mohon untuk tidak raid website GAHI dan melakukan request berulang karena limit dari API NASA. jika sudah sampai batas maka harus menunggu sekitar 1 jam agar penggunaan API direset kembali. Jika tidak diterjemahkan ke dalam bahasa Indonesia maka api mymemory telah mencapat limit. jika sudah mencapai limit harus menunggu selama satu hari.
+
+      terima kasih kepada reacto_mecha! yang telah membantu dalam mengatasi error yang terjadi. mohon kritik dan sarannya. terima kasih. 
+
+
+<br>
+
+4.  [https://muraft.github.io/bindo]  
+     **MuRafT**  
+
+      Assalamualaikum warahmatullahi wa barakatuh. Perkenalkan nama saya Rafie, dan saya ingin menshowcase project saya untuk kedua kalinya. Jadi ini adalah projek bahasa pemrograman berbahasa Indonesia yang dibuat menggunakan javascript. Bahasa ini hanya untuk iseng saja jadi gabisa digunakan untuk projek besar. Mohon maaf jika ada beberapa bug, silahkan dibaca dokumentasinya dan langsung coba demonya
+
+      Link demo
+      https://muraft.github.io/bindo
+
+      Link repository
+      https://github.com/muraft/bindo
+
+      Sekian terimakasih
+
+<br>
+
+5.  [https://css-shadow-gen.vercel.app/]  
+     **up-dul**  
+
+      Assalamu'alaikum,
+      Halo pak Dhika dan teman-teman WPU semua 👋 .
+      Perkenalkan saya Abdul malik, dan ini pertama kalinya saya ikut showcase project.
+      Saya mau membagikan website sederhana hasil belajar saya tentang state management di React js menggunakan Redux-toolkit, yaitu website CSS shadow generator. Website ini berfungsi untuk men-generate kode box-shadow atau text-shadow untuk CSS dengan mudah. 
+
+      Website ini saya buat menggunakan :
+      - Vite
+      - React js
+      - Tailwind CSS
+      - Redux-toolkit
+      Dan beberapa library tambahan :
+      - React Router V6 -> sebagai pengatur routing antar halaman
+      - React Hot Toast -> untuk memunculkan toast ketika berhasil copy kode yang sudah di-generate
+      - React Colorful -> library color picker
+      - dll
+
+      Link repositori Github :
+      https://github.com/up2dul/css-shadow-generator
+
+      Link website :
+      https://css-shadow-gen.vercel.app/
+
+      Sekian dari saya, kurang lebihnya mohon maaf,
+      Terima kasih. 
+
+
+<br>
+
+6.  [https://scraping-berita.vercel.app/]  
+     **Bagood**  
+
+      Hallo semua teman-teman WPU
+      perkenalkan nama saya bagus, saya ingin membagikan project node js pertama saya yaitu web api yang datanya hasil scraping dari beberapa portal bertia di indonesia
+      project ini di buat dengan bantuan library2
+      - axios
+      - cheerio
+      - express js
+      - moment
+
+      cara kerjanya sederhana saja yaitu melakukan request ke website target dengan axios kemudian element-element/tag htmlnya di pilah menggunakan cheerio
+      berikut link demonya
+      https://scraping-berita.vercel.app/
+      https://scraping-berita.vercel.app/cnnindonesia
+
+      dan untuk link reponya
+      https://github.com/bagusindrayana/scraping-berita
+
+      untuk sekarang baru menyediakan data dari 5 website berita saja
+
+<br>
+
+7.  [https://moonton.huntstopup.com/]  
+     **RAY Hunts**  
+
+      Hallo semua teman-teman WPU
+      perkenalkan nama saya rehan, ini merupakan showcase saya yang kedua setelah Laravel Blog beberapa bulan yang lalu
+      saya ingin share hasil beli kursus laravel react di buildwithangga dalam rangka upgrade skills dan mengisi hari libur kerja
+      sebenarnya kursus tersebut include penerapan payment gateway tetapi tidak saya terapkan
+
+      kursus ini saya selesaikan dalam jangka waktu 4 hari, namun saya sempurnakan bagian penerapan role dan permissionnya dengan menambah waktu 2 minggu
+
+
+      Stack yang saya gunakan yaitu 
+      - Laravel 
+      - Laravel Valet
+      - Laravel Breeze
+      - Inertia
+      - ReactJs
+      - Tailwindcss
+      - Spatie Laravel Permisson
+      - Flickity & Flickity for React
+      - Ngrok
+      - Github Copilot
+
+      berikut link repository saya
+      https://github.com/RAYHunts/moonton-buildwithangga/tree/develop
+
+      untuk link website saya akan share pada saat showcase dengan ngrok / valet share
+
+      edit
+      Karena sudah terlanjur saya upload berikut link webistenya
+      https://moonton.huntstopup.com/
+
+      untuk login member silahkan bikin akun sendiri
+      untuk login admin
+
+      user : admin@moonton.test
+      pass : password
+
+      silahkan ramaikan terimakasih
+
+      satu lagi web ini sudah support PWA dan maaf responsivenya belum jalan karen dari BWA emang gitu templatenya
+
+      Terima kasih 
+
+<br>
+
+8.  [https://play.google.com/store/apps/details?id=com.icut.bukatoko]  
+     **Muhammad Kaspul Anwar**  
+
+      Haloo teman teman perkenalkan nama saya muhammad kaspul anwar, asal dari banjarmasin, sekarang saya kuliah semester 6 jurusan sistem informasi. ini pertama kali ikut acara showcase project. saya mau membagikan project yang saya buat waktu duduk di semester 5 yaitu aplikasi Ecommerce berbasis android menggunakan kotlin untuk FE , dan untuk sisi backend saya menggunakan laravel. saya sangat senang sekali apabila ada masukan dari segi apapun di dalam aplikasi
+      link Demo APK
+      https://play.google.com/store/apps/details?id=com.icut.bukatoko
+
+      dan untuk link reponya Backend
+      https://github.com/SoloPlayer-anwar/BukaToko
+      Terima kasih pak sandhika ^_^
+
+<br>
+
+9.  [https://hey.adeivan.com/]  
+     **iniadeivan**  
+
+      Halo semuanya, perkenalkan nama saya Ade Ivan Saputra asal Tangerang, sekarang saya kuliah semester 5 jurusan ilmu komunikasi. 
+      Ini adalah showcase pertama saya, disini saya membuat web portfolio saya sendiri. Website ini saya buat lebih dari 3 bulan, dikarenakan saya kurang paham perkodingan (terkhusus javascript). Sebelumnya saya sudah membuat 6 desain website dan semuanya sudah dikoding(mungkin lebih dari 8 bulan saya ngoding, sembari latihan javascriptnya), namun karena terlalu lama ngoding, akhirnya saya bosan sendiri melihat desain saya, dikarenakan disaat mencari problem solved nya selalu melihat website yang jauh lebih bagus dari punya saya... dan akhirnya dari 6 desain/kode dari masing masing website portfolio yang telah saya buat, saya gabungkan dan akhirnya menjadi website sekarang ini.
+
+      Teknologi :
+      1. Locomotive Scroll
+      2. GSAP ( Animasi Text & Transisi )
+      3. ScrollTrigger
+      4. Splitting.js ( men-split text )
+      5. Barba.js (Biar perpindahan pagenya tanpa reload, diversi sebelumnya Next.js, tapi sekarang udah lupa cara ngodingnya)
+      6. Email.js ( Contact Form gratis yang bisa custom Redirect )
+      7. Custom CSS Sendiri (tadinya pake bootstrap, cuma kayaknya gatel banget pengen belajar bikin css dari awal, dan ternyata emang susah)
+
+      Versi Baru : https://hey.adeivan.com/
+      Versi Lama : https://oldversion.adeivan.com/ ( sebenarnya fungsi next.js hanya agar perpindahan pagenya tidak reload sebelum kenal barba.js )
+
+      Referensi desain dari situs = awwwards dot com
+
+      Progress & Link Problem solvednya bisa dilihat disini :
+      https://adeivan.notion.site/95c0afa91fcd4016831faf120a3b8a07?v=34902dbf341c4c0ca4b3686504365277
+
+      *Fokus utama saya jadi desainer, cuma ini lagi ketagihan belajar ngoding:)
+      Terima kasih 
+
+<br>
+
+10.  [https://earth-wonderer-ryrd.netlify.app/]  
+     **ryrd**  
+
+      assalamu'alaikum, selamat pagi/siang/sore/malam.
+      Perkenalkan saya Ryan.
+      Kali ini saya akan sharing project pribadi saya yang saya
+      beri nama EARTH WONDERER
+
+      EARTH WONDERER adalah dummy travel destination site yang
+      menampilkan kota Banjarmasin dan Kotabaru dari Kalimantan Selatan, 
+      dan beberapa tempat underrate tapi mempunyai pemandangan indah dan unik
+      dari seluruh dunia seperti Madeira dan Salar De Uyuni.
+
+      tech stack:
+      - react + typescript
+      - tailwind
+      - framer-motion
+      - vite
+      - pace.js
+
+      link website:
+      https://earth-wonderer-ryrd.netlify.app/
+      recommended to view on desktop and chrome browser
+      ⁿᵒᵗᵉ: ᵛᵉʳʸ ᶠᶦʳˢᵗ ᵖᵃᵍᵉ ᵛᶦˢᶦᵗ ˡᵒᵃᵈᶦⁿᵍ ᵐᶦᵍʰᵗ ᵇᵉ ᵃ ᵇᶦᵗ ˢˡᵒʷ ᵃⁿᵈ ʰᵉᵃᵛʸ, ᵐᵃᵏᵉ ˢᵘʳᵉ ʸᵒᵘʳ ᶦⁿᵗᵉʳⁿᵉᵗ ᶜᵒⁿⁿᵉᶜᵗᶦᵒⁿ ᶦˢ ⁿᵒᵗ ˢˡᵒʷ
+
+      link github:
+      https://github.com/ryrd/earth-wonderer
+
+      assets source:
+      -unsplash,
+      -youtube,
+      -videezy.com (sunset timelapse video on hero section),
+      -video Banjarmasin & Kotabaru : punya sendiri (diupload ke youtube),
+      -foto-foto Banjarmasin & Kotabaru : sebagian punya sendiri (diupload ke unsplash, sebagian lagi dari user unsplash lain)
+
+      Another note: jika loading masih lambat berarti unsplash lagi gangguan, make source.unsplash.com soalnya 
+
+<br>
+<hr>
