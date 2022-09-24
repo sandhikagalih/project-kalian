@@ -6505,4 +6505,25 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       Another note: jika loading masih lambat berarti unsplash lagi gangguan, make source.unsplash.com soalnya 
 
 <br>
+11.  [https://github.com/abydahana/aksara]  
+     **Aby Dahana**  
+
+      Halo,
+      Perkenalkan toolkit saya untuk membuat aplikasi berskala secara mudah dan handal hanya dengan membuat 1 controller yang sekaligus akan bekerja menghasilkan API secara langsung. Mendukung berbagai macam jenis database dan mudah diinstall pada berbagai platform.
+    
+      Teknologi:
+      - CodeIgniter;
+      - AJAX
+
+      Link demo
+      https://demo.aksaracms.com
+      Username: admin
+      Password: admin123
+
+      Link repository
+      https://github.com/abydahana/aksara
+
+      Terima kasih, semoga bermanfaat
+
+<br>
 <hr>
