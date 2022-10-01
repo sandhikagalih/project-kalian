@@ -6506,3 +6506,260 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 1 Oktober 2022
+
+1.  [https://ngopi.id]  
+     **Michael.asia**  
+
+      Halo Pak Sandhika dan teman-teman semuanya!
+
+      Perkenalkan nama saya, Michael Eliantono, usia hanya lebih muda satu tahun dari Pak Dhika, seorang wiraswasta yang ingin menjadi domainer dan sedang berusaha memanfaatkan domain-domain yang dikoleksi. Meskipun latar belakang pendidikan saya bukan berkaitan dengan IT, saya mencoba menunjukkan hasil karya  membuat situs sederhana untuk web bisnis online saya. Sebenarnya web ini mulanya terpaksa dibuat kilat atas permintaan seorang klien institusi yang kebetulan sewa domain di tempat saya (waktu itu menggunakan bootstrap). Atas beberapa pertimbangan, mulai 27 September saya akan coba redesain dengan vanila CSS (semoga layak tonton waktu di-showcase).
+
+      Teknologi yang digunakan:
+      HTML, CSS, JS
+      Adobe Logo Maker
+      EmbedGoogleMaps
+      Rebrandly
+      Gambar dari: icon8 dan MediaWiki
+
+      Web: https://ngopi.id/ (.net)
+      GitHub: https://ngopi.info/github
+      LinkedIn: https://ngopi.info/michael
+      Desain web lama: https://ngopi.org/
+
+      Mohon masukan untuk pengembangan selanjutnya. Terima kasih
+
+<br>
+
+2.  [https://quran.khuirulhuda.me.eu.org/]  
+     **Muhammad Khuirul Huda**  
+
+      Assalamualaikum,
+
+      Halo teman - teman WPU!
+      Perkenalkan nama saya Muhammad Khuirul Huda (16) seorang siswa kelas 12 SMA yang tinggal di Jawa Tengah. 
+      Disini saya akan membagikan proyek yang saya buat beberapa bulan yang lalu.
+
+      Al-Qur'an Online
+      Proyek ini adalah proyek pertama saya untuk belajar #vuejs (karena penasaran).
+
+
+      Lihat Langsung: https://quran.khuirulhuda.me.eu.org/
+
+      Kode Sumber: https://github.com/Khuirul-Huda/alquran-online
+
+      Ada beberapa teknologi yang digunakan:
+      - VueJS (https://vuejs.org/)
+      - Sweetalert2 (https://sweetalert2.github.io/)
+      - vue-content-loader (https://github.com/egoist/vue-content-loader)
+      - Axios (https://axios-http.com/)
+      Proyek ini menggunakan API yang dideploy dari: 
+      https://github.com/gadingnst/quran-api
+
+      Nb: hanya untuk edukasi & masih belum selesai sepenuhnya tapi untuk fitur utama sudah bisa digunakan. Kritik & saran dipersilahkan
+
+<br>
+
+3.  [https://arraffapurnama.github.io/HUTRI-KEMERDEKAAN77]  
+     **Ar'raffa**  
+
+      Assalamualaikum warahmatullahi wabarakatuh, Nama saya Ar'raffa, umur 13 tahun.
+      Kali ini saya ingin mengshowcase kan Project saya untuk memperingati HUT RI yang ke 77TH dan ini  pertama kalinya saya mengikuti showcase project.
+
+      Sebenarnya ini udah lewat juga hehehe (T_T) 
+
+      Teknologi yang digunakan:
+      - HTML
+      - CSS
+      - JAVASCRIPT
+
+      Link Website : https://arraffapurnama.github.io/HUTRI-KEMERDEKAAN77/
+
+      Link Repository : https://github.com/arraffapurnama/HUTRI-KEMERDEKAAN77/
+
+      Bisa bantu Support disini Hehehe ㄟ( ▔, ▔ )ㄏ
+      https://saweria.co/ArraffaPurnama
+
+      Mohon maaf jika masih ada suatu kendala 
+
+<br>
+
+4.  [https://profile-app-reactjs.netlify.app/setting]  
+     **khairanabilla.asm**  
+
+      Assalamualaikum pak dhika, saya mau showcase project bareng sensei @arfy  dan @MITM adeknya pam , project ini adalah sebuah operasi sistem sederhana. menggunakan kernel monolitik
+
+      teknelogi yang digunakan:
+      - assembly
+
+      cara penggunaan dan repositorinya bisa diliat dibawah ini
+      https://github.com/khairanabila/NabOS
+
+      untuk command-commandnya juga bisa dilihat pada dokumentasi repositorinya
+
+      terima kasih pak dhika ❤️
+
+<br>
+
+5.  [https://cookiepos.vercel.app]  
+     **Nyanpasu**  
+
+      Halo Padika dan teman teman WPU!
+
+      Perkenalkan nama saya Advie Rifaldy, dari Bandung.
+      Sekarang saya kuliah semester 3 jurusan RPL.
+
+      Ini adalah showcase projek pertama saya :)
+      Projek ini juga merupakan projek pertama saya yang menggunakan nextjs,
+      nama projek ini adalah CookiePOS. CookiePOS adalah sebuah aplikasi Point Of Sales sederhana atau lebih dikenal dengan nama mesin kasir. Aplikasi ini menggunakan local storage sebagai penyimpanan data.
+
+      Teknologi yang digunakan :
+      - Next JS
+      - Numeral JS
+      - XLSX (npm)
+      - HTML2Canvas
+      - Tailwind CSS
+      - Daisy UI
+
+      Website : https://cookiepos.vercel.app/
+      GitHub  : https://github.com/madvier83/next-kasir/
+
+      // Masih ada bug & fitur yang belum selesai :v
+      Saran dan kritik dipersilahkan untuk membuat aplikasi ini lebih baik lagi, rasanya seneng kalau aplikasi yang dibuat bisa dipake di kegiatan sehari hari oleh banyak orang :D
+
+      Sekian terimakasih :)
+
+<br>
+
+6.  [https://dicoding-react-fundamental-submission.vercel.app]  
+     **Eko Susilo**  
+
+      Assalamu'alaikum warahmatullahi wabarakatuh
+      Halo pak Sandhika dan teman teman semua
+      Nama saya Eko Susilo, umur 18, asal Banyumas tapi sekarang sedang merantau di Bandung kerja sebagai Frontend Dev
+      Kali ini saya ingin membagikan hasil Submission Dicoding di kelas "Belajar Fundamental Aplikasi Web dengan React". Lanjutan dari beasiswa IDCamp kelas intermediate
+
+      Teknologi Yang digunakan
+      - React JS (Typescript as always)
+      - React Query
+      - React Hook Form
+      - Mantine (mirip mirip Material UI, Ant Design dan kawan kawan)
+
+      Github : https://github.com/iceboy1406/dicoding-react-fundamental-submission
+      Demo : https://dicoding-react-fundamental-submission.vercel.app/
+
+      Sekian dan Terima kasih
+
+<br>
+
+7.  [https://phpsandbox.io/e/x/0lknz?layout=Preview&defaultPath=%2F]  
+     **sensasi_delight**  
+
+      Halo pak Dika dan teman-teman WPU semuanya 👋🏻. Selamat pagi, siang, sore, atau malam tergantung kapan anda membacanya. Perkenalkan nama saya Zain, mohon izin untuk mengikuti ✨Showcase Project. Ini merupakan Showcase Project pertama saya, dan pada kesempatan ini, saya ingin memperkenalkan project bernama Material Blade yang saya bangun, terinspirasi oleh Material UI. Material Blade merupakan sebuah package UI yang berisi Material Web Components berbasis Material Design v2 yang diterjemahkan menjadi Laravel Blade Components untuk mempercepat dan memudahkan pembangunan UI dengan standar Material Design pada aplikasi Laravel. Berikut beberapa software yang saya gunakan dan terapkan dalam pembangunan Material Blade ini:
+      - Material Web Components v14.
+      - Laravel v8.
+      - PHP v7.4.
+
+      Pembangunan package ini belum selesai sepenuhnya namun tetap saya kirimkan untuk bisa dapat kritik dan saran dari pak Dika dan Pasukan Titik Koma semuanya.
+
+      Pembangunan package ini saya kerjakan di sela-sela pengerjaan tesis saya, maka dari itu saya memohon doa untuk kelancaran tesis saya dari bapak dan teman-teman WPU semua. 🙏🏻🙏🏻🙏🏻
+
+      Tanpa menunda lebih lama lagi, silahkan mengunjungi tautan-tautan di bawah ini untuk melihat demonstrasi dari Material Blade beserta halaman GitHub-nya.
+
+      Demo:
+      - https://phpsandbox.io/e/x/0lknz?layout=Preview&defaultPath=%2F
+
+      GitHub:
+      - https://github.com/sensasi-delight/material-blade
+      - https://github.com/sensasi-delight/material-blade-demo
+
+      Panduan instalasi dan penggunaan Material Blade dapat ditemukan pada halaman GitHub-nya. Jika menemukan bug atau ada masukan atau saran atau mau request fitur atau lainnya langsung saja membuat issue pada halaman GitHub-nya. kontribusi/kolaborasi saya terima dengan tangan terbuka, jangan sungkan untuk menghubungi saya via Discord atau sur-el.
+
+      Akhir kata, terima kasih, pak Dika, terima kasih juga teman-teman WPU semua, sehat dan sukses selalu untuk semuanya
+
+<br>
+
+8.  [https://www.reinhardkevin.xyz/]  
+     **reicehhh**  
+
+      Halo Pak Sandhika dan teman-teman semuanya.👋🏻👋🏻
+      Nama saya Reinhard Kevin, dan saya ingin lebih dulu berterima kasih pada Pak Dhika karena video-video Bapak sangat membantu semasa berkuliah. Selain membantu, video live showcase itu sangat menginspirasi dan memotivasi saya untuk berkarya.
+      Nah ini saatnya, saya izin untuk mengikuti showcase, semoga bisa menginspirasi teman-teman lainnya.
+
+      Ini merupakan resume/portfolio terbaru saya:
+      https://www.reinhardkevin.xyz/
+
+      Pada projek ini, saya memakai tech stack sebagai berikut:
+      - React.js (Spesifik: Next.js)
+      - React Grid Layout (untuk layout grid dan fitur draggable pada mode desktop)
+      - SWR (untuk fetching dan caching data)
+      - TailwindCSS
+      - Mapbox (API untuk maps)
+      - Spotify Developer (API untuk recently played song)
+      - Framer Motion (untuk animasi, termasuk pengganti AOS)
+
+      Link projek: https://www.reinhardkevin.xyz/
+      Link github: https://github.com/reinhaaard13/rei-portfolio-next
+
+      *disclaimer: Sejujurnya, karya ini sih tidak 100% orisinil, karena saya terinspirasi dari resume orang luar negri di explore instagram😅 Bahkan splash screennya juga saya terinspirasi dari showcasenya @iniadeivan... Izin ya broo hahahaha
+
+      Demikian showcase project saya Pak. Terima kasih Pak Dhika, ditunggu tutorial Reactnya:D 
+
+
+<br>
+
+9.  [https://lokercafe.000webhostapp.com/]  
+     **SyarifS**  
+
+      Assalamualaikum pak dhika dan teman-teman.
+
+      Perkenalkan, saya Syarif, mahasiswa semseter 7 di Universitas Teknologi Yogyakarta. Izinkan saya untuk showcase project pertama saya ini.
+
+      Projek ini adalah sistus E Rekrutmen sederhana.
+
+      Situs ini sedang dalam pengembangan jadi akan selalu saya update kedepannya.
+
+      Situs ini dibuat dengan tujuan mengasah kemampuan saya. Masih banyak yang perlu ditambahkan dan diperbaiki, seperti peningkatan UI, optimisasi kode, dan lain-lain. Dan akan saya lakukan satu-per-satu di waktu luang.
+
+      Dibuat dengan:
+
+      - CodeIgniter 4
+      - Bootstrap 4
+      - Myth/Auth
+      - SB Admin Template untuk bagian template admin dan user setelah login
+      - Visual Studio Code sebagai text editor diatas OS Windows 10
+
+      Link project: https://github.com/soden46/E-Rekutmen
+
+      Informasi mengenai project bisa dilihat dilink github diatas.
+
+      Kritik dan saran sangat diterima untuk meningkatkan situs ini dan juga sebagai perbaikan diri.
+
+      Demikian showcase project saya Pak, terima kasih Pak Dhika.
+
+<br>
+
+10.  [https://github.com/slowy07/luna]  
+     **arfy**  
+
+      Selamat pagi pak dhika :hehehe: 
+      Kali ini saya kembali dengan project artificial intelligence saya :hehehe: , project saya ini bernama luna dimana project ini bisa merubah dari deskripsi kata menjadi sebuah gambar sesuai dengan output dari deskripsi yang sudah diberikan, kali ini project luna saya kerjakan bareng @MITM adeknya pam :hehehe: , project ini menggunakan teknologi berupa
+
+      - tensorflow ( keras )
+      - numpy 
+      - fixes text for you ( ftfy )
+      - gradio ( translate colab notebook to webpage )
+
+      repositori : https://github.com/slowy07/luna
+
+      fun fact: tiap hasil output selalu berbeda terus menerus ketika kita mengulangi proses, jadi hasil file tidak monoton
+
+      note : untuk running bisa dilakukan secara online ( bisa dilihat di repositori ) untuk generating image online memakan waktu yang agak sedikit lama pak dhika ( approx 20 min ) :hehehe: 
+
+      jika memakan waktu terlalu lama, pak dhika bisa melihat hasil output dari luna yang sudah tersedia pada repositori
+
+      terima kasih pak dhika, lupakan titik koma
+
+<br>
+<hr>
