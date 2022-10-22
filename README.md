@@ -6763,3 +6763,274 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 22 Oktober 2022
+
+1.  [https://sidoarjocity.000webhostapp.com/]  
+     **The Piione**  
+
+      Selamat sore pak dhika :hehehe:  oiya nama ku Alfian Wahyu, mahasiswa semester 5 jurusan SI di salah satu univ di surabaya dan
+      Baru kali ini aku menyumbangkan project kecilku dengan sedikit pengetahuan yang aku miliki ehehe :hehehe: , projectku ini merupakan project pertama yang berhasil aku tuntas kan hingga akhir jadi maklum kalo masih banyak kurangnya eheheh, project ini menggunakan teknologi  berupa
+
+      - Html
+      - Css (No FrameWork)
+
+      website : https://sidoarjocity.000webhostapp.com/
+      repositori : https://github.com/AlfianWD/Web-Sidoarjo-City
+
+      terima kasih pak dhika, lupakan titik koma :hehehe: 
+
+
+<br>
+
+2.  [https://arraffapurnama.github.io/Calculator]  
+     **Ar'raffaDEV**  
+
+      Assalamualaikum warahmatullahi wabarakatuh,
+
+      Halo Pak Dhika dan Teman teman WPU!  
+      Kali ini saya ingin mengshowcase kembali Project sederhana saya yaitu Calculator.
+
+      Dan sekian terimakasih.  ㄟ( ▔, ▔ )ㄏ
+
+      Teknologi yang digunakan:
+      - HTML
+      - CSS
+
+      Link Website : https://arraffapurnama.github.io/Calculator
+
+      Link Repository : https://github.com/arraffapurnama/Calculator
+
+      Bisa bantu Support disini yaa.. 
+      https://saweria.co/ArraffaPurnama
+
+      Wassalamualaikum WR WB.
+
+<br>
+
+3.  [http://frage.my.id/]  
+     **Rabbids**  
+
+      Assalamualaikum pak Dhika dan teman-teman WPU.
+
+      Perkenalkan nama saya Alfino, kali ini saya mau ikut showcase project yang saya buat  :hehehe: 
+
+      Project saya bernama Frage, ini adalah website untuk bertanya sebuah pertanyaan dan menjawab sebuah pertanyaan. Saya membuat project ini terinspirasi dari StackOverflow. 
+
+      Project ini dibuat dengan :
+      - Laravel 8
+      - Bootstrap 5
+      - jQuery
+      - dan beberapa component lainya
+
+      Link : http://frage.my.id/
+
+      Repo github : https://github.com/alfinorossesa/frage
+
+      Terima kasih
+
+<br>
+
+4.  [https://sawer.nauf.space/]  
+     **kyaaaa**  
+
+      Assalammualaikum Pak Dhika dan Kawan-kawan WPU.
+
+      Saya Naufal Azkia dari bandung, kali ini saya mau showcase project open-source yang kedua kalinya, semoga bermanfaat 😄
+
+      Kyaaaa-Donate-APP adalah sistem donasi pribadi yang sangat simpel dengan dukungan stream overlay. seperti s*weria dkk.
+      Project ini dibuat menggunakan framework php buatan sendiri
+
+      What inside?
+      1. Kyaaaa-PHP Framework 
+      2. Sweetalert2 
+      3. Pusher WebSocket 
+      Pusher WebSocket digunakan untuk menerima data realtime donasi & pembayaran (invoice)
+      4 Payment Gateway
+      5. Pure CSS
+      6. Vanilla JS
+
+      Fitur?
+      1. QRIS Payment (hanya mendukung qris payment)
+      2. Stream Overlay :
+      Donate Notification : with Text-to-Speech, gif, and custom notification sound.
+      Running Text Contributors
+      3. Social Media links
+      4. Contributors History
+      5. Send email to contributors after paid transactions 
+
+      Demo : https://sawer.nauf.space/
+      Kyaaaa-Donate-APP : https://github.com/naufkia/kyaaaa-donate-app
+      Kyaaaa-PHP-Framework: https://github.com/naufkia/kyaaaa-php
+
+      Demo Credential
+      Login link: https://sawer.nauf.space/login
+      Email : demo@demo.com
+      Password : demo
+
+<br>
+
+5.  [https://pilipscode.github.io/Portfolio-new/]  
+     **Kang Error**  
+
+      hallo  teman-teman WPU.
+
+      Perkenalkan nama saya Pilipus,saya mau mengshare web portfolio buatan saya baru baru ini
+
+      Teknologi :
+      - Html
+      - Css
+      - Gsap
+      - Js
+
+      Link : https://pilipscode.github.io/Portfolio-new/
+
+      Repo github : https://github.com/PILIPSCODE/Portfolio-new
+      Terima Kasih
+
+<br>
+
+6.  [https://classy-gecko-6dc81b.netlify.app/]  
+     **dihpan**  
+
+      Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game sederhana yang saya buat dengan C++ dan raylib. jadi ini adalah game yang mirip seperti doodle jump, yang saya beri nama "Pepega Jump"
+
+
+      Demo: https://classy-gecko-6dc81b.netlify.app/
+
+      Control: 
+      - Panah Kanan/Kiri untuk bergerak
+      - Space untuk lompat
+
+
+      Github Repo: https://github.com/pepega90/pepega-jump
+
+
+      Teknologi yang digunakan:
+
+      - C++
+      - raylib (https://www.raylib.com/)
+      - emscripten (https://emscripten.org/)
+
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+7.  [https://sendwa.pages.dev/]  
+     **array**  
+
+      Selamat (pagi|siang|sore|malam) teman2, perkenalkan saya Rohmat. Saya mau showcase project sederhana. Project sederhana ini saya berinama whatsapp tool yang digunakan untuk memulai chat whatsapp tanpa menyimpan nomornya. terkadang saya menghubungi orang yang ga begitu kenal, seperti customer service, mantan :D, dkk.
+
+      Teknologi yang digunakan:
+      - Vite [https://vitejs.dev/]
+      - Vue [https://vuejs.org/]
+      - Tailwind [https://tailwindcss.com/]
+      - Toastify [https://apvarun.github.io/toastify-js]
+      - Popper [https://popper.js.org/]
+      - Libphonenumber-js [https://catamphetamine.gitlab.io/libphonenumber-js]
+      - API [https://ipinfo.io/], [https://wa.me/]
+
+      Repo
+      https://github.com/rohmatnov/whatsapp-tool
+
+      Demo
+      https://sendwa.pages.dev/
+
+      Terimakasih
+
+<br>
+
+8.  [https://web-production-2df8.up.railway.app/]  
+     **Arief**  
+
+      Assalamualaikum, perkenalkan saya Arief dari Kalimantan timur,saya mau showcase project sederhana yaitu tools convert YouTube ke mp3 dan mp4
+
+      Teknologi yg di gunakan:
+      - HTML
+      - CSS
+      - JAVASCRIPT
+      - PYTHON
+
+      link website: https://web-production-2df8.up.railway.app/
+
+
+      github: https://github.com/ariefdev-project/youtube-converter 
+
+
+<br>
+
+9.  [http://note-app-silk.vercel.app/]  
+     **users/wikla**  
+
+      Assalammualaikum Pak Dhika dan teman teman WPU.
+
+      kali ini saya mau showcase project gabut saya, Note App. 
+      Web ini saya buat ketika saya ada waktu luang sekalian mencoba mempelajarai Json Web Token. Project ini berupa webapp dan juga api.
+      Web app ini saya pisah antara backend dan frontend. jadi temen temen atau pak dhika selain bisa nyoba appnya bisa juga menggunakan api untuk membuat note app sesuai keinginan.
+
+      Teknologi yang daya gunakan:
+
+      Web App
+      - Node js
+      - Next js
+      - axios js
+      - Tailwind js
+      - moment js
+      - react-cookie js
+
+      API
+      - Node js
+      - Express js
+      - jsonwebtoken
+      - mongoose 
+
+      Demo Web App: http://note-app-silk.vercel.app/
+      Repository Web App: https://github.com/wiklapandu/note-app
+
+      Demo API: https://note-api-wikla.herokuapp.com/api/
+      Repository API: https://github.com/wiklapandu/note-api
+
+      Oh iya jangan lupa follow saya disini ya, terimakasih🙏🏻
+      Github: https://github.com/wiklapandu/
+      Linkedin: https://www.linkedin.com/in/wiklapandu/
+
+<br>
+
+10.  [https://insapgan.zidnirifan.my.id/]  
+     **zidni**  
+
+      Assalamualaikum semuanya, perkenalkan nama saya Zidni Rif’an. Sebelumnya saya ingin mengucapkan terima kasih banyak kepada Pak Sandhika karena channel youtubenya sangat membantu saya dalam proses belajar pemrograman. 
+
+      Saya ingin membagikan aplikasi saya yaitu sebuah media sosial tiruan Instagram yang saya beri nama Insapgan. Saya buat project ini untuk mengasah kemampuan saya dan untuk mencoba menerapkan ilmu yang sudah saya pelajari selama ini.
+
+      Link : https://insapgan.zidnirifan.my.id/
+      Source code backend: https://github.com/zidnirifan/socmed-app-backend
+      Source code frontend: https://github.com/zidnirifan/socmed-app-frontend
+
+      Stack yang saya gunakan adalah sebagai berikut:
+      Backend:
+      - Typescript
+      - Express
+      - Firebase storage
+      - MongoDB
+      - Socket.IO
+
+      Frontend:
+      - React.js
+      - Material UI
+      - Socket.IO
+
+      Fitu-fiturnya sebagai berikut:
+      - Follow user, unfollow user, search users
+      - Post images with captions, explore posts, following posts, like posts
+      - Comment, reply comment, like comments
+      - Real-time chat
+      - Notification
+
+      Untuk mencobanya silahkan buat akun dulu ya.
+
+      Terima Kasih
+
+<br>
+<hr>
