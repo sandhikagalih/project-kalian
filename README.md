@@ -7034,3 +7034,217 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+
+### 29 Oktober 2022
+
+1.  [https://zeronosho.github.io/weather/]  
+     **kuro**  
+
+      Assalamu'alaikum teman2, perkenalkan saya Ari Rachman. Saya mau menunjukan project sederhana saya . Project sederhana ini saya berinama weather forecast yang berguna untuk menampilkan ramalan cuaca di berbagai daerah di dunia.
+
+      Teknologi yang digunakan:
+      - React js 
+      - Axios
+      - Moment.js
+      - Particles.js
+      - Api : Openweathermap
+
+      Link : https://zeronosho.github.io/weather/
+
+<br>
+
+
+2.  [https://ngirim.vercel.app/]  
+     **Lashdid**  
+
+      Assalamualaikum semuanya, ini showcase pertama saya. Saya ingin membagikan website saya yaitu website yang digunakan untuk transfer file menggunakan 6 digit kode. Saya buat project ini untuk mengasah kemampuan saya bermain dengan framework SolidJs.
+
+      Link : https://ngirim.vercel.app/
+
+      Source code: https://github.com/lashdid/ngirim
+
+      Stack yang saya gunakan :
+      - SolidJs
+      - Typescript
+      - TailwindCss
+      - Firebase Cloud Storage
+
+      Cara menggunakannya ada di readme github ya.
+
+      Terima Kasih
+
+<br>
+
+
+3.  [https://hololiveid.vercel.app/]  
+     **klaw**  
+
+      Halo semuanya, saya mau showcase projek gabut saya yaitu Unofficial Hololive ID Website, sebenernya ini projek iseng aja karna saya liat Hololive Indonesia itu belum punya website mereka sendiri (untuk saat ini), website Hololive Indonesia masih merge ke website Hololive Production. jadi saya putuskan untuk membuat website ini, siapa tau dijadiin official website sama mereka wkwk
+
+      Link : https://hololiveid.vercel.app/
+
+      Source code: https://github.com/klawcodes/holoid-website
+
+      Teknologi yang gunakan :
+      - React JS
+      - AOS
+      - React Router Dom
+      - React Helmet
+      - React Icons
+
+      Terima Kasih 
+
+
+<br>
+
+
+4.  [https://perona.id/]  
+     **dytra**  
+
+      Halo Saya dytra, izin share project pribadi sampingan Saya. Project ini mirip linktree yang biasa di share di sosial media, namun saya tambahkan extra fitur dengan gratis. teman teman bisa daftar di website saya dgn gratis. Khusus mas Sandhika nanti Saya kasih centang biru ✅
+      Catatan: Mohon bantuannya utk lapor kalau ada yg error  🙏
+
+      Tech stack:
+      - ReactJS
+      - Firebase
+
+      link: https://perona.id/
+      contoh : https://perona.id/dytra
+
+<br>
+
+
+5.  [https://ardidev.xyz/]  
+     **ARDI GZ**  
+
+      Halo Saya Ardi saya pemula , izin share project pribadi  sampingan saya project ini hasil dari remake saya yang bisa di beli di website lain namun saya update bug yang ada dan saya perbaiki apa yang di perlukan teman teman bisa share cerita di website saya dengan DM discord saya karena belum multiuser 
+
+      Technologi yang di gunakan:
+      -javascript
+      -Codeigniter
+      -css murni
+      -jquery
+      -sql
+
+      Link: https://ardidev.xyz/ 
+
+<br>
+
+
+6.  [https://haresdesign.rf.gd/]  
+     **Debug.Log**  
+
+      Permisi Saya Dhama. Saya izin share project kolaborasi saya dengan teman saya seorang UI/UX designer (pemilik Web). Project ini merupakan project pertama saya sebagai programmer, jadi wajar saja kalau banyak kekurangan dalam tampilan maupun performa website. Dan project ini hanya berbasis teknologi:
+
+      - HTML
+      - CSS
+      - JAVASCRIPT
+
+      Untuk link nya:
+      https://haresdesign.rf.gd/
+
+      Repository: 
+      https://github.com/yuandadhama/web
+
+      Terimakasih 
+
+
+<br>
+
+
+7.  [https://brian-tugasdea.boybrinsyah.repl.co/]  
+     **Briansyah Rizky Pohan**  
+
+      Permisi sya Brian, sya izin share project buatan sya dri tugas bang Dea, cek cek aja om ini pke BHS pemrograman html, CSS, JS konsep dom sya asal Bekasi umur 14 thn 
+
+      Untuk link nya:
+      https://brian-tugasdea.boybrinsyah.repl.co/
+
+<br>
+
+
+8.  [http://cek-nik-im3.herokuapp.com/]  
+     **rixwand**  
+
+      Assalamualaikum semuanya, Perkenalkan nama saya riswandi, ini pertama kalinya saya ikut showcase project, saya mau ngeshare project web sederhana.
+      yaitu website untuk mengecek nik yang terdaftar di provider kuning, karena kebocoran data kemarin, jadi saya coba untuk membuat web ini, ya meskipun hanya untuk mengecek doang,
+      niatnya saya mau buat untuk semua provider, cuman belum nemu API nya, jadi saya buatkan yg ini dulu, jangan diliat dri segi design nya soalnya saya gk pinter design wkwkwk,
+      oiya web ini gk pake database dan langsung request ke API nya jadi gk usah khawatir, nik kalian gk akan tersimpan di server. klo gk percaya silahkan liat source codenya.
+      maap-maap klo proses pengecekan nya lama soal nya kodingan barbar gk optimal dan pke hosting gratisan sama tergantung juga banyaknya data yg dicek.
+      sebenarnya ada web resminya dri provider kuning tpi cuman bisa ngecek satu satu doang, yang ini bisa multiple, bisa pake file excel juga.
+
+      Teknologi yang saya gunakan : 
+      -express
+      -ejs
+      -SheetJs
+      -tailwindcss
+
+      link : http://cek-nik-im3.herokuapp.com/
+      source code : https://github.com/rixwand/cek-nik-indosat
+      web resminya : https://myim3.indosatooredoo.com/ceknomor/index
+
+      terima kasih
+
+<br>
+
+
+9.  [https://orzdesign.site/]  
+     **zekkeN**  
+
+      Hallo semuanyaa,
+
+      Perkenalkan nama saya Oryzha Wahyu Nugraha sering dipanggil Oriz, kali ini saya pengen nyoba ikut showcase project.
+
+      Ini adalah website portfolio yg berisi mengenai diri saya, project-project yg saya buat, dan kontak person saya.
+
+      Teknologi yg saya pakai :
+      - HTML
+      - CSS
+      - Javascript (preloader, navbar fixed, ucapan halo, back to top, scroll progress bar, ripple effect click, lazyload untuk projects img)
+      - PHP (untuk menampilkan tahun sekarang dan mengirim contact form ke email)
+      - Jquery
+      - Bootstrap
+      - Boxicon
+      - Sedikit parallax effect
+
+      Link : https://orzdesign.site/ 
+
+      Terimakasih.
+
+<br>
+
+
+10.  [https://jade-hummingbird-987a5e.netlify.app/]  
+     **dihpan**  
+
+      Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase project simulasi simple yang saya buat dengan C++ dan raylib. jadi ini adalah simulasi kain, project ini dibuat untuk belajar tentang Verlet Integration.
+
+
+      Demo: https://jade-hummingbird-987a5e.netlify.app/
+
+      Control: 
+      - Klik kiri untuk menarik kain (jika menariknya terlalu kuat, kain akan tersobek)
+      - Klik kanan untuk menyobek kain
+
+
+      Github Repo: https://github.com/pepega90/cloth-simulation
+
+
+      Teknologi yang digunakan:
+
+      - C++
+      - raylib (https://www.raylib.com/)
+      - emscripten (https://emscripten.org/)
+
+      Referensi
+
+      - Simulate Tearable Cloth and Ragdolls With Simple Verlet Integration (https://gamedevelopment.tutsplus.com/tutorials/simulate-tearable-cloth-and-ragdolls-with-simple-verlet-integration--gamedev-519)
+      - Verlet integration (https://en.wikipedia.org/wiki/Verlet_integration)
+
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+<hr>
+
