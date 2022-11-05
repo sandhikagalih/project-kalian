@@ -7248,3 +7248,287 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 <hr>
 
+### 5 November 2022
+
+1.  [https://tampani.com/]  
+     **Tampani Team**  
+
+      Halo pak dhika dan semua teman-teman WPU. 👋😁🙏
+      Perkenalkan saya Nova (25thn), saya dari JaTeng (cilacap) dan saya programmer otodidak. Dan ini adalah showcase project pertama saya.
+
+      Disini saya ijin untuk showUp project saya saat ini, yang saya kembangkan secara bertahap.
+      Kategori project yang sedang saya kembangkan sama halnya seperti trakt--r, saw-ria, dll.
+      Ya, memang tidak jauh berbeda. Cuma disini saya ingin menawarkan perbedaan dari yang lainnya, terutama dari segi UI/UX nya yang user friendly mobile.
+
+      Ohya, Teknologi yang saya gunakan untuk project ini adalah sebagai berikut:
+      1. Codeigniter (sedang proses upgrade ke Laravel / ReactJS).
+      2. PHP 7.4
+      3. Server masih pake yang murah, karena terkendala modal. Tp load web cukup nyaman.
+      4. Websocket + TextToSpeech, sebagai sarana pendukung sistem Overlays Alert.
+      5. Pilihan sistem integration Donate Notification Thirdparty, ada beberapa pilihan diantaranya Discord, Webhook, Whatsapp, Telegram, Email. Namun, yang baru aktif hanya Discord, Webhook dan Telegram Notification.
+      6. PWA sebagai sarana pendukung user friendly mobile.
+      7. Sistem campaign seperti sistemnya kitab-sa. Jadi, 1 akun bisa membuat multiCampaign
+      8. Multi kategori campaign juga, untuk Konten Kreator dan Non-profit (tp hanya kategori konten kreator saja saat ini yg aktif)
+
+      Ohya, kalo ada yang mau kepoin. Bisa langsung cek ya ke webnya, atau bisa langsung DM ke Discord kita, soalnya ada Channel Discord khusus untuk project ini.
+      Web: https://tampani.com/
+      Discord: https://discord.com/invite/uep74vJtgb (masih sepi :v )
+      FYI : saya buat project ini secara mandiri, tidak ada campur tangan dari orang lain (fullstack). Jadi kalo ada bug, mohon infokan saja ya, hehehe
+      Note: Khusus untuk account pak dhika nanti auto level partner :v ,( ada potongan biaya admin /trx )
+      demo account:
+      sandhikagalih@unpas.ac.id | webunpas (status akun blm actived sampai showcase nanti malam)
+
+<br>
+
+2.  [https://mypalettes.vercel.app/]  
+     **Bagaskoro**  
+
+      Assalamualaikum, perkenalkan nama saya bagaskoro, ijin mengirimkan project hasil belajar saya, pada project kali ini saya mencoba cloning websitenya coolors.co, project ini saya kirimkan ulang karena sebelumnya ada masalah dengan backendnya, pakai hosting gratis jadi executing hoursnya habis, dan ternyata masih bisa dibuka jadi saya kirimkan ulang.
+
+      Teknologi yang digunakan:
+      -NextJS
+      -TailwindCSS
+      -Strapi CMS
+      -Axios
+      -Redux Toolkit
+
+      Link web: https://mypalettes.vercel.app/
+      Link repo: https://github.com/bagaskoro125/palettes 
+
+
+<br>
+
+3.  [https://smpn55-9d.netlify.app/]  
+     **9/11 fans**  
+
+      Assalamualaikum warahmatullahi wabarakatuh,
+
+      Halo Pak Dhika dan Teman teman WPU!  
+      Perkenalkan nama saya fares saya murid di SMPN 55 dan sekarang saya kelas 9, saya belajar pemograman dari umur 13 saat saya kelas 8 ,dan
+      Saya ingin mengshowchase project yang saya buat untuk kelas saya website ini saya buat pada tanggal 1 Oktober dan masih banyak bug di tampilan moblie. 
+      Website ini saya buat karena saya gabut dan saya buat.
+
+      Teknologi yang digunakan:
+      - HTML
+      - CSS
+      -boostrap 4
+      -boostrap 5
+      -JavaScript
+      -animoation aos
+
+      Link Website : https://smpn55-9d.netlify.app/
+
+      bantu support:
+      https://saweria.co/Frsgaming234
+
+      Sebelum nya saya minta maaf pak saya showcase lagi karena kemarin mungkin project saya ke lewatan dan mohon maaf gak ada link github/repository🙏.
+      Wassalamualaikum WR WB. 
+
+
+<br>
+
+4.  [https://betweenoneandthirty.netlify.app/]  
+     **Hasan**  
+
+      Assalamualaikum warahmatullahi wabarakatuh,
+
+      Halo Teman Teman !
+      Perkenalkan nama saya Muhandis Hasan, umur saya 14, sekolah kelas 9 smp.
+      Kali ini saya mau menunjukkan hasil gabut malam minggu saya.
+      Saya membuat aplikasi web sulap sederhana yang akan menebak angka yang kalian pikirkan.
+      Cara mainnya gampang banget kalian tinggal pikirkan satu angka dari 1-30 lalu kalian klik " im ready " dan jawab 6 pertanyaan nanti hasilnya akan ditunjukkan di akhir
+      Maaf kalo tampilannya pas pasan karena emang cuman hasil gabut
+
+      Teknologi yang digunakan :
+
+      - HTML
+      - CSS
+      - Bootstrap
+      - Javascript
+
+      Maaf kalo codenya susah dibaca, banyak class css gajelas hehe, maklum project gabut.
+
+      Link Website : https://betweenoneandthirty.netlify.app/
+
+      Link Repository  : https://github.com/MuhandisHasan/betweenoneandthirty
+
+      Terimakasih 
+
+
+<br>
+
+5.  [https://t.me/notQurAn_bot]  
+     **dot1x**  
+
+      halo temen temen santri ^^
+      perkenalkan namaku Nizar, aku disini mau sharing project telegram bot yang sedang kukembangkan ^^
+      bagi kalian penghafal Qur'an kalian bisa uji hafalan kalian disini ^^
+      ada beberapa game yaitu Tebak Ayat,  Sambung Ayat, Tebak Halaman, Tebak Juz, nantinya akan ada beberapa fitur baru lagi, untuk saat ini Bot masih dalam pengembangan, hostingnya sendiri masih pake hosting heroku gratisan, jadi kadang suka mati sendiri
+
+      Teknologi yang digunakan :
+
+      - Python
+      - PTB (https://python-telegram-bot.org/) API Wrapper
+
+      Link Bot: https://t.me/notQurAn_bot
+
+      Kedepannya insyaallah mau di integrasikan ke website dan nantinya kalian bisa challenge bareng temen kalian,
+
+      untuk saat ini link repo masih private, soale masi spaghetti 😅 
+
+      Terima kasih
+
+<br>
+
+6.  [https://exerr.netlify.app/]  
+     **stechy**  
+
+      Assalamualaikum Pak Dhika dan teman-teman WPU!
+
+      Perkenalkan saya Ahmad. Umur 14 tahun, sekolah kelas 9 SMP.
+      Kali ini saya mau menunjukkan hasil project sederhana saya yang saya lakukan dalam waktu -+ 2 minggu.
+
+      Saya membuat aplikasi quiz maker atau aplikasi yang berfungsi untuk membuat soal/kuis. Aplikasi ini terinspirasi dari Go×gle F×rm. Bedanya, aplikasi ini menggunakan client-side scripting yangmana bisa bikin atau mengerjakan soal/kuis nya secara offline. Aplikasi ini masih mempunyai beberapa bug karena aplikasi ini hanya dibuat dalam waktu -+ 2 minggu.
+
+      Link Webiste: https://exerr.netlify.app/
+      Link repo: https://github.com/stechyy/Exerr
+      
+      Teknologi yang saya gunakan:
+      - HTML
+      - CSS
+      - JavaScript
+      - Stechal (library sederhana untuk membuat alert seperti sweetale×t yang saya buat sendiri)
+
+      Fitur:
+      - 2 Bahasa
+      - Koreksi jawaban otomatis
+      - Kuis 1x pengerjaan
+      - Application Setup
+      - Popup Tutorial
+      - Save kuis 2 metode: HTML dan Download
+      - Sembunyikan/tampilkan jawaban yang salah
+      - Auto catat waktu pembuatan kuis
+      - Dll.
+
+      Terima Kasih
+
+<br>
+
+7.  [https://aliif.space/]  
+     **aliif**  
+
+      Halo semua,
+
+      Kenalin nama saya Aliif seorang mahasiswa jurusan IT, saya mau share project homepage milik saya yang saya buat dengan Hugo SSG (Static Site Generator), website ini dihosting dengan menggunakan cloudflare pages dan stylingnya menggunakan sass, website ini merupakan rumah saya di Internet yang berisi tentang saya, project - project saya, dan juga blog tempat saya menulis baik tentang IT maupun hal random lainnya. Website ini juga sudah di setting menggunakan forestry sebagai CMS agar mempermudah dalam manipulasi isi konten.
+
+      Link Repository: https://github.com/aliifam/aliif.space
+      Link Website: https://aliif.space/
+
+      website ini menggunakan:
+      - Hugo
+      - Disqus
+      - Applause Button API
+      - Chroma Syntax Higlighter
+      - Umami Analytic
+      - Cloudflare Pages
+      - Forestry CMS
+      - Turbolinks
+      - dll.
+
+      Terimakasih. 
+
+<br>
+
+8.  [https://0ms.run/]  
+     **!Ararasseo~**  
+
+      Hi,
+
+      Kenalin, aku Ara dari 0ms Group ("Zero Millisecond Group") — kami membuat services, microservices, APIs, dan masih banyak lagi.
+
+      Disini kami ingin berbagi kepada teman-teman WPU beberapa proyek yang sekiranya bisa membantu dalam produktivitas teman-teman. 
+
+      DNS: Browse The Internet in Speed (https://0ms.run/)
+      Kami percaya bahwa "All information on the Internet should be universally accessible and useful to everyone." — dan pemikiran ini membuat kami bergerak mewujudkan proyek ini.
+      DNS adalah cara untuk menjelajah Internet lebih cepat dan lebih aman.
+
+      Teknologi yang mentenagai DNS
+      - Bahasa pemrograman: HTML, CSS, JS, TypeScript, Go
+      - Load balancers
+      - Kubernetes
+      - In-memory caching
+      - Compression
+      - Dukungan HTTP/3
+      - DNS filtering berbasis AI
+
+      UpX: Multi-Gbps File Sharing (https://0ms.run/upx)
+      Kami paham betul bahwa Internet di Indonesia masih jauh dari kata "ekonomis" jika dibandingkan dengan negara tetangga seperti Singapore misalnya.
+
+      Contoh singkat, untuk memperoleh speed ~100Mbps di Indonesia, kita akan terkena biaya sekitar Rp 1 jt (belum termasuk pajak). Dengan jumlah uang yang sama, di beberapa negara lain sudah dapat ~1Gbps (10x lipat dari yang diberikan ISP di Indonesia).
+
+      Untuk mengatasi masalah ini, UpX menawarkan layanan file sharing tanpa mengupload file tersebut dari mesin pengguna, dengan hanya bermodalkan direct link dari file tersebut. 
+      Mengapa pakai link? Karena jumlah direct link yang dapat kalian temukan di Internet jauh lebih banyak daripada jumlah file yang ada di komputer kalian, sehingga tidak akan sulit untuk menggunakan proyek ini.
+
+      Teknologi yang mentenagai UpX
+      - Bahasa pemrograman: HTML, CSS, JS, TypeScript, Go
+      - Direct Peering dengan Data Center
+      - Load balancers
+      - Kubernetes
+      - Caching
+      - Compression
+      - Dukungan HTTP/3
+      - Integrasi Exa: Big Data Store (proyek kami yang lainnya)
+
+      Feedback & support sangat kami apresiasi.
+      Semoga proyek-proyek tersebut dapat bermanfaat untuk teman-teman.
+
+      Best,
+      Ara 
+
+
+<br>
+
+9.  [https://sampein.xrafff-dev.xyz/]  
+     **!xrafff**  
+
+      Halo semua,
+
+      Kenalin nama saya Muhamad Rafli Al Farizqi seorang pelajar kelas 12 dari SMK TELKOM PURWOKERTO, kali ini saya ingin membagikan project gabut saya.
+      Project ini saya namain Sampein yaitu tempat buat ngirim pesan secara anonim mirp ngl atau secreto.
+
+      kalo mo ngirim pesan anonim kesaya bisa kesini xixixi: https://sampein.xrafff-dev.xyz/d3dc7dd2
+
+      Link Repository: https://github.com/xrafffcode/sampein
+      Link Website: https://sampein.xrafff-dev.xyz/
+
+      website ini menggunakan:
+      - Laravel
+      - Sweetalert
+
+      fitur:
+      - Daftar
+      - Melihat Pesan
+      - Salin Link 
+
+
+<br>
+
+10.  [https://amdp-1.netlify.app/]  
+     **dru**  
+
+      Salam kenal semuanya. Saya Andrew, mahasiswa baru di BINUS. Sejujurnya dibanding showcase, mungkin saya lebih mencari kritik dan saran dari Pak Dhika dan teman-teman semua. Di bawah ini adalah project pertama saya, yang merupakan tugas dari kampus. Website ini dibuat dengan ketentuan full HTML, CSS, dan JavaScript murni tanpa library atau framework.
+
+      Catatan:
+      - Products yang bisa dibuka memang hanya healthcare, karena ketentuan kampus yang memperbolehkan mahasiswa memilih 1 kategori saja untuk dibuat halamannya.
+
+      -Fitur login dan register hanya dummy karena tidak tersambung dengan database, dan login pun tidak ada perubahan, jadi saya tidak sertakan email atau password untuk Pak Dhika. Login dan register di web ini hanya untuk mengetes kemampuan mahasiswa dalam membuat validasi JavaScript.
+
+      Link repository: https://github.com/andrwgarciaa/amdp-1
+      Link website: https://amdp-1.netlify.app/
+
+      Terima kasih! 
+
+
+<br>
+<hr>
+
