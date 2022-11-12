@@ -7532,3 +7532,230 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 <hr>
 
+
+### 12 November 2022
+
+1.  [https://rizkicitra.dev/]  
+     **Rimara**  
+
+     selamat sore Pak Sandhika dan teman teman WPU.
+
+      Kali ini pengen membagikan result dari improvement website pribadi yang dulu pernah ku share pas waktu pertama kali belajar Next.js.😄
+
+      TL;DR:
+      ini website pribadi saya, berisi resume, portfolio, blog dan kumpulan snippet kodingan dari saya dan teman2 dari komunitas open source.
+
+      karena merasa telah di improve jadi pengen di review sama Pak Dhika😂✌️
+
+      Tech Stack:
+      TypeScript
+      React
+      Next.js
+      Tailwind CSS
+      Markdown
+      Jotai
+      Framer Motion
+      Giscus
+      Umami
+
+      Next.js Plugins:
+      next-pwa
+      next-themes
+      next-seo
+      next-mdx-remote
+
+      website: https://rizkicitra.dev/
+      repository: https://github.com/rizkimcitra/rizkicitra
+
+<br>
+
+2.  [https://rizkicitra.dev/]  
+     **kuro**  
+
+      Halo semuanya perkenalkan nama saya ari rachman, saya mau showcase projek gabut saya yaitu website resep makanan indonesia, sebenernya ini projek iseng aja dan juga saya masih pemula mohon maap jika masih jelek.
+
+      Link : https://resep-six.vercel.app/
+
+      Source code: https://github.com/ZeroNoSho/resep
+
+      Teknologi yang gunakan : 
+
+      - React JS 
+
+      - Axios
+
+      - React Router Dom 
+
+      - sweetalert2
+
+      - API : https://github.com/tomorisakura/unofficial-masakapahariini-api 
+ 
+
+
+<br>
+
+3.  [https://github.com/slowy07/ava]  
+     **Hugo de rune**  
+
+      assalamualaikum selamat siang pak dhika, kembali lagi, kali ini saya ingin showcase project bersama  @MITM de rune , sebelumnya saya ada terkendala dalam merekam video yang dimana hasil video yang saya rekam yaitu memiliki langit cuaca mendung dan  saya ingin  edit videonya ke cuaca cerah, karena ilmu editing video saya tidak bagus, jadi, saya buat research tentang gimana proses AI dalam mereplace,menyatukan antara cuaca asli  (berupa tone warna, motion estimation dll)   dengan cuaca baru yang akan kita timpa dan tampak seperti asli. Nama project ini adalah AVA . project ini menggunakan deep CNN dan beberapa sentuhan lainnya yang bisa dilihat pada jurnal yang sudah saya  buat dan @MITM de rune. 
+      yang saya gunakan dalam project ini adalah:
+      - pytorch
+      - numpy
+      - matplotlib
+      - scipy
+      - opencv
+      - google cvpr dataset
+      pak dhika bisa mencoba programnya secara online dan kodenya sudah teroptimisasi dengan baik, jadi tidak membutuhkan waktu yang cukup lama dalam menjalankan programnya dan pak dhika juga bisa melihat hasil output yang sudah tersedia pada repositori.
+
+      note: gambar langit yang akan ditimpa ke dalam video merupakan hasil generate dari project  LUNA ( stable diffusion )
+
+      untuk projectnya bisa cek disini:
+      https://github.com/slowy07/ava
+
+      terima kasih pak dhika, lupakan titik koma :hehehe:
+
+<br>
+
+4.  [https://web-production-4d16.up.railway.app/]  
+     **Arief**  
+
+      Assalamualaikum pak Dhika ,saya Arief dari Kalimantan timur, Kutai Barat,saya akan showcase project SSE/Simple Search Engine 
+      teknologi yg di gunakan:
+      - html
+      - CSS + Bootsrap
+      - Python (Flask,bs4, requests)
+      - JavaScript 
+      Repo : 
+      https://github.com/ariefdev-project/simple-search-engine
+
+      Demo:
+      https://web-production-4d16.up.railway.app/
+
+      Search Engine:
+      https://search17.lycos.com/
+
+      dikarenakan project ini masih dalam tahap pengembangan jadi hanya bisa menampilkan 30 link saja
+
+<br>
+
+5.  [https://cctmu.site/]  
+     **zekkeN**  
+
+      Assalamualaikum pak Dhika,
+      Ini adalah showcase project saya yg ke 2 setelah kemarin pak Dhika request suruh showcase in project yg cocotMU 😂
+
+      Maaf kalo judul webnya kyk gitu, itu saya juga ngakak pas buat judulnya wkwkwkwk
+      Sebenernya ini cuma project hasil iseng gabut aja, pengen buat sosmed kyk twitter gitu tapi ya karena skill masih kurang jadi fiturnya cuma bisa kirim teks sama gambar aja. Jadi ya kyk gitu aja, masih banyak bgt minusnya hehe..
+
+      *Kalo pak Dhika mau cobain sudah saya buatkan akunnya, udh dikasih centang biru juga :v
+      Username : sandhikagalih
+      Password : rahasiabanget
+
+      Teknologi yg saya pakai :
+      - PHPMVC (Tutorial dari channel WPU, tapi ga dipake Modelnya karena blm paham, jadi cuma dipake View sama Controllernya aja wkwk)
+      - MySQL
+      - Javascript (preloader, ripple effect click, back to top, auto reload post setiap 20 detik, lazyload, transition post)
+      - Jquery
+      - Bootstrap
+      - Boxicon
+
+      Link : https://cctmu.site/
+
+      Repo : https://github.com/orz14/cocotmu
+
+      Terimakasih Sebelumnya.
+
+<br>
+
+6.  [https://github.com/agungsptr/node-clean]  
+     **agungsptr**  
+
+      Assalamu'alaikum pak Dhika.
+      Perkenalkan saya Agung, saya ingin showcase project peribadi saya.
+      Project ini awalnya sy buat untuk contoh saat mempelajari Clean Architecture, kemudian saya lanjutkan sehingga bisa digunakan menjadi template project. Project ini adalah backend application menggunakan mongodb dan express. Harapannya bisa membantu teman-teman yang butuh template project backend menggunakan Clean Architecture.
+
+      Project ini saya buat menggunakan
+      - express.js
+      - mongodb
+
+      https://github.com/agungsptr/node-clean
+
+<br>
+
+7.  [https://personal-notes-three.vercel.app/]  
+     **kisnak**  
+
+      Assalamualaikum selamat pagi/siang/sore/malem pak Dhika.
+      Perkenalkan nama saya Kisnak, saya ijin ikut showcase project untuk yg pertama kali pak. Projek ini saya bangun dari mengikuti MBKM di Dicoding pak. Mohon saran dan masukan nya pak agar lebih bagus lagi terimakasih pak Dhika.
+
+      - React JS
+      - React Router
+      - React Icons
+      - Sweetalert2
+      - API : https://notes-api.dicoding.dev/v1
+
+      Link Demo: https://personal-notes-three.vercel.app/
+      Link Repo: https://github.com/kisnak21/Personal-Notes-API 
+
+
+<br>
+
+8.  [https://agus-stuju.vercel.app/]  
+     **I Putu Agus Wahyu Dupayana**  
+
+      Selamat malam Pak Dika. Perkenalkan saya Agus,izin mengikuti showcase proyek untuk pertama kali. Proyek ini saya buat ketika mendapatkan UAS pada mata kuliah Pemograman Beroritentasi Objek. Untuk tema dari web ini adalah perpustakaan dalam jaringan. Namun yang berbeda pada web ini adalah setiap mahasiswa dapat mengunggah karyanya dihalaman halaman web secara bebas, syaratnya hanya satu yaitu membuat akun terlebih dahulu. Pembuatan akun di halaman web ini sangat penting karena untuk membuka semua fitur yang didalamnya. Pada proyek web ini, saya menggunakan framework. Untuk sisi frontend saya menggunakan Vue JS dan sisi backend nya menggunakan Spring.
+
+      Link Repo
+      Stuju Client : https://github.com/putuwahyu29/stuju-client
+      Stuju Api : https://github.com/putuwahyu29/stuju-api
+
+      Link Demo
+      Stuju Client : https://agus-stuju.vercel.app/
+      Stuju Api : https://agus-stuju-api.herokuapp.com/
+
+      Sekian dan terima kasih
+
+<br>
+
+9.  [https://undangan-74771.web.app/Nama%20Kalian]  
+     **Yandra**  
+
+      Halo Pak Dika & teman semua,
+      Perkenalkan nama saya Yandra Muslim mahasiswa semester 3 dari Politeknik Negeri Batam.
+      kali ini saya ingin mengshare project saya yaitu Undangan Nikah Online.
+
+      Link Repository: https://github.com/BURUH-CODING-NAIK-HAJI/undangan-online
+      Link: https://undangan-74771.web.app/Nama%20Kalian
+
+      Teknologi Yang saya gunakan yaitu:
+      - Reactjs (react-animation-on-scroll, react-hook-form, react-icons, react-frame, reactjs-countdown-hook, react-router-dom)
+      - Tailwindcss
+      - Firebase (Firestore sebagai serverless backend & Hosting)
+
+      Terima Kasih...
+
+<br>
+
+10.  [https://tampani.com/]  
+     **Tampani Team**  
+
+      Halo pak dhika dan teman-teman WPU 😄👋
+      Berhubung pada showcase tgl 5 november kemarin ada sedikit trouble, jadi ijinkan saya meminta 1 slot lagi untuk showUp project saya ini. 🙏
+      Masih gregetan, cuma gara" salah nulis sintax, snap midtrans jadi kena blok🤣🙏.
+      Tapi sekarang sudah lancar, dari sisi donation dan overlays.
+
+      Buat teman" yang belum tau, ini adalah web crowfunding content creator dan social. 
+      Teman-teman bisa banget cobain fitur-fiturnya, siapa tau jadi betah pake tampani. Hehe
+      web: https://tampani.com/
+
+      FYi: 
+      1. Tampani adalah kata serapan dari bahasa jawa yang artinya 'menerima atau mohon diterima'.
+      Sebuah gagasan fundamental yang memiliki aspek nilai kehidupan dan kebersamaan.
+      2. sudah dalam production/rilis version. Dan sudah bisa digunakan untuk terima donation
+
+      Terima kasih pak dhika dan teman-teman WPU 😁👋
+      more info:
+      https://discord.com/channels/722002048643497994/758600947692732436/1033576588874350602
+
+<br>
+<hr>
