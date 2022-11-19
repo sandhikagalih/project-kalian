@@ -7759,3 +7759,233 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 19 November 2022
+
+1.  [https://rajatranslate.com/]  
+     **alat**  
+
+      Selamat malam, Pak Dhika dan teman-teman WPU.
+      Perkenalkan saya Daniel, baru saja tamat SMA, penerima beasiswa s1 luar negeri yang harus tunda studi karena kendala di visa 🥲 . #sambilmenunggusambilbelajarWebDev
+
+      Izin mengikuti showcase project untuk pertama kali. Project ini bisa dibilang project pertama saya setelah menonton dan belajar PHP Dasar, OOP, Laravel dari Web Programming Unpas kurang lebih 2 bulan dengan modal logic dari olimpiade informatika pas SMA. HTML, CSS, JSnya belajar dari Coursera (Maap pak Dhika, pas itu belum tau ada WPU 🥲 )
+
+      Projectnya adalah Website Penyedia Jasa Translate, dimana menyediakan jasa terjemahan rapot, ijazah, sertifikat, transkrip nilai, dan lain-lain untuk keperluan administrasi pelajar yang ingin melanjutkan pendidikan ke luar negeri.
+
+
+      Link (utama): https://rajatranslate.com/
+
+      Note : Midtrans belum diset ke Production.
+
+
+      Mungkin buat teman" yang mau melanjutkan kuliah keluar negeri, atau kerabatnya, atau yang butuh jasa translate dokumen pendidikan, boleh silahkan cek website diatas.
+
+      Teknologi yang saya gunakan, yaitu: 
+      1. Laravel
+      2. Bootstrap
+      3. MySQL
+      4. Sedikit bubuk jQuery (karena pakenya pas akhir")
+      5. SNAP Midtrans, untuk pembayaran
+      6. PHPMailer, untuk kirim email detail orderan ke client
+
+      Terima kasih Pak Dhika dan teman-teman WPU 🙏🏼 . 
+
+
+<br>
+
+2.  [https://danssui2.github.io/youtube-downloader-react-tailwind/]  
+     **ArdanAshland**  
+
+      Assalamu'alaikum Pak Dhika dan semua teman-teman di  WPU!
+
+      Sebelumnya kenalin, aku Ardan, Umur aku 14 tahun, aku sekolah kelas 9 Mts.
+      Kali ini aku ingin showoff project aku yang aku buat sambil belajar backend.
+
+      Jadi aku membuat web app yang bisa mendownload Video / Audio dari YouTube ke storage kita. Aku buatnya memakai Hp dengan aplikasi Termux, Acode, dan Chrome.
+
+      Link Demo: https://danssui2.github.io/youtube-downloader-react-tailwind/
+      Link Repo Frontend: https://github.com/Danssui2/youtube-downloader-react-tailwind 
+      Link RepoBackend: https://github.com/Danssui2/youtube-downloader-nodejs/
+
+      Tech Stack yang aku gunakan:
+      - React.js
+      - Tailwind CSS
+      - Framer Motion
+      - Axios
+      - Post CSS
+      - Node.js
+      - Express.js
+
+      Maaf jika kodenya Susah dibaca 😅🙏
+      Sekian dari saya Terimakasih.
+
+<br>
+
+3.  [http://tefa-2.stevanandreas.com/]  
+     **Covilyn**  
+
+      Haloo, mau showcase lagi nieh, cuman web SPA sederhana aja... 
+
+      Ini web profile dari TEFA, Teaching Factory yang mau dikelola sama sekolah saya yaitu SMK Negeri 7 Samarinda..
+
+      Jadi TEFA ini platform buat memperkenalkan jasa² yang ada di sekolah kita pada setiap jurusan... Yang juga tujuannya untuk supaya anak-anak disekolah bisa menghasilkan dari sekarang... 
+
+      Target utamanya adalah sekolah-sekolah, terutama sekolah-sekolah yang membutuhkan jasa dibidang IT
+
+      Developenya pakai laravel 8
+      Demonya http://tefa-2.stevanandreas.com/
+
+      Dah.. Gituh ajah..
+
+      *sebenernya pgn showcase projekan lain, tapi ntaran aja lah :v 
+
+<br>
+
+4.  [https://save-books.netlify.app/]  
+     **xxra**  
+
+      Selamat Siang Pak Dhika.
+      Perkenalkan nama saya Bara, saya ingin showcase project sederhana pribadi saya.
+      saya mencoba mempraktekan LocalStorage dan masih sangat pemula dan pastinya masih banyak kekurangan mohon kritik dan sarannya pak Dhika Terima kasih.
+
+      Menggunakan:
+      - Javascript
+      - HTML, CSS
+
+      Link : https://github.com/nesnyx/SaveBook-LocalStorage
+      DEMO : https://save-books.netlify.app/
+
+<br>
+
+5.  [https://eva-hr.com/recruitment/]  
+     **AgusDM**  
+
+      Selamat siang Pak Dhika
+      Perkenalkan nama saya Agus Dwi Milniadi, saya ingin showcase project magang dulu. Halaman ini dibuat dengan 2 teman saya waktu magang dulu yaitu Ichwan dan Edgar. Mohon saran dan masukan. ya pak:
+
+      Munggunakan:
+      1. HTML, CSS, JS
+      2. GSAP
+
+      Link utama : https://eva-hr.com/recruitment/ 
+
+      Terimakasih
+
+<br>
+
+6.  [https://ryftri.github.io/myportofolio.github.io/]  
+     **ciants**  
+
+      Selamat malam Pak Dhika
+      Perkenalkan saya Rayhan Zulfitri, ini baru pertamakali saya showcase project dan juga baru pertama pakai discord jadi maaf kalau misal ada tulisan pesan yang salah kirim😅 . Saya membuat sebuah project landing page dengan menerapkan PWA(Progresive Web App) dan menerapkan single page menggunakan hastag parameter(jika ada salah sebut bisa dikoreksi). 
+
+      Dalam pembuatan PWA ini saya menggunakan NodeJs dan menggunakan Webpack untuk membundling hasil coding javascript saya. Didalam sana saya juga membuat sebuah package sendiri yang saya namakan Havigate. Yang memiliki fungsi "Hashchange" yang terdapat pada Javascript. Jika addres pada has dirubah maka dia akan merubah warna pada tag yang ada di navigasi secara otomatis sesuai addresnya. Dan saya juga menerapkan custom element pada website saya mungkin bisa dilihat di inspektornya.
+
+      PWA tersebut juga bisa diakses secara offline bila sudah pernah mengunjunginya dan bisa di instal melalui dekstop, ios, dan android. Website tersebut juga bisa diakses hanya denga keyboard dengan memainkan tombol tab saja. Saya juga menerapkan strategi caching, saya menggunakan strategi "Network First" untuk cachingnya.
+
+      Saya juga mau memeinta saran dan kritik dari Pak Dika terkait tampilan dan fungsionalitas landing page saya yang link nya sudah saya tuliskan dibawah.👇 
+
+      Link Landing page: https://ryftri.github.io/myportofolio.github.io/
+
+      Mungkin itu saja Pak Dhika mohon maaf bila penjelasan saya terlalu panjang dan ada salah kata saya mohon maaf. Terimakasih
+
+      Salan.
+      Rayhan Z
+
+<br>
+
+7.  [https://meetkyra.vercel.app/]  
+     **Kyra**  
+
+      Halo pak, mau ikut share web porto pribadi hasil live coding di tiktok, masih banyak improvement kedepannya, barangkali ada saran hehe
+
+      webnya dibangun pake:
+      - NextJS Typescript(untuk frontend)
+      - ExpressJS Typescript(untuk backend)
+      - Particke JS (untuk background)
+      - SASS (untuk styling)
+      - Spreadsheet (untuk store data dari form)
+      - axios (untuk fetch API)
+
+      URL nya bisa diakses di: https://meetkyra.vercel.app/
+      Ada juga kaya linktree gitu ada di: https://meetkyra.vercel.app/links
+
+      Terimakasih 😀 
+
+<br>
+
+8.  [https://courageous-taffy-cb2960.netlify.app/]  
+     **dihpan**  
+
+      Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game sederhana yang saya buat dengan C++ dan raylib. jadi gamenya adalah plinko. untuk teman-teman yang tidak tau plinko, game ini biasanya bisa temen-temen jumpai di beberapa situs slot, namun jangan sampe temen-temen terlena untuk main slot lebih baik ikuti seri Belajar Programmingnya pak dhika.
+
+
+      Demo: https://courageous-taffy-cb2960.netlify.app/
+
+      Control: 
+      - Klik kiri untuk menjatuhkan bola
+      - Sedikit catatan, jika bolanya stuck. temen-temen bisa tekan "R" untuk hilangin bolanya lalu klik kiri lagi. Terkadang collisionnya masih sedikit Pepega
+
+
+      Github Repo: https://github.com/pepega90/plinko
+
+
+      Teknologi yang digunakan:
+
+      - C++
+      - raylib (https://www.raylib.com/)
+      - emscripten (https://emscripten.org/)
+
+      Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+9.  [https://aristore-6d487.web.app/]  
+     **kuro**  
+
+      Halo semuanya perkenalkan nama saya ari rachman Dari ITTP, saya mau showcase projek saya yaitu website e-commerce sederhan yang terinspirasi dari chanel seorang youtuber dan saya modifikasi sedikit, sebenernya ini projek iseng aja dan juga saya masih pemula mohon maap jika masih jelek.
+
+      Link : https://aristore-6d487.web.app/
+
+      Teknologi yang gunakan : 
+      - React Js
+      - React Redux
+      - Axios
+      - React Router Dom 
+      - sweetalert2
+      - Particel Js
+      - API : https://fakestoreapi.com/ 
+
+
+<br>
+
+10.  [https://test-note-app.vercel.app/]  
+     **kaise**  
+
+      Halo Pak Dhika & teman semua,
+
+      Perkenalkan nama saya lamy. Saya mau showcase project pertama saya yang beneran jadi(Biasanya cuma coba2 syntax aja :v). 
+
+      Fitur:
+      - Add, delete, copy, edit card.
+      - Drag and drop card.
+      - Rich text editor.
+      - Seleksi lebih dari satu kartu menggunakan shift.
+      - Selection on drag.
+      - Klik kanan untuk memunculkan menu.
+      - Pindah beberapa kartu yang terseleksi menggunakan tombol panah.
+      - Auto save ke localstorage.
+      - Dark mode.
+
+      Tools: 
+      - HTML/CSS
+      - Javascript
+      - Webpack (Baru belajar dari videonya pak Dhika :v)
+
+      Live: https://test-note-app.vercel.app/
+      Repo: https://github.com/hyoga-dev/note-app
+
+      note: masih desktop only bingung di touch eventnya ga bisa-bisa dan masih banyak serangganya.
+
+<br>
+<hr>
