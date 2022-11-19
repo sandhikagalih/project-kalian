@@ -7894,7 +7894,28 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-7.  [https://meetkyra.vercel.app/]  
+7.  [https://quranme.vercel.app/]  
+     **ariefsaifuddien**  
+
+      Assalamualaikum warahmatullah pak dhika,
+
+      Selamat malam semuannya waktu Sudan.
+      Saya Arief Saifuddien dari jepara, kuliah islamic studies di Sudan IUA.
+
+      Saya kembali lagi ikut showcase ini, kali ini saya mau showcase-in project API yang saya buat dengan NodeJS dan MongoDb, yaitu 
+      QuranMe API
+      beserta web dokumentasi yang saya bangun dengan ReactJS dan TailwindCSS, di web itu kita bisa login dan dapat token akses API nya. 
+
+      WEB = https://quranme.vercel.app/
+      API = https://quranme-api.vercel.app/
+
+      GitHub = https://github.com/ariefsaifuddien/quran_api_docs
+
+      Semoga bermanfaat dan memotivasi developer yang lain. Temen-temen juga bisa buat project pakai API yang saya buat ini.😀 😀 
+
+      Wassalamualaikum
+
+8.  [https://meetkyra.vercel.app/]  
      **Kyra**  
 
       Halo pak, mau ikut share web porto pribadi hasil live coding di tiktok, masih banyak improvement kedepannya, barangkali ada saran hehe
@@ -7914,7 +7935,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-8.  [https://courageous-taffy-cb2960.netlify.app/]  
+9.  [https://courageous-taffy-cb2960.netlify.app/]  
      **dihpan**  
 
       Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game sederhana yang saya buat dengan C++ dan raylib. jadi gamenya adalah plinko. untuk teman-teman yang tidak tau plinko, game ini biasanya bisa temen-temen jumpai di beberapa situs slot, namun jangan sampe temen-temen terlena untuk main slot lebih baik ikuti seri Belajar Programmingnya pak dhika.
@@ -7940,7 +7961,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 
-9.  [https://aristore-6d487.web.app/]  
+10.  [https://aristore-6d487.web.app/]  
      **kuro**  
 
       Halo semuanya perkenalkan nama saya ari rachman Dari ITTP, saya mau showcase projek saya yaitu website e-commerce sederhan yang terinspirasi dari chanel seorang youtuber dan saya modifikasi sedikit, sebenernya ini projek iseng aja dan juga saya masih pemula mohon maap jika masih jelek.
@@ -7956,36 +7977,6 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
       - Particel Js
       - API : https://fakestoreapi.com/ 
 
-
-<br>
-
-10.  [https://test-note-app.vercel.app/]  
-     **kaise**  
-
-      Halo Pak Dhika & teman semua,
-
-      Perkenalkan nama saya lamy. Saya mau showcase project pertama saya yang beneran jadi(Biasanya cuma coba2 syntax aja :v). 
-
-      Fitur:
-      - Add, delete, copy, edit card.
-      - Drag and drop card.
-      - Rich text editor.
-      - Seleksi lebih dari satu kartu menggunakan shift.
-      - Selection on drag.
-      - Klik kanan untuk memunculkan menu.
-      - Pindah beberapa kartu yang terseleksi menggunakan tombol panah.
-      - Auto save ke localstorage.
-      - Dark mode.
-
-      Tools: 
-      - HTML/CSS
-      - Javascript
-      - Webpack (Baru belajar dari videonya pak Dhika :v)
-
-      Live: https://test-note-app.vercel.app/
-      Repo: https://github.com/hyoga-dev/note-app
-
-      note: masih desktop only bingung di touch eventnya ga bisa-bisa dan masih banyak serangganya.
 
 <br>
 <hr>
