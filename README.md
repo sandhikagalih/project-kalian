@@ -7980,3 +7980,204 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 26 November 2022
+
+1.  [https://test-note-app.vercel.app/]  
+     **kaise**  
+
+      Halo Pak Dhika & teman semua,
+
+      Perkenalkan nama saya lamy. Saya mau showcase project pertama saya yang beneran jadi(Biasanya cuma coba2 syntax aja :v). 
+
+      Fitur:
+      - Add, delete, copy, edit card.
+      - Drag and drop card.
+      - Rich text editor.
+      - Seleksi lebih dari satu kartu menggunakan shift.
+      - Selection on drag.
+      - Klik kanan untuk memunculkan menu.
+      - Pindah beberapa kartu yang terseleksi menggunakan tombol panah.
+      - Auto save ke localstorage.
+      - Dark mode.
+
+      Tools: 
+      - HTML/CSS
+      - Javascript
+      - Webpack (Baru belajar dari videonya pak Dhika :v)
+
+      Live: https://test-note-app.vercel.app/
+      Repo: https://github.com/hyoga-dev/note-app
+
+      note: masih desktop only bingung di touch eventnya ga bisa-bisa dan masih banyak serangganya.
+
+<br>
+
+2.  [https://freebio.dev/]  
+     **syofyanzuhad**  
+
+      Assalamu'alaikum Pak dhika..
+      Udah lama gk share project, ini saya coba kirim project sederhana, tapi semoga bisa bermanfaat. Rencananya bakal gratis selamanya. Semoga bisa.
+
+      Ini project bio link tapi versi developernya gitu pak. Cara kontribusinya juga cukup simple, tinggal kirim pull-request di repositorinya.
+
+      Teknologi yang digunakan:
+      1. NextJs (typescript) 
+      2. Tailwind CSS
+      3. Vercel
+
+      Link vercel: https://freebio.vervel.app/
+      Link Prod: https://freebio.dev/
+      Repository: https://github.com/syofyanzuhad/freebio.dev
+
+      Silakan temen2 bagi yang ingin punya bio link sendiri, ato ingin memberikan kontribusi juga sangat boleh tentunya hehe 😅 
+
+      Makasih Pak Dhika udah di review 
+
+
+<br>
+
+3.  [https://github.com/mqad21/pepesan]  
+     **Muhammad Qadri**  
+
+      Bismillah, mohon izin Pak Dhika dan rekan2 programmer sekalian, mau berbagi library JS yg baru saya kembangkan.
+
+      Pepesan
+      NPM: https://npmjs.com/package/pepesan
+      Repo: https://github.com/mqad21/pepesan
+
+      Library untuk membangun chat bot WA secara simple dengan mengikuti pola development Laravel, seperti controller, routing, middleware, pattern path, dll
+
+      Library ini open source, silakan temen2 yg mau ikut contribute 
+
+
+<br>
+
+4.  [https://bagasco.vercel.app/]  
+     **Bagaskoro**  
+
+      Assalamualaikum, perkanalkan nama saya bagaskoro, izin mengirimkan project portofolio sederhana.
+
+      Teknologi yang digunakan :
+      - NextJS
+      - Tailwind
+      - Framer Motion
+      - Redux Toolkit
+
+      Link : https://bagasco.vercel.app/ 
+
+<br>
+
+5.  [https://tabungin.b3t.repl.co/]  
+     **Muhamad_Avwan**  
+
+      Assalamualaikum pak Dhika dan teman-teman WPU.
+
+      perkenalkan nama saya muhamad avwan(ign betzq), saya mau showcast project iseng2 sederhana saya tapi semoga ada manfaatnya karena saya membuat web menghitung dana pensiun dan tabungan jangka bulanan
+
+      Teknologi yang digunakan :
+      - HTML/CSS
+      - Javascript
+      - Bootstrap
+      - Jquery
+      - SwiperJS
+
+      link: https://tabungin.b3t.repl.co/
+      repo: https://github.com/BetzQ/tabungin
+
+<br>
+
+6.  [https://github.com/bagasjs/ramen]  
+     **Bagas**  
+
+      Permisi Pak Dhika dan teman-teman WPU, saya mohon izin buat showcase projek yang baru baru ini saya kerjakan yaitu sebuah bahasa pemprograman namanya Ramen yang saya buat dengan python. Ramen itu sendiri merupakan bahasa pemprograman yang nantinya akan di compile dan akan berjalan di NekoVM. Untuk saat ini sebenarnya masih jauh dari kata layak untuk dirilis (sudah bisa dipake lah setidaknya) tapi saya pengen pamerin aja makanya v1 nya itu saya sebut versi buat show off.
+
+      Link:
+      https://github.com/bagasjs/ramen
+      https://nekovm.org/
+
+<br>
+
+7.  [https://twitter-clone-ccrsxx.vercel.app/]  
+     **Ami**  
+
+      Permisi Pak Dhika dan teman-teman lain, saya ijin showcase project saya, yaitu Twitter clone. Disini saya membuat Twitter clone, saya implement fitur-fitur yang penting saja, karena seberapa besarnya Twitter.
+
+      Project ini yang saya buat ini hampir memakan waktu 2 bulanan, dan total baris kode dari project ini hampir 9rb. Untuk backend, disini saya menggunakan Firebase.
+
+      Buat showcase, fitur, dan development bisa lihat langsung di repository-nya ya!
+
+      Teknologi yang digunakan:
+      - Next.js
+      - TypeScript
+      - Tailwind CSS
+      - Firebase
+      - SWR
+      - Headless UI
+      - React Hot Toast
+      - Framer Motion
+
+      Source code   : https://github.com/ccrsxx/twitter-clone
+      Live website   : https://twitter-clone-ccrsxx.vercel.app/
+
+<br>
+
+8.  [https://pagora.jauhar.id/]  
+     **harjo**  
+
+      Halo Pak Dhika & teman semua,
+
+      Nama saya Jauhar. Saya mau showcase project hobby saya namanya Pagora. Pagora ini bahasa pemrograman mainan yang saya buat dan terinspirasi dari Pascal, Go dan Rust, makanya namanya Pagora hehe.
+      Untuk saat ini, Pagora masih interpreted di browser, tapi kedepannya mau saya compile ke Web Assembly. Sekarang masih banyak bug dan sangat lambat, akan tetapi sudah bisa menjalankan beberapa jenis program, seperti:
+      - Print pattern segitiga ke console
+      - Tetris
+      - Conway's Game of Life
+
+      Teknologi yang saya pakai:
+      - Pure typescript (untuk compiler-nya)
+      - React, tailwind & Code mirror (untuk UI nya)
+
+      Link demo: https://pagora.jauhar.id/
+      Github: https://github.com/jauhararifin/pagora
+      Kalo ada yang mau berkontribusi di bagian UI-nya, saya sangat welcome
+
+      Terima kasih.
+
+<br>
+
+9.  [https://agus-shoffee.herokuapp.com/]  
+     **I Putu Agus Wahyu Dupayana**  
+
+      Selamat malam Pak Dika, saya izin mengirimkan proyek saya yang kedua kalinya. Proyek ini merupakan proyek yang menjadi nilai UAS pada mata kuliah Komputasi Statistik. Website ini menampilkan data kedai kopi dari excel dan diolah serta divisualisasikan menggunakan bahasa pemograman R .
+      Library yang digunakan : 
+      - readxl
+      - ggplot2
+      - dplyr
+      - nnet
+      - shiny
+      - shinydashboard
+
+      Link website : https://agus-shoffee.herokuapp.com/
+      Link Repo : https://github.com/putuwahyu29/shoffee
+
+
+<br>
+
+10.  [https://downloder-f966c.web.app/]  
+     **kuro**  
+
+      Halo semuanya perkenalkan nama saya ari rachman Dari ITTP, saya mau showcase projek saya yaitu website untuk download Video youtube,  instagram dan juga tiktok , sebenernya ini projek pertama saya dalam bidang backend  dan juga saya masih pemula mohon maap jika masih jelek.
+
+      Link: https://downloder-f966c.web.app/
+
+      Teknologi yang gunakan : 
+      - React Js
+      - lottiefiles
+      - Axios
+      - React Router Dom 
+      - Node js
+      - Express Js 
+
+
+<br>
+<hr>
