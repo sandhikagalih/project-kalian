@@ -8181,3 +8181,202 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 3 Desember 2022
+
+1.  [https://kisi-kisi.sman1rawamerta.sch.id/]  
+     **sora**  
+
+      Selamat malam Pak Dhika, kenalin lagi nama saya Muhamad Ramdani Hidayatullah seorang Staff TU di salah satu sekolah di Karawang, Jawa Barat. Dah lama baru bisa ikut showcase lagi, kali ini project yang beneran sederhana. Asli no hoax pak 🤣
+      Nama project nya Kisi-kisi, ini adalah sebuah aplikasi untuk menyimpan data dan file kisi-kisi soal ujian sekolah. Tujuannya agar memudahkan guru dalam mendistribusikan kisi-kisi soal ujian, menghemat kertas, meminimalisir sampah dan sebenernya ini permintaan Kepala Sekolah saya yang ingin mendigitalisasi segala hal yang ada di sekolah.
+
+      Web ini dibuat dengan menggunakan :
+
+      1. Vue 3
+      2. VueRouter
+      3. TailwindCSS
+      4. Flowbite (TailwindCSS Components Plugin)
+      5. Axios
+      6. Vue3 Easy Datatables (Datatables)
+      7. Vite
+      8. Font Awesome 6 Free Edition (Icon)
+      9. Semesta API build with Laravel 9 : https://github.com/muhamadramdani275/semesta-api
+
+      API nya buatan sendiri, ceritanya mau buat API untuk menampung data master sekolah mulai dari data sekolah, guru, tu, sarana dan prasarana, dll. Sama seperti Aplikasi Dapodik dari Kemdikbud untuk Sekolah, cuman versi mininya. Lingkupnya hanya menyimpan data 1 sekolah aja. API nya belum rampung pak 😅
+      Doain semoga tetep semangat lanjut ngeberesin API nya 😫
+
+      Link : https://kisi-kisi.sman1rawamerta.sch.id/
+      Link Github : https://github.com/muhamadramdani275/kisi-kisi
+
+      Username : sandhika
+      Password : galih12345
+
+      User ini cuma ada di API dummy. Nanti pas di showcase, API nya tak ganti ke API dummy biar bisa login.
+
+      Mohon saran dan kritik dari Pak Dhika dan temen2 semua.
+      Hatur nuhun sadayana 🙏
+
+<br>
+
+2.  [http://nbot.epizy.com/]  
+     **amalikhsan**  
+
+      Hallo Pak Dika dan hallo semuanya, perkenalkan saya m. amal ikhsani, di showcase kali ini saya akan menunjukkan website bot yang saya buat untuk membantu saya dan teman teman saya dalam menyelesaikan tugas kuliah. Di website ini baru terdapat 3 bot yang saling berkaitan (bot tulis, bot foto ke teks, bot translate) dan untuk kedepannya saya akan mengembangkannya lagi.
+
+      Teknologi yang dipakai :
+      1. html,php & css native
+      2. bulma css & js, fontawesome css
+      3. htmltocanvas(convert to canvas)
+      4. canvastoimg(convert canvas toimg)
+      5. htmltopdf(download pdf from img)
+      6. google speachrecognition(speech to text)
+      7. SpeechSynthesisUtterance(text to speach)
+      8. Tesseract(ocr text from img)
+
+      Link Website : http://nbot.epizy.com/
+      Link Github : https://github.com/amalikhsan/nbot.git
+
+<br>
+
+3.  [https://abyditya.space/]  
+     **aby.ditya**  
+
+      Halo semuanya perkenalkan nama saya abyditya, kalo pak dika ingat saya syloryx hehe, saya mau showcase projek gabut saya yaitu website portfolio, sebenernya ini projek iseng aja dan juga saya masih pemula mohon maap jika masih banyak bug atau apapun itu hehe. sebenernya ini website saya dapet inspirasi dari orang, tapi saya lupa siapa...
+
+      Link : https://abyditya.space/
+
+      Source code: https://github.com/abydityaa
+
+      Teknologi yang gunakan : 
+      - HTML & CSS
+      - Bootstrap
+      - BarbaJs
+      - Gsap 
+      - Aos 
+
+
+<br>
+
+4.  [https://eva-rec-new.netlify.app/]  
+     **AgusDM**  
+
+      Selamat siang Pak Dhika
+      Perkenalkan nama saya Agus Dwi Milniadi, saya ingin showcase project magang dulu, sepertinya kemarin saya salah link pak di showcase tanggal 19 November, jadi ini saya perbarui link nya. Halaman ini dibuat dengan 2 teman saya waktu magang dulu yaitu Ichwan dan Edgar. Mohon saran dan masukan. ya pak:
+
+      Munggunakan:
+      1. HTML, CSS, JS
+      2. GSAP
+
+      Link utama : https://eva-rec-new.netlify.app/
+
+      Terimakasih
+
+<br>
+
+5.  [https://ham.reinhart1010.id/]  
+     **⇧ Shift (@reinhart1010)**  
+
+      Selamat sore semua, hari ini saya mau showcase framework saya yang barusan usia 1 tahun nih.
+
+      Namanya HAM (alias HAM Ain't 
+      MediaWiki dan Halfmoon and Markdown), framework static wiki berbasis Jekyll yang saya juga sering pakai di beberapa personal projects saya: https://ham.reinhart1010.id/
+
+<br>
+
+6.  [https://ejaan-lama.vercel.app/]  
+     **Arif Ikhsanudin**  
+
+      Selamat malam, 
+
+      Berawal dari saya yang kadang2 memakai bahasa indonesia dengan ejaan lama, saya membuat sebuah aplikasi web yang fungsinya untuk mengubah ejaan modern menjadi ejaan lama.
+
+      Aplikasinya bisa diakses dari sini:
+      https://ejaan-lama.vercel.app/
+
+      Algoritmanya cukup sederhana, karena hanya mengganti karakter "u" menjadi "oe", "j" menjadi "dj" dan karakter2 lain yang relevan.
+
+      Implementasinya cukup menggunakan fungsi .replace() pada javascript menggunakan regex.
+
+      Teknologi yang dipakai: Next JS, TailwindCSS, Vercel
+
+<br>
+
+7.  [https://sejutaimpian.github.io/]  
+     **Deris**  
+
+      Selamat malam semuanya. Perkenalkan saya Eris Sulistina dari Tasikmalaya. Perkenankan saya untuk ikut dalam showcase-project WPU.
+      Setelah sekian lama belajar dari channel WPU, dan berhasil membangun project-project kecil, akhirnya saya tergerak untuk membuat portfolio sendiri.
+
+      Teknologi yang saya gunakan untuk membuat website portfolio ini diantaranya:
+      1. HTML, CSS, Javascript
+      2. CSS Framework: Bootstrap
+      3. Icon: bootstrap-icon
+      4. Hosting: Github pages
+      5. Ilustrasi: https://sketchvalley.com/
+
+      Project nya dapat diakses disini:
+      https://sejutaimpian.github.io/
+      Repo: https://github.com/sejutaimpian/sejutaimpian.github.io 
+
+
+<br>
+
+8.  [https://wiscaksono.me/]  
+     **Nu**  
+
+      Halo sobat WPU 👋.
+
+      Izin ikutan showcase untuk kedua kalinya, kali ini saya mau share personal website & portofolio saya.
+      Untuk websitenya sendiri bisa dilihat disini: https://wiscaksono.me/
+      untuk repository nya: https://github.com/wiscaksono/wiscaksono-site
+
+      Untuk tech stack yang saya pakai adalah sebagai berikut: 
+
+      React.js - A JavaScript liblary for building user interfaces.
+      Tailwindcss - A utility-first CSS framework packed with classes that can be composed to build any design, directly in your markup.
+      Framer Motion - An animation library for React
+      Type Writter JS - A simple JS plugin for cool typewritter effect
+      Email JS - A plugin to send email directly from javaScript to your email
+
+<br>
+
+9.  [https://brayenluhat.xyz/]  
+     **brayenid**  
+
+      Selamat malam, perkenalkan saya Brayen, ini adalah proyek pertama yang saya submit di sini. Proyek ini bertajuk website portfolio pribadi yang saya bangun dengan menggunakan Vue JS yang sekaligus sebagai pembelajaran saya dalam penggunakan Framework JS khususnya Vue JS. Sedikit curhat, terbiasa dengan Javascript Vanilla dalam pembangunan website ternyata tidak membuat saya lekas memahami penggunaan Vue, yang mana state, lifecycle, dkk merupakan hal baru bagi saya. Terkadang perlu ekstra upaya untuk mencari materi yang update tentang Vue, terutama Vue 3 dengan composition API. Semoga saja ke depan akan ada materi Vue di WPU :D.
+
+      Modul pendukung :
+      1. AOS
+      2. Swiper.js
+
+      Platform deploy : 
+      1. Netlify
+
+      Project saya dapat diakses di :
+      - https://brayenluhat.xyz/
+      - https://github.com/brayenid/bryn-web
+
+<br>
+
+10.  [https://your-animee-lisstt.vercel.app/]  
+     **Minezz**  
+
+      Selamat malam Pak Dhika, Perkenalkan saya Nauval Fahreza A saya adalah seorang mahasiswa semester 3, saya ingin share project saya yaitu  YourAnimeList yang saya buat dengan react vite dan menggunakan API dari JikanmoeApi, kebetulan pada project ini juga saya pertama kali membuat slider.  mungkin jika ada teman2 atau pak dhika yang ingin memberikan rekomendasi saran serta masukan silahkan karena saya masih pemula. terimakasih
+      note: fitur login untuk membuat List Anime sendiri belum ada dikarenakan idenya belum sampai kesitu, mungkin nanti akan ditambahkan kalau ada niat dan waktu. 
+
+      Web ini dibuat dengan menggunakan :
+
+      1. React
+      2. React Router
+      3. TailwindCSS
+      4. Redux
+      5. React Icon
+      7. Vite
+      8. API yang digunakan : https://docs.api.jikan.moe/
+
+      Link : https://your-animee-lisstt.vercel.app/
+      Link Github : https://github.com/Minezee/YourAnimeList 
+
+
+<br>
+<hr>
