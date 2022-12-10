@@ -8380,3 +8380,225 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 11 Desember 2022
+
+1.  [http://test-sircaoksigenumj.rf.gd/]  
+     **dwi.adisa**  
+
+      Assalamualaikum Wr. Wb
+      SALAM BUDAYA !!!
+      Jangan lupa titik koma (;)
+      Perkenalkan nama saya Arrohim Dwi Ksatria mahasiswa Universitas Muhammadiyah Jember Program Studi Teknik Informatika. ijinkan saya share project saya terbaru pak. yang sebelumnya membuat website profile yang ada dicuplikan ini https://www.youtube.com/clip/Ugkx0c1RkDGhTx-pJizbYNGBTotuzlgi6iNH . sebenarnya saya mengikuti seperti yang di video bapak yang ini https://youtu.be/carLDxc36VM?t=339 . dari sini saya membuat aplikasi untuk register calon anggota sebenernya kegunaan website ini untuk registrasi calon anggota yang berminat untuk mendaftar. dan UKM saya menggunakan google form untuk pendaftarannya dari situ ide saya muncul dan aku coba seh membuat sistem tersendiri. sebelumnya mohon maaf kalau ada error bug dll. soalnya banyak fungsi di website ini dan kadang gak teliti wkwk. dan yang terakhir sebenernya mau ditambah CMS entah kapan bisa garap.untuk lanjutnya bisa liat repo saya pak gak muat soalnya wkwk. makasih dan SALAM BUDAYA !!!
+
+      di aplikasi ini terbagi 3 role yang terdiri dari WTO_ADMIN, WTO_VIEW dan CALON_ANGGOTA
+      1. WTO_ADMIN : bisa mengelola seluruh halaman seperti hak akses user memanajemen data calon anggota dan setting form buka tutup.
+      2.  WTO_VIEW : hanya bisa mengelola data calon anggota saja.
+      3. CALON_ANGGOTA : hanya bisa megisi form pendaftaran saja. 
+
+      data autentifikasi 
+
+      WTO_ADMIN : 
+      username : sandhika_admin
+      WTO_VIEW :
+      username : sandhika_view
+      CALON_ANGGOTA :
+      username : sandikha_ca
+      semua password : titikkoma
+
+      Tech stack :
+      NiceAdmin Bootstrap dashboard theme
+      login form colorlib.com
+      DatatablesJS
+      Codeigniter 3
+      PHP Excel
+      Font Awesome Icons
+      Bootstrap 5.x
+      DomPDF
+      JQuery
+      Google Recaptcha
+
+      link : https://demo-sircao2.arrohimdwiksatria.xyz/ or http://test-sircaoksigenumj.rf.gd/
+      (maaf link berubah karena ada permasalahan di hosting
+      link portofolio :https://dwiadisa.showwcase.com/
+      repo : https://github.com/dwiadisa/codeigniter3-sirca-oksigen 
+
+
+<br>
+
+2.  [https://aufarijaal.vercel.app/]  
+     **aufarijaal**  
+
+      Assalamualaikum teman teman, perkenalkan kembali saya Aufa (terakhir showkes 3 april 2021 sih.. ehe). Mau share projek simpel website portofolio pribadi saya dan ini merupakan projek pertama saya yang pakai framework react dan saya buat dengan UX yang sebaik mungkin yang saya bisa. projek ini awalnya terinspirasi dari tutor di channel Code Commerce lalu saya modif modif. Thanks.
+
+      demo link: https://aufarijaal.vercel.app/
+      github link: https://github.com/aufarijaal/personal-website
+
+      Teknologi:
+      - React JS
+      - Next JS
+      - Typescript
+      - Tailwind CSS
+      - Keyboard-CSS
+      - Framer Motion
+      - Iconify
+      - Vercel tuk deploy 
+
+
+<br>
+
+3.  [https://movie-kita.vercel.app/]  
+     **Balee**  
+
+      Assalamualaikum teman teman, perkenalkan saya Iqbal. Izin share web simple buatan saya yang dibuat pakai teknologi ReactJS. Thanks.
+
+      demo link: https://movie-kita.vercel.app/
+      github link: https://github.com/iqballbayhaqi/MovieKita
+      portfolio saya: https://iqbalbaihaqi.vercel.app/
+
+      Teknologi:
+      - React JS
+      - Styled-components
+      - Vercel
+
+<br>
+
+4.  [https://angga-nine.vercel.app/]  
+     **anggabimnn**  
+
+      Halo selamat malam pak dhika dan teman-teman semua,perkenalkan nama saya Angga disini saya mau showcase projek portofolio sederhana yang saya kerjakaan untuk mengisi waktu luang ,untuk projek masi belum saya kerjakan karena masi sibuk,mohon saran dan masukanya agar bisa saya perbaiki kedepannya. Terima kasih pak dhika. 
+
+      Teknologi:
+      Next js
+      Tailwind css
+      Framer motion
+      React icon 
+
+      Link Demo: https://angga-nine.vercel.app/
+
+<br>
+
+5.  [https://takaran.vercel.app/]  
+     **Lashdid**  
+
+      Assalamualaikum semuanya, saya ingin membagikan website saya yaitu website yang digunakan untuk menghitung takaran bahan makanan indonesia. Saya membuat project ini untuk mengasah kemampuan saya bermain dengan framework Svelte dan melatih logika dalam menggunakan JavaScript.
+
+      Link : https://takaran.vercel.app/
+
+      Source code: https://github.com/lashdid/takaran
+
+      Stack yang saya gunakan :
+      - Svelte 
+      - WindiCss
+
+      Terima Kasih 
+
+
+<br>
+
+6.  [https://github.com/adeivan/stuckbrain/releases/tag/release]  
+     **iniadeivan**  
+
+      Halo semuanya, perkenalkan nama saya Ade Ivan Saputra, ini adalah project saya yang kedua, project ini saya buat karena saya dari dulu kepengen banget bikin aplikasi desktop, tapi terkendala tutorial diyoutube, sebenernya saya penasaran sama aplikasi VSCode yang ketika saya tekan F11 itu menjadi full screen layaknya sebuah browser, dari situ saya coba liat aboutnya, dan saya melihat ada tulisan Electron & Chromium, dari situ saya mulai mencari tau tentang electron ini dan ketemulah ElectronJS ( yaitu framework untuk membuat aplikasi desktop multi-platform dari kode html,css dan javascript)
+
+      Project ini sebenernya project gabut yang saya juga bingung mau bikin aplikasi apaan, jadi disini saya kasih nama StuckBrain aja😂
+      Semoga Project ini bisa menjadi Template buat yang  mau bikin aplikasi desktop sendiri.
+
+      Langsung saja bahan-bahanya :
+      - ElectronJS
+      - BarbaJS ( dipakai untuk seamless transisi karena saya tidak bisa pake react )
+      - GSAP ( Animasi-nya )
+      - Modul Mica Electron( untuk membuat backdrop aplikasi seperti efek acrilic, kemungkinan hanya work di windows 11 )
+      - UI saya nyontek dari figmanya WinUI Microsoft, kemudian saya translate ke CSS
+
+      Link Github : https://github.com/adeivan/stuckbrain
+      Link Aplikasi yang udah di Build : https://github.com/adeivan/stuckbrain/releases/tag/release
+
+      Catatan : Baru menu Assets & About saja yang jadi hehe.
+      Untuk Icon total ada 1700+, tapi di github saya masukan 100 saja, karena pas saya upload cuma bisa 100 file, jadi 100 mungkin cukup untuk percobaan:)
+
+<br>
+
+7.  [https://mpp-gk.vercel.app/]  
+     **dzyan-yan**  
+
+      Assalamualaikum Pak Dika, Saya Desianto dari Gunungkidul Yogyakarta. Jika diperkenankan ijin showcase web design yang sangat simpel. Saya masih sangat pemula di bidang programing dan design web, ini adalah sowchase pertama saya, mohon maaf jika masih banyak salah dan mohon masukannya. Ini adalah sebuah landing page yang menampilkan Informasi dari MPP Gunungkidul yang saya buat dengan template bootstrap Arsha v4.9.1 (https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/). Ini sebenarnya masih seperti template, karena masih banyak informasi dan fitur yang belum dimasukan. Cukup sekian dan Terimakasih banyak.
+
+      *) Desain web ini terus dikembangkan
+
+      Teknologi Bootstarp v5.2.2 template Arsha v4.9.1.
+
+      Wassalamualaikum w.w.
+
+      demo link: https://mpp-gk.vercel.app/ , https://mpp-gk-dzyan-yan.vercel.app/
+      repo link: https://github.com/dzyan-yan/mpp
+
+<br>
+
+8.  [https://muhammad-hilman-nursalam.vercel.app/]  
+     **Hilman**  
+
+      Haloo semuanyaa, perkenalkan saya Muhammad Hilman Nursalam, ini adalah portfolio saya yang saya buat untuk mengukur kemampuan saya di bidang front end, karena saya lebih suka back end dibandingkan front end.
+
+      Link Portfolio : https://muhammad-hilman-nursalam.vercel.app/
+      Link Repo : https://github.com/hilmanXcode/myPortfolio
+
+      Tech : 
+      -HTML
+      -TailwindCSS
+      -Sedikit VanillaJS 
+
+
+<br>
+
+9.  [https://drive.google.com/file/d/1lANnfB-4Yh1EUnGaIauBiRpWvyt1ukt7/view?usp=share_link]  
+     **rengga_diansa**  
+
+      Assalamualaikum Wr.Wb. Selamat malam pak Dika dan teman-teman WPU. Sebelumnya
+      perkenalkan nama Saya Rengga Ferdiansa, saya adalah salah satu siswa kelas XII di salah satu SMK di Kabupaten Ponorogo. Ini adalah project showcase pertama saya yang saya beri nama Paint Apps yang dibuat dengan menggunkan Android Studio.
+
+      ~ Fitur aplikasi antara lain:
+
+      1. Draw in canvas
+      2. Pen size
+      3. Color Picker
+      4. Save image as png (masih bug)
+      5. Eraser
+
+      ~ Teknologi yang dipakai antara lain :
+
+      1. Java Langguage
+      2. Eksternal Depedency
+      implementation 'com.github.gcacace:signature-pad:1.3.1'
+      implementation 'com.karumi:dexter:6.2.3'
+      implementation 'com.github.yukuku:ambilwarna:2.0.1'
+
+
+      ~ Repo Github
+      https://github.com/renggadiansa/paint_app
+
+      ~ Link Aplikasi
+      https://drive.google.com/file/d/1lANnfB-4Yh1EUnGaIauBiRpWvyt1ukt7/view?usp=share_link
+
+      NB: masih banyak sekali kekurangan di aplikasi saya, dengan senang hati saya menerima masukan dan saran dari Pak Dika dan teman-teman WPU. Sekian dari saya. Wassalamualaikum Wr.Wb.
+
+
+<br>
+
+10.  [https://alfyn.my.id/]  
+     **alfian**  
+
+      Halo semuanya~ Perkenalkan, saya Muhammad Alfian! Ini merupakan kali pertama bagi saya untuk melakukan showcase pada WPU Showcase. Izinkan saya untuk mengikuti WPU Showcase ini ya teman-teman~!!
+
+      Pembuatan project ini didasarkan pada materi Pak Dhika mengenai Rest API, yaitu dengan membuat sebuah website yang bisa melakukan pencarian movie. Nah, karena saya menyukai anime, lantas saya berpikir "ada ngga ya pencarian untuk (Rest API) anime?". Mulai dari sanalah saya mengembangkan project yang Pak Dhika buat. Dari yang awalnya hanya sebatas movie search, kini menjadi sebuah anime search.
+
+      Tools yang digunakan adalah sebagai berikut:
+      Mazer - Bootstrap Template
+      Vanilla Javascript
+
+      Untuk source code serta web-nya bisa dilihat pada link berikut:
+      Repository: https://github.com/alfianchii/rest-api
+      Web: https://alfyn.my.id/
+
+<br>
+<hr>
