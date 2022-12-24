@@ -8602,3 +8602,234 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+
+### 24 Desember 2022
+
+1.  [https://yommerce.vercel.app/]  
+     **RAN**  
+
+      Halo pak Dhika dan teman - teman, nama saya Ridho, disini saya mau showcase project hasil dari final project studi indpenden di Hacktiv8 dengan studi kasus membuat e-commerce, datanya memakai api dari https://fakestoreapi.com/. Data seperti products, sales recap dan cart akan disimpan di localstorage, sedangkan user-token dan admin-token akan disimpan di cookies selama 7 hari.
+
+      Teknologi yang dipakai : 
+      - NextJS (SSR)
+      - Tailwind CSS
+      - JWT
+      - Headless UI
+      - Redux toolkit
+      - React hot toast
+
+      Untuk akun untuk login user bisa didapat disini https://fakestoreapi.com/users
+
+      Untuk login admin ada di path /admin-login
+      email: admin@bukapedia.com
+      password: admin123
+
+      Teman - teman yang mau ikut studi independen saya rekomendasikan di Hacktiv8.
+      Itu saja, Terimakasih.
+
+      github : https://github.com/ridhoadtyaa/yommerce
+      website : https://yommerce.vercel.app/
+
+<br>
+
+2.  [https://beerde.rf.gd/]  
+     **404 not found.**  
+
+      Halo semua, nama saya prayoga saya masih esempe kelas 9. Saya mau izin showcase project search engine gabut saya, niat saya mau buat webnya simpel aja tapi temen² saya pada bilang nambahin ini lah itu lah. Mohon maaf kalau tampilannya jelek karena ini ngoding pakek hp dan saya masih pemula juga. Sebenarnya perencanaan project ini saya buat bareng temen saya tapi pas ngoding saya sendiri🗿. Mohon maaf jika ada error pak 🙏☺️
+
+      Teknologi:
+      • jQuery
+      • Bootstrap
+      • FontAwesome
+      • SweetAlert2
+      • Dll (lupa soalnya)
+
+      Link: https://beerde.rf.gd/ atau https://beerdeapp.000webhostapp.com/
+
+      Jika terjadi error / bug dengan link yang di atas coba gunakan link kedua
+      https://beerdeapp.000webhostapp.com/
+
+      Mohon maaf jika ada error ya temen²🙏
+
+      Terimakasih
+
+<br>
+
+3.  [https://buburnusantara.com/]  
+     **Ami**  
+
+      Halo Pak Dhika dan teman-teman lain, saya ijin showcase project lagi nih, sebelumnya yang bikin Twitter clone hehe. 
+
+      Project kali ini adalah sebuah Landing Page restoran hasil kerja kelompok untuk tugas akhir web programming 1 di universitas saya. Kebetulan teman kelompok saya yang punya restoran, jadi ibaratnya sekalian dia bikin buat restoran-nya, sampe beli domainnya juga buat web-nya.
+
+      Dosennya bilang tidak boleh menggunakan JavaScript framework, jadi saya harus menggunakan vanilla disini. Saya akalin project-nya seolah menggunakan react, jadi beberapa bagian situs-nya di pecah menjadi beberapa components, saya juga menggunakan loop untuk merender component yang berulang.
+
+      Yang saya suka dari project ini adalah animasi fade in dan out element, jika section ada didalam viewport maka element yang ada di section itu bakal fade in, sebaliknya jika tidak ada di viewport bakal fade out. Saya implementasi fitur ini menggunakan Intersection Observer API.
+
+      Untuk modal disini saya menggunakan native `<dialog>'  html yang bisa diatur menggunakan javascript. Dan terakhir untuk section menu favorit menggunakan Swiper di product card-nya.
+
+      Teknologi yang digunakan:
+      - TypeScript
+      - Tailwind CSS
+      - Swiper
+      - Sass
+
+      Source code   : https://github.com/ccrsxx/buburnusantara.com
+      Live website   : https://buburnusantara.com/
+
+
+<br>
+
+4.  [https://colab.research.google.com/drive/1xU2MWDivfA5GbWBHiSldBRogMmyjHbSc#scrollTo=oGEXtxLj9Pv1]  
+     **perseus**  
+
+      Halo Pak Dhika dan teman-teman lain, saya ijin showcase project pertama saya.
+      sebelumnya perkenalan nama saya iqbal ramadhan anniswa dari dan alhamdulilah saya udah mau UAS semester 3
+
+      Project kali ini adalah sebuah Machine learning  data biner raw yang data nya diambil pakai kaggle dan project ini hasil dari belajar saya dari youtube.teknologi nya hanya pakai 3 teknologi:
+      1. Numpy 
+      2. Matplotlib
+      3.Pandas
+      maaf pak project ini dalam bentuk Colab
+      link Colab:https://colab.research.google.com/drive/1xU2MWDivfA5GbWBHiSldBRogMmyjHbSc#scrollTo=oGEXtxLj9Pv1
+      link Github:https://github.com/kayabaakihiko13/bljrML-justnumpy/
+      terima kasih atas perhatian bapak dan maaf pak masih ada kekurangan🙏 
+
+
+<br>
+
+5.  [https://katakatain.vercel.app/]  
+     **Jafar**  
+
+      Halo semuanya, nama saya jafar, saya izin mau showcase projek saya disini. App ini bernama Kata Katain yang saya buat dengan konsep seperti twitter tapi disini fokus saya cuma di fitur untuk nampilin "tweet" aja, jadi semua orang bisa pakai tanpa harus login dll.
+
+      Projek ini penerapan dari beberapa bulan pembelajaran saya di React dengan teknologi berikut: React Router, React Hooks, dan menggunakan Firebase untuk store data nya.
+
+      Bahasa: HTML, Javascript, CSS (Vanilla)
+
+      Link : https://katakatain.vercel.app/
+      Github : https://github.com/Jafarzar/kata-katain
+
+      Sekian dari saya dan Terima kasih atas perhatiannya
+
+<br>
+
+6.  [https://github.com/sensasi-delight/laravel-docker-deployer]  
+     **sensasi_delight**  
+
+      Halo pak dika dan teman-teman WPU semua, salam sejawat, perkenalkan kembali, nama saya Zain dari localhost-127.0.0.1. Mohon izin untuk mengikuti Showcase Project.
+
+      Project ini merupakan project yang sangat-sangat SEDERHANA dan saya kerjakan ketika sedang sangat-sangat GABUT 😁🔫.
+
+      Project ini merupakan sebuah tools untuk mempermudah kehidupan ✨Laravel Gank ketika men-deploy aplikasi yang saya beri nama Laravel Docker Deployer (LDD). LDD pada dasarnya adalah sebuah file docker-compose yang mengotomatisasi pembangunan server dalam lingkungan virtual secara mudah yang berbasis pada stack PHP, MySQL and NGINX (LEMP) yang sudah teroptimasi untuk lingkungan production.
+
+      Singkatnya, dengan LDD kita dapat men-deploy aplikasi Laravel yang kita buat hanya dengan 3-5 langkah sederhana tanpa harus mempelajari Docker terlebih dahulu. Adapun repository dan cara penggunaannya dapat dilihat pada tautan berikut:
+      - https://github.com/sensasi-delight/laravel-docker-deployer
+
+      Panduan penggunaan dalam bahasa Indonesia dapat mengunjungi folder readmes yang terdapat pada repository tersebut. Bug, kritik, atau saran (nama yang lebih baik misalnya) dapat dilakukan dengan membuat issue pada repo GitHub tersebut. Untuk kontribusi (apalagi untuk penyempurnaan readme.md agar lebih mudah dipahami) akan sangat-sangat saya nantikan, jangan sungkan untuk menghubungi saya via Discord atau surat elektronik.
+
+      Untuk jaga-jaga jika pak dika belum meng-install Docker, saya sudah menyiapkan video demonstrasi dan penjelasan singkat untuk penggunaan Laravel Docker Deployer pada tautan berikut:
+      - https://youtu.be/W5Cng_NY2p0
+
+      Credit beberapa project member WPU untuk video demonstrasi:
+      - Softdev Community (web profil/portofolio) oleh @ZionExeonCh
+      - Warnetku oleh @BayuDC
+      - Bagiskrip oleh @envil
+
+      Honorable mention, para suhu
+      - @Yaz
+      - @theozebua27
+
+      Terima kasih, sukses dan sehat selalu pak Dika dan semuanya 🙏🏻
+
+<br>
+
+7.  [https://websdeck.netlify.app/]  
+     **brayenid**  
+
+      Selamat malam, perkenalkan saya Brayen, ini merupakan submit project kedua saya. Proyek ini bertajuk CSS-JS Playground yang terinspirasi dari platform lawas yaitu CSSDeck, proyek ini saya namakan Websdeck. Websdeck merupakan sebuah Playground yang bisa digunakan untuk menulis kode-kode Web yang terbatas HTML, CSS, dan JS. Websdeck tentu tidak secanggih Codepen dan sepantarannya bahkan lebih ringan dari CSSDeck. Fitur yang dimiliki masih mendasar, yaitu : 3 kolom kode, sebuah panel hasil, navigasi kontrol (navbar) yang saya sertakan shortcut untuk memudahkan eksekusinya, forking project, dan forked logs. Saya tidak menyertakan importir pustaka/modul, sehingga jika ingin menambahkannya, seperti biasa dapat dilakukan dalam kolom HTML. Kekurangan yang nyata dalam penulisan kode sejauh ini adalah ketiadaan snippet, sehingga mau tak mau harus menulis sendiri sebaris perintah tanpa bantuan. Untuk halaman index saya beri nama showcase yang terinspirasi dari program WPU, dan untuk saat ini saya menampilkan daftar project yang dibuat dalam bentuk list biasa yang sekilas terlihat seperti daftar lagu Samsung Music (Xixi).
+
+      Urusan autentikasi dan database, saya mandatkan kepada firebase. Untuk kerangka kerja Javascript saya menggunakan VUE JS. Untuk modul pendukungnya : 
+
+      - PrismJs
+      - Font Awesome
+      - SplitJs
+
+
+      Tekan tombol pensil di ujung kanan Web untuk mulai menulis kode baru, atau bisa saja mengunjungi project yang sudah ada lalu melakukan fork.
+
+      Nb : Beberapa proyek yang posting untuk demo di Websdeck berasal dari CSSDeck.
+
+      Project : https://websdeck.netlify.app/
+      Repository : https://github.com/brayenid/webdesk-cssplayground
+
+<br>
+
+8.  [https://qr.yehezgun.com/]  
+     **YehezkielGunawan**  
+
+      Selamat malam teman-teman, saya Yehezkiel Gunawan dari Bogor. Berawal dari iseng dan merasa ribet kalau harus generate QR Code, saya iseng membuat QR Code Generator sederhana. Ini sebenarnya untuk saya gunakan sendiri sih, tapi boleh banget kalo temen-temen mau menggunakannya juga atau memberikan feedback lewat repository Github. Terima kasih
+
+      Tech Stack:
+      - Next.js 13
+      - Typescript
+      - Tailwind CSS
+      - React-QRCode-Logo
+      - html-to-image
+
+      Demo: https://qr.yehezgun.com/
+      Github repo: https://github.com/yehezkielgunawan/qr-generator
+
+<br>
+
+9.  [https://islamicstudies.vercel.app/]  
+     **ariefsaifuddien**  
+
+      Assalamualaikum warahmatullah pak dhika dan teman² developer semua,
+
+      Selamat malam semuannya waktu Sudan.
+      Saya Arief Saifuddien dari jepara, kuliah islamic studies di Sudan IUA.
+
+      Saya kembali lagi ikut showcase ini, kali ini saya mau showcase-in project Faculty Site Islamic Studies (fakultas dimana saya belajar)  yang saya bangun dengan ReactJS dan TailwindCSS, dan web ini masih masa development, datanya masi dummy, backnya menyusul. Dan semua contentnya berbahasa arab. Hehe
+
+      WEB = https://islamicstudies.vercel.app/
+      GitHub = https://github.com/ariefsaifuddien/islamic_studies_web
+
+      Semoga bermanfaat dan memotivasi developer yang lain.
+
+      Wassalamualaikum .. 
+
+
+<br>
+
+10.  [https://nory.my.id/]  
+     **Rivaldi Kevin Falentio**  
+
+      Selamat siang teman teman, saya Rivaldi Kevin Falentio, mohon izin nya untuk mempresentasikan salah satu project saya. Namanya Nory. Project ini adalah sebuah website untuk beberapa keperluan common siswa seperti jadwal dan tugas. 
+      Beberapa fitur yang ada seperti:
+      - User dapat membuat kelas sendiri dan menambah kan anggota ke dalam kelas
+      - Pengurus kelas dapat menghapus dan membuat jadwal ataupun tugas
+      - Anggota kelas dapat membuat tugas (untuk sementara masih belum bisa menghapus tugas, meski di buat oleh anggota itu sendiri) 
+      - Highlight pelajaran pada jam saat ini
+      - Langsung membuka jadwal pada hari ini secara default
+      - Jika hari ini tidak ada jadwal, maka langsung membuka hari terdekat yang memiliki jadwal
+      - Menandai tugas yang sudah di selesaikan
+
+      Project ini saya buat dengan beberapa teknologi seperti:
+      - Golang sebagai backend
+      - Sveltekit sebagai frontend
+      - CockroachDB sebagai database
+      - DaisyUI sebagai css framework
+
+      Beberapa link saya sertakan:
+      - Website: https://nory.my.id/
+      - Front End Repo: https://github.com/noryvn/nory-website
+      - Back End Repo: https://github.com/noryvn/nory
+      - Contoh kelas user: https://nory.my.id/@smanta
+
+      Untuk berkontribusi kalian dapat membuat pull request, tetapi mungkin kode kode nya sedikit berantakan sehingga sedikit susah di baca 
+
+
+<br>
+<hr>
