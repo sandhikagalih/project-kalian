@@ -9173,3 +9173,305 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 
 <br>
+<hr>
+
+### 7 Januari 2023
+
+1.  [https://inibio.online/]  
+     **Seen**
+
+      Assalamualaikum Wr. Wb.
+      Halo Pak Dhika, Halo teman-teman semua!
+
+      Perkenalkan saya Fhadilah Muchsin.
+      Udah lama banget sih pengen pamerin project ini disini
+      Ini adalah project 'iseng' terbesar saya yang dibangun selama kurang lebih selama 6 minggu (dan untuk saat ini terhenti sementara karena kepentingan lain wkwk)
+      Semua kodingan di project ini saya kerjakan sendiri dan sebagian ide fitur dibantu oleh sahabat dan teman-teman saya.
+
+      Detail Project:
+      Ini Bio Online, adalah sebuah halaman arahan referensi media sosial (seperti Linktr*e). Dibuat menggunakan HTML, CSS, Native PHP, serta JavaScript (jQuery).
+
+      Fitur Project:
+      - Integrasi dengan channel YouTube (Untuk latest video)
+      - Fitur QnA (Ask Me)
+      - Spotify Widget
+      - YouTube Widget
+      - Kustomisasi halaman
+
+
+      Fitur Project yang sedang dikembangkan:
+      - Integrasi dengan Google Analytics
+      - Fitur Post
+      - Perbaikan halaman Statistik agar lebih mudah dipahami dan nyaman dilihat
+      - Memperbanyak varian latar belakang dan gaya huruf (di halaman Kustomisasi pada dasbor)
+
+
+      Rencana pengembangan project ini:
+      Karena project ini sudah menggunakan REST API untuk berkomunikasi, saya berencana untuk membuat dan mengembangkan juga aplikasi di Android untuk Dasbor sekalian sambil belajar hehe
+
+      Website: https://inibio.online/
+      Demo Halaman user: https://inibio.online/zeroratenzy
+
+      Terimakasih semuaa..
+      Saya juga sangat berterimakasih jika ada kritik dan saran dari kawan-kawan sekalian~
+
+<br>
+
+2.  [https://sambuyya.github.io/kalkulator_rumus/index.html]  
+     **SAMBUYYA**
+
+      Assalamualaikum Wr. Wb.
+      Halo Pak Dhika dan halo teman-teman semuanya
+
+      Perkenalkan saya Mas Ayyub Al Fajar
+      Saya ingin memperkenalkan project saya yang bukan sebuah website melainkan aplikasi android(sudah ada di playstore). Aplikasi ini ditujukan untuk membantu para pelajar dengan berbagai fitur konversi, menghitung, dan tabel.
+
+      Detail Project:
+      Kalkulator dengan menampilkan rumusnya.
+
+      Fitur Project:
+      - Kalkulator Konversi
+      - Kalkulator hitung
+      - Tabel
+      - Bahasa inggris dan indonesia
+      - Batas desimal
+      - Jenis desimal
+      - Ukuran hasil
+      - Salin cara
+
+
+      Teknologi yang digunakan:
+      - SDK Android (Template bawaan dari Android Studio)
+      - HTML
+      - CSS
+      - JAVASCRIPT
+      - Sedikit JAVA untuk menampilkan HTML, CSS, dan JS dalam webview
+
+
+      Aplikasi : https://play.google.com/store/apps/details?id=id.my.bercamilan.kalkulator.rumus.lite
+
+      Semua didalam demo dibatasi, hanya menampilkan satu fitur konversi(tidak ada fitur lainnya seperti diatas) untuk dijadikan showcase dan lengkapnya ada di Aplikasi.
+
+      Demo : https://sambuyya.github.io/kalkulator_rumus/index.html
+
+      Saran fitur konversi atau hitung lainnya diterima untuk kedepannya
+      Jangan lupa dicoba ya aplikasinya
+      Terima kasih semuanya
+
+
+<br>
+
+3.  [https://kemenag-jambi.lubisgroup.com/]  
+     **fadlanlubis**
+
+      Assalamualaikum Wr. Wb. 
+      Perkenalkan saya FADLAN LUBIS Mahasiswa Informatika Universitas Potensi Utama Medan semester 1. Saya mau share project sederhana (pritttt, hehehe), project ini request dari Kementrian Agama Kota Jambi. Untuk fiturnya :
+      •    Landing page
+      •    Presensi guru Pendidikan Agama Islam sekota Jambi
+      •    Presensi hadir dengan lokasi
+      •    Laporan presensi dan statistik yang bisa di akses publik
+      •    Rekap presensi
+      •    Laporan kerja guru
+      •    Dan lain lain
+
+      Untuk Teknologi / Plugin yang digunakan :
+      •    Laravel 8
+      •    TailwindCSS
+      •    Bootstrap 5
+      •    DaisyUI
+      •    Datatable Server Side
+      •    FontAwesome
+      •    Animate.css
+      •    Swipper.js
+      •    lightbox
+
+      Temen temen bisa akses di https://kemenag-jambi.lubisgroup.com/. 
+      Akun admin :
+      •    Username => Admin
+      •    Password => Admin
+      Akun Guru
+      •    Username => FADLAN1406
+      •    Password => FADLAN1406
+      Proses pembuatan sekitar 2 minggu (sambil kuliah hehe), oh ya saya dari langkat sumatera utara
+      Terima kasih temen temen, saya minta masukannya 
+
+
+<br>
+
+4.  [https://e-library.stevanandreas.com/]  
+     **Covilyn**
+
+      Halo, hari ini mau showcase project sederhana lagi, ini aplikasi perpustakaan punya sekolah.. Namanya E-Library Seven
+
+      Aplikasi ini di develope sama bbrp orang, salah satunya saya backend (dibantu lort bapak sepuh om @ titik)  dan @! Jayenn bagian frontend.. 
+
+      Sedikit alur saya ceritakan, jadi siswa bisa pinjam atau booking buku, terus bisa juga baca buku digital (kalau bukunya digital..),  terus habis dipinjam, siswa tinggal datang ke perpus sekolah untuk ambil buku fisiknya + di verifikasi pengambilan buku sama operator perpustakaannya... 
+
+      Project ini makan waktu sekitar 3 bulanan untuk pembuatannya (sampai saat ini masih dalam update terus dibagian ui ux).. Karena vektor yang kami pakai, dibikin sama jurusan sebelah (jadi macam kolaborasi antr jurusan).... 
+
+      Teknologi yang dipakai ga rumit.. 
+      - HTML
+      - CSS
+      - JS
+      - PHP
+
+      Framework + library + dkk, 
+      - Bootstrap
+      - JQuery
+      - Laravel 8
+      - OneSignal untuk notifikasi
+
+      Fitur²nya secara garis besar
+      - Keranjang booking
+      - CRUD Buku
+      - CRUD Peminjaman buku
+      - CRUD Kategori buku, kurikulum buku, jenis buku, dkk
+      - Datatable Serverside
+      - Delete booking kalau belum diambil lebih dari 3 hari, 
+      - Notifikasi waktu peminjaman buku habis, notifikasi booking baru
+      - Import buku format xlsx
+      - Export buku format xlsx
+
+      Terus ini juga konek sama aplikasi buku tamu perpustakaan pakai API (ya saya karna saya juga yang bikin), aplikasi buku tamunya basis dekstop dibuatnya pakai C...
+      *saya kirim di dm pak :V 
+
+      Untuk sampai saat ini, masih dalam tahap pengembangan, jadinya masih menerima saran² ataupun kritik dari temen².. 
+
+      Sekian yah, link demo nya
+      - https://e-library.stevanandreas.com/
+      *link github gak dikasih karna ini aplikasi resmi punya sekolah ya hehe
+
+      Demo akun saya kirim di dm pak :V 
+
+
+<br>
+
+5.  [https://codepen.io/andraantariksa/pen/wvxarOV]  
+     **Andra**
+
+      Halo semuanya,
+      Nama saya Andra 👋 . Saya kerja sebagai fullstack developer di suatu perusahaan yang bergerak di bidang customer loyalty. Saya masih freshman di industri, sekarang sedang consider untuk punya spesialisasi di bidang frontend development di mobile & web.
+      Ini mini project yang saya buat untuk latihan.
+
+      Tech stack: HTML, SCSS, Javascript. Thats all.
+
+      Code & Demo: https://codepen.io/andraantariksa/pen/wvxarOV
+
+      Mohon kritik dan sarannya 🙏 . Thank you.
+
+<br>
+
+6.  [https://github.com/renggadiansa/bot_openai]  
+     **rengga_diansa**
+
+      Assalamualaikum Wr.Wb.
+      Selamat malam pak Dika dan teman-teman WPU. Perkenalkan nama saya Rengga Ferdiansa dari Ponorogo, ingin Showcase project yang ke 2, terakhir kemarin showcase pada tanggal 22 Desember 2022 dengan Judul paint apps. 
+
+      Project saya kali ini sangat sederhana yang terinspirasi dari chat GBT yang viral belakangan ini. 
+      Project saya kali ini berupa bot telegram, yang mirip dengan chat GBT dengan menggunakan API dari open ai yang terintregrasi dengan bot di telegram dengan sedikit codingan dalam bahasa Python, project ini saya beri nama "Kamu Nanyea?". Untuk fitur dan response bot 95% mirip dengan chat GBT .
+
+      Teknologi yang digunakan dalam membuat bot ini antara lain :
+
+      1. Python Progamming Langguage
+      2. Library Open AI (pip)
+      3.Library Tele Bot (pip)
+      4. API key bot telegram
+      5. API key Open AI
+      6. PythonAnyWhere (sebagai hosting)
+
+      Repo github
+
+      https://github.com/renggadiansa/bot_openai
+
+      Link bot Telegram
+
+      Open AI Bot, powered by @renggaferdiansa https://t.me/iniBotKuBot
+
+      Untuk jaga-jaga bot tidak bisa dipakai karena terkena limit saya sediakan link demonya
+
+      https://youtu.be/TbmvmQwFmeQ
+
+      Sekian showcase dari saya semoga bot nya bisa bermanfaat bagi pak Dika dan teman-teman WPU. Wassalamualaikum Wr.Wb. 
+
+<br>
+
+7.  [https://notos-app.vercel.app/]  
+     **catttwoman**
+
+      Assalamualaikum Wr.Wb. 
+      Selamat pagi/malam/sore pak Dika dan teman-teman semuanya. Perkenalkan nama saya Iqbal, ini adalah project showcase pertama saya dan ini merupakan website pencatatan sederhana yang saya buat untuk tugas disalah satu platform pembelajaran coding online.
+
+      Teknologi yang digunakan : 
+      - React
+      - JS
+      - Tailwind
+      - Framer motion
+
+      Repo : https://github.com/iqballa24/Noto-app
+      Link : https://notos-app.vercel.app/
+
+      Sekian, terima kasih.
+      Wassalamualaikum Wr.Wb
+
+
+<br>
+
+8.  [https://github.com/thatismunn/PintuFaceRecog]  
+     **Bjirka**
+
+      Selamat pagi/siang/sore/malam semuanya, salam sejahtera bagi kita semua.
+
+      Mungkin ini kali kedua saya showcase project tapi gapapa, mungkin yang lain belum kenal saya.
+      Perkenalkan saya Ikram (dulu Helper PHP, tapi sibuk banget jadi cabut dulu :hehehe:) dan saya mau meng-showcase project saya yaitu Prototipe Pintu Otomatis Menggunakan Deteksi Wajah. Mungkin ini agak beda banget dibanding proyek kawan-kawan saya di sini tapi gapapa deh share aja untuk meramaikan.
+
+      Aslinya, project ini dikhususkan untuk Pameran Aplikasi di kampus saya. Tapi biar penuh-penuhin GitHub saya masukin aja ini dan lengkapin semua README beserta Demo Videonya. Aplikasi ini kemaren dibantu ama om @teArfy de rune untuk bagian deteksi mukanya, untuk bagian Arduinonya itu rakitan saya sendiri.
+
+      Stack, Library, Video Demo, dan Strukturnya bisa dicek di repositori di bawah ini:
+      https://github.com/thatismunn/PintuFaceRecog
+
+      Sekian showcase kedua saya, semoga bermanfaat bagi kita semua dan tolong Star ama Fork kalau emang berkesan di hati kalian semua. Terima kasih banyak 🙏
+
+<br>
+
+9.  [https://dhikaaryadutha.github.io/]  
+     **Ardoet**
+
+      Assalamualaikum Wr.Wb. 
+      Selamat pagi/malam/sore pak Dika dan teman-teman semuanya. Perkenalkan nama saya Dhika, siswa kelas 1 SMA di salah satu SMA di Jakarta, berhubung sekarang lagi libur semester, saya memutuskan untuk mulai belajar coding. Ini adalah project showcase pertama saya dan ini merupakan website Trigonometri Kalkulator sederhana, jadi di website ini kita bisa menghitung luas, keliling, dan juga volume suatu bangun ruang atau datar dengan memasukkan sisi-sisi nya, selain itu kita juga bisa menghitung Pythagoras, di website ini juga kita bisa melihat langkah langkah penyelesaiannya dengan lengkap. 
+
+      Teknologi yang digunakan : 
+      - HTML
+      - JS
+      - CSS
+      - Canva
+
+      Link : https://dhikaaryadutha.github.io/
+
+      Sekian, terima kasih.
+      Wassalamualaikum Wr.Wb
+
+<br>
+
+10.  [https://my-portfolio-silk-delta-20.vercel.app/]  
+     **muhammadDariazZidane**
+
+      Assalamualaikum Wr.Wb.
+      Selamat malam pak dika dan teman-teman semuanya. Perkenalkan nama saya zidan, saya adalah mahasiswa semester 3 menjelang 4 di universitas bina sarana informatika karawang, ini adalah project showcase pertama saya dan ini merupakan website portfolio saya yang sangat-sangat sederhana yang saya buat menggunakan Next js dan Tailwind CSS, mohon saran dan kritiknya pak dika dan teman-temansemua🙏🙏
+
+      Teknologi yang di gunakan :
+      - Next js
+      - Tailwind CSS
+      - Email js
+      - Sweetalert2
+      - React icons
+      - Tailwind-scrollbar-hide
+
+      Link demo : https://my-portfolio-silk-delta-20.vercel.app/
+      Link github : https://github.com/muhammaddariazzidane/next-portfolio
+
+      Terimakasih
+      Wassalamualaikum Wr.Wb
+
+
+<br>
+<hr>
