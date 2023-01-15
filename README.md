@@ -9475,3 +9475,222 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 15 Januari 2023
+
+1.  [https://www.hobbeys-co.my.id/]  
+     **navyllrr**
+
+    Assalamualaikum wr. wb. malem pak dika dan rekans, izinkan saya memperkenalkan diri, saya Navyll Rizqrabani mahasiswa semester 7 dari Universitas Pendidikan Indonesia. Saya punya website interaktif berbasis tiga dimensi (augmented reality) yang digunakan untuk media promosi sebuah usaha konveksi, yang dimana untuk User Interfacenya sendiri sangat sederhana 😅 yang dibuat dengan menggunakan Bootstrap dan Google Model Viewer untuk visualisasi tiga dimensinya. Project ini sebenernya untuk skripsi jadi mohon arahannya pak @sandhikagalih hehe.
+
+    Teknologi yang digunakan:
+    - Google Model Viewer
+    - Bootstrap v5
+    - Javascript
+    - FontAwesome
+    - Animation on Scroll
+
+    Link Demo: https://www.hobbeys-co.my.id/
+    Link GitHub: https://github.com/training70/Hobbeys.co
+
+    Terimakasih sebelumnya
+
+<br>
+
+2.  [https://github.com/bydefaultiloveyou/Kurumi]  
+     **これ Meysa だよう**
+
+    Selamat malam pak @sandhikagalih , Disini kami ingin memamerkan project kecil kecilan kami yaitu sebuah mini framework PHP.
+
+    Framework ini kami berinama Kurumi Framework, kami terinspirasi oleh karakter anime dari date a live yang bernama TOKISAKI KURUMI, framework ini memiliki fitur yang hampir sama dengan Laravel. Alasan kami membuat framework ini karena banyak orang mengeluh karena koneksi.php dan juga untuk temen temen yang masih ngoding di HP. kami membangun framework ini tanpa mengunakan composer, sehingga bisa di jalankan di HP melalui aplikasi Termux / AwebServer
+
+    teknologi yang kami sediakan
+    - Routing
+    - Kurumi Template Engine like Blade
+    - Rasiel Database like Eloquent
+    - Kurumi Command like Artisan
+    - Error Handler ( Whoops ) like laravel
+
+    untuk dokumentasi bisa di lihat di github dari segi instalisai sampai guide
+    untuk link repo bisa di lihat di
+
+    https://github.com/bydefaultiloveyou/Kurumi
+
+    ! oh yha untuk versi development / versi terbaru tapi banyak bugnya bisa di clone di branch master 
+
+    untuk teman teman bisa support dengan cara memberi star di github / dengan contrib melalui code,  sekian terima kasih 
+
+
+<br>
+
+3.  [https://chatto.zdp.repl.co/]  
+     **zdnpl**
+
+    Assalamualaikum Pak Dika dan teman teman izinkan saya memperkenalkan diri lagi, saya Zidan (zdnpl) kelas 1 SMA di salah satu SMA di Rawamangun, Jakarta. Kali ini saya mau ngenalin project yang kedepannya akan menggantikan Whatsapp, Telegram, Line dsb. (gimmick). Perkenalkan ini adalah broadcast chatting app yang bernama "Chatto", Kenapa namanya Chatto? ya gpp pengen aja. jadi ini adalah website chatting yang tidak menggunakan database, jadi data dan chat yang ada di website ini bersifat sementara saja.
+
+    Inti dari fitur ini mirip mirip dengan grup chat whatsapp yang dapat mengirim pesan kepada anggota grup atau user yang sedang online pada website ini.
+
+    Teknologi yang digunakan : 
+    -Socket.io
+    -Js
+    -Bootstrap
+
+
+    Github: https://github.com/zdnpl/chatto
+    Demo: https://chatto.zdp.repl.co/
+
+    sekian terimakasih
+
+<br>
+
+4.  [https://heroku-app-delta.vercel.app/]  
+     **fikri1212**
+
+    Assalamualaikum pak dika dan temen2 semua, saya fiqri ardiansyah mahasiswa semester akhir dari medan. Ini kali kedua saya memasukkan project ke showcase-project, Project ini bukan milik pribadi melainkan saya dan tim yang mengerjakan project ini untuk kebutuhan tugas akhir kampus merdeka.
+
+    Heroku, mungkin terdengar familiar dikalangan developer. Dari nama terdengar sama tetapi dari fungsi sangat berbeda, Bukannya untuk mendeploy aplikasi, Tetapi aplikasi web ini difungsikan untuk 2 macam orang yaitu yang membayar ( role owner ) dan yang dibayar ( role hero ). Masing-masing user bisa menjadi keduanya, jadi setiap orang bisa memanfaatkan aplikasi ini untuk mencari uang dan membayar orang untuk menyelesaikan pekerjaan.
+
+    Tech Stack
+    ReactJs
+    Firebase
+
+    Untuk lebih lengkap bisa dilihat di https://github.com/fiqriardiansyah/heroku-app
+    dan live bisa dilihat di https://heroku-app-delta.vercel.app/
+
+    Semoga bermanfaat, walaupun aplikasi ini masih banyak kekurangan
+    Sekian dan Terimakasih 👋
+
+
+<br>
+
+5.  [http://laraveller.rf.gd/]  
+     **ddnnff_**
+
+    Assalamualaikum Pak Dika dan teman teman izinkan saya memperkenalkan diri lagi, saya Daffa kelas 1 SMK di salah satu SMK di Bekasi.
+    Saya mau showcase project portofolio website saya pak 
+    Teknologi yang digunakan : 
+
+    FRONT-END :
+    - HTML
+    - CSS 
+    - JAVASCRIPT
+    - BOOTSTRAP 5
+    - PHP 
+    - MYSQL
+
+    LINK WEBSITE : http://laraveller.rf.gd/
+    Donasi : https://saweria.co/ddnnff
+    tadinya saya mau pakai laravel9 cuma kebanyakan folder akhirnya saya pakai php murni saja 🤣
+    sekian terimakasih PAK 😁 , jangan lupa kirim pesan nya yahhhh😊 
+
+
+<br>
+
+6.  [https://minifylink.vercel.app/]  
+     **ArdanAshland**
+
+    Assalamualaikum pak Dika dan teman² semuanya.  Kali ini aku akan ikut showcase lagi 😅. Sebelumnya untuk yg belum kenal, kenalin namaku Ardan Alfian 👋.
+
+    Jadi setelah belajar backend 3 minggu belakangan, aku coba membuat project crud, authentication sederhana berupa url shortner kyk bitly yang bernama minifylink. Project ini aku buat sekitar 2-3 mingguan dan break selama 1 Minggu karena ujian semester kelas 9 kemarin.
+
+    Fitur :
+    - Buat, edit, hapus link
+    - Google login
+    - Jwt authorization 
+    - Custom short url
+    - Dashboard
+
+    Teknologi / Library yg aku gunain :
+    Backend :
+    - Nodejs
+    - Express
+    - JWT
+    - Mongoose 
+    Frontend :
+    - Vite
+    - React js
+    - Tailwind CSS
+    - Axios
+    - Google Login
+    Database : 
+    - Mongodb Atlas
+
+    Demo : https://minifylink.vercel.app/
+    Repo Frontend: https://github.com/Danssui2/shortlink-react/tree/master
+    Repo backend: https://github.com/Danssui2/shortlink-nodejs
+
+    Maaf jika demonya lambat pak, karena terkendala biaya hosting 😭😂🙏. Sama keresponsifan Karena buatnya di hp. Sekian dan terimakasih 🙏.
+
+<br>
+
+7.  [https://ion-alms.netlify.app/]  
+     **bahyusanciko**
+
+    Halo Pak Dika dan teman teman semua perkenalan saya bahyu sanciko mahasiswa yang baru lulus tahun ini angkatan 2016 hehehe ,izin share project ionic react saya sebelum memakai angular dengan sekarang sedang murtad ke react .
+    Saya mau share showcase project portofolio website ini menghitung kalkulator zakat dengan react saja dan component ui ionic.
+
+    Demo : https://ion-alms.netlify.app/
+    Repo : https://github.com/bahyusanciko/ion-alms
+    sekian terimakasih PAK 😁 
+
+<br>
+
+8.  [https://inibio.online/]  
+     **IkkiRama**
+
+    Assalamu'alaikum semuanya. Tak terasa udah lama ngga show case projek gara-gara sibuk kuliah. Kali ini saya mau show case projek gabutan aku. Sebenernya aku ngga mau bikin website ini, tapi adek sepupu-ku memaksa aku untuk bikin website ini. Mau dibikin konten tiktod kata dia
+
+    Link Demo : https://flower-tiktok.rifkiromadhan.repl.co/
+    Link Repo : https://github.com/IkkiRama/flower-tiktok
+
+<br>
+
+9.  [https://schemata.ruine.app/]  
+     **Faqih**
+
+    selamat malam tahun baru teman-teman.  saya mau share web app yang saya kerjakan bersama @Adit.
+    app ini kami namakan Schemata. app ini berfungsi untuk membuat ERD yang dilengkapi tampilan menarik dengan cepat dan mudah. 
+
+    framework/library yang digunakan untuk membuatnya:
+    - React
+    - Tailwind CSS
+    - Radix UI
+    - React Flow
+
+    link: https://schemata.ruine.app/
+
+    app Schemata ini sendiri masih dalam versi alpha dan masih aktif dikembangkan. jadi jika teman-teman ada feedback bisa kirim ke http://bit.ly/schemata-feedback
+
+    terima kasih 
+
+
+<br>
+
+10.  [https://github.com/slowy07/helen]  
+     **teArfy de rune**
+
+    selamat pagi pak dhika, diawal tahun, alangkah baiknya kita showcase project AI :hehehe:  , disini saya showcase project lama saya yang dikembangkan kembali bernama clifter_slam, tetapi karena namanya ringkih :hehehe:  , jadi saya ganti nama projectnya menjadi helen :hehehe:  , jadi project ini bergerak di bidang teknelogi pemetaan, dimulai penggunaannya untuk bidang militer (uav military vehicle), atau komersial, salah satunya dalam pemetaan pada sistem kerja sensor lidar pada mobil tesla,atau bisa juga ditempatkan pada teknologi yang lain (bisa kepada swarm robotics untuk pemetaan tempat secara cepat dan tersruktur dengan baik). jadi disini saya mengembangkan lagi project helen ini dengan memperbaiki perfomance, algoritma. bagi bertanya-tanya, algoritma apa yang digunakan pada teknelogi ini, jadi disini saya menggunakan algoritma yang bernama probabilistic reasoning yang dimana sistem kerjanya dimana ai diberikan sistem yang melibatkan probabilitas dan logika untuk menghadapi suatu situasi yang tidak pasti dan tambahan lain-lain (seperti DTAM, SVO, LSD). tujuan lain dari showcase ini juga untuk mengcounter project-project gabut yang semakin banyak di wpu, dan saya juga ingin menguasai dunia :hehehe: 
+
+    bahan yang diperlukan:
+    - pytorch
+    - charmferdist
+    - imageio
+    - kornia
+    - nartsort
+    - numpy
+    - plotly
+    - pyyaml
+    - open3d
+    - opencv
+
+    untuk demonya pak dhika bisa dilihat disini
+    https://colab.research.google.com/drive/1QQQQ7XDop8JLL7uMeZ3FSCy6OhNk7CW0?usp=sharing
+    (untuk demonya masih banyak lagi pak,bisa cek di repositori. running program tidak menunggu waktu yang lama karena perbaikan dalam perfomance)
+
+    untuk hasil output fullnya bisa dilihat pada dokumentasi yaang paling bawah pada repositori
+    untuk reponya bagi yang mau ikut kontrib, gass bisa disini nih :hehehe: 
+    https://github.com/slowy07/helen
+    terima kasih pak dhika, lupakan titik koma 
+
+<br>
+<hr>
