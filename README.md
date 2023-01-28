@@ -9694,3 +9694,223 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 28 Januari 2023
+
+1.  [https://feri-r.vercel.app/]  
+     **ferii.r**
+
+    Assalammualaikum pak Dhika dan semuanya, izin share project portfolio pertama saya, tentunya website ini belum sepenuhnya beres karenanya mungkin masih ada beberapa bug dan saya sudah mencapai titik Full Stuck. Teknologi yang digunakan: 
+    - HTML
+    - JS
+    - ThreeJS
+    - ReactJS
+    - TailwindCSS
+    - Lottie
+    - GSAP
+    - Wikipedia API
+    Link Demo https://feri-r.vercel.app/
+    Saya harap bisa mendapatkan beberapa saran dan kritikan agar saya dapat melanjutkannya, dan juga saya sengaja ga akan nambahin Navbar supaya yang visit website saya bisa scroll sampai bawah. Terima kasih 🙏🙏
+
+<br>
+
+2.  [https://setiaonline.epizy.com/]  
+     **ridhoTzy**
+
+    Assalamu'alaikum Pak dhika dan teman teman semua,nama saya Ridho Setiawan dsni saya mau share project website pertama saya, ya walaupun web saya masih 85℅ pengerjaan, saya minta saran saran dari pak dhika dan temen temen smua Terimakasih 😺. 
+    Bahan yang saya pakai :
+    - HTML
+    - CSS
+    - PHP
+    -JS
+    Link : https://setiaonline.epizy.com/
+    Saya sangat berharap temen² smua bisa ngasih saran ke saya 😼 
+
+
+<br>
+
+3.  [https://pweba3.000webhostapp.com/]  
+     **Only1**
+
+    Assalamualaikum Wr.Wb. 
+    Selamat pagi semuanya. Perkenalkan nama saya Guntur Wahyudi, asal saya dari Jember. Disini saya ingin mengirim projek showcase saya yang hasil dari projek akhir mata kuliah pemrograman berbasis web saya kemarin. 
+    Untuk projeknya yaitu web latihan mengetik referensi dari https://10fastfingers.com/ , dengan beberapa fitur yaitu :
+    - login, register, dan lupa password
+    - gameplay utama (latihan mengetik)
+    - forum chat
+
+    * Note : untuk fitur help&support , dan dokumentasi masih belum dibuat karena saya masih ingin healing.
+
+    Projek ini dikerjakan oleh 3 orang yaitu :
+    - 1 orang sebagai presentatornya karena saya orangnya sering gugup kalau presentasi, 
+    - 1 orang lagi desain logo, foto profil, dll. Saya butuh desainer karena untuk mendesign logo dan animasi.
+    - dan saya bagian mengimplementasikan kodingannya, baik front end maupun back end (fullstack developer).
+
+    Disini saya membuat semuanya tanpa bantuan framework, jadi apabila tidak responsive atau masih ada bug saya mohon maaf dikarenakan saya mengerjakannya hanya sendirian (🗿) dalam waktu 3 minggu 2 hari.
+    Saya mohon kritik dan saran dari pak dhika dan teman-teman sekalian.
+
+    github : https://github.com/gunzxx/pweb  (Jangan lupa kasih star ya 😊)
+    web : https://pweba3.000webhostapp.com/
+
+    Demikian projek dari saya, semoga dapat bermanfaat bagi kalian.
+    Terima kasih dan jangan lupa titik koma.
+    Wassalamualaikum Wr.Wb. 
+
+
+<br>
+
+4.  [https://github.com/faisalfjri/crud-prisma-express-react]  
+     **faisalfjri**
+
+    Assalamu'alaikum Pak Dhika dan semua teman-teman di WPU!
+
+    Perkenalkan nama saya Faisal Fajri, Izin share full-stack CRUD (create, read, update, delete) menggunakan Prisma, Express, and React.
+
+    Silakan kunjungi link berikut
+
+    https://github.com/faisalfjri/crud-prisma-express-react
+
+<br>
+
+5.  [https://chrome.google.com/webstore/detail/mesem/cnkmmjnmjcakpgpnfgipomoopgmghcih]  
+     **ˈjoʊɡə**
+
+    Assalamu'alaikum Pak Dhika dan teman-teman semuanya
+    Perkenalkan nama saya Okta, di sini saya izin share Chrome Extension yang saya buat
+    Ekstensi nya bernama Mesem
+
+    Mesem adalah sebuah emoticon picker, terinspirasi dari emoticon punya Gboard.
+    Untuk Stacknya menggunakan Svelte dan Tailwind.
+
+    Silahkan yang mau coba
+    https://chrome.google.com/webstore/detail/mesem/cnkmmjnmjcakpgpnfgipomoopgmghcih
+
+    Dan kalau ada yang mau kontribusi
+    https://github.com/oktoala/mesem-chrome-extensions
+
+    Sekian dan terima kasih (◕ᴗ◕)
+
+<br>
+
+6.  [https://whatsbotmev.vercel.app/]  
+     **Ryzz**
+
+    Assalamualaikum pak dika dan teman teman semuanya, perkenalkan nama saya Ryzz, saya ingin menunjukkan AI dari api Openai, disini AI nya mungkin dah pada coba sih, tema yang di ambil chat form.
+
+    Disini saya memakai gaya model openai text-davinci-003 dan sedikit problem kemarin yang sampe sekarang belum bisa di fix, mungkin kebijakan openai tentang respon api nya, disini saya cuma ingin menunjukkan ke temen temen semuanya.
+
+    Teknologi yang digunakan
+    - Next js
+    - React 
+    - Chakra UI
+    - Highlight js
+    - React icons
+
+    Link AI nya : https://whatsbotmev.vercel.app/
+
+    Saya harap ada saran dari teman teman semuanya.
+
+    Note : saran saya di buka mobile, target user di mobile :) 
+
+
+<br>
+
+7.  [https://huggingface.co/spaces/dafqi/indo_twitter_sentiment_app]  
+     **dafiq**
+
+    Assalamualaikum Wr.Wb. Halo Semuanya, perkenalkan nama saya Syair Dafiq Faizur Rahman, saya salah satu mahasiswa statistika yang saat ini akan masuk ke semester 4. Saya izin share mengenai ini mini projek saya yakni Twitter Sentiment Analysis App. Mini projek ini mengenai NLP(Natural Language Processing) yang  berkaitan dengan machine learning dan deep learning, disini saya mencoba untuk melakukan deployment model dan juga mengatur demo agar user diluar bidang ini dapat menggunakan model yang telah saya buat.
+
+    Mini projek ini berupa aplikasi untuk meprediksi dan menganalisis sentimen pada postingan di media twitter. Aplikasi ini akan melakukan scraping data di media sosial twitter berdasarkan tag atau akun tertentu sesuai input dari user. Data yang diperoleh kemudian dilakukan analisis berupa analisis sentimen. 
+
+    Untuk lebih lengkapnya bisa kunjungin di github : https://github.com/dafiqrahman/twitter_sentiment_app
+    Untuk demonya bisa cek di link berikut: https://huggingface.co/spaces/dafqi/indo_twitter_sentiment_app
+
+    Semoga bermanfaat dan saya sangat berharap atas kritik dan saran dari teman teman semuanya, Terimakasih !!
+
+<br>
+
+8.  [https://undangan-pernikahan-tau.vercel.app/]  
+     **Bachrul Panji**
+
+    Halo semua, selamat malam pak dika perkenalkan  nama saya Bachrul Panji Gumilang saya mahasiswa dari IAI Al-Azis Mahad Al-Zaytun kali ini saya akan kembali showcase project yang bernama undangan pernikahan. "ini hiburan sematanya" dan sedikit cerita dan showcase project ini saya pertama kali melihat banyak sekali kalo nikah mengirimkan link yang berupa undangan tetapi karena rata-rata menggunakan wordpress ahirnya saya pun mendapatkan hidayah. anehnya pas lagi serius malah banyak error pas lagi gabut malah lancar jaya dan project ini di kelarin selama 2 pekan + bergadang malam karena di tambah banyaknya acara di kampus dan mengelola youtube kami berdua dan project ini masih tahap pengembang jadi kalo kurang atau pun belum begitu responsif mohon maafnya pak terima kasih
+    oh iya pak nanti masuk ke login ya pak saya minta pendapatnya dari bapak dan teman-teman wpu terima kasih
+
+    Teknologi:
+    Html
+    Css
+    Javascript
+    AOS javascript
+    Bootstrap 4 
+
+    Link website: https://undangan-pernikahan-tau.vercel.app/
+    Link Github  :https://github.com/bachrul0038/Undangan_Pernikahan
+    Link Youtube:https://www.youtube.com/channel/UCg6xerEubVDBWDwulwr1qaQ
+
+    Terimakasih ☺️ 
+
+
+<br>
+
+9.  [https://pdir.netlify.app/]  
+     **Indo Galaxy**
+
+    Assalamualaikum Wr.Wb. Halo Teman WPU Semuanya, perkenalkan nama saya Muhammad Farez. Saya izin share mengenai projek saya yang tidak begitu penting yaitu project search engine.Sebenar nya saya bikin project ini karena gabut dan project nya udah lama tetapi saya ingin showcase. 
+
+    Teknologi:
+    Html
+    Css
+    JavaScript
+
+    Untuk demonya bisa cek di link berikut: https://pdir.netlify.app/
+    donasi:
+    https://saweria.co/Frsgaming234
+
+    Terimakasih Semua 🙏
+
+<br>
+
+10.  [https://drive.google.com/file/d/1kk4NUbn-Odks71RQDsitEOU6AQyZSOo5/view?usp=share_link]  
+     **rengga_diansa**
+
+    Assalamualaikum Wr.Wb.
+    Selamat malam pak Dika dan teman-teman WPU. Perkenalkan nama saya Rengga Ferdiansa siswa Kelas XII dari Ponorogo, ingin Showcase project Android lagi (terakhir showcase tanggal 07 januari 2023 dengan judul bot open ai yang diberi nama "Kamu Nanyea"), yang saya buat untuk mengisi liburan Akhir Tahun kemarin selama kurang lebih 2 minggu.
+
+    Project saya kali ini cukup sederhana yaitu berupa Aplikasi chat berbasis android yang mirip dengan Whatsapp yang saya beri nama "Halo Dek👋" .Untuk fitur sendiri secara umum hampir sama seperti whatsapp antara lain:
+
+    1. Realtime chat
+    2. Realtime Online Status
+    3. User list
+    4. Conversation List
+    5. Realtime Info Date & Time message sending
+    6. Realtime Notification
+    7. Realtime info message sending (jika user yang dikirim pesan tidak sedang online)
+
+    Untuk teknologi yang digunakan antara lain:
+
+    1. Java Programming Language
+    2. Firebase database
+    3. Beberapa depedency eksternal
+    -implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    -implementation 'com.intuit.ssp:ssp-android:1.0.6'
+    -implementation 'com.makeramen:roundedimageview:2.3.0'
+    -implementation 'androidx.multidex:multidex:2.0.1'
+    -implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    -implementation 'com.squareup.retrofit2:converter-scalars:2.9.0'
+    4. FCM Token (untuk handdle SignIn & SignOut)
+    5. Github Copilot (untuk mempercepat penulisan syntax)
+
+    Repo Github
+
+    https://github.com/renggadiansa/halo_dek
+
+    Link Aplikasi
+
+    https://drive.google.com/file/d/1kk4NUbn-Odks71RQDsitEOU6AQyZSOo5/view?usp=share_link
+
+    Untuk sementara belum support kirim media berupa gambar atau dokumen karena database masih menggunakan firebase gratisan takut tidak bisa digunakan karena terkena limit storage. 
+
+    Sekian showcase saya, bila pak Dika atau teman-teman tertarik membantu mengembangkan aplikasi tersebut bisa langsung ke github saya projectnya selalu saya open, atau bisa juga berdonasi lewat link saweria yang ada di project tersebut. 
+    Wassalamualaikum Wr.Wb. 
+
+<br>
+<hr>
