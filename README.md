@@ -9914,3 +9914,245 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 4 Februari 2023
+
+1.  [https://dayeeen.github.io/agoralafamilia/]  
+     **koneksi.php**
+
+    Assalamu'alaikum semuanya, sebelumnya perkenalkan nama saya Dian Saputra, salah satu mahasiswa di perguruan tinggi di Bandung. Projek yang saya buat hanyalah projek website sederhana yang dibuat menggunakan HTML, CSS dan Javascript yang saya dapat dari kursus dicoding (karena di kampus saya memang belum sampai matkul pemrograman web). Adapun tema dari projek ini adalah kegiatan reuni SMP. Berhubung projeknya tidak diperkenankan untuk menggunakan library alias harus serba manual, mungkin projek ini akan terlihat kurang menarik dibanding projek teman-teman yang lebih up to date. Oleh karenanya, saya minta masukannya saja dari pak shandika galih dan teman-teman sekalian di debut perdana saya ini. Terimakasih... 😄
+
+    Repo : https://github.com/dayeeen/agoralafamilia
+    Link website : https://dayeeen.github.io/agoralafamilia/
+
+
+<br>
+
+2.  [https://gaming-and-chill.netlify.app/]  
+     **Muhammad Fadilah Arfat**
+
+    Assalamualaikum Wr.Wb. Halo Teman WPU Semuanya, perkenalkan nama saya Muhammad Fadilah Arfat. Saya izin share mengenai projek yang saya buat untuk final project dari salah satu bootcamp. Project ini masih belum sempurna karena saya juga masih belajar dan saya gk terlalu bisa BE jadi saya pake firebase utk backend sepenuhnya dan project udah lama tetapi saya ingin showcase. 
+
+    Teknologi:
+    - React/React Native
+    - Firebase (Auth, Google Auth, database)
+    - Api by RawgAPI
+    - Redux (Persistant State) 
+    - Axios
+
+    Fitur:
+            WEB
+    - Search game
+    - search by gendre
+    - save game to whishlist
+
+            Mobile
+    - Notifikasi (Firebase Messaging)
+    - Firebase Storage (untuk mengganti foto profile)
+
+    Link demo : 
+    https://gaming-and-chill.netlify.app/
+
+    Saya juga membuat versi mobilenya menggunakan react native :
+    https://play.google.com/store/apps/details?id=com.projectpertama&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1
+
+    Repo: https://github.com/FadilArfat/152235865100-80-dts-final-project
+
+    Terima Kasih 🙏
+
+<br>
+
+3.  [https://lato-lato.vercel.app/]  
+     **bagusok55**
+
+    Assalamualaikum pak dika, perkenalkan nama saya bagus.
+
+    Izinkan saya share project iseng2 aja, yang saya beri nama "Lato Lato tapi Tap Tap". 
+
+    Cara mainnya tap tap aja.
+
+    Dibuat hanya pake, html, css sama jquery
+
+    demo : https://lato-lato.vercel.app/
+    github: https://github.com/bagusok/lato-lato
+
+    thank you
+
+<br>
+
+4.  [https://e-library.stevanandreas.com/]  
+     **Covilyn**
+
+    Halo, hari ini mau showcase project sederhana lagi... yak ini kemarin error yah, ada miss sedikit dibagian if di script wkwkwk , ini aplikasi perpustakaan punya sekolah.. Namanya E-Library Seven
+
+    Aplikasi ini di develope sama bbrp orang, salah satunya saya backend (dibantu lort bapak sepuh om @ titik)  dan @! Jayenn bagian frontend.. 
+
+    Sedikit alur saya ceritakan, jadi siswa bisa pinjam atau booking buku, terus bisa juga baca buku digital (kalau bukunya digital..),  terus habis dipinjam, siswa tinggal datang ke perpus sekolah untuk ambil buku fisiknya + di verifikasi pengambilan buku sama operator perpustakaannya... 
+
+    Project ini makan waktu sekitar 3 bulanan untuk pembuatannya (sampai saat ini masih dalam update terus dibagian ui ux).. Karena vektor yang kami pakai, dibikin sama jurusan sebelah (jadi macam kolaborasi antr jurusan).... 
+
+    Teknologi yang dipakai ga rumit.. 
+    - HTML
+    - CSS
+    - JS
+    - PHP
+
+    Framework + library + dkk, 
+    - Bootstrap
+    - JQuery
+    - Laravel 8
+    - OneSignal untuk notifikasi
+
+    Fitur²nya secara garis besar
+    - Keranjang booking
+    - CRUD Buku
+    - CRUD Peminjaman buku
+    - CRUD Kategori buku, kurikulum buku, jenis buku, dkk
+    - Datatable Serverside
+    - Delete booking kalau belum diambil lebih dari 3 hari, 
+    - Notifikasi waktu peminjaman buku habis, notifikasi booking baru
+    - Import buku format xlsx
+    - Export buku format xlsx
+
+    Untuk sampai saat ini, masih dalam tahap pengembangan, jadinya masih menerima saran² ataupun kritik dari temen².. 
+
+    Sekian yah, link demo nya
+    - https://e-library.stevanandreas.com/
+    *link github gak dikasih karna ini aplikasi resmi punya sekolah ya hehe
+
+    Demo akun saya kirim di dm pak :V
+
+<br>
+
+5.  [https://cucipiring.vercel.app/]  
+     **reicehhh**
+
+    Halo Pak Dhika 👋🏻, saya Reinhard Kevin, mahasiswa semester terakhir di salah satu kampus di Jakarta. Mau ikutan showcase project lagi ya Pak 😄 (ini showcase kedua saya ✌🏻)
+
+    Jadi project ini berangkat dari keresahan saya. Di rumah, saya dan adik saya sepakat untuk melakukan cuci piring bergantian. Namun, kadang seperti hari Sabtu/Minggu kami jarang di rumah, jadi memang ngga ada yang cuci piring. Hal ini seringkali bikin kami lupa giliran siapa yang cuci piring selanjutnya. Oleh karena itu, saya mencoba iseng (prit🌬️) bikin projek sederhana (prit🌬️) yang membantu kami ingat giliran cuci piringnya dalam bentuk web yang juga sudah saya coba untuk terapkan PWA, aplikasinya bernama CuciPiring (asal kasih nama aja sih wkwkw)
+
+    Pada dasarnya, user dari aplikasi ini dapat membuat keluarga baru atau bergabung dengan keluarga yang sudah ada dengan kode keluarga. Kemudian di dalam keluarga tersebut, user dapat melakukan posting seperti instagram, yaitu foto dan deskripsi (tulisan). Nah, nanti setiap saya atau adik saya mau cuci piring, kami harus foto cucian tersebut. Kami juga bisa mengisi deskripsi dengan menu apa yang kami makan hari itu agar lebih mudah mengingatnya.
+
+    Banyak hal-hal yang saya pelajari di project ini, di antaranya adalah:
+    -    Next.js (React) -- dipakai juga untuk PWA
+    -    Typescript – projek ini juga typescript dalam rangka pembelajaran pribadi biar menantang😆
+    -    MantineUI – untuk styling, notification system, 
+    -    React Query – untuk caching hasil fetch
+    -    navigator.getUserMedia() API untuk dapat mengakses perangkat kamera langsung dari browser.
+    -    How to atomic design – saya coba menggunakan konsep atomic design, yang membagi komponen menjadi organism, molecules, dan atoms.
+
+    Link: https://cucipiring.vercel.app/
+    Coba join keluarga dengan kode: #WPU974
+
+    BTW design UI yang saya buat ini terinspirasi dari salah satu showcase project, tapi saya lupa yang mana, dan udah tenggelam di text-channelnya.
+
+    Terima kasih Pak Dhika
+
+<br>
+
+6.  [https://movie-umber-two.vercel.app/]  
+     **AntonyNihhh**
+
+    Assalamuallaikum wr.wb, Selamat malah pak dhika.
+
+    izin ikut showcase project. Nama project nya movi-man. yang menampilankan list movie dan sebagai praktek pembelajaran saya tentang react js dan tailwind css. karna saya masih pemula dan minim pengetahuan jadi mohon saran dan kritiknya dari temen".
+
+    Teknologi yang digunakan:
+    - Vite React JS
+    - Tailwind CSS
+    - SwiperJS
+    - API TMDB
+
+    Link: https://movie-umber-two.vercel.app/
+    github: https://github.com/imronman05/Movie
+
+    Terima kasih pak dhika dan semuanya semoga sehat selalu 
+
+
+<br>
+
+7.  [https://anfstudio.000webhostapp.com/]  
+     **autoruns**
+
+    Halo Pak Dhika 👋, saya Galih Azella Firdaus, mahasiswa semester 3 di salah satu kampus di Kota Pekalongan. Mau share projek sekaligus ikutan showcase project ya Pak 😊
+
+    Pertama perkenalan nama projek, projek ini sekaligus sebagai tugas akhir makul Pemrograman Berbasis WEB 2, Kampus saya:
+    ANF Studio, eCommerce rumah sablon yang sudah terkenal di Kabupaten Batang.
+
+    Berikut beberapa teknologi yang dipakai diprojek ini
+    1. PHP 7.4
+    2. Framework PHP Codeigniter versi 4.2
+    3. Framework CSS & JavaScript dari Boostrap v5.3
+    4. API jQuery dan AJAX
+    5. Icon Boostrap & Font Awesome 
+    6. Sistem pembayaran PayGua
+    7. CKEditior 5
+    8. API RajaOngkir
+    9. TCPDF (Admin Only)
+
+    Hasil Akhir
+    Link website : https://anfstudio.000webhostapp.com/
+    Link Github  : https://github.com/aautoruns/tugasakhir_web2
+
+    Saya Galih Azella Firdaus, Terimakasih
+
+<br>
+
+8.  [http://stp.42web.io/login.php]  
+     **Iqbal**
+
+    Assalamu’alaikum Wr. Wb.
+    Izin Pak Dika, mentor2,  dan tmn2 sklian, utk showcase project pertama saya.
+    Sebelumnya background saya sebenarnya  adalah dari kesehatan, tapi sangat tertarik dan hobi tentang dunia informatika/programming, dan sekitar beberapa minggu terakhir ini, sdng mencoba intensif utk belajar ngoding. Jadi bisa dibilang sy sangat baru dan sangat pemula dalam dunia programming, dan akhir2 ini sedang belajar dasar-dasar PHP.
+
+    Jadi project kali ini namanya yaitu STP. STP ini sbnrnya adalah salah satu format laporan rutin bulanan yang kepanjangannya bisa diliat nnti klw sdh dibuka, yg selama ini dilakukan secara manual (pake excel dikirim via email). Sistem pelaporannya itu berjenjang mulai dari level puskesmas hingga ke provinsi sehingga nantinya akan ada multiuser untuk penggunaan aplikasi ini. Oleh karena itu sy mencoba membuat formatnya dalam bentuk web.
+    Aplikasi ini dibuat full 100% pake PHP(seadanya). Ada javascriptnya dikit yang dibantu juga sama teman saya (Bapak Nadir) yang sdh senior di webdev dan industrinya. Dan pasti HTML CSS(yg sangat seadanya juga). Dan semuanya manual, sama sekali tidak pake library/framework, soalnya baru banget belajar soal library/framework, msh bingung  gmna masukinnya di codingan. 
+    Untuk di  form tambah datanya, nama penyakit harus diinput sesuai urutan ditext fieldnya, karena urutan nama penyakitnya sesuai dengan format manualnya.
+    Demikianlah kira2,  Wassalamu’alaikum Wr. Wb.(username: admin, password: admin)
+    Link aplikasi: http://stp.42web.io/login.php
+    Link github: https://github.com/labqisam/labqisam 
+
+
+<br>
+
+9.  [https://github.com/fiandev/fisay]  
+     **alfian**
+
+    Halo pak Dika, dan teman - teman sekalian. 
+
+    Perkenalkan saya Fian, saya sudah beberapa kali ikut showcase project di WPU.
+
+    kali ini saya ingin membagikan project yaitu CSS framework dengan nama Fisay CSS yang konsepnya mirip tailwind 😅, project ini masih belum selesai karna butuh waktu lama untuk membuat fungsi tiap properti² CSS nya 😞.
+
+    Jika ada yang tertarik untuk berkontribusi, saya akan sangat senang 😊.
+
+    project ini dibuat menggunakan:
+    - sass :sass: 
+    - cheerio.js
+    - node-watch
+    - chalk.js 
+    - commander.js
+    - typescript :typescript: 
+
+    repository : https://github.com/fiandev/fisay
+
+<br>
+
+10.  [https://feri-r.vercel.app/]  
+     **keongrucan**
+
+    Hallo assalamualaikum...
+    Nama saya deni buldani dari cianjur... 
+    Saya adalah seorang  buruh pabrik sepatu di sukabumi... 
+    Saya tidak kuliah ... Saya tidak punya dasar it... 
+    Saya hanya belajar dari youtube dan coba ngoding lewat hp... Selama 5 bulan...
+
+    Karena saya kerja di bagian racik warna karet... Saya suka ngeracik warna dengan lihat data dari buku data warna... Karena saya suka pusing nyari data dimana... Karena bukunya juga tidak satu... Maka saya berinisiatif... Membuat web penyimpanan data untuk saya sendiri biar gak ribet buka buka buku... Nyari data warna
+
+    Dan hasilnya :
+    https://warnakeongnusaena2.000webhostapp.com/
+
+    Pertanyaan saya... Ngoding di hp bedanya apa sama di pc...?
+
+<br>
+<hr>
