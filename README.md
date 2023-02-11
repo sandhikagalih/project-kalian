@@ -10156,3 +10156,234 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 11 Februari 2023
+
+1.  [https://wibucode.com/]  
+     **Andre R 🐧**
+
+    Hallo semuanya 😀 
+
+    Kali ini kita redesign situs Wibucode yang sebelumnya mengunakan Blog Hugo kini menjadi sebuah landingpages. Alasan redesign karena situs lama sudah tidak update lagi dan menjadi terbengkalai makanya kami memutuskan untuk menghubahnya menjadi landingpages saja agar tidak perlu sering di update seperti situs sebelumnya.
+
+    Project ini di kerjakan bersama @Huda Damar 
+
+    Di bangun dengan cinta dan juga:
+
+    - Tailwindcss.
+    - Alpinejs.
+    - Typedjs, buat animasi ngetik.
+
+    Get started https://wibucode.com/
+
+    Terimakasih  :wpugege:
+
+
+<br>
+
+2.  [https://agililham.github.io/play_music/]  
+     **AV**
+
+    Hallo semuanya, Izin share project pertama di ku di WPU yaitu Music Player. Website ini menggunkan the one and only JavaScript untuk otaknya dan tentunya dengan bantuan Html dan Css. Berikut beberapa fitur yang ada di dalam website 
+
+    - Play the music
+    - Pause
+    - Next
+    - Previous
+    - Repeat
+    - Shuffle
+
+    Link website https://agililham.github.io/play_music/
+    Link repo https://github.com/Agililham/play_music 
+
+
+<br>
+
+3.  [https://chatnrechat.vercel.app/]  
+     **adrianseptaaji**
+
+    Hallo semuanya 
+
+    Saya Adrian mahasiswa baru 2022 yang switch career dari designer ke programmer khususnya frontend yang sedikit nyambung, dan setelah 3 bulan belajar saya baru bisa bikin beberapa project dan salah satu nya ini, semoga saya bisa jadi frontend dev yang handal aamiin wkwk malah curhat.
+
+    Tools:
+
+    - Tailwindcss,
+    - NextJs(react),
+    - Typescript,
+    - Aos Animation.
+
+    Demo: https://chatnrechat.vercel.app/
+    Repo: https://github.com/rianmz-genz/chatnrechat
+    Design: https://www.figma.com/file/cP3o0Rq5eclXUQDesHFOVK/Chat-n%27-Rechat?node-id=225%3A2&t=VCMx06ArOT27uI0O-1 
+
+    Terimakasih
+
+<br>
+
+4.  [https://github.com/alfianchii/php-mvc-framework]  
+     **alfian**
+
+    Halo teman-teman~!! Perkenalkan, saya Alfian. Izinkan saya untuk melakukan showcase project ya ^^
+
+    Mungkin beberapa dari kalian ada yang membutuhkan referensi untuk mempelajari konsep-konsep dasar dari MVC. Biasanya, konsep dari MVC ini sering kali dipakai pada framework-framework tertentu seperti Laravel, CodeIgniter, dan masih banyak framework di luar sana yang menggunakan konsep MVC. Nah, kali ini saya akan membagikan project sederhana saya, yaitu PHP MVC Framework. 
+
+    Note: tujuan dari framework ini hanya untuk edukasi saja. Tidak disarankan untuk digunakan sebagai production.
+
+    Tools yang digunakan adalah sebagai berikut: 
+    - PHP native
+    - PhpDotEnv
+
+    Beberapa fitur yang disediakan:
+    - Migrations
+    - Register dan login user
+    - Middlewares
+    - Flash messages
+    - Application events
+
+    Repository:
+    https://github.com/alfianchii/php-mvc-framework 
+
+
+<br>
+
+5.  [https://github.com/bimaprakoso2004/bimaprakoso2004-itw2022_project2_223040088]  
+     **V I N T A G E**
+
+    Halo teman-teman~!! Perkenalkan, saya Bima. Izinkan saya untuk melakukan showcase project ya ^^
+
+    Mungkin masih banyak kekurangan dari web saya jadi mohon pencerahan dari bapak. 
+
+    Note: tujuan dari web ini adalah salah satu tugas besar mata kuliah ITW saya
+
+    Tools yang digunakan adalah sebagai berikut: 
+    - HTML
+    - CSS
+
+
+    Repository:
+    https://github.com/bimaprakoso2004/bimaprakoso2004-itw2022_project2_223040088
+
+<br>
+
+6.  [https://next.pubpasim.org/code]  
+     **Romi Kusuma Bakti**
+
+    Assalamu'alaikum Pak Dika dan teman-teman semuanya!
+
+    Perkenalkan, saya Romi, mahasiswa program beasiswa PUB (Pemberdayaan Umat Berkelanjutan) semester 7 di UNAS PASIM Bandung yg lagi bingung nyari judul skripsi 😆 .
+
+    Izinkan saya melakukan showcase project yg saya buat bernama "PUB Code" (dieja "pé u bé koʊd"), IDE C/C++ yg cocok untuk pemula yg sedang belajar pemrograman.
+
+    Download: https://next.pubpasim.org/code
+    Repo: https://github.com/romikusumabakti/pub-code
+
+    Di PUB, saya anggota Divdik (Divisi Pendidikan) yg mengurus pelatihan-pelatihan coding untuk adik-adik angkatan. Project ini berawal dari kebingungan kami dalam mencari IDE C/C++ yg ramah pemula, nol-konfigurasi, dan dengan compiler modern.
+
+    Sebelumnya (2002-2020), PUB menggunakan Borland C++ yg menggunakan compiler lama yg kadang berperilaku berbeda dari compiler modern (GCC) yg menyebabkan kebingungan banyak orang.
+
+    Lalu di periode saya sbg koordinator Divdik (2021), kami menggantinya dengan VS Code + GCC. Namun VS Code memerlukan banyak konfigurasi setiap membuat project baru. Akhirnya dibuatlah ekstensi yg dapat menjalankan C/C++ tanpa konfigurasi, bernama "C/C++ Runner" (https://marketplace.visualstudio.com/items?itemName=DivdikPUB.cpp-runner).
+
+    Selesailah satu masalah. Tapi penyiapan environment masih cukup rumit, kita perlu menyiapkan compiler, mengatur path, serta menginstal ekstensi terlebih dahulu. Sempat terpikir untuk pakai CodeBlocks/Dev-C++. Tapi saya memilih untuk mencoba membuat IDE sendiri. Dimulailah project eksperimental bernama "Borland X" menggunakan Electron.
+
+    Tahun 2022 mulai trending framework desktop baru bernama Tauri, bersamaan dengan hype bahasa pemrograman Rust. Akhirnya saya buat ulang project itu menggunakan Tauri dengan nama "PUB Code".
+
+    Stack teknologi:
+    - Tauri (framework)
+    - Monaco Editor (code editor)
+    - Rust (backend)
+    - WinLibs (compiler, GCC & MinGW-w64)
+    - React (UI)
+    - Vite (UI build tool)
+    - Tailwind CSS (UI styling)
+
+    Mohon kritik dan saran dari semuanya. Terima kasih 
+
+<br>
+
+7.  [https://play.google.com/store/apps/details?id=com.romnan.chillax]  
+     **Deddy Romnan Rumapea**
+
+    Hi all!
+    I'm pleased to share one of the Android apps that I have created. Introducing Chillax, an app that plays relaxing sounds to help you sleep.
+
+    It's beautifully designed and very easy to use. You can mix and match multiple sounds and adjust the volume of each one. Additionally, the Mood feature allows you to play multiple sounds with a single click.
+
+    Even though it's a simple app, it's built with scalability in mind. I followed best practices in coding and implemented Clean Architecture and MVVM design pattern when developing the app.
+
+    See the presentation slides: https://cdn.discordapp.com/attachments/1062767169936572419/1064841126823084052/Chillax_by_Deddy_Romnan_Rumapea.pdf
+    Download the app: https://play.google.com/store/apps/details?id=com.romnan.chillax
+
+    I'm currently exploring career opportunities and would be grateful for your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+
+<br>
+
+8.  [https://twitter.alif.my.id/]  
+     **Alif**
+
+    Halo Pak Dika dan teman-teman! Perkenalkan, saya Alif, seorang freelance web developer lulusan SMK TKJ. Saya ingin berbagi sebuah proyek yang saya kerjakan yaitu Twitter Gallery. 
+
+    Twitter Gallery adalah sebuah website/tools yang digunakan untuk men-generate galeri foto dari akun Twitter. 
+
+    Proyek ini terinspirasi dari Dale (dalehay*me) yang membuat aplikasi serupa. Setelah aplikasi Dale sudah tidak berfungsi, saya serius untuk membuat versi web-nya. Pada tahun 2020 saya mulai membuatnya dengan PHP (Laravel), terus mengembangkannya sampai tahun 2022 saya putuskan untuk rombak semuanya dengan NodeJS dan REST API.
+
+    Proyek ini merupakan close source, menggunakan API Twitter dengan limit yang sama dengan web/app Twitter, tapi teman-teman tetap dapat menggunakannya secara gratis.
+
+    Saya mengambil data input dan IP untuk memblokirnya di kemudian hari jika terjadi pelanggaran.
+    Link website: https://twitter.alif.my.id/
+
+    Stack frontend: 
+    - TailwindCSS
+    - Axios
+    - Lazysizes
+
+    Stack backend: 
+    - Fastify (NodeJS)
+    - Axios
+    - GeoIP
+
+    Terimakasih!
+
+<br>
+
+9.  [https://dedeard.my.id/]  
+     **dedeardiansya**
+
+    izin share web portfolio gw make next.js. Minta sarannya yah kira-kira apa yg mesti di perbaiki. 
+    LINK DEMO https://dedeard.my.id/
+    LINK REPO https://github.com/dedeardiansya/next-personal-web-app 
+
+
+<br>
+
+10.  [https://pixelsam123.github.io/]  
+     **PixelSamz**
+
+    Selamat halo semuanya, tidak terduga saya sudah 1 setengah tahun belum showcase.
+    Hari ini kepingin showcase, tapi yang lebih simpel sih... hanya website GitHub Pages saya saja.
+
+    Link: https://pixelsam123.github.io/
+    Repo deployment: https://github.com/PixelSam123/pixelsam123.github.io
+
+    Websitenya dibikin dengan:
+    - Vite + Vue 3 TypeScript
+    - Tailwind CSS
+    - Marked.js untuk parsing markdown https://github.com/markedjs/marked
+
+    Sst... ada bagian minigame multiplayer nya lho :v
+
+    Untuk versi tebak kata bahasa Inggris silahkan masukkan wss://play.norin.me/ws/anagram di kolom Server URL.
+    Repo servernya dari @nori 🍭 : https://github.com/norinorin/wordgames
+    Dibikin dengan axum.rs (backend framework top 9! composite di TechEmpower Benchmarks R21): https://crates.io/crates/axum
+    
+    Untuk versi tebak kata bahasa Indonesia silahkan masukkan wss://wordgames4j.azurewebsites.net/ws/anagram/{idRoom}
+    Silahkan ID room nya pakai sesuai selera. Maksimal player dalam 1 room adalah 20 orang.
+    Repo servernya: https://github.com/PixelSam123/wordgames4j
+    Dibikin dengan Quarkus.io (backend framework top 36 composite di TechEmpower Benchmarks R21): https://quarkus.io/
+
+    Bagi masing-masing server di atas harap ketik /help untuk instruksi cara memulai game-nya.
+    Untuk server minigamenya open source jadi silahkan kontribusi ke kami kalau mau :v 
+
+
+<br>
+<hr>
