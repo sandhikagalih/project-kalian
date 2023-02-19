@@ -10387,3 +10387,192 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 11 Februari 2023
+
+1.  [https://naufal-yafi.github.io/landing-page-frivo/]  
+     **nafy**
+
+    Halo semuanya, saya ingin memamerkan project hasil menonton video tutorial dari Pak Sandhika dari html semantic sampai accessibility, tailwind dan webpack. Terima kasih pak 🙇‍♂️. Saya juga mencoba menggunakan service worker dan PWA. Walaupun PWAnya ngak jalan :v .
+
+    Web  = https://naufal-yafi.github.io/landing-page-frivo/
+    Repo = https://github.com/naufal-yafi/landing-page-frivo
+
+    Tech = { TailwindCSS, Vanilla Javascript }
+
+    Kritik dan saran yang saya inginkan 🙂
+    Bukan hujatan yang engkau lontarkan 😞
+
+    Sekian dan terimakasih 🙋
+
+<br>
+
+2.  [https://www.cliexec.com/]  
+     **PUYUP**
+
+    Buat yang suka baca-baca artikel programing ini saya buat listnya. Sumber link dari email newletter dimana saya berlangganan. Jadi artikel sudah dikurasi secara manual sama si pengirim newsletter.
+    Jadi... setiap email yg masuk (GMail) saya extract pakai Python untuk mengambil link artikel (hanya link artikel saja).
+    Siapa tau bermanfaat buat semua ya..
+    Cek https://www.cliexec.com/
+    * update otomatis setiap 2 jam sekali.
+
+<br>
+
+3.  [https://shopify-landing.vercel.app/]  
+     **Puji Ragil**
+
+    Halo semuanya izin share showcase yang pertama kalinya, maaf kalau masih ada banyak kekurangan:hehehe:
+
+    Tech = ReactJS, TailwindCSS, Framer motion
+    Web = https://shopify-landing.vercel.app/
+    Repo = https://github.com/pujiragil/shopify-landing
+    Design = https://www.figma.com/community/file/1105015333587872795 (slicing design punya orang :hadeh: )
+    
+    Mohon kritik dan sarannya, sekian terimakasih banyak:mantab: 
+
+
+<br>
+
+4.  [http://laundry-project.epizy.com/]  
+     **HeyMoo.solWakeUp**
+
+    Halo semuanya , izin share showcase pertama saya Sistem Kelola Data Laundry, Masih tahap pengembangan Masih banyak kekurangan Dan fitur yang tidak bisa di gunakan karena saya Menggunakan hosting Free alias gratis 😂 , Jika ada saran tolong sampaikan di thread 
+
+    Tech : Autonumber-laravel (alfa6661), Barrydh-PDF
+    Template : Theme selection , Colorlib
+    Repo : https://github.com/genio0162/laundry-project
+
+    Demo: http://laundry-project.epizy.com/
+
+    Jika mau tes login as admin (Jangan lupa di coba fitur print out invoice laundry nya bentuk PDF , ketika sudah menambahkan laundry baru)
+
+    Nomor : admin
+    Pass: 12345
+
+    NB : Jika akses lewat HP setelah login jika mau ke dashboard ketika manual di link nya ya >>>> http://laundry-project.epizy.com/dashboard
+    Front end nya Masih belum saya benerin sepenuhnya 😂 Terima kasihhhhhh ^.^ 
+
+
+<br>
+
+5.  [https://emakcoding.github.io/vanilla/]  
+     **emakCoding (ALYANATION)**
+
+    Assalamu’alaikum pak dika dan teman-teman semuanya.. 
+
+    Kenalkan saya Ummu fasa, ibu anak 3 yang kecemplung di dunia pemrograman 🤭 . Ini adalah project pertama saya. Dalam project ini saya hanya menggunakan html, css dan javascript murni plus EmailJs.
+
+    Project ini bisa selesai dengan baik atas bantuan para helper yang sangat sabar menghadapi kelemotan saya dan memberikan masukan-masukan yang membuat project ini menjadi lebih baik dari sebelumnya. 
+
+    Thanks to :  @ALYANATION De Rune  @ami  @Ahli Aseli Te Es @Bang Al (ALYANATION) @Luna (ALYANATION) @Rahma  @Yosef Stalinium @dito @! ― Yo (ALYANATION) @Rai de rune @kochenkoren  dan beberapa orang yang saya lupa nick namenya 😁 
+
+    Link :  https://emakcoding.github.io/vanilla/
+    Link Github : https://github.com/emakCoding
+
+<br>
+
+6.  [https://cuacaonlen.netlify.app/]  
+     **kisnak**
+
+    Assalamualaikum selamat pagi/siang/sore/malem pak Dhika.
+    Perkenalkan nama saya Kisnak, saya ijin ikut showcase project untuk yg kedua kali pak. Projek belajar dg mengikuti salah satu course ini sederhana dan mainstream wkwk yaitu weather app.
+
+    - React Vite
+    - React icon
+    - Tailwind
+    - Axios
+
+    Demo: https://cuacaonlen.netlify.app/
+    Github: https://github.com/kisnak21/weather-app
+
+    nb: maap klo blm full responsive✌️ masih belajar breakpoint juga hehe
+
+
+<br>
+
+7.  [https://libur-hari-ini.vercel.app/]  
+     **syofyanzuhad**
+
+    Halo temen-temen semua (opening khas padhika 😅 )
+
+    Kali ini aku mau share website yang dibuat karena keresahanku sendiri yang sering lupa kalo hari ini itu kerja/libur. Maka jadilah dibikin super simple website checkernya hehe 😁 
+
+    Ingredients:
+    - NextJs
+    - Tailwind
+    - Sumber pengumuman resmi hari libur PDF
+    - Zenquotes API (https://zenquotes.io/)
+    - A Cat
+
+    Link Website: https://libur-hari-ini.vercel.app/
+    Link Repo: https://github.com/syofyanzuhad/liburhariini
+
+    Proses Development: https://twitter.com/syofyan_zuhad/status/1616513552248115200
+
+    Sekian, makasih semuanya
+
+<br>
+
+8.  [http://ahyaghifari.my.id/deluxe/]  
+     **ahyaghifari**
+
+    Assalamu'alaikum pak dika dan teman-teman semuanya.
+
+    Perkenalkan nama saya Ahya Ghifari, saya adalah seorang mahasiswa semester 4 TI dari salah satu universitas di Kalimantan, dan ini adalah showcase project pertama saya. Website yang saya buat ini adalah website static bernama Deluxe, website tentang toko pastry. Sebenarnya saya sudah membuat website dinamisnya menggunakan django, tapi saya tidak tau dimana menghostingnya dengan gratis.
+
+    Teknologi yang digunakan
+    1. HTML
+    2. SCSS
+    3. TAILWIND CSS
+    4. JQUERY
+    5. OWL CAROUSEL 2
+    6. GSAP
+
+    Link : http://ahyaghifari.my.id/deluxe/
+
+    Link Repo : https://github.com/ahyaghifari/deluxe
+
+    Mohon kritik dan saran dari teman-teman semuanya. Terima kasih🙏
+
+
+<br>
+
+9.  [https://jafarzar.com/]  
+     **Jafar**
+
+    Halo Pak Dhika dan temen temen semuanya,
+
+    Saya Jafar, saya izin mau showcase projek saya yang ke-2, jadi ini personal website saya yang dibuat setelah pelatihan font-end saya selesai, udah segini aja deskripsinya🙏 semoga bisa menghibur dan dapet star banyak hehe
+
+    Teknologi:
+    - NextJs
+    - Tailwind
+    - Framer Motion
+    - DatoCMS
+
+    website: https://jafarzar.com/
+    repo: https://github.com/Jafarzar/my-personal-site
+
+    Makasih banyak buat semua yang udah berkunjung, mohon feedbacknya juga ya! 
+
+
+<br>
+
+10.  [https://hidayatrf.github.io/]  
+     **saiko_333**
+
+    halo pak sandhika dan teman² wpu, pekenalkan saya reza kelas 1smk, saya mau showcase project portfolio pertama saya setelah ngikutin playlist ( HTML, CSS, JAVASCRIPT ) di channel pak dika. maaf layout nya berantakan soalnya saya bikin di hp dan agak kesusahan dalam mengedit responsive nya.
+
+    dibuat dengan :
+    1. HTML
+    2. CSS
+    3. VANILA JS
+
+    link demo : https://hidayatrf.github.io/
+    link repo : https://github.com/HidayatRf/HidayatRf.github.io
+
+    demikian terimakasih 
+
+
+<br>
+<hr>
