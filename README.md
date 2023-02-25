@@ -10388,7 +10388,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 <hr>
 
-### 11 Februari 2023
+### 25 Februari 2023
 
 1.  [https://naufal-yafi.github.io/landing-page-frivo/]  
      **nafy**
