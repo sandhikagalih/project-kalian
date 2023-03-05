@@ -10576,3 +10576,219 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 5 Maret 2023
+
+1.  [https://quranpro.000webhostapp.com/]  
+     **ddnnff_**
+
+    Halo assalammualaikum pak dika dan temen temen channel wpu perkenalkan nama saya Daffa, saya kelas satu SMK di salah satu smk yang ada di bekasi . kali ini saya mau showcase project sederhana yaitu Website AL-Quran . saya bikin website ini hanya untuk mengisi waktu luang saya kebetulan project pekerjaan sampingan saya ( Kebetulan saya bekerja sampingan sebagai php developer bersama guru saya ) dan project itu sudah selesai semua , berhubung ada waktu luang maka dari itu saya membuat website Al-Quran ini dan saya beri nama dengan Qur'an Pro
+
+    Teknologi yang saya gunakan adalah :
+    - PHP
+    - MYSQL
+    - BOOTSTRAP 5.3 + DARK MODE ( Belajar dari yutub  WPU )
+    - QURAN DATABASE
+
+    link website : https://quranpro.000webhostapp.com/
+
+    Sebelumnya saya sudah showcase portofolio tapi gagal karna web hosting yang tidak jelas wkwwkkw 
+    Mungkin itu saja pak dika terima kasih sudah mau mampir ke website sederhana yang saya buat 
+
+    Terima kasih , Nuhun Assalammualaikum
+
+    Jangan Lupa Titik Koma ; 
+
+
+<br>
+
+2.  [https://stuffcss.netlify.app/]  
+     **FajarAgung**
+
+    Assalamuallaikum wr.wb, Halo 👋 pak dhika & semua. 
+
+    Nama saya Fajar Agung, Saya baru pertama kali showcase project di WPU 🙏
+
+    Saya ingin membagikan project CSS Framework (stuff css), framework ini sangat minimalis, di desain untuk HTML Native. project ini merupakan pengembangan dari pico css. Stuff css masih dalam pengembangan, masih banyak yang harus di improve. Jika teman2 memiliki issue, request atau ide bisa repo ke github yang tercantum 😉
+
+    Tech stack yang saya gunakan:
+    - SASS
+    - Node Js
+
+    web docs : https://stuffcss.netlify.app/
+    repo : https://github.com/fajarspace/stuff-css  
+<br>
+
+3.  [https://roadmapid.vercel.app/]  
+     **Perdi**
+
+    Assalamualaikum pak Dhika dan semuanya,
+
+    Salam kenal👋 Saya perdi dari informatika unhas.
+
+    Saya sedang membuat open-source project untuk alur belajar programan. Saat ini ada dua alur belajar yang tersedia yang disusun berdasarkan riset dan pengalaman pribadi saya.
+
+    Website ini memberikan kemudahan teman-teman untuk belajar web pemrograman terutamanya bagi pemula💯.
+
+    Tech stack:
+    - Nextjs (13) ✅
+    - Tailwindcss ✅
+
+    Website; https://roadmapid.vercel.app/
+    ❤️❤️❤️
+
+    Open source ini sangat membutuhkan bantuan teman-teman yang ingin ikut membantu kemajuan talenta digital di Indonesia. Untuk berkontribusi silahkan kunjungi github saya.
+
+    Repo: https://github.com/perdiDev/roadmapid/
+    🔥🔥🔥
+
+    Terimakasih semuanya🙏🏻 
+
+
+<br>
+
+4.  [https://github.com/haniframadhani/latihan-epictetus]  
+     **Kutu baca Buku**
+
+    halo semuanya, perkenalkan nama saya hanif ramadhani. dikali keempat showcase project ini saya akan memamerkan hasil belajar next js. kali ini saya membuat website bernama epictetus. epictetus merupakan sebuah blog yang saya gunakan untuk latihan next js dan mengasah skill frontend saya secara keseluruhan. epictetus bukanlah website yang saya desain sendiri melainkan didesain oleh orang lain. saya menemukan website untuk latihan dan mengasah skill frontend dari channel youtube array id yang bernama code the design. code the design menyediakan desain yang dapat digunakan untuk melatih skill frontend bagi yang tidak bisa desain web atau yang sedang malah desain seperti saya tapi butuh melatih skill frontendnya.
+    epictetus dibuat menggunakan :
+    - react js
+    - next js
+    - tailwind css
+    bagi yang ini mencoba silahkan diintal di mesin masing-masing karena saya menggunakan json server dan saya tidak tau cara menghosting json server :hehehe: 
+    berikut link githubnya [epictetus](https://github.com/haniframadhani/latihan-epictetus)
+    link youtube [array id](https://www.youtube.com/@arrayid)
+    link [code the design](https://codedesign.dev/challenge/epictetus).
+    mohon kritik dan sarannya
+
+<br>
+
+5.  [https://bluenote.vercel.app/]  
+     **Schrodinger's**
+
+    Halo Teman-Teman 👋 
+    Nama saya Muhammad Fakhri, izinkan saya untuk berbagi hasil project saya yang saya beri nama dengan bluenote
+
+    Bluenote pada dasarnya adalah web clone app dari aplikasi colornote versi Desktop. Fitur dan UI/UX pada bluenote saya rasa sudah mirip dengan colornote  desktop sekitar 85%. Namun ada beberapa fitur yang belum bisa saya implementasikan sepenuhnya dan harus saya sesuaikan untuk versi webnya
+
+    Projek ini saya buat untuk mengetes sejauh mana kemampuan front-end saya selama belajar otodidak. Projek ini saya selesaikan kurang lebih 6 bulan (sempat ketunda karena kesibukan magang)
+
+    Untuk saat ini fitur responsive belum saya implementasikan, saran dan masukkan sangat berarti bagi saya. Terima kasih 😄
+
+    Tech :
+    -Next.JS
+    -Firebase
+    -Bootstrap
+    -Fontawesome Icon
+    -React Transition Group
+    -React Beautiful DND
+
+    GITHUB : https://github.com/Fakhri112/bluenote
+    WEB: https://bluenote.vercel.app/
+
+<br>
+
+6.  [https://simplnft-marketplace.vercel.app/]  
+     **laleurmapayareuy**
+
+    Hallo semua selamat malam, assalamualaikum WR.WB. Mohon izin share project pertama saya di WPU yaitu, web3 NFT marketplace sederhana dengan fitur staking ERC721 untuk passive income. Website ini menggunakan NEXT.js dengan framework WEB3 dari thirdweb, dan untuk UI saya menggunakan SASS dan chakraUI. Berikut beberapa fitur yang ada di dalam website 
+
+    -  Marketplace NFT
+    -  Upload NFT ERC721
+    -  Resell NFT ERC721
+    -  Stake NFT ERC721
+    -  Reward Token ERC20
+    -  OpenSea integrated
+    -  Progresive Web App
+
+    Link website 
+    https://simplnft-marketplace.vercel.app/
+
+    Link repo
+    https://github.com/daffadevhosting/simpl-nft-marketplace
+
+    Demikian lah dAPP web3 jaringan BNB tesnet sederhana saya, semoga dengan berbagi pengalaman, kita semua semakin bertambah ilmu.. Terimakasih..
+
+<br>
+
+7.  [https://vi-ar.netlify.app/]  
+     **rakan**
+
+    Assalamualaikum pak Dhika dan teman teman semua;
+
+    Perkenalkan nama saya Muhammad Rakan, saya adalah siswa SMK kelas 3 jurusan TKJ di salah satu SMK yang berada di Tangerang. Ini adalah kali pertama saya mengikuti showcase project di WPU, jadi mohon bimbingannya teman-teman. Dikesempatan ini saya ingin membagikan project sederhana saya yang bernama VIAR. Viar merupakan suatu perusahaan yang berada dibidang teknologi dan fokus dalam pengembangan AI;
+
+
+    Teknologi yang saya gunakan yaitu:
+
+    -HTML,
+    -CSS,
+    -Javascript,
+    -AOS,
+    -Tilt JS
+
+
+    Link website : https://vi-ar.netlify.app/
+    Link repo : https://github.com/muhammadrakan204/viar
+
+    Mohon kritik dan sarannya teman-teman semua, terimakasih!;
+
+<br>
+
+8.  [https://ypcode-todolist.netlify.app/]  
+     **abdulaziz_code**
+
+    Assalamualaikum pak Dhika dan teman teman semua;
+    izin share project membuat todolist menggunakan react js.
+
+    Link website : https://ypcode-todolist.netlify.app/
+    Link repo : https://github.com/ypc0de/react-todolist
+
+    Mohon kritik dan sarannya teman-teman semua, terimakasih!; 
+
+
+<br>
+
+9.  [https://app.skytravelink.my.id/]  
+     **williamk19**
+
+    Halo teman - teman Sekalian,
+    Saya William Kurniawan ingin showcase project Tugas Akhir saya, tema-nya pemesanan travel yang dilengkapi dengan GIS, Teman - teman bisa register dan login untuk mencoba aplikasi nya.
+
+    Linknya disini
+    https://app.skytravelink.my.id/
+
+    Setelah itu, bisa isi form berikut untuk penilaian Aplikasi
+    https://forms.gle/p8PJxb759Dou3Fp66
+
+    Untuk halaman pembayaran masih tahap percobaan saja dan tidak perlu pembayaran asli
+    bisa dicoba disini
+    https://simulator.sandbox.midtrans.com/openapi/va/index
+
+    Aplikasi dibuat dengan Laravel Inertia dan React, React-Leaflet, Tailwind
+    Terima kasih, atas feedback dan masukkannya 🙏
+
+<br>
+
+10.  [https://mallexibra.github.io/mallexibra-website/]  
+     **mallexibra**
+
+    Assalamualaikum pak Dhika dan Teman-teman semua,
+    Saya Maulana Malik Ibrahim Mohon izin untuk mengirimkan project sederhana Website Personal saya pak.
+
+    Teknologi yang saya gunakan yaitu:
+    HTML
+    SCSS
+    CSS
+    Javascript
+    Scrollreveal (Untuk scroll animation)
+
+    Link Website: https://mallexibra.github.io/mallexibra-website/
+    Link Repository: https://github.com/mallexibra/mallexibra-website/
+
+    Jadi Mohon kritik dan sarannya pak dhika dan teman-teman semua, Terimakasih.
+    Terimakasih juga pak untuk ilmu yang sudah diberikan melalui Channel youtube bapak.
+
+
+<br>
+<hr>
