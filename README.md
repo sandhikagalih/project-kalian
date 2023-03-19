@@ -10792,3 +10792,261 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 19 Maret 2023
+
+1.  [https://pixel-connect.vercel.app/]  
+     **kaise**
+
+    Hallo pak dhika dan teman-teman semua,
+
+    Kali ini saya ingin showcase project saya yang bernama "pixel-connect". Sesuai namanya fitur utama dari project ini adalah untuk membuat pixel art bareng-bareng. Sebenernya  prjoect ini masih dalam tahap coba-coba tapi fitur utamanya sudah bisa digunakan walaupun masih banyak bug, karena lagi tidak Gabut jadi fitur online dan fitur-fitur lainnya belum ditambahkan.
+
+    Fitur yang sudah ditambahkan:
+    - Menambahkan pixel ke canvas
+    - Zoom in/out
+    - Pindah posisi canvas
+    - Palette
+    - Menambahkan warna ke palette
+    - Custom color wheel
+    - Input nilai hex manual
+
+    Teknologi yang digunakan:
+    - React
+
+    Repo: https://github.com/hyoga-dev/pixel-connect
+    Live: https://pixel-connect.vercel.app/
+
+    note: karena canvasnya 1000 x 1000 pixel harap di zoom terlebih dahulu agar terlihat pixelnya, dan lagi-lagi belum sempet bikin jadi responsif, terimakasih :).
+
+<br>
+
+2.  [https://al-quran-id.vercel.app/]  
+     **MDava**
+
+    hallo semuanya,perkenalkan nama saya muhammad dava fahreza saya tinggal di aceh, sebelum nya saya mau mengucapkan ribuan terimakasih kepada pak SANDHIKA GALIH karena membagikan ilmu gratis di YouTube semoga sehat selalu dan berkah hidupnya pak
+
+    Ini adalah showcase saya pertama kali nya,
+    hasil saya belajar javascript dalam sebulan ini,dari playlist javascript dasar, DOM,javascript lanjutan di YouTube WPU,
+
+    Nama nya belum ada ,website ini berisi kitab suci Al-quran yang dilengkapi tafsir, terjemahan dan, audio per ayat dan audio per surah dengan Audio terjemahan 
+
+    -fitur :
+    -di quran text ketika masuk ke halaman ayat tersedia button bulat yang berbentuk panah ,posisinya bisa dipindahkan sesuka hati dengan cara drag aja elemen nya ke posisi bebas, ketika di double click akan muncul 5 button, ada button untuk ke halaman paling bawah, atas,pindah ke surah berikutnya, sebelumnya dan tombol setting ditengah 
+    -di halaman sama ada tombol di sudut kiri di setiap ayat berupa nomor ayat dalam Indonesia ketika di klik bisa memilih mau copy ayat, terjemahan, tafsir atau copy ketiga nya sekaligus
+    -custom tampilan (uji coba kemungkinan bakal diganti dark mode saja)
+    -Kebetulan sudah aktif PWA (Progressive Web App) jadi bisa diinstal juga
+    -input search untuk mencari nama atau no urut surah 
+
+
+    Link github:
+    https://github.com/MDF05/Al-Quran-ID.git
+
+    Link demo:
+    https://al-quran-id.vercel.app/
+
+    Teknologi yang digunakan hanya: 
+    -Html
+    -SCSS
+    -Boostrap
+    -Javascript 
+
+    Karena keterbatasan ilmu saya masih banyak bug  kesalahan,design yang tidak bagus,dan performance yang kurang baik...
+
+    Terimakasih^⁠_⁠^ 
+
+
+<br>
+
+3.  [https://muhammaddariazzidane-blog.000webhostapp.com/]  
+     **muhammadDariazZidane**
+
+    Assalamualaikum pak dhika dan temen-temen semuanya
+
+    Nama saya zidane tapi bukan pemain bola :v, dan ini merupakan project showcase saya yg kedua, project ini merupakan hasil kegabutan saya selama libur kuliah dan saya bingung mau ngapain, lalu akhirnya saya belajar ci4 dan saya membuat project dengan tema blog
+    project ini belum sepenuhnya selesai karna masih ada beberapa hal yg masih ingin saya coba, tapi saya pengen project ini di review sma pak dhika dan temen2 wpu biar nambah semangat wkwk,
+    project ini saya buat sendirian jdi kalau ada error atau ada yg ga responsive mohon di maklumi
+
+    Teknologi yg digunakan:
+    - Codeigniter 4
+    - Tailwindcss
+    - Daisyui
+    - Mysql
+    - Jodit text editor
+
+    link demo : https://muhammaddariazzidane-blog.000webhostapp.com/
+    link github : https://github.com/muhammaddariazzidane/blog_appCI4Beta 
+
+    Admin    : email = admin@gmail.com 
+                password = admin
+
+    User    : email = zidane@gmail.com
+                password = 123456
+
+    Mohon saran dan kritik dan saran nya pak dhika dan temen-temen semua🙏
+    Terimakasih
+
+<br>
+
+4.  [https://neon-website.000webhostapp.com/]  
+     **FE4266319_Bima Mahendra**
+
+    Assalamualaikum pak dika dan teman-teman
+
+    mungkin ini pertama kalinya saya mengikuti showcase-project, awalnya niat iseng-iseng sih tapi kemudian kepikiran untuk membuat contoh-contoh tailwindcss dengan tema "NEON", project ini saya lakukan bersama teman saya, saya sebagai frontEnd dan dia sebagai BackEndnya, mungkin ini masih tahap demo jadi masih menggunakan full HTML dan CSS, semoga project ini menghibur pak dika dan teman-teman
+
+    Teknologi:
+    HTML
+    CSS (tailwindcss)
+    Js
+    ScrollReveval
+
+    Linkweb : https://neon-website.000webhostapp.com/
+    repo : https://github.com/BimaBizz/Neon-Website
+
+    Yang mau saweria silakan:hehehe: : https://saweria.co/BimaBizz
+
+    Jika teman teman ada usulan silakan chat saya di discord bisa :mantab: 
+
+
+<br>
+
+5.  [https://checkurl.muhfaris.com/]  
+     **muhfaris**
+
+    Halo semuanya,
+    Ijin untuk showcase project ke-2. aplikasi Trace URL  yang dibangun dengan tujuan untuk membantu masyarakat untuk lebih aware dengan link" yang di klik baik lewat mobile atau desktop.
+
+    jadi link website apa saja yang diinputkan akan di trace dan ditampilkan, link tersebut ke mana saja dan real link tersebut apa?
+
+    di aplikasinya ini juga membuat whitelist domain yang trusted dari setiap platform. ini memberikan kemudahan user bahwa link tersebut asli atau abal-abal 
+
+    project bersifat opensource, buat yang mau silahkan langsung ke repony. 
+
+    Teknologi yang digunakan 
+    - next js 
+    - tailwind 
+
+    repository: https://github.com/muhfaris/checkurl
+    live: https://checkurl.muhfaris.com/ 
+
+    Mohon kritik dan sarannya makasih
+
+<br>
+
+6.  [https://arblo.vercel.app/]  
+     **arfian-rp**
+
+    Assalamualaikum padika dan kawans,
+    perkenalkan nama saya Arfian dari Surabaya
+
+
+    saya akan mempromosikan arblo, ini adalah website seperti twitter sederhana, anda dpt mengshare foto atau kata-kata didalamnya.
+
+    password telah di hash  🔐🔐
+
+    Tech:
+    - NextJS
+    - Tailwindcss
+    - Mongodb
+
+    arblo: https://arblo.vercel.app/
+
+    repo : https://github.com/arfian-rp/arblo
+
+    saya: https://arfian-rp.web.app/
+
+    mohon kritik dan saran, Terimakasih  [ : - ) ]
+
+<br>
+
+7.  [https://firman47.github.io/shinryuzi.github.io]  
+     **shinryuzi**
+
+    Halo  saya Firman.
+    Ini adalah kali pertama saya mengikuti showcase  project di WPU dan ini juga project pertama saya yanga di publis, jadi mohon bimbingannya teman" .
+
+    Teknologi yang saya gunakan yaitu:
+    -HTML
+    -CSS
+    -Javascript 
+    -Bootstrap 
+
+    Link web = https://firman47.github.io/shinryuzi.github.io
+
+    Link repo = https://github.com/Firman47/shinryuzi.github.io
+
+
+    Mohon saran dan kritik nya.🙏
+
+<br>
+
+8.  [https://github.com/tegal1337/YOMEN]  
+     **fdciabdul**
+
+    Salam temen temen WPU  ,  mau showcase project Bot Youtube Auto Comment 
+
+    Techstack yang digunain :
+
+    - Nodejs
+    - Puppeteer
+
+    Fitur :
+
+    - Auto copy comment youtube
+    - Comment based keyword
+    - Comment base trending
+    - dll
+
+    Link : https://github.com/tegal1337/YOMEN
+
+<br>
+
+9.  [https://uud1945.bercamilan.com/]  
+     **SAMBUYYA**
+
+    Selamat malam Pak Dhika dan Teman - teman lainnya.
+
+    Perkenalkan saya Mas Ayyub Al Fajar seorang mahasiswa. Dan sebelumnya saya sudah pernah showcase aplikasi android kalkulator rumus.
+
+    Sekarang saya ingin menampilkan website public saya yaitu buku bacaan UUD 1945 dan buku bacaan Al Qur'an mungkin kedepannya akan ditambah buku bacaan lainnya seperti lirik, dokumentasi html dan css, rumus rumus dan masih banyak lagi dan kalau sudah jadi mungkin saya kirim lagi sebagai project showcase.
+
+    Link UUD 1945: https://uud1945.bercamilan.com/
+    Link Al Qur'an: https://quran.bercamilan.com/
+
+    Teknologi yang digunakan:
+    HTML
+    CSS
+    PHP
+    phpmyadmin - MariaDB
+    (JS ada tapi cuma buat nampilin tahun didalam footer dan juga iklan dari google)
+
+    Tentang project ini:
+    Jadi didalam project ini file yang dihasilkan itu berupa file HTML dengan cara semua kode dibuat didalam php dan juga pemanggilan database. Jadinya sekali php dijalankan semua file html langsung kebuat secara otomatis. Mungkin bisa disebut semi-dinamis.
+
+    Kenapa file html yang dihasilkan bukan php? Supaya web hostingnya jadi lebih ringan. Soalnya kalau dibuat di PHP doang, jadinya kalau ada setiap request PHPnya kan harus generated (misalnya render php dan pemanggilan database) dulu jadinya mungkin malah makan banyak di prosesornya(kayanya). Jadinya filenya ke html supaya tidak makan banyak prosesor di web hostingnya. Jadinya cuma langsung kirim-kirim saja tanpa generated(kayanya).
+
+    Lainnya:
+    Didalam project quran juga saya menggunakan API dari equran.id tetapi seluruh APInya sudah ditaruh kedalam database pribadi agar lebih cepat pemanggilan di phpnya. Kalau uud 1945 saya menggunakan database yang diketik sendiri. 
+
+
+<br>
+
+10.  [https://github.com/rakhiazfa/laravel-sarp]  
+     **Rakhi Azfa R**
+
+    Halo semuanya, sebelumnya perkanalkan nama saya Rakhi Azfa Rifansya, seorang pelajar dari SMK BPP Bandung.
+
+    Pada kesempatan kali ini, saya ingin memperkenalkan package laravel buatan saya yang berfungsi untuk menggenerate/menghasilkan sebuah repository dan service menggunakan perintah artisan yang telah saya buat. Package ini saya buat untuk mempermudah saya dalam mengembangkan clean architecture pada laravel.
+
+    Teknologi yang digunakan :
+
+        - PHP
+        - Composer
+
+    Link repository : https://github.com/rakhiazfa/laravel-sarp
+
+    Mohon kritik dan sarannya.
+
+<br>
+<hr>
