@@ -11050,3 +11050,288 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <hr>
+
+### 1 April 2023
+
+1.  [https://talksapp.vercel.app/]  
+     **tiqbalnugraha**
+
+    Hallo selamat pagi/siang/sore/malam semuanyaa,  perkenalkan nama sayaa iqbal. salamm kenal. Izin share project pribadi saya dan ini merupakan project showcase kedua saya di WPU. Kali ini saya membuat aplikasi chatting, UI nya hampir mirip sama kyk WA, tapi fiturnya gaa semua di implementasi dan masih dalam tahap pengembangan, jadi ada beberapa fitur yg blm bisa digunakan. Untuk fitur utama chatting sudah dapat digunakan, terima kasih bila ada saran atau masukan.
+
+    Teknologi yang digunakan : 
+
+    - React vite
+    - Typescript
+    - Tailwind
+    - Headless UI
+    - Google Firebase
+    - Firestore Database
+    - Framer motion
+    - Redux
+
+    link : https://talksapp.vercel.app/
+    repo : https://github.com/iqballa24/talksapp
+
+    Untuk login bisa menggunakan akun berikut:
+
+    email: doduoaj@gmail.com
+    password: Doduoaj24
+
+    Atau bisa membuat akun baru
+
+<br>
+
+2.  [https://zhahranyc.github.io/Discord-Type/]  
+     **Zhahrany**
+
+    Halo semua, perkenlakan Saya Zhahrany. Izin mau share project disini. Project ini cuma clone dari monkeytype.com, game speed typing tapi dengan fitur yang jauh lebih sedikit dari monkeytype. Project ini diubat untuk belajar teknologi yg terkait. Tidak responsive, cuman bisa digunakan di desktop, dan sepertinya masih terdapat bug2 yang tidak terdeteksi, jadi saran, masukan, dan sebagainya sangat dihargai, terimakasih.
+
+    Teknologi yang digunakan:
+    - Svelte
+    - Tailwind CSS
+
+    link: https://zhahranyc.github.io/Discord-Type/
+    repo: https://github.com/ZhahranyC/Discord-Type
+
+
+<br>
+
+3.  [https://react-quiz-isaac.netlify.app/]  
+     **Isaac.**
+
+    Halo semua,  perkenalkan nama saya Agustinus Wesly Sitanggang. Saya mahasiswa semester 4 di UNIKOM Bandung. Izin share project saya untuk pertama kalinya.  Disini saya membuat aplikasi kuis sederhana yang datanya mengambil dari API public.
+
+    Teknologi yang digunakan : 
+    - React vite
+    - Tailwind
+    -Firebase
+    - Framer motion
+    - Zustand
+    - dayjs
+
+    Link website : https://react-quiz-isaac.netlify.app/
+    Link repo : https://github.com/agustforbussines/react-quiz-app
+
+    Kritik dan saran dipersilahkan. Terimakasih sebelumnya ^^
+
+<br>
+
+4.  [https://mhdrizki.com]  
+     **RizzM**
+
+    Assalamualaikum Pak Dhika, perkenalkan nama saya Muhammad Rizki, saya ingin share web personal saya, Web yang akan saya show kan adalah web portfolio saya yang juga merupakan penerapan hasil pembelajaran dari playlist Laravel 8 di chanel youtube WPU.
+
+    Login :
+    - https://mhdrizki.com/admin
+    - Password
+    Fitur :
+    - CRUD Portfolio
+    - Form contact masih ditampung oleh database, belum dapat mengirim langsung ke Email
+    Teknologi :
+
+    - HTML
+    - Tailwindcss
+    - Javascript
+    - Laravel
+    - Mysql
+    Link : https://mhdrizki.com
+
+    Repo : https://github.com/mhdky/muhammad-rizki-homepage
+
+<br>
+
+5.  [https://drive.google.com/file/d/1pC7C_5WV9kKTGc1fHmAygFynzu3-_g2Q/view?usp=share_link]  
+     **rengga_diansa**
+
+    Assalamualaikum Wr.Wb. Selamat malam pak Dika dan teman-teman WPU. Sebelumnya perkenalkan nama Saya Rengga Ferdiansa, saya adalah salah satu siswa kelas XII di salah satu SMK di Kabupaten Ponorogo. Ini adalah showcase project ke-4 dari saya setelah sebelumnya showcase project Android berupa aplikasi chatting yang saya beri nama "Halo Dek👋" pada tanggal 28 Januari 2023. Untuk showcase malam ini saya juga akan kembali menghadirkan showcase aplikasi android sederhana yaitu aplikasi pencatatan yang mirip dengan notepad yang saya beri nama "Diary Note" 
+
+    ~ Fitur aplikasi antara lain:
+
+    1. CRUD note
+    2. Support add image in note
+    3. Support add URL in note
+    4. Change color note
+    5. Live Search note
+    6. Quick Action note
+
+    ~ Teknologi yang dipakai antara lain :
+
+    1. Java Langguage
+    2. Room Database
+    3. Google Font (Ubuntu Font)
+    4. Android Studio Dolphin 2022
+
+    ~ Repo Github
+    https://github.com/renggadiansa/note_app
+
+    ~ Link Aplikasi
+        https://drive.google.com/file/d/1pC7C_5WV9kKTGc1fHmAygFynzu3-_g2Q/view?usp=share_link
+
+    Sekian showcase project dari saya. Wassalamualaikum Wr.Wb.
+
+<br>
+
+6.  [https://crypto-care.netlify.app/]  
+     **Byudiv**
+
+    Assalamualaikum. Selamat sore semua. Perkenalkan nama saya Bayu asal Riau. Saya mau showcase aplikasi hasil skripsi saya dengan judul "Pengembangan aplikasi penggalangan dana menggunakan teknologi blockchain pada ekosistem ethereum layer-2". Saya sudah memiliki basic koding tapi belum mengenal react dan blockchain. Saya baru riset segala hal tentang library react js dan framework blockchain sekitar pertengahan tahun lalu. Jadi ini aplikasi pertama yang saya buat menggunakan react dan blockchain dan langsung untuk skripsi. 
+
+    Aplikasi ini saya beri nama CryptoCare. CryptoCare menggunakan smart contract untuk menyimpan informasi campaign yang di deploy ke dalam jaringan ethereum layer-2 yaitu Optimism (untuk sementara masih di deploy ke Goerli Optimistic Testnet ). 
+
+    Aplikasi ini hanya bisa dihubungkan menggunakan Wallet. Jadi pastikan sudah menginstall Extension Wallet seeprti Metamask, Coinbase di web browser dan memiliki Wallet Address. Dan pastikan juga sudah memiliki saldo di Testnet nya. 
+    Saldo untuk testnet bisa di dapatkan di https://goerlifaucet.com/. Kemudian melakukan bridge saldo Ether ke jaringan optimism di https://app.optimism.io/bridge. Agak ribet memang.
+
+    Biar ga ribet disini saya sudah menyediakan wallet yang sudah memiliki saldo, tinggal export saja private key dibawah ini ke Wallet 
+    3ed9524c4493501554eda30a705d2d9ff9bf15c36b5e71fd85fabb2037e43a87
+    . Dan wallet ini sudah saya berikan Hak Akses untuk role Admin.
+
+    React Js
+    Vite Js
+    Tailwind CSS
+    Headless UI
+    API dan IPFS : Infura
+    Optimistic Rollup
+    UseDApp
+
+    SmartContract : https://github.com/BayuDivaA/CryptoCare_SmartContract.git
+    Website link : https://crypto-care.netlify.app/
+
+
+<br>
+
+7.  [https://rikarani.github.io/statistika-helper/]  
+     **erikawaii**
+
+    Assalamualaikum. Selamat malam semuanya. Perkenalkan saya Phasya Ananta asal Pontianak.
+    Saya mau showcase website sederhana hasil kegabutan saya ketika bongkar-bongkar rak buku.
+
+    Website ini kepikiran pas saya lagi bongkar-bongkar rak buku, saya melihat materi tentang
+    Statistika Dasar di buku LKS Matematika kelas 6 SD & 9 SMP (alhamdulillah bukunya masih awet)
+
+    Kekurangan website ini hanya bisa menyelesaikan soal yang datanya berupa Data Tunggal.
+    Untuk Data Berkelompok masih dalam rencana pengembangan
+
+    - Teknologi yang dipakai
+    HTML
+    TailwindCSS
+    Vanilla JS & ChartJS (untuk bagian grafik-nya)
+
+    - Link Repo : https://github.com/rikarani/statistika-helper
+    - Link Website : https://rikarani.github.io/statistika-helper/
+
+    Thanks semua, matur nuwun 🙏
+
+<br>
+
+8.  [https://github.com/iniznet/alpinejs-flux]  
+     **niznet**
+
+    Halo, selamat pagi semuanya
+
+    Perkenalkan nama saya Muhammad Yusuf Fauzan. Mahasiswa semester 3 di Universitas PGRI Madiun, saya ada package/library untuk Alpine JS yang ingin di bagikan ke teman-teman sini terutama untuk pengguna aktif Alpine juga.
+
+    Package ini bernama Alpine JS Flux yang merupakan sinonim dari Transition, bertujuan untuk menyederhanakan pemakaian directive x-transition menjadi satu atribut saja. Sebagai latar belakang kenapa saya membuat package ini karena pemakaian dari tahun ke tahun sejak pertengahan 2021, saya selalu nggak ngeh dengan directive ini karena perlu mendeklarasikan banyak atribut dan menjadi isu readability bagi saya, Tailwind CSS saja sudah kayak begitu apalagi di tambah milik Alpine dengan atribut-atributnya dari directive x-transition, misalnya 1 elemen bisa punya sampai 10-11 atribut gara-gara kombinasi dari keduanya, pernah sempat sampai 13 atribut karena mengintegrasikan package router agar situs punya rasa SPA nya.
+
+    Saya biasanya pakai modifier (transition helper) bawaan milik alpine agar bisa satu atribut saja, tapi terkadang pekerjaan meminta yang lain yang nggak ada di bawaannya dan biasanya kita juga memakai transition yang sama berulang kali, harus copy paste sana sini, jadi itulah kenapa package ini dibuat. Untuk contoh implementasinya bisa cek repo atau balasan thread ini.
+
+    - Link repo: https://github.com/iniznet/alpinejs-flux
+    - Link ID readme: https://github.com/iniznet/alpinejs-flux/blob/master/id_README.md
+    - Link npm: https://www.npmjs.com/package/alpinejs-flux
+
+    Sekian, semoga package ini bisa membantu temen-temen yang juga punya masalah dengan directive x-transition, terimakasih. 
+
+
+<br>
+
+9.  [https://ryrd-photos.netlify.app/]  
+     **ryrd**
+
+    selamat pagi/siang/malam.
+
+    perkenalkan saya Rian dan kali ini saya akan menampilkan project pribadi saya yang saya beri nama "ryrd Photography Portofolio".
+
+    website ini saya buat untuk mengasah skill three.js.
+    website ini menampilkan beberapa foto saya dalam bentuk 3d environment.
+    Full preview foto dapat dilihat dengan mengklik foto tersebut.
+
+    Tech stack:
+    - three.js
+    - vue + typescript
+    - gsap
+    - tailwind
+    - vite
+
+    link website: https://ryrd-photos.netlify.app/
+
+    link source code: https://github.com/ryrd/photography-portofolio
+
+    Note: lantainya dikasih efek reflection, jadi "gambar" dibagian bawah cuma reflection dari gambar asli diatasnya (gk bisa diklik)
+
+    sekian dan terimakasih. 
+
+<br>
+
+10.  [https://blockscode.netlify.app/]  
+     **Hasan**
+
+    Assalamualaikum warahmatullahi wabarakatuh,
+
+    Halo Teman Teman !
+    Perkenalkan nama saya Muhandis Hasan, umur saya 15, sekolah kelas 9 smp.
+    Ini project kedua saya yang di-showcase
+
+    Project ini dibuat untuk mengasah kemampuan algorithm saya pribadi.
+    Kebetulan juga ada pr dari sekolah mengenai programming.
+    Maaf belum responsive, designnya pas pasan, fungsi nya juga pas pasan. Karena emang deadline nya cepet bgt (alesan aja sebenarnya mah males :v). ada bahasa Turki nya juga karena saya sekolah disana.
+
+    Web ini adalah copy-an sederhana dari https://studio.code.org/hoc/1. Singkatnya fungsi web ini adalah untuk mengajarkan fundamental yang sangat basic tentang programming dan algoritma melalui game. Poin-poin yang diajarkan adalah 
+
+    1. Algoritma itu seperti sebuah resep dimana kita menentukan langkah langkah yang akan dilakukan untuk mencapai sebuah target.
+
+    2. Mengajarkan juga tentang Looping sederhana
+
+    Teknologi yang digunakan :
+
+    - HTML
+    - CSS
+    - Javascript
+
+    Buat yang mau coba baca kodingannya Good Luck !. walaupun aku kasih command di setiap fungsi tetep aja butuh effort banget buat dibaca wkwk.
+
+    NOT: Game nya tidak pake canvas jadi dia pure html makanya susah dibaca
+
+    Link Website : https://blockscode.netlify.app/
+
+    Link Repository  : https://github.com/MuhandisHasan/blockscode
+
+    Terimakasih
+
+<br>
+
+11.  [https://github.com/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework]  
+     **xtz**
+
+        Halo, selamat pagi/siang/malam teman-teman WPU dan Pak Dhika! Saya Jefri Maruli dari Bandung, dan ingin memperkenalkan framework buatan saya bernama "Mardira Framework". Nama ini terinspirasi dari kampus saya, STMIK Mardira Indonesia, tempat saya pernah mengadakan bootcamp dan dipercaya menjadi mentor back-end developer. Pengalaman tersebutlah yang membuat saya terinspirasi untuk membuat framework sederhana, ringan, dan powerful untuk Back-End Developer yang ingin mengembangkan REST/RESTful API.
+
+        Mardira Framework didasarkan pada inspirasi dari dua framework populer, yaitu Laravel dan Codeigniter. Beberapa fitur andalan yang tersedia dalam Mardira Framework antara lain:
+
+        - Serve Application
+        - Menjalankan Migration
+        - Menjalankan Seeder
+        - Middleware
+        - Routing API
+        - Membuat Controller dengan command
+        - Membuat Model dengan command
+        - Query Builder
+        - Membuat Auth otomatis dengan command
+        - Update framework dengan command
+
+        Mardira Framework dibangun menggunakan beberapa teknologi termasuk PHP, Composer, dan DotEnv. Untuk teman-teman yang ingin mencoba Mardira Framework, repository-nya dapat ditemukan di
+
+        -link repository: https://github.com/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework.
+
+        Framework ini masih dalam tahap pengembangan, jadi jika menemukan bug silahkan melaporkannya di https://github.com/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework/issues. Saya berharap framework ini dapat membantu teman-teman dalam membangun aplikasi Back-End yang andal dan efisien. Terima kasih. 
+
+<br>
+
+
