@@ -11333,5 +11333,211 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
         Framework ini masih dalam tahap pengembangan, jadi jika menemukan bug silahkan melaporkannya di https://github.com/Bootcamp-STMIK-Mardira-Indonesia/mardira-framework/issues. Saya berharap framework ini dapat membantu teman-teman dalam membangun aplikasi Back-End yang andal dan efisien. Terima kasih. 
 
 <br>
+<hr>
+
+
+### 15 April 2023
+
+1.  [https://manger-resto.vercel.app/]  
+     **Fahrizal2165**
+
+    Halo, perkenalkan nama saya Daffa Fahrizal, disini saya ingin showcase website untuk memperkenalkan restoran.
+
+    Disini saya memakai teknologi:
+    -HTML,CSS, JAVASCRIPT DOM
+    -BOOTSTRAP
+    -AWS dan GSAP
+
+    Disini juga saya mempraktikkan cara menyimpan pesan form sheet dari Pak Dhika. Ada di fitur feedback dan pesanan online.
+
+    Link Web : https://manger-resto.vercel.app/
+
+    Semoga dapat diberikan saran dan kritiknya, terima kasih. 
+
+
+<br>
+
+2.  [https://harithya.vercel.app/]  
+     **Haruthya**
+
+    Assalamualaikum Pak Dhika, perkenalkan nama saya harithya wisesa saya ingin share project portofolio saya, ini pertama kalinya saya showcase project di discord ini. Mohon kritik dan sarannya agar bisa saya perbaiki lagi, terimakasih sebelumnya
+
+    Dibuat dengan :
+    Tailwind CSS
+    Next JS
+
+    Website : https://harithya.vercel.app/
+    Repository : https://github.com/harithya/Portfolio-V2
+
+<br>
+
+3.  [https://adics.vercel.app/]  
+     **AdiNoVSCode**
+
+    Halo, perkenalkan nama saya Adi Cahya Saputra. Disini saya inging showcase website personal saya / portfolio. Btw ini pertama kali saya ikut showcase buat iseng² aja  wkwkwk
+
+    Teknologi yang saya pakai :
+    - NextJS
+    - Tailwindcss
+
+    Link Web : https://adics.vercel.app/
+
+    Link Repo :
+
+    Terimakasih sebelum nya... Kritik dan saran akan sangat saya terima
+
+<br>
+
+4.  [https://superb-travesseiro-3ecf56.netlify.app/]  
+     **dihpan**
+
+    Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game yang saya buat pada awalnya untuk memenuhi KKP (Kuliah Kerja Praktek) saya, jadi pada pas pertama kali saya dapat pembimbing, saya langsung ngajuin judulnya mengenai game edukasi pengenalan huruf hijahiyah. diterima laa sama dia, namun sayangnya dospem yang ini itu gak pernah balas WA saya. akhirnya saya minta ganti dospem, dibolehkan laa dari kampus saya ganti. ehh malah judul game edukasi saya ditolak sama dospem yang baru, jadinya yasudah. saya showcase disini saja deh akwoakwa, dan lagipula moment lagi tepat nih, bulan puasa, untuk teman-teman yang adiknya ingin belajar huruf hijahiyah, bisa dicoba
+
+
+    Demo: https://superb-travesseiro-3ecf56.netlify.app/
+
+    Control: 
+    - Ada 2 menu, menu belajar dan bermain
+    - di menu belajar, disini kita belajar tentang basic huruf hijahiyah. ada tombol suara juga, untuk mendengarkan bacaanya, disini kontrolnya ya klik dengan mouse
+    - di menu bermain, kita akan mengasah kemampuan kita, untuk drag and drop  huruf hijahiyah ke huruf latin yang benar,  disini drag and drop, jadi pilih hurufnya, klik kiri tahan untuk drag dan lepas klik kiri lagi untuk drop
+
+
+    Note: ada bug, jadi ketika temen-teman sudah menaruh huruf hijahiyah di kotak yang benar, lalu di pindah ke salah. seharusnya jadi salah kan, namun akan tetap benar. 
+
+
+    Teknologi yang digunakan:
+
+    - C++
+    - raylib (https://www.raylib.com/)
+    - emscripten (https://emscripten.org/)
+    - Assets by (https://github.com/vivanwicaksono/Pengenalan-Huruf-Hijaiyah)
+
+    Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+5.  [https://nametionalize.vercel.app/]  
+     **salluthdev**
+
+    Halo, saya Faisal L dari Medan. Saya membuat fun app bernama Nametionalize, konon katanya app ini bisa nebak negara seseorang berdasarkan namanya. Apa iya? Yuk kita coba https://nametionalize.vercel.app/
+
+    Repo github: https://github.com/salluthdev/nametionalize
+
+    Tech Stack: Next JS, TypeScript, dan Tailwind CSS
+    API Resources: Nationalize (nationalize.io) dan Flag CDN (flagcdn.com)
+
+    Note: Hanya bisa input 1 kata. Hasil tidak 100% akurat, tapi its ok buat seru-seruan aja ya. Kamu bisa coba masukkan namamu atau nama kawan-kawanmu disini. Apakah benar hasilnya Indonesia? Selamat mencoba! 
+
+
+<br>
+
+6.  [https://www.npmjs.com/package/jogja]  
+     **Sony**
+
+    Halo, saya Sony dari Jakarta, aku bikin tools kecil namanya Jogja, jd dia bisa generate initial projects untuk beberapa web frameworks populer saat ini spt Next.js, Vue, SvelteKit, Astro dll melalui wizard yg mudah digunakan. Cobain yahhh di https://www.npmjs.com/package/jogja
+
+    Technology/libraries used: JavaScript, CLI based app
+    GitHub Repo: https://github.com/sonyarianto/jogja
+    Quick try: npm i -g jogja
+
+<br>
+
+7.  [https://harvest-grafika.vercel.app/]  
+     **rixwand**
+
+        Assalamualaikum, halo semua, perkenalkan nama saya Riswandi,
+        Ijin ikut showcase project website buatan saya, sebenarnya website ini saya buat untuk teman saya, dia punya usaha percetakan, cmn karena dia nya jg ngk tertarik untuk membelikannya hostingan untuk backend nya, jdi saya pamerin d sini saja, btw ini cmn front end nya doang, back end nya udh jadi cmn krn gk nemu hostingan gratis nodejs mysql, jdi saya pamerin front end aj dlu.
+
+        Link web : https://harvest-grafika.vercel.app/
+
+        Github : https://github.com/rixwand/Harvest-web
+
+
+        Teknologi yg di gunakan :
+        - NextJs
+        - Firebase
+        - Knexjs
+        - Tailwindcss
+
+        Mohon kritik dan sarannya
+
+<br>
+
+8.  [https://particles-pointer-js.vercel.app/]  
+     **Muhammad Yuda Yudistira**
+
+    halo programmer wpu, 
+
+    intro:
+    tujuan saya ikut showcase ini untuk mencari tim dan pekerjaan, siapa tau ada lowongan kerja remote.
+    kedua, rasa terima kasih saya pada channel wpu yang merupakan channel terbaik yang saya tahu. 
+    karena project ini kecil langsung ke intinya saja..
+
+    project:
+    saya membuat library javascript, animasi effect pada cursor. project ini dibuat dalam semalam saja jadi hasilnya seadanya mohon jangan kecewa..^^
+
+    *masih banyak bug didalamnya
+
+    tech stack:
+    - HTML
+    - CSS
+    - pure JS
+
+    website: https://particles-pointer-js.vercel.app/
+    repo(github): https://github.com/Muhammad-Yuda-Yudistira/particles-pointerJS
+
+    terimakasih untuk pak sandhika galih atas bimbingannya selama ini untuk kami karena telah melakukan yang terbaik dengan channelnya wpu
+
+<br>
+
+9.  [https://simplepos.sansan0611.my.id/]  
+     **Sansan**
+
+    Assalamu'alaikum Pak Dhika dan teman2 WPU semuanya perkenalkan nama saya Sansan ,saya ingin share project showcase pertama saya yaitu aplikasi Point Of Sale
+
+    Tech : 
+    - Laravel 10
+    - Alpine JS (Meskipun hanya 1 page karena baru belajar)
+    - Admin LTE 3 (Template)
+
+    Demo : https://simplepos.sansan0611.my.id/
+
+    User :
+    - username : admin
+    - password : admin
+
+    Repo : https://github.com/sansan061100/simple-pos
+
+    Aplikasi nya belum selesai saya usahain diselesaikan sebelum live showcasenya, tapi sudah bisa melakukan transaksi, untuk fitur yang belum selesai adalah :
+    - Dashboard
+    - Report
+    - Setting
+    - Profile
+    - Print Struk
+
+    Terimakasih sebelumnya, mohon kritik dan saran nya karena masih banyak kekurangan di aplikasi ini
+
+<br>
+
+10.  [https://kalkulator-kesehatan.netlify.app/]  
+     **Tofukumala**
+
+    Assalamualaikum Pak Sandhika, saya Adi ingin share berbagi project pertama kami bernama Kalkulator Kesehatan bersama teman saya Radifa  @DIP  . Jadi kami disini membuat sebuah web application yang bertujuan untuk memonitoring, mengontrol seputar dunia kesehatan. Untuk sekarang, baru 10 fitur yang kami sediakan, salah satunya Kalkulator Kalori, Kalkulator BMI, Meditasi, dan sebagainya.
+
+    Teknologi yang kami gunakan:
+    1. ReactJS
+    2. TailwindCSS
+
+    Link Demo: 
+    https://kalkulator-kesehatan.netlify.app/
+
+    Repository:
+    https://github.com/MuhammadRadifa/kalkulator-kesehatan
+
+    Sekian showcase kami, bila Pak Sandhika atau teman-teman tertarik membantu mengembangkan aplikasi tersebut bisa langsung ke github kami. 
+    Wassalamualaikum Wr.Wb. 
+
+<br>
+<hr>
 
 
