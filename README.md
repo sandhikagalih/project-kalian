@@ -11538,6 +11538,248 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
     Wassalamualaikum Wr.Wb. 
 
 <br>
-<hr>
+<br>
 
+### 29 April 2023
+
+1.  [https://ulinnaja-aldi.vercel.app/]  
+     **ulinnaja**
+
+    Assalamualikum Pak Dhika dan teman teman WPU semua, perkenalakan pak saya Ulin dan ini showcase pertama kali saya yaitu Portofolio Web,
+
+    Sedikit cerita mengapa saya bikin portofolio ini pak karena saat disemester 1-5 awal, saya lebih mendalami design dan 3d modeling dan gabisa yang namanya coding hanya bisa bisanan aja karena tututan tugas perkuliahan..
+    Hingga kemudian sadar kalau saya ini kuliah di Teknik informatika tapi gabisa ngoding 😅 mulai lah disitu belajar dengan ambisi yang membara bejalar dari YouTube maupun ikut Course gratisan. sampe saat ini alhamdulillah sudah jalan hampir 1 tahun dan dari situ suka yang namanya coding dan mendalami Front End Developer
+
+    Project ini saya kerjakan kurang lebih 2 bulan untuk mendevelopnya karena dikerjakan kalau lagi ada waktu senggang dan web ini saya jadikan sebagai portofolio pribadi, jadi masih sering untuk di kembangkan lagi baik dari fitur maupun data-datanya.
+
+    *ada hidden game pak web ini hehe
+
+    Tech stack :
+    -Next JS
+    -TailwindCSS
+    -Spline
+
+    Link : https://ulinnaja-aldi.vercel.app/
+
+    GitHub Repo : https://github.com/ulinnajaaldi/portofolio
+
+    Terimakasih pak dika dan anggota discord WPU yang juga sudah membantu menjawab pertanyaan pertanyaan saya ketika codingan error, ditunggu kritik dan sarannya pak hehe
+
+
+<br>
+
+2.  [https://ayiakbarmaulana.vercel.app/]  
+     **akbar**
+
+    Assalamualaikum pak dhika dan sobat titik koma. Saya, ingin berbagi project portofolio saya sendiri. Di bagian contact kalian bisa kirim email langsung ke saya pakai jasa email.js
+
+    Teknologi yang digunakan:
+    1. React.js
+    2. TailwindCSS
+    3. HeadlessUI
+    4. Framer motion
+
+    Link Demo:
+    https://ayiakbarmaulana.vercel.app/
+
+    Repository:
+    https://github.com/ayiakbar2109/portofolio
+
+    Terimakasih pak dhika dan sobat titik koma, tolong kasih feedback ya guys 
+
+
+<br>
+
+3.  [https://next-aztan.vercel.app/]  
+     **dev/azim**
+
+    Hallo temen temen
+    Perkenalkan nama saya azim dari bandung 
+
+    Membuat starter template web admin dengan ui keren dan full responsive
+    Feature yang baru di kerjakan:
+    Layouting , Sidebar , Contain customer
+
+    Project yang saya kerjakan masih terbilang base banget belum semua nya cuman menampilkan 1 halaman mungkin jika ada waktu luang akan saya garap kembali
+
+    Waktu pengerjaan 1 hari
+
+    https://github.com/BudAzimbud/next-aztan
+    https://next-aztan.vercel.app/ 
+
+
+<br>
+
+4.  [https://surya-aditya.com/]  
+     **Suryaaditya**
+
+    Halo semuanya, saya ingin sharing untuk website portfolio saya. Website ini dibuat dengan konsep clean, minimalist,  full animated, unique dan well optimized dari segi build size serta performa. Pada website ini saya membuat SPA saya sendiri dengan sistem seperti Ajax melalui Javascript. Lalu sekedar informasi website ini tidak mengutamakan struktur UX pada umumnya, navigasi pada website ini kadang diatas kadang dibawah 😅. Teknologi dari website  ini dibuat dengan:
+
+    - PUG (HTML template engine)
+    - SCSS 
+    - Javascript
+    - GSAP
+    - Express
+    - Webpack
+    - WebGL
+    - Prismic headless cms
+
+    NOTE: Buka di desktop untuk experience yg lebih baik dan untuk melihat versi mobile di browser setelah resize di refresh dahulu karna struktur htmlnya berubah
+
+    Live site: https://surya-aditya.com/
+
+    Ketika pertama kali melihat website ini mungkin akan bingung bagian WebGL nya yg mana, nah WebGL nya itu untuk memanipulasi gambar yg ter load pada halaman masing2.
+
+    Update 23/04: Website ini berhasil memenangkan Site Of The Day dan Developer Awards pada website Awwwards (https://www.awwwards.com/sites/surya-aditya).
+
+<br>
+
+5.  [https://udin-technology.000webhostapp.com/]  
+     **Oodinc**
+
+    Assalamu’alaikum warahmatullahi wabarakatuh, Pak Dhika dan teman-teman WPU semua
+
+    Perkenalkan saya Udin, mahasiswa informatika semester 2 di Universitas Sebelas Maret. Izin mengirimkan project saya yang baru pertama kali mengirimkan ke showcase-project. Project ini berupa web marketplace tetapi masih terdapat 1 jenis barang berupa minuman buah.
+
+    Project ini saya buat karena hasil kegabutan saya selama libur semester 1 dulu, dan kurang lebih 3 bulan baru jadi bagian front-end saja karena mempelajari database cukup sulit 😊. Sebenarnya, project ini saya dapatkan dari konten youtube lalu saya kembangkan dengan ide saya sendiri.
+
+    Project ini bertujuan untuk membantu para UMKM yang ingin menjual barang kepada konsumen melalui digital marketing. Dengan project ini, para UMKM bisa terbantu dengan terdapat beberapa layanan.
+
+    Fitur didalamnya: 
+    -    Terdapat swiper pada bagian beranda yang menggunakan library SwiperJS.
+    -    Penilaian produk dari konsumen dengan memberikan bintang pada produk pada bagian hidangan favorit. Ini akan terhubung dengan halaman pesan. Jika user menginputkan bintang pada halaman pesan, maka secara otomatis akan terhubung ke halaman favorit.
+    -    Pada bagian kategori produk, jika user menginputkan lebih dari 0 maka user akan diminta untuk menginputkan kategori produk (biasa/es). Input ini akan muncul sesuai dengan jumlah produk yang diinputkan oleh user.
+
+    Teknologi yang digunakan:
+    -    HTML
+    -    PHP
+    -    Vanilla CSS 
+    -    JS (+ library swipe)
+
+    Link web: https://udin-technology.000webhostapp.com/
+    Link repo: https://github.com/oodinc/UTech_Store 
+
+    masih terdapat kekurangan terkait fitur regist/login akun dan input/output ulasan dari user dan beberapa bug, maka dari itu minta sarannya dari PaK Dhika dan teman-teman WPU semua.
+
+    Terimakasih.
+    Wassalamu’alaikum warahmatullahi wabarakatuh 
+
+<br>
+
+6.  [https://metaphore.vercel.app/]  
+     **darkterminal**
+
+    Hello everyone! My name is darkterminal and I'm a Software Freestyle Engineer and Storyteller (SFE&S) from Street Community Programmer (SCP). I'm thrilled to share my latest collaboration with fellow Punk Members from SCP.
+
+    We name the following work as Metaphore.
+
+    👉 What is Metaphore?
+
+    Metaphore is an open-source collection project on GitHub that aims to create a community-driven platform for sharing software metaphors that can be used in different contexts, such as education, communication, DIY,  and storytelling.
+
+    👉 How does it work?
+
+    Users can submit metaphors through a Github Issue template and browse existing ones on the website, or directly from GitHub. You can also react to a metaphor, helping to surface the best ones for everyone to see.
+
+    👉 How can you get involved?
+
+    We would love for you to get involved! You can contribute by submitting your own metaphors, reacting to existing ones, and helping us improve the platform.
+
+    Make a Contribution Easy and Fun!
+
+    Read First Our Paper Docs to know "How it's work?"
+    The Paper Docs: https://metaphore.vercel.app/paperdocs
+
+    Metaphore Website: https://metaphore.vercel.app/
+    Github Repository: https://github.com/StreetCommunityProgrammer/metaphore
+    Github Organization: https://github.com/StreetCommunityProgrammer
+
+    Tech Stack:
+    - Next.js
+    - TailwindCSS + DaisyUI
+    - Github (Github Actions, Github Issues)
+
+    Sincerely,
+    darkterminal 
+
+
+<br>
+
+7.  [https://www.rzkyrmdnu.my.id/]  
+     **rzkyrmdnu**
+
+    Assalamualaikum Pak Dhika, perkenalkan nama saya Rizky Rama Dhanu, saya ingin share portfolio website saya, ini adalah showcase pertama kali saya, hasil belajar  TAILWIND CSS di Chanel Youtube WPU. Saya ucapkan terimakasih buat Pak Dhika sudah membagikan ilmu gratis kepada saya. Berikan saya saran atau kritik agar bisa di perbaiki lagi. Terimakasih
+
+    Teknologi yang digunakan :
+    - HTML
+    - TAILWIND CSS
+    - JAVASCRIPT
+    - AOS (Animation Library)
+
+    Link Website :
+    https://www.rzkyrmdnu.my.id/
+
+    Link Repository :
+    https://github.com/rzkyrmdnu/rzkyrmdnu-portfolio
+
+<br>
+
+8.  [https://github.com/muazhari/research-assistant-mini]  
+     **mikazari**
+
+    Halo! Perkenalkan, saya mikazari. Saya membuat aplikasi untuk memudahkan pengguna untuk melakukan peninjauan literatur dari teks. Fitur yang ingin saya sediakan ada 4 tapi fitur yang baru jadi hanya 2 fitur saja, yaitu “Long Form Question Answering” dan “Passage Search”. 
+
+    Tahap pembuatan aplikasi saya terdiri dari 2 tahap. Tahap pertama adalah menentukan arsitektur berupa directed acyclic graph di setiap fitur. Sedangkan tahap berikutnya ialah melakukan implementasi arsitektur beserta detailnya. Berikut arsitektur untuk tiap fiturnya:
+
+    1. Passage Search. Di fitur ini saya menggunakan arsitektur document retrieval dengan model retriever yang bisa diganti sesuai keperluan.
+    2. Long Form Question Answering. Di fitur ini saya menggunakan arsitektur “Re2G: Retrieve, Rerank, and Generate” (https://arxiv.org/abs/2207.06300) dengan model retriever, reranker, dan generator yang bisa diganti sesuai keperluan.
+
+    Teknologi utama yang digunakan dalam aplikasi saya adalah pustaka Haystack. Pustaka haystack adalah pustaka end-to-end NLP mutakhir yang bisa menjembatani teknologi dunia riset ke industri. Jadi, saya bisa mengimplementasikan production ready NLP  application yang mutakhir di dunia riset dengan cara yang lebih mudah.
+
+    Repository: https://github.com/muazhari/research-assistant-mini
+<br>
+
+9.  [http://power-digital-agency.netlify.app/]  
+     **kentang goreng**
+
+    Halo perkenalkan nama saya Adzeni Rustianda, saya ingin ikut berpartisipsi dalam showcase WPU. Pada kesempatan kali ini saya ingin membaggikan hasil slicing design landingpage yang saya dapat dari figma.
+
+    Teknologi yang diggunakan pada website ini :
+
+    👉 HTML
+    👉 CSS with SASS
+    👉 Javascript
+    👉 AOS (animation on scroll)
+
+    Live Preview :
+    http://power-digital-agency.netlify.app/
+
+    Source code : 
+    https://github.com/rustiandacodes/aos-agency-digital-landingpage
+
+    Terimakasih 🖐️ 
+
+
+<br>
+
+10.  [https://islamic-app-ecru.vercel.app/]  
+     **sas_r**
+
+    Assalamualaikum pak Dika
+    Perkenalkan nama saya Sastra, izin share project yang bernama Islamic App yang dimana aplikasi ini merupakan aplikasi islamic sederhana berbasis web.
+
+    Tech stack
+    1. Vue.js
+    2. Vue Router
+    3. TailwindCSS
+
+    Hosted on Vercel🚀
+
+    Berikut repositori dan link project.
+    1. Repo : https://github.com/sastra12/islamic-app
+    2. Site : https://islamic-app-ecru.vercel.app/
+
+    Terimakasih🙏🏻
+
+<br>
 
