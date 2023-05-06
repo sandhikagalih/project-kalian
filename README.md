@@ -11782,4 +11782,263 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
     Terimakasih🙏🏻
 
 <br>
+<br>
+
+
+### 12 Februari 2022
+
+1.  [https://jkt48-showroom.vercel.app/]  
+     **Ikhball**
+
+    Assalamualaikum pak Dhika
+    Perkenalkan nama saya Ikhbal dan ini adalah project kedua saya yang ikut di showcase project. 
+
+    Website ini merupakan remake dari web live streaming dari jepang https://www.showroom-live.com/, tujuan saya membuat web ini adalah untuk wadah Fans JKT48 agar bisa memfilter room khusus member JKT48 dan juga redesign user interface biar ga terlalu rame dan lebih simple dibandingkan web aslinya.
+
+    Ada juga beberapa custom fitur biar bisa nonton live secara multi room jadi bisa nonton live streaming sekaligus maximal 4 room dalam satu page, dan untuk info room yang lagi live nya saya buat fitur push notification terpisah dari web, buat via discord bot pake express js
+
+    Teknologi yang digunakan:
+    - React JS 
+    - Express JS 
+    - Laravel 
+    - Reactstrap
+
+    Web: https://jkt48-showroom.vercel.app/
+
+    Source Code:
+    * https://github.com/ikhbaldwiyan/showroom (WEB)
+    * https://github.com/ikhbaldwiyan/jkt48-showroom-api (API)
+    * https://github.com/AldyRevigustian/Showroom-Api (LOGIN API) 
+
+<br>
+
+2.  [https://househunter.vercel.app/]  
+     **Rheza**
+
+    Halo semuanya!
+    Perkenalkan, saya Rheza. Baru pertama kali ini berpartisipasi di showcase project. Pada kesempatan kali ini, saya membuat sebuah aplikasi website untuk menyediakan layanan sewa / jual beli rumah, villa dan apartmen. Dikarenakan waktu yang cukup singkat, aplikasi website ini belum sepenuhnya responsive dan mobile friendly. Kedepannya project ini akan saya kembangkan lagi.
+
+    Tech stack yang digunakan pada aplikasi website ini antara lain:
+
+    ➡️ React.js
+    ➡️ Vite
+    ➡️ Tailwind CSS
+    ➡️ TypeScript
+
+    Link : https://househunter.vercel.app/
+
+    Github Repo : https://github.com/MaulanaRhezaArdiansyah/hounter
+
+    Terimakasih pak Dhika dan sobat titik koma. Mohon feedbacknya ya guyss..
+
+<br>
+
+3.  [https://0ms.run/mirrors/]  
+     **!Ararasseo~**
+
+    Hi,
+
+    Kami balik lagi untuk sharing ke teman-teman tentang project kami yang lainnya.
+    Yang akan kami share adalah sebuah endpoint yang bisa kalian gunakan di halaman situs/blog pribadi kalian untuk meringankan load server kalian, baik CPU maupun data transfer usage.
+
+    Pada praktiknya, ini akan sangat berguna jika kalian menggunakan VPS atau web hosting dengan data transfer bulanan yang terbatas.
+    Singkatnya, endpoint ini dapat kalian gunakan untuk mendownload direct link apapun yang kalian temui di Internet, dan konten dari link tersebut juga akan di-cache selama 24 jam sehingga tidak membebani server aslinya.
+
+    FYI, teknologi ini sudah digunakan di Ubuntu mirror kami dan terus dikembangkan, jadi sudah cukup teruji reliability-nya.  :)
+    https://launchpad.net/ubuntu/+mirror/0ms.run-archive
+
+    Apa saja teknologi yang digunakan?
+    Frontend:
+    - HTML
+    - Tailwind CSS dan CSS custom sendiri
+    - Vanilla JS
+
+    Backend:
+    - Go
+    - TypeScript
+    - SQLite
+    - Load balancers
+    - dan lainnya
+
+    Bagaimana cara menggunakannya?
+    Mari gunakan ini sebagai contoh:
+    https://archive.org/details/queens-regulations-army-1889-part-1
+
+    Jika ada yang ingin mengunduh dari Archive.org, maka semudah mengubah tautan unduhan dari ini:
+    https://archive.org/download/queens-regulations-army-1889-part-1/Queen%27sRegulationsArmy1889Part1.pdf
+
+    Menjadi ini:
+    https://0ms.run/mirrors/archive.org/download/queens-regulations-army-1889-part-1/Queen%27sRegulationsArmy1889Part1.pdf
+    (tanpa https setelah /mirrors/)
+
+    Dari contoh di atas, jika kalian ingin men-cache konten non-html lainnya (pdf, zip, gambar, dsb.) di website kalian, maka kalian hanya perlu menambahkan https://0ms.run/mirrors/ di setiap awalan URL konten tersebut.
+
+    Karena ini dirancang untuk penggunaan pada browser sungguhan, penggunaan menggunakan tools seperti wget dan sejenisnya mungkin akan memberikan respon error.
+
+    Semoga bermanfaat~
+
+    Tahap pembuatan ada di thread. 
+
+<br>
+
+4.  [https://portofolio-zedd.vercel.app/]  
+     **Zedd**
+
+    Assalamualaikum pak dhika dan sobat titik koma.  Saya ingin berbagi project portofolio saya sendiri, Ini project pertama saya menggunakan nextjs dan pertama kali saya ikut showcase 
+
+    Teknologi yang digunakan:
+    1. Nextjs
+    2. TailwindCSS
+
+    Link Demo:
+    https://portofolio-zedd.vercel.app/
+
+    Repository:
+    https://github.com/Zeddnyx/portofolio 
+
+    Terimakasih pak dhika dan sobat titik koma, tolong kasih feedback ya guys
+
+<br>
+
+5.  [https://umarjihad-portfolio.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamualaikum warahmatullahi wabarakatuh. 
+
+    Perkenalkan, Saya Umar dari Kendari. Saya seorang mahasiswa informatika UIN SUKA Yogyakrata. Saya ingin menjadi full stack developer. Saat ini saya sedang belajar tentang ReactJS dan ingin meneruskan untuk belajar Backend. Untuk project selanjutnya, rencananya Saya akan membuat project e-commerce dan booking app. Berikut portfolio website yang telah saya buat
+
+    Tech stack: SASS, VanillaJS
+
+    Link demo: https://umarjihad-portfolio.netlify.app/
+
+    Link repo: https://github.com/umarjihad2110/portfolio
+
+    Silahkan berikan feedbacknya. 
+
+<br>
+
+6.  [https://fajrul.netlify.app/]  
+     **Fajrull**
+
+    Assalamualaikum pak Dhika
+
+    Perkenalkan nama saya Fajrul, ini showcase pertama kali saya yaitu Portofolio Web, masih sederhana pak dikarenakan ilmu yang terbatas. Mohon kritik dan sarannya agar bisa saya perbaiki lagi.
+
+    Teknologi yang digunakan:
+    1.  HTML
+    2. CSS
+    3. Bootstrap
+    4. Javascript
+
+    Link Demo : https://fajrul.netlify.app/
+    Repository : https://github.com/Fajrull/Portofolio
+
+    Terimakasih pak Dhika dan teman2. dimohon feedbacknya ya guyss.. 
+
+
+<br>
+
+7.  [https://adibw99.github.io/]  
+     **Adib**
+
+    Sore Pak Dhika
+
+    Perkenalkan nama saya Adib, ini showcase pertama kali saya yaitu Portofolio Web. Mohon kritik dan sarannya agar bisa saya perbaiki lagi.
+
+    Teknologi yang digunakan:
+    1. HTML
+    2. CSS
+    3. JS
+
+    Link Demo : https://adibw99.github.io/
+
+    Terimakasih Pak Dhika dan teman2. dimohon feedbacknya ya guyss..
+
+<br>
+
+8.  [https://muslimdotcom.netlify.app]  
+     **rxkkyy_**
+
+    Assalamualaikum Pak Dhika
+
+    Perkenalkan nama sayan Rizky Alfiansyah saya kelas 10 RPL di Pondok Pesantren SMK Madinatul quran jonggol (https://smkmadinatulquran.sch.id/), ini project saya selama liburan bulan puasa dari pondok, ini project hasil pembelajaran saya dari youtube selama kurang lebih 6bulanan, menurut sya terlalu lama karna kekurangan waktu luang dikarenakan saya santri dan hanya diberi waktu menggunakan laptop dari jam setengah 8 sampai ashar dan itupun jika ada pelajaran kejuruan (tapi biasanya ada tiap hari minimal 2jam pelajaran, paling lama setengah hari) dan saya memanfaatkan waktu ketika jam kos di pondok dan hari minggu (hari minggu di pondok free megang laptop dari jam 7 sampai dzhur, sampai ashar jika ada robotik dari jam 9 sampai 12), bisa di intip2 ig pondok kalau kepo ignya @smkmadinatulquran.
+
+    Teknologi yang saya gunakan:
+
+    1. React JS
+    2. Tailwind CSS
+    3. Axios
+    4. React Router
+
+    link demo: https://muslimdotcom.netlify.app/
+    repo: https://github.com/IkkYa/muslimdotcom
+
+    minta saran dan kritiknya pa dika terimakasih
+
+<br>
+
+9.  [https://play.google.com/store/apps/details?id=com.bercamilan.catatan]  
+     **SAMBUYYA**
+
+    Assalamualaikum Pak Dhika dan teman teman semuanya
+
+    Saya ingin showcase aplikasi ke-2 buatan saya, yaitu aplikasi catatan atau mirip seperti to-do-list.
+
+    Link:
+    https://play.google.com/store/apps/details?id=com.bercamilan.catatan
+
+    Fitur:
+    - Bisa dengan mudah menekan selesai atau tidak selesai, yang biasanya kalau selesai harus nekan bagian kotak kecil tapi ini bisa sebarisnya untuk mempermudah
+    - menghapus
+    - mengedit
+    - menaikkan nomor urut misalnya nomor 2 jadi nomor 1.
+    - Tambah halam dan kurang halaman, tetapi jumlah halamannya masih terbatas sebesar 5 halaman.
+
+    Teknologi yang digunakan:
+    - SDK android
+    - Java(Webview dan lainnya)
+    - HTML
+    - CSS
+    - Javascript
+
+    Disaat nulis keterangan juga bisa menggunakan html, tetapi untuk mengaktifkannya harus menulis !html! dimana saja letaknya bisa. Bisa menulis html, css dan js. (Tetapi bisa juga menimpah tipe data atau class bawaan jika terjadi kesamaan).
+
+    Disaat ada tulisan !html! ditampilkan dengan menggunakan syntax innerhtml, kalau tanpa !html! ditampilkan dengan menggunakan syntax innertext.
+
+    Terima kasih
+
+    Tambahan:
+    Kalau misalnya tampilan tidak sesuai dengan poto di play store bisa dicoba di update webview atau chrome di emulatornya(kalau emulator yang saya gunakan(memu emulator) tetap gagal). Tapi kalau emulator yang ada di android studio pas di-update webview atau chrome berhasil(kalau untuk perangkat mobile android/hp android sudah otomatis update biasanya untuk webview).
+
+    Untuk versi webview android/emulator bisa dilihat di opsi pengembangan pada implementasi webview.
+
+    Untuk buka opsi pengembangan biasanya ada di status android di dekat versi OS dan versi android(tiap android kadang beda beda yang dipencet untuk menyalakan opsi pengembang).
+
+    Dan terima kasih
+
+
+<br>
+
+10.  [https://suxz-codedesign-zeta.vercel.app/]  
+     **harum mawar membunuh bulan**
+
+    halo pak dhika
+
+    Selamat pagi, siang, ataupun malam ketika mereview project ini, saya membuat slicing landing page dari design yang sudah ada, saya ambil dari https://codedesign.dev/ 
+
+    Suxz adalah layanan online course yang menyediakan mentorship dan pembelajar pemprograman.
+
+    Doakan saya pak agar dapat pekerjaan sebagai front end dev secepatnya, karena saat ini saya sudah semester 8😓
+
+    Tech Stack :
+    - React (Vite)
+    - Tailwind CSS
+
+    Link Deploy : https://suxz-codedesign-zeta.vercel.app/
+    Link Repo : https://github.com/rizkiramadhanx/suxz-codedesign
+    Link Design : https://codedesign.dev/challenge/suxz 
+
+
+<br>
+<br>
 
