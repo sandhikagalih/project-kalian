@@ -11785,7 +11785,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 
 
-### 12 Februari 2022
+### 6 Mei 2023
 
 1.  [https://jkt48-showroom.vercel.app/]  
      **Ikhball**
