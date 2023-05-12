@@ -12042,3 +12042,260 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 <br>
 <br>
 
+### 12 Mei 2023
+
+1.  [https://wilypradana.000webhostapp.com/public/]  
+     **wxhyo**
+
+    Assalamualaikum Pak Dhika dan teman teman semuanya
+    Selamat pagi, siang, ataupun malam, saya ingin showcase projek portofolio sederhana saya, yang dibuat menggunakan tailwindcss hasil belajar di channel web programing unpas, mohon kritik dan sarannya, karena masih banyak kekurangan yang harus di perbaiki
+
+    link
+    - https://wilypradana.000webhostapp.com/public/
+
+    repository
+    -https://github.com/wilypradana/portofolio 
+
+
+<br>
+
+2.  [https://react-giveaway.vercel.app/]  
+     **NotFound**
+
+    Halo pak Dhika dan teman-teman semua.
+
+    Perkenalkan saya Egin.
+
+    Saya izin share web app untuk scrambling atau doorprize dengan data peserta yang saat ini masih static (array). Untuk saat ini tampilan belum responsive.
+
+    Nama aplikasinya adalah "React Giveaway".
+    Aplikasi ini memliki beberapa screen:
+    - Home untuk melakukan scrambling peserta dan  menampilkan jumlah pemenangnya sesuai yang telah di setting.
+    - Contestant untuk menampilkan seluruh peserta yang terdaftar (static data array).
+    - The Winners untuk menampilkan seluruh pemenang dan bisa di reset kembali.
+    - Settings untuk menampilkan form settingan jumlah maximum peserta yang akan menang setiap scramblingnya dan menentukan total seluruh peserta yang akan menang.
+
+    Maaf jika masih terdapat beberapa bug dan kekurangan lainnya.
+    Semoga bermanfaat, jika ada kritik dan saran atau bahkan idea bagus untuk perbaikan dan sebagainya.
+    Boleh PR ehehe 😁
+
+    Tech Stack :
+    - React
+    - Tailwind CSS
+
+    Link Deploy : https://react-giveaway.vercel.app/
+    Link Repo : https://github.com/egin10/react-giveaway
+
+    Terima kasih.
+    Sukses selalu semuanya.
+
+<br>
+
+3.  [https://farrizkyibnu.github.io/]  
+     **Arctifee**
+
+    Halo pak Dhika & temen" semua 
+
+    Perkenalkan saya Ibnu.
+
+    izin share project web landing page pertama saya, based on video pak dhika berkolaborasi dengan mas angga
+
+    yang berisi:
+
+    -Portfolio
+
+    Tools:
+
+    -Figma (sedikit twist dari Adobe XD mas angga)
+    -HTML
+    -CSS
+
+    Link : https://farrizkyibnu.github.io/
+    Repo : https://github.com/farrizkyibnu/farrizkyibnu.github.io
+
+    Terimakasih
+    Sukses selalu guys
+
+<br>
+
+4.  [https://gddl.alif.my.id/]  
+     **Alif**
+
+    Halo Pak Dhika dan teman-teman! Saya ingin share showcase project saya yang kedua, yaitu Google Drive Direct Link.
+
+    Bermula dari kebutuhan saya untuk mengunggah banyak file ke banyak file hosting. Lama kelamaan, saya merasa proses ini memakan waktu dan boros sumber daya internet. Saat melihat opsi "upload by url" di salah satu file hosting, saya mencoba mencari tools Google Drive Direct Link (project orang lain). Namun, fitur-fiturnya tidak memenuhi kebutuhan saya, sehingga saya memutuskan untuk mengembangkan sendiri pada tahun 2022.
+
+    Stack Frontend:
+    - CSS, JS
+    - Tailwind
+    - Codemirror
+    - AlphineJS
+    - SpruceJS
+
+    Stack Backend:
+    - Fastify (NodeJS)
+    - Axios
+
+    Link Website: https://gddl.alif.my.id/
+
+    API docs: https://alif.my.id/docs/API/gddl
+
+    Repo frontend: https://github.com/alif748/Google-Drive-Direct-Link
+
+<br>
+
+5.  [https://simanpus.luqmanul-hakiem.my.id/]  
+     **ELqi**
+
+    Selamat Malam Pak Dika
+
+    Perkenalkan saya Luqman.
+
+    izin share project sistem manajemen perpustakaan online saya
+
+    yang memiliki fitur:
+
+    - Multiple Authentication
+    - User Management (Anggota dan Karyawan)
+    - Pencatatan Pengunjung
+    - Limit Peminjaman
+    - Pencatatan Peminjaman dan Pengembalian Buku
+    - Laporan Pengunjung Pertahun + Ekspor ke PDF
+    - Laporan Peminjaman Pertahun + Ekspor ke PDF
+    - Multiple Dashboard (Cuman yang anggota perpus belom ada isinya hahaha)
+
+    Teknologi yang digunakan:
+    - Html
+    - Css
+    - Bootstrap
+    - Laravel
+    - MySQL
+
+    Link Demo : https://simanpus.luqmanul-hakiem.my.id/
+
+    Terimakasih 😄
+
+
+<br>
+
+6.  [https://www.indoquran.my.id/]  
+     **by**
+
+    Assalamualaikum pak Dhika dan Rekan" Semua
+
+    Perkenalkan nama saya Akbar,
+    Ini showcase project pertama saya yaitu membuat web alquran sederhana.
+    Project ini adalah project gabut edisi ramadhan yang saya gunakan untuk belajar framework nextjs dengan menggunakan typescript.
+    Dengan keterbatasan ilmu yang saya miliki saya terbuka dalam kritik dan saran dari pak dika dan rekan" semua.
+    Terimakasih 🙏🏻
+
+    Tech Stack :
+    - Nextjs 13
+    - Typescript
+    - Redux
+    - Tailwind CSS
+
+    Fitur :
+    - Pencarian Nama Surat
+    - Pencarian Ayat
+    - Murotal mp3 dengan 5 versi Qori / imam
+    - Tafsir
+    - Like Ayat (tanpa login)
+    - Bookmark Ayat (tanpa login)
+    - Share to Whastapp
+    - Copy Link Ayat
+    - Dark or Light Mode
+    - Jadwal Sholat
+
+    Link Website :
+    https://www.indoquran.my.id/
+
+    Link Repository:
+    https://github.com/Akbaroke/indoquran.my.id
+
+<br>
+
+7.  [https://soalkoding.vercel.app/]  
+     **rafi3**
+
+    Assalamu'alaikum pak dika beserta teman teman semua
+
+    Perkenalkan nama saya Rafi dan saya ingin memperkenalkan sebuah project sederhana yang saya kerjakan belakangan ini yang bernama Soalkoding. Soalkoding adalah website competitive programming, website yang saya buat ini terinspirasi dari platform-platform populer seperti Codewars, Leetcode, dan Hackerrank, dimana pengguna dapat memecahkan berbagai challenge dan meningkatkan kemampuan pemrograman mereka melalui latihan yang terstruktur
+
+    Teknologi yang digunakan
+    - Next.js
+    - Typescript
+    - MongoDB
+    - Bootstrap
+
+    Website: https://soalkoding.vercel.app/
+    Github: https://github.com/rafiathallah3/soalkoding
+
+    (Maaf kalau frontendnya kurang bagus dikarenakan saya bisanya di backend aja)
+
+<br>
+
+8.  [https://github.com/nesnyx/Simple_CRUD_App_With_FastAPI]  
+     **xxra**
+
+    Selamat Sore Pak dika dan teman - teman Semuanya.
+
+    Perkenalkan saya Bara dan saya mau memperkenal kan sebuah CRUD App Web sangat sederhana sekali , saya masih mencoba untuk membuatnya karena kemampuan saya didunia Website masih kurang dan pemula perlu  belajar lebih lagi.
+    Mohon kritik dan sarannya.
+
+    Teknologi yang digunakan:
+    ->   Python
+    ->   SQLite
+    ->   Bootstrap
+    ->   FastAPI
+    ->   SQLAlchemy
+
+    Github : https://github.com/nesnyx/Simple_CRUD_App_With_FastAPI
+
+    Terima kasih..
+
+<br>
+
+9.  [https://gclone-v2.vercel.app/]  
+     **Daffa </>**
+
+    Assalammualaikum pak dika dan temen" semua 
+
+    saya mau showcase project sederhana saya yang saya build selama 1 bulan . tujuan saya membuat project ini adalah untuk mendalami ilmu react js saya . untuk project sederhana kali ini yaitu saya mencoba clone google ( sebelumnya saya mohon maaf kepada pak dika dan temen" semua, kalau fitur" dan user interface yang kurang mirip dan belum bisa di akses karna saya memfokus kan project ini ke Search Engine nya ) dan Website ini sudah PWA 
+
+    Teknologi yang saya pakai : 
+    - React.js
+    - Tailwindcss
+    - Google Api 
+
+    Fitur : 
+    - Search / Pencarian 
+    - Image / Gambar 
+    - Pagination 
+
+    Link : https://gclone-v2.vercel.app/
+
+    mungkin itu aja untuk project kali ini 
+    Hatur nuhun , Assalammualaikum 😊
+
+    ❤️ dari Daffa </>
+
+<br>
+
+10.  [https://bagussatoto.github.io/Ucapan-Lebaran-2023/]  
+     **Bagus**
+
+    Assalamu'alaikum pak dika beserta teman teman semua
+
+    Perkenalkan nama saya Bagus dan saya ingin memperkenalkan sebuah project sederhana tentang ucapan selamat hari raya idul fitri 1444 H
+
+    Teknologi yang digunakan
+    1. HTML
+    2. CSS
+    3. JavaSript 
+
+    Website: https://bagussatoto.github.io/Ucapan-Lebaran-2023/
+    Github: https://github.com/bagussatoto/Ucapan-Lebaran-2023/releases/tag/v1
+
+<br>
+<br>
