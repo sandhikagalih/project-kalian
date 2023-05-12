@@ -12274,6 +12274,7 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
     - Pagination 
 
     Link : https://gclone-v2.vercel.app/
+    Repo : https://github.com/xzydnf/google-v2.0
 
     mungkin itu aja untuk project kali ini 
     Hatur nuhun , Assalammualaikum 😊
