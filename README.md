@@ -12299,3 +12299,254 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 22 Mei 2023
+
+1.  [https://shortlink.up.railway.app/]  
+     **Nitroless**
+
+    Assalamu'alaikum
+
+    Halo, Pak Dhika
+    Halo Sobat WPU
+
+    Setelah sekian lama join channel ini (kurang lebih 2 tahun), dan gunain banyak waktu buat belajar web development, akhirnya ada kesempatan untuk showcase project.
+    Ini adalah sebuah project yang sangat sederhana yang dikembangkan menggunakan Flask. Nama porject ini adalah ShortLink. Sebuah platform untuk memendekkan URL, atau mungkin kita semua pasti familiar dengan bit.ly, dan URL Shortener lainnya, kurang lebih seperti itulah konsep dari project ini.
+    Tak lupa, project ini bukan hanya saya sendiri yang mengembangkan, karena ada bantuan dari si mamang ChatGPT yang senantiasa membantu ketika ada bug atau beberapa kesalahan yang mungkin terjadi.
+
+    Fitur:
+    - Memendekkan URL
+    - Visitor Tracking
+
+    Teknologi yang digunakan:
+    1. Python & Flask
+    2. HTML & CSS, JS
+    3. Bootstrap 5.3
+    4. SQLite
+    5. ChatGPT (Virtual Assistant)
+
+    Web Hosting:
+    - Railway
+
+    Demo : https://shortlink.up.railway.app/
+    Repo : https://github.com/haidar038/shortlink
+
+    Sekian, terimakasih Pak Dhika dan Sobat WPU, mohon feedbacknya yah🙌
+
+<br>
+
+2.  [https://github.com/alfianchii/confess]  
+     **alfian**
+
+    Halo semuanya~ Perkenalkan, saya Muhammad Alfian! Izinkan saya untuk mengikuti WPU Showcase ini ya teman-teman~!!
+
+    Confess merupakan sebuah aplikasi berbasis web yang berguna untuk menampung keluhan, kritik, dan saran dari siswa/i dari SMKN 4 Kota Tangerang. Project ini dibuat oleh saya (as backend @alfian) dan salah satu teman sekelas saya, Surya Nata (as frontend @Surya).
+
+    Tools yang digunakan adalah sebagai berikut:
+    1. Laravel
+    2. Vite
+    3. Laravel Vite Plugin
+    4. Mazer as bootstrap template
+
+    Fitur yang disediakan:
+    - Admin, officer, dan student
+    Admin
+    Username: alfianchii
+    Password: password
+    Ability: Statistik Keluhan dan Tanggapan, Statistik Keluhan, Statistik Tanggapan, membuat dan mengelola response, menanggapi complaint, mengelola category, mengelola user, setting profile, dan change password
+    Officer
+    Username: fauzy
+    Password: password
+    Ability: Statistik Tanggapan, menanggapi complaint, setting profile, dan change password
+    Student
+    Username: nata.ardhana
+    Password: password
+    Ability: membuat dan mengelola complaint, setting profile, dan change password
+    - Pencarian complaint di homepage
+
+    Repository: https://github.com/alfianchii/confess
+
+<br>
+
+3.  [https://raviolimavioli.github.io/]  
+     **Ravimo**
+
+    Assalamu'alaikum Pak Dhika beserta teman teman semua,
+    Perkenalkan nama saya Bayu Adi, illustrator yang sedang belajar koding terutama bagian web developent. Saya izin berpartisipsi dalam showcase WPU. Pada kesempatan kali ini saya ingin memperkenalkan sebuah project website sederhana tanpa framework untuk keperluan portfolio dan komisi dengan menggunakan teknologi berikut :
+
+    - HTML
+    - CSS
+    - Javascript
+
+    Library:
+    - AOS (animation on scroll)
+    - Lightbox
+    - Google Analytic
+
+    Live Preview :
+    https://raviolimavioli.github.io/
+
+    Source code : 
+    https://github.com/RavioliMavioli/RavioliMavioli.github.io
+
+    Semua illustrasi pada website ini merupakan hasil karya saya sendiri, namun icon-icon diambil dari icon theme KDE Plasma dan Google (dengan lisensi CC-0). Mohon maaf apabila kombinasi warnanya kurang sesuai ataupun UI/UX yang kurang bagus. Mohon kritik dan saranya Pak Dhika, Terima kasih 🙏 
+
+<br>
+
+4.  [https://zaadevofc.xyz/]  
+     **zaadevofc**
+
+    Assalamualaikum pak dika dan teman2 izin pemanasan dulu. 
+    saya kejaa (nama panggilan) dan ini adalah kedua kalinya saya ikut showcase. kebetulan saya belum punya portfolio dan untuk mengisi waktu juga ga ada kerjaan, sekolah juga libur, maka saya memutuskan untuk membuat portfolio saja. saya buat dengan kurun waktu semingguan kurang. btw saya cari referensi desain dari pinterest dan google dan ini salah satunya https://bit.ly/3LoTrF7 . harap maklumi jika tampilan dan layoutnya berantakan karna saya juga  kerjakan ini sendirian, tepatnya sebelum lebaran. dan buat pak dika dan temen2 yang mendapati bug  or keanehan mohon abaikan saja.
+
+    Teknologi, Framework, dll :
+    - NextJS
+    - ReactJS
+    - ExpressJS 
+    - TailwindCSS
+    - AnimateCSS
+    - React Icons
+    - React Fast Marquee
+    - CountAPi (error dari pusat)
+
+    untuk responsive mungkin tidak terlalu pas, kedepannya saya akan perbaiki lagi.
+
+    Link : https://zaadevofc.xyz/
+    Repo : https://github.com/zaadevofc
+
+    Thanks All 🙏
+
+<br>
+
+5.  [https://pahein.rizkiramadhanx.dev/]  
+     **harum mawar membunuh bulan**
+
+    halo pak dhika
+
+    Selamat pagi, siang, ataupun malam ketika mereview project ini, saya membuat movie app yang bername pahe.in, API berasal dari https://www.themoviedb.org/
+
+    Pahe.in adalah situs web populer yang menyediakan berbagai film gratis, acara TV, dan konten hiburan lainnya kepada pengguna yang dapat diunduh atau dialirkan secara online. Didirikan di Indonesia dan menjadi platform populer bagi para penggemar film dan acara TV untuk menonton dan mengunduh konten favorit mereka. (dari google ini, wkwkwk)
+
+    Doakan saya pak agar dapat pekerjaan sebagai front end dev secepatnya, karena saat ini saya sudah semester 8😓
+
+    Tech Stack :
+    - React (Vite)
+    - Chakra UI
+    - Vercel (Deploy)
+
+
+    Link Deploy : https://pahein.rizkiramadhanx.dev/
+
+
+    Please hire me😓, porto : https://rizkiramadhanx.dev/
+
+<br>
+
+6.  [https://codepen.io/ilhamrisky/full/NWOjbyL]  
+     **IR**
+
+    Selamat pagi Pak Dhika,
+
+    Saya ingin memperlihatkan sebuah project yang baru saja saya selesaikan. Project ini saya buat dengan menggunakan CSS dan JavaScript, dan terinspirasi dari sebuah project yang sudah ada di codepen yang dikembangkan menggunakan svelte.
+
+    Saya sangat senang untuk membagikan link project saya yang dapat dilihat di https://codepen.io/ilhamrisky/full/NWOjbyL, serta link repo-nya yang dapat ditemukan di https://github.com/IlhamriSKY/Card-glare-project.
+
+    Project ini merupakan sebuah tampilan kartu (card) yang dilengkapi dengan efek cahaya yang menyilaukan (glare effect) dan flip, kedepannya akan banyak tampilan yang dapat dikembangkan, mungkin teman - teman disini bisa membantu untuk menambahkan effect dengan berkontribusi di repositori. Saya yakin bahwa project ini akan sangat berguna untuk kebutuhan website yang membutuhkan tampilan yang menarik.
+
+    Terima kasih banyak untuk kesempatan ini, dan saya berharap Anda dapat mengecek project saya. Jika ada pertanyaan atau masukan, silakan jangan ragu untuk menghubungi atau berkontribusi di repositori.
+
+    Salam,
+    Ilham Riski 
+
+
+<br>
+
+7.  [https://haikel.my.id/]  
+     **Kawanishi Taichi**
+
+    Assalamu'alaikum Pak Dhika dan temen-temen semua. Perkenalkan saya Haikel, izin showcase Personal Website sekaligus catatan saya.
+
+    Teknologi yang digunakan:
+
+    - Next JS
+    - Typescript
+    - Tailwind CSS 
+    - Jotai
+
+    Live Website: https://haikel.my.id/
+
+    Repository: https://github.com/haikelz/haikel.my.id
+
+    Sekian dari saya. Ini pertama kalinya saya ikut showcase, jadi mohon maaf apabila ada kekurangan/kesalahan, dan mohon kritik dan sarannya dari Pak Dhika dan temen-temen semua, terima kasih 🙏.
+
+<br>
+
+8.  [https://incandescent-concha-f1e289.netlify.app/]  
+     **dihpan**
+
+    Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, saya mau showcase game yang saya buat dengan Golang.
+    untuk lama pengerjaannya hanya sehari saja
+
+
+    Demo: https://incandescent-concha-f1e289.netlify.app/
+
+    Control: 
+    - Klik kiri untuk menembak
+
+
+    Github Repo: https://github.com/pepega90/shooting_gallery
+
+
+    Teknologi yang digunakan:
+
+    - Go
+    - ebiten (https://ebitengine.org/)
+
+    Kurang lebihnya mohon maaf, terima kasih. 
+
+
+<br>
+
+9.  [http://joan-with-rumahweb.great-site.net/home.php]  
+     **hehehe**
+
+    hola
+    kenalin aku joan, aku kelas 11 di smk telkom 1 medan
+    disini saya mau showcase website buatan saya untuk ke 2 kalinya, yg dulu tujuannya si untuk lomba gitu awalnya
+
+    tech :
+    - boostrtap
+    - javascript
+    - php
+
+    - repo : https://github.com/joanpoerba/joan-with-rumahWeb
+    - ui design : https://www.figma.com/file/LrhzaS5Qw2Oeq81s6JqYjr/Untitled?node-id=0%3A1&t=jaG3xELJI2wcD1yF-1
+    - link : http://joan-with-rumahweb.great-site.net/home.php
+    - halaman admin : http://joan-with-rumahweb.great-site.net/view/admin.php
+
+    trimakasii 
+
+
+<br>
+
+10.  [https://github.com/pieresimbolon/Delaveen-stt.git]  
+     **Delaveen**
+
+    Halo teman-teman, perkenalkan nama saya Piere. 
+    Saya ingin menampilkan project pribadi sederhana menggunakan bahasa pemrograman Python. 
+    Project ini sebenarnya hanya iseng-iseng saja, saya dapat ide untuk membuat program yang mirip dengan subtitle di YouTube, tetapi berjalan secara real-time. 
+    Dengan demikian, ketika seseorang menonton siaran langsung di Twitch, pemirsa dari luar negeri dapat memahami acara tersebut karena ada subtitle yang disediakan.
+
+    ● time
+    ● threading
+    ● queue
+    ● speech_recognition
+    ● googletrans
+    ● tkinter
+
+    Untuk cara kerjanya, Anda dapat melihat penjelasannya di repositori Github saya.
+
+    Silakan kunjungi repositori saya di https://github.com/pieresimbolon/Delaveen-stt.git
+
+<br>
+
