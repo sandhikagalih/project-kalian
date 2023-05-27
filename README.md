@@ -12549,4 +12549,250 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
     Silakan kunjungi repositori saya di https://github.com/pieresimbolon/Delaveen-stt.git
 
 <br>
+<br>
 
+### 25 Februari 2023
+
+1.  [https://ysearch.site/]  
+     **Yudafir**
+
+    Halo Semuanya 
+    Perkenalkan Nama Saya Yuda Firmansyah
+    Ijinkan saya memperkenalkan Search Engine asli buatan anak Indonesia
+
+    Alasan saya membuat search engine Indonesia ini, karena saya ingin membuktikan bahwa anak bangsa memiliki kemampuan membuat search engine sendiri
+
+    Dapat merancang berbagai macam aplikasi, software, maupun program dengan baik
+    Serta untuk membantu semua orang untuk melakukan pencarian secara private, dan terjamin keamanannya
+
+    Untuk front Endnya
+    MDB
+    Bootstrap
+    Javascript
+    jQuery
+    jQuery Autocomplete
+
+    Back Endnya
+    Laravel
+
+    Search Engine ini memiliki kelebihan diantaranya
+    ✓Tidak merekam pencarian user
+    ✓ tidak melacak keberadaan user
+    ✓ Bersifat Private dengan keamanan yang terjamin
+    ✓ mudah digunakan
+    ✓ Tampilan Sederhana
+
+<br>
+
+2.  [https://mytodo.sannd.site/]  
+     **Sann.D**
+
+    Haiii, saya SannD, bisa di panggil san
+
+    ini project pertama sejak belajar, cuman project simple sejuta umat, yapp tidak lain dan bukan adalah TodoList 😂, project ini dibuat sambil belajar dari frontend dan backend hingga deploy sendiri, karena saya menggunakan style belajar sambil praktek... sekiann
+
+    frontend: ReactJs
+    backend: SpringBoot
+    hosting: niagahoster cPanel & vps
+
+    link: https://mytodo.sannd.site/
+    repo: https://github.com/RivLawrient/MyTodo
+
+<br>
+
+3.  [https://iogm.website/]  
+     **ilhamrhmtkbr**
+
+    Assalamu'alaikum Pak Shandika dan teman2 semua,
+    Perkenalkan nama saya Ilham Rahmat Akbar yang saat ini ingin menjadi seorang Full Stack Developer. Melalui pesan ini, mohon izin untuk showcase-project yang telah saya buat setelah mengikuti playlist wpu bagian frontend dan backend: php. 
+
+    Project ini bernama iogm-shop , jadi ceritanya di web ini menjual template-template web yang telah saya buat. Ide ini terinspirasi pada saat saya kuliah yang dulunya sama sekali tidak memiliki pengetahuan terkait web programming dan merasa kesulitan dalam membuat website. Harapan saya dengan adanya aplikasi ini, bisa membantu pembelajar website dengan melihat struktur kode tersebut.
+
+    Link : https://iogm.website/
+
+    Untuk teknologi yang saya gunakan yaitu html, css, javascript, php, mysql, dan laravel 8. Kekurangan di website ini yaitu metode pembayaran yang belum bisa saya terapkan. Mungkin dari teman" semua ada saran untuk payment gateway yang aman. Terima kasih
+
+<br>
+
+4.  [https://next-tree.vercel.app/]  
+     **Haruthya**
+
+    Assalamualaikum Pak Shandika
+    Perkenalkan nama saya Harithya wisesa, saya ingin showcase project web app seperti linktree, pengguna bisa membuat link dan juga customize temanya sesuai dengan keinginan. mohon kritik dan sarannya, mohon maaf kalau agak lelet waktu upload image dikarenakan server backendnya seadanya
+
+    Link : https://next-tree.vercel.app/
+    Repo : https://github.com/harithya/NextTree
+
+    Teknologi ini menggunakan next js , tailwind dan laravel sebagai backend nya
+
+    terimakasih 
+
+<br>
+
+5.  [https://freelancerops.andreasadi.xyz/]  
+     **LostChild**
+
+    Halo teman-teman semua
+    perkenalkan saya Enrico, saya dari Institut Sains dan Teknologi Terpadu Surabaya (iSTTS), jurusan Sistem Informasi Bisnis (SIB).
+
+    Saat ini saya sedang mengerjakan skripsi / tugas akhir dengan judul "Progressive Web Apps untuk Aplikasi Freelancing Menggunakan Framework Laravel".
+
+    Saya ingin meminta bantuan teman-teman semua untuk menguji coba web ini dan Apabila berkenan, saya meminta bantuan untuk mengisi kuesioner singkat untuk Tugas Akhir saya.
+    Untuk kuesioner silahkan memilih dan mengisi sesuai dengan peran yang anda pilih saat melakukan registrasi pada web.
+
+    Link Web: https://freelancerops.andreasadi.xyz/
+    Link kuesioner client: https://forms.gle/whY9yHPk9E5QpQkb6
+    Link kuesioner freelancer: https://forms.gle/rkDSR5NdA6DL7Zzv6
+
+    Terima kasih banyak telah meluangkan waktu untuk mengisi kuesioner singkat dan membantu pengerjaan Tugas Akhir saya ini.
+
+    Apabila Anda memiliki pertanyaan, 
+    silahkan dapat langsung di PM aja lewat discord.
+    Atau melalui email : enricoayen3@gmail.com
+
+    Teknologi yang di gunakan dalam pembuatan:
+    -Laravel
+    -MySql
+    -Xendit
+    -Firebase
+    -PWA
+
+<br>
+
+6.  [https://nugrahaadhitama.github.io/music-player/]  
+     **Adhi - UPNVJ**
+
+    Assalamualaikum Pak Shandika,
+    Perkenalkan nama saya Nugraha Adhitama, saya ingin menampilkan proyek aplikasi pemutar musik yang saya buat. Aplikasi ini memungkinkan pengguna untuk memutar lagu yang tersedia dan mengatur volume serta melihat daftar lagu yang tersedia. Mohon kritik dan sarannya, terima kasih.
+
+    Link: https://nugrahaadhitama.github.io/music-player/
+    Repo: https://github.com/nugrahaAdhitama/music-player
+
+    Teknologi yang digunakan dalam aplikasi ini meliputi HTML, CSS, dan JavaScript untuk bagian front-end, serta JSON untuk menyimpan informasi tentang lagu.
+
+    Terima kasih.
+
+<br>
+
+7.  [https://github.com/pieresimbolon/Delaveen-stt.git]  
+     **darkterminal - S.F.E**
+
+    Hello Punk! Am again, yes am darkterminal that showcase Metaphore SCP - Website. Software Freestyle Engineer and Punk Storyteller from Street Community Programming.
+
+    I've create (maybe) some useful tool that make your life more easy to create OG-IMAGE for SEO Banner.
+
+    🎉  Let me introduce you 🎉 
+
+    OG:IMAGE REST Generator
+    OG:IMAGE REST Generator is a free and powerful tool that simplifies the process of generating Open Graph images for your website or application. With our RESTful API, you can quickly and easily create customized images that will make your content stand out on social media platforms like Facebook, Twitter, Instagram, Pinterest and LinkedIn. 
+
+    Try copy this url and open in new tab: https://og-image-rest-generator.fly.dev/seo-banner?title=OG:IMAGE%20REST%20Generator%20-%20Free%20And%20Open%20Source!&author=darkterminal&head=Young%20Tyrex%20Release&writer=Punk%20Storyteller
+
+    Endpoint URL: https://og-image-rest-generator.fly.dev
+    Usage: https://github.com/darkterminal/og-image-rest-generator/tree/main#usage
+
+    Available Templates: default, facebook, facebook-minimal, twitter, twitter-minimal, instagram, instagram-minimal, linkedin, linkedin-minimal, pinterest
+
+    Tech Stack:
+    ExpressJS
+    Node Canvas
+    Docker (to build app in container)
+    Fly.dev (to host app in container)
+
+    Github Repository: https://github.com/darkterminal/og-image-rest-generator
+    API Endpoint: https://og-image-rest-generator.fly.dev/
+<br>
+
+8.  [https://alfianchii.github.io/reactjs-vite-todolist/]  
+     **alfian**
+
+    Halo teman-teman~!! Perkenalkan, saya Alfian. Izinkan saya untuk melakukan showcase project, yaaa!! ^^
+
+    Kali ini saya membuat project yang sangat sederhana, yaitu Simple Todo-list Application, yang dibuat menggunakan tools berikut ini:
+    ReactJS (Vite or CRA or CDN)
+    Typescript (in Vite)
+    Javascript (in CRA and CDN)
+
+    Project ini saya bagi menjadi 3 environment. Pertama dengan Vite. Lalu yang kedua dengan CRA. Terakhir dengan CDN. Secara tampilan, ketiganya sama saja. Apa yang membedakan dari masing-masing repo adalah environment-nya saja. 
+
+    Terlebih lagi, Vite dan CRA sudah memberikan fitur deployment sehingga memudahkan developer ketika ingin melakukan deployment. Maka dari itu, pada project yang menggunakan Vite dan CRA sudah terintegrasi dengan github workflows.
+
+    VIte
+    Repo: https://github.com/alfianchii/reactjs-vite-todolist
+    Demo: https://alfianchii.github.io/reactjs-vite-todolist/
+
+    CRA
+    Repo: https://github.com/alfianchii/reactjs-cra-todolist
+    Demo: https://alfianchii.github.io/reactjs-cra-todolist
+
+    CDN
+    Repo: https://github.com/alfianchii/reactjs-cdn-todolist
+    Demo: https://alfianchii.github.io/reactjs-cdn-todolist
+
+<br>
+
+9.  [https://kaizen.tarmuji.id/]  
+     **bloomingbug**
+
+    Assalamualaikum warrahmatullahi wabarakatuh
+    Hallo pak Dhika dan temen-temen
+
+    Izin berpartisipasi di showcase project. Alhamdulillah mulai pertengahan tahun 2021 saya mulai belajar ngoding dari WPU, ini merupakan kali pertama saya ikut showcase project 😆
+
+    Sebelumnya perkenalkan nama saya Tarmuji asal Karawang. Saya sedang belajar untuk membuat web pengajuan ide kaizen. Ide ini sebenarnya datang dari teman saya yang bekerja di perusahaan manufaktur.
+
+    Kaizen Management System adalah aplikasi web yang dirancang untuk membantu pegawai dan manajemen perusahaan dalam mengelola ide-ide kaizen dan memfasilitasi proses pengajuan, review, dan pemantauan ide-ide tersebut.
+
+    Fitur:
+    Manajemen pengguna dengan sistem RBAC (Role-Based Access Controll)
+    Cetak bukti pengiriman kaizen (.pdf)
+    Tanda tangan elektronik untuk setiap ide kaizen
+    Pemberian status, point, dan review untuk setiap ide kaizen
+    Monitoring status ide kaizen yang diajukan
+
+    Teknologi yang digunakan:
+    Laravel 9
+    Inertia
+    VueJS 3
+    Spatie
+    Template Menggunakan Mazer (https://zuramai.github.io/mazer/)
+
+    Repo:
+    https://github.com/bloomingbug/kaizen-management-system
+
+    Demo:
+    https://kaizen.tarmuji.id/
+    https://kaizen.tarmuji.id/login
+
+<br>
+
+10.  [https://github.com/lyricstify/lyricstify]  
+     **Cup**
+
+    Halo Pak Sandhika Galih & teman-teman WPU. Saya ingin membagikan Lyricstify - Aplikasi CLI untuk menampilkan lirik dari Spotify ke terminal secara tersinkronisasi. Aplikasi ini dibuat menggunakan TypeScript, Node, NestJs, & RxJs.
+
+    Repo:
+    Terminal https://github.com/lyricstify/lyricstify
+    Backend API https://github.com/lyricstify/api
+
+    Ada beberapa hal menarik yang saya pelajari dari pembuatan aplikasi ini & mungkin dapat diterapkan pada proyek teman-teman yang lain:
+
+    CI/CD
+    Belajar dari repositori populer lain, saya menerapkan CI/CD mulai dari pengelolaan issue, pull request, code review, testing, build sampai release ke GitHub release page & NPM secara otomatis. Tools yang dipakai: Github Actions, Semantic Release, CodeQL, & Codecov.
+
+    Reactive Programming Paradigm
+    Sempat mengalami kendala untuk mengelola data lirik yang asynchronous baik kesulitan untuk mentransformasi data, debugging & terutama error handling. Beruntungnya setelah menggunakan paradigma ini, berbagai masalah tadi dapat teratasi dengan baik. Tools yang dipakai: RxJs.
+
+    Automated Testing
+    Untuk menjaga kestabilan aplikasi sekaligus untuk menghemat waktu dari manual testing setiap kali terdapat perubahan pada kode. Disini saya juga belajar banyak tentang membuat testing mulai dari unit, integration sampai e2e tests. Tools yang dipakai: Jest & Supertest.
+
+    Optimasi Backend RESTful API
+    Untuk mendapatkan response time seminimal mungkin meskipun menggunakan server yang tidak berbayar, saya memilih untuk melakukan deployment di Vercel menggunakan arsitektur serverless ditambah dengan caching via CDN & Redis. Layanan terkait: Vercel & Upstash.
+
+    API Docs via Swagger Open API
+    Karena malas untuk mengupdate dokumentasi API secara manual, saya melakukan integrasi dari Open API dengan Redocly untuk membuat dokumentasi API pada https://lyricstify.github.io/api/ selalu up to date. Tools terkait: Swagger, Redocly, & Github Pages.
+
+    Sekian, terima kasih!
+
+<br>
+<br>
