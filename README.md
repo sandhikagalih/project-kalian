@@ -12796,3 +12796,346 @@ setiap hari Sabtu, pukul 19.40WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 3 Juni 2023
+
+1.  [https://menfess--mfathinhalim.repl.co/]  
+     **Doma**
+
+    halo semuanya
+
+    saya Doma(nama asli: M.Fathin Halim) ingin mengshare projek saya yaitu Menfess!
+
+    menfess adalah aplikasi media sosial buatan saya dimana kita dapat confess dan mennyatakan perasaan ke orang yang disukai
+
+    aplikasi ini saya buat dengan:
+
+    1.Node JS 
+    2.Module Express
+    3.Database SQLITE3
+    4.EJS
+    5.Replit sebagai hosting(yang gratisan dulu hehe)
+
+    untuk aplikasinya ada di: 
+
+    https://menfess--mfathinhalim.repl.co/
+
+    untuk github:
+
+    https://github.com/M-Fathin-Halim/Menfess
+
+    aplikasi ini mungkin tidak sempurna, tapi saya ingin sharing sharing hehe
+
+    sekian terimakasih :)
+
+<br>
+
+2.  [https://ostorey.000webhostapp.com/index.php]  
+     **waduh guy come to bogor**
+
+    Assalamu'alaikum, perkenalkan nama saya ary di kesempatan kali ini saya ingin membagikan project kecil kecilan saya bersama teman saya, project ini dikerjakan pada saat waktu ujian sekolah
+
+    Sebelumya saya belajar codeigniter dari WPU dan saya merasa gabut yang dimana gabut tersebut memerlukan sebuah tantangan lalu saya menghubungi teman saya tersebut untuk bekerjasama membuat web ini, dan kita membagi tugas yang dimana saya sebagai back-end dan teman saya sebagai front-end. Lalu sepakat lah kita dan memulai membuat project ini saat ujian sekolah syarat kelulusan kelas 12.
+
+    Project ini awalnya terinspirasi dari twitter, ig, tetapi bedanya web ini untuk membagikan cerita(teks) atau sekedar sharing. (Malah seperti reddit) tapi inspirasinya dari twitter. 
+
+    Tetapi web ini jauh dari kata sempurna dikarenakan saya pusing dan capek dengan back-endnya tetapi saya tidak menyerah untuk membuat web ini, dan inilah hasilnya membuat web dengan kesepahaman saya dan teman saya
+
+    Web ini simpel aja, login page ada profil ada edit profil juga ada, tetapi masih terdapat bug di edit profil yang dimana jika anda mengganti deskripsi tetapi tidak mengganti username dan tekan tombol simpan, maka bug muncul dengan mengatakan "Username ini telah digunakan"
+    🗿🗿🗿
+    Karena sekarang saya dan teman saya sedang mempersiapkan UTBK, jadi belum memiliki waktu yang pas untuk memperbaiki bug ini 
+
+    Framework :
+    -Codeigniter
+    -Bootstrap 5
+
+    Bahasa :
+    -PHP
+    -JavaScript
+
+    Link website : 
+    https://ostorey.000webhostapp.com/index.php
+
+    Sekian Terimakasih...
+
+<br>
+
+3.  [https://ysearch.site/]  
+     **djrecycle95**
+
+    Assalamualaikum wr wb, Pak Dika
+
+    Perkenalkan nama saya Rangga Adi Saputra, saya adalah seorang guru dan saat ini saya sedang menempuh PPG Prajab.
+
+    Dalam hal ini saya membuat sebuah Web yang dapat mengkoreksi jawaban soal essay secara otomatis. Namun Web ini belum terlalu sempurna, karena proses input Soal dan Jawabannya masih manual dengan menuliskan. mungkin kedepannya input soal akan dibuat otomatis, semoga teman2 bisa memberi masukan pada Web ini atau membantu mengembangkannya.
+
+    Web ini saya berinama "My-Chek GPT", mengapa menggunakan nama GPT karena Web ini dibuat dengan bantuan API Chat GPT.
+
+    Web dibuat dengan:
+        -Rect js
+        -tailwindcss
+        -API Chat GPT
+
+    Untuk mencoba web ini silahkan klik Link berikut ini:
+
+    Link Web : https://client-gp-tbeta.vercel.app/
+
+    Link Source : 
+        Client    : https://github.com/djrecycle/client-PublicGpt
+        Server    : https://github.com/djrecycle/server-PublicGPT
+
+    Cara menggunakannya klik button "CHEK GPT" lalu di situ ada dua inputan, yang pertama adalah inputan Soal dan yg kedua adalah inputan jawaban. Input Soal dengan bebas, lalu tuliskan jawabannya di Input Jawaban maka nanti akan muncul hasil benar atau salahnya. Terimakasih
+
+<br>
+
+4.  [https://link.tfkhdyt.my.id/]  
+     **tfkhdyt**
+
+    Assalamu'alaikum wr. wb.
+
+    Perkenalkan, nama saya Taufik. Izinkan saya untuk men-showcase project pribadi saya yaitu "Pondokeun".
+
+    Pondokeun adalah sebuah link shortener yang ringan, simple, dan modern. Aplikasi ini memungkinkan pengguna untuk memperpendek sebuah link/URL menjadi sebuah link baru dengan slug berupa random string yang terdiri dari 5 karakter. Namun, apabila pengguna sudah login menggunakan akun google atau github, maka pengguna dapat memperpendek link/URL dengan custom slug yang pengguna tentukan sendiri. pengguna yang sudah login pun dapat mengubah slug dan juga menghapus link yang sudah dibuat sebelumnya.
+
+    Pondokeun dibuat menggunakan tech stack sebagai berikut:
+
+    SvelteKit
+    Tailwind CSS
+    TypeScript
+    Flowbite
+    Prisma
+    Auth.js
+    Auto Animate
+
+    Link website: https://link.tfkhdyt.my.id/
+    Link repo: https://link.tfkhdyt.my.id/pondokeun
+
+    Sekian penjelasan dari saya, semoga project saya ini dapat bermanfaat untuk teman-teman sekalian.
+
+    Wassalamu'alaikum wr. wb.
+
+<br>
+
+5.  [https://hypermart.codewithirfan.site/]  
+     **onex**
+
+    Assalamu'alaikum wr. Wb
+
+    Perkenalkan saya Irfan yasin mahasiswa informatika semester 2, mohon izin share project tugas dari ukm.
+
+    Sebelumnya saya sangat berterimakasih kepada pak sandika, banyak ilmu yang saya ambil dari video2 yang telah di buat di channel youtubenya dan saya mengikuti sejak dari SMA sekitar tahun 2019
+
+    Disini saya ingin mengeshare sebuah project toko online dengan nama HyperMart
+
+    HyperMart merupakan sebuah platform untuk berbelanja secara online dimanapun dan kapanpun.. 
+
+    Feature
+    CRUD (No reload page)
+    Multiuser
+    Checkout Product
+    Manual Payment
+    Live Search
+    Order Monitoring
+
+    Technology
+    Laravel 9
+    Ajax
+    Bootstrap 5
+    Sweetalert
+
+    Account Demo
+    Admin : admin@gmail.com
+    Password : password
+
+    Link website : https://hypermart.codewithirfan.site/
+
+    Sekian penjelasan dari project saya, kurang lebihnya mohon maaf
+
+    Wassalamu'alaikum wr. wb 
+
+
+<br>
+
+6.  [https://rakarasell.dev/]  
+     **!Rasell**
+
+    halo teman teman, 
+
+    saya Raka untuk sekarang saya bekerja di Honda Indonesia (APTM Mobil Honda di Indonesia) sebagai programmer. 
+    saya selama 2 bulan ini belajar menggunakan Typescript dan akhirnya terwujud juga, karena base saya .NET jadi agak sulit untuk belajar JS, makanya saya memutuskan untuk belajar Typescript.
+
+    Saya membuat portfolio website dengan fitur fitur standart:
+    Landing Page
+    Fetch Data
+
+    Tech:
+    NextJS -> deployment on Vercel
+    Typescript
+    Tailwindcss
+
+    Link website: https://rakarasell.dev/
+
+    sekian penjelasannya dari saya seorang yang baru belajar Typescript
+
+<br>
+
+7.  [https://drive.mbaharip.com/]  
+     **mbahArip**
+
+    Halo Pak Dhika dan kawan2 semua.
+
+    Perkenalkan saya Arief Rachmawan / mbaharip ingin membagikan project pribadi yang saya kerjakan 2 minggu belakangan ini.
+    Jadi project saya bernama next-gdrive-index, fungsinya untuk mengindex file2 dari google drive.
+    Project ini juga bisa untuk mempermudah sharing file / memakai file yg kita upload di google drive sebagai assets yang bisa digunakan di web.
+
+    Berikut beberapa fitur yang sudah saya kerjakan:
+    Navigasi folder dan file
+    Search file
+    Dark / Light theme
+    Dynamic open graph image
+    Password situs (hanya untuk melindungi situs, file masih bisa diakses apabila punya direct link ke file tersebut)
+    File preview untuk beberapa file type (seperti image, video, code, rich text, audio, dan pdf)
+    Direct download
+    Raw file link (digunakan untuk embed file image / video / audio di web)
+    Menampilkan readme yang ada di dalam folder.
+    Override open graph image suatu folder
+
+    Mungkin untuk rencana kedepan saya ingin menambahkan beberapa fitur berikut
+    Protected folder (masih mencari cara biar response time kecil)
+    Tambah file type yang disupport untuk file preview. (sekarang masih mencoba untuk menampilkan file 3d langsung)
+    Migrate ke app directory (ini masih belum yakin sih hehe keliatannya harus rewrite semua, jadi agak mager hehe)
+
+    Tech Stack yang saya gunakan:
+    Next JS
+    Typescript
+    TailwindCSS
+
+    Berikut repository dan demo dari project yang saya buat:
+    Repository - https://github.com/mbahArip/next-gdrive-index
+    Demo - https://drive.mbaharip.com/
+
+    Kalau misal mau bantu ngembangin atau mau fork buat ngembangin sendiri silahkan :x
+
+    Terima kasih semuanya
+
+<br>
+
+8.  [https://yogyy-notflox.netlify.app/]  
+     **iogi**
+
+    Assalamu'alaikum Pak Dhika dan teman2 semua.
+
+    Perkenalkan nama saya Yogi, izin share project pertama saya, Movie App ini hasil belajar consume api selama mempelajari web dev.
+    Awalnya project ini hasil mengikuti tutorial youtube 'clone netflix', tapi ditutorial menggunakan dummy database.
+    jadi saya ganti sekalian menggunakan TMDB Api,siapa sangka membutuhkan waktu sebulan lebih.
+
+    fitur :
+    -search movie / tv show
+    -dynamic page
+
+
+    teknologi,library yang digunakan : 
+    -NextJS
+    -Typescript
+    -next-auth
+    -TMDB Api
+    -Tailwind + headlessUI
+    -MUI component
+    -swiperjs
+    -react player
+    -react query
+
+
+    link website: https://yogyy-notflox.netlify.app/
+    link repository: https://github.com/yogyy/Netflix-Movie-App
+
+    user demo :
+
+    email : lex@kryptonite.stn
+    password : superman
+
+    sekian penjelasan dari saya mungkin ada masukan,
+    kurang lebihnya mohon maaf, terima kasih.
+    Wassalamu'alaikum wr. wb.
+
+<br>
+
+9.  [https://play.google.com/store/apps/details?id=com.bercamilan.fortressidle]  
+     **SAMBUYYA**
+
+    Assalamualaikum warahmatullahi Pak Dhika dan Teman-teman,
+
+    https://play.google.com/store/apps/details?id=com.bercamilan.fortressidle
+
+    Saya mau showcase game pertama saya bernama benteng diam(Fortress Idle)
+
+    Cara bermain:
+    Didalam game kita hanya perlu membeli kendaraan perang untuk menaikkan level(dibeli di tombol tanda panah).
+
+    Setelah mencapai level 50 keatas, kita bisa melakukan retreat atau mundur(tombol bendera) untuk mendapatkan suku cadang yang dapat di tingkatkan secara permanen(tombol gear) dan kendaraan yang dibeli akan terulang termasuk level(tombol tanda panah)
+
+    Teknologi yang digunakan:
+    SDK Android
+    Java untuk nampilin webview
+    Javascript
+    HTML
+    CSS
+    Canvas untuk menampilkan gambar yang digerakkan oleh javascript
+
+    Software yang digunakan:
+    Android studio untuk mem-build aplikasi.
+    Visual Studio Code tempat membuat game webnya.
+    Fontawesome untuk menggunakan beberapa logo.
+    Draw io/diagram net untuk membuat beberapa gambar kendaraan.
+    Xampp/Lampp untuk menjalankan html, awalnya pakai ini tapi setelah tahu bisa jalan normal disaat menekan index.html jadinya pakai browser bawaan(Chrome) saja.
+
+    Sedikit mekanik game:
+    Jadi, game ini itu menggunakan setInterval untuk menjalankan perintah secara terus menerus dan menampilkan gambar. Didalam canvas untuk merefresh canvas kita harus menggunakan clearRect yang dilakukan setiap 1000÷60ms di intervalnya(anggaplah 60 fps). Dan peluru maupun kendaraan menggunakan kondisi piksel agar dapat terulang ulang.(Contohnya kita membuat gerakan sebuah titik dari nol ke 100 piksel menggunakan interval tiap 50ms, disaat kondisi piksel lebih dari 100, maka gerakan titik langsung pindah ke 0 dan dilakukan secara berulang(mirip kaya konsep animation di css yang dijalankan secara infinite).(semoga bisa membantu bagi yang ingin mencoba game canvas/HTML5(Saya kurang tahu kenapa disebut game HTML5(mungkin ini alasan HTML5 disebut bahasa pemrograman wkwk, padahal cuma platformnya))
+
+    Saran dan masukan diterima.
+    Terima kasih.
+
+<br>
+
+10.  [https://bot.nyrat.id/]  
+     **TheSkinnyRat**
+
+    Halo, selamat malam teman-teman semua.
+
+    Perkenalkan saya TheSkinnyRat (not real name), ingin membagikan project pribadi saya Discord Music Bot. Sebenarnya project ini saya buat sudah lama sekitar 1 tahun lalu. Semenjak bot music di discord udah banyak yang ga bisa buat stel music di youtube, jadi saya buat bot sendiri buat dipake di server pribadi / temen. Udah lama juga pengen share tapi karna dulu kalo mau share showcase project harus level 10 atau berapa gitu di server ini, jadi gajadi.
+
+    Link invite / Web Player: https://bot.nyrat.id/
+
+    Cara penggunaannya bisa pakai web nya aja, atau slash command di bot nya.
+    /help untuk selengkapnya.
+
+    Teknologi yang dipakai
+    Sistem bot terbagi menjadi 2, yaitu:
+
+    Backend:
+    discord.js
+    erela.js
+    express
+    socket.io
+    axios
+    mongoose
+    eslint
+
+    Frontend:
+    next.js
+    tailwindcss
+    headlessui
+    fontawesome
+    eslint
+
+    Dan banyak lagi library / dependencies lainnya yang digunakan.
+
+    Sedikit overview tahap pembuatan
+    Pada awalnya lavalink (github.com/freyacodes/Lavalink) dijalankan dan disetting di server, lalu bot discord dibuat dan dijalankan di backend dan berkomunikasi menggunakan websocket dengan lavalink. Pada tahap ini bot sudah dapat digunakan, namun hanya bisa menggunakan slash command atau prefix di discord untuk menjalankannya.
+
+    Selanjutnya pembuatan API dengan Express.js dan Socket.io untuk websocket di backend tempat bot discord berjalan. Setelah API dan WS dibuat, lanjut pembuatan frontend dengan menggunakan API dan WS dari backend.
+
+    Backend dan Frontend memiliki server yang berbeda, backend dijalankan di server dan frontend di host di vercel, sehingga jika bot down maka frontend seharusnya tidak ikut down, namun pasti terdapat error saat mengakses API dari backend saat backend down.
+
+<br>
+<br>
