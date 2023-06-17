@@ -210,3 +210,278 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 17 Juni 2023
+
+1.  [https://nyatet.orzproject.my.id/]  
+     **zekkeN**
+
+    Assalamualaikum pak Dhika dan teman2 semua..
+    Saya Oriz, ini showcase project ketiga saya yaitu membuat Todo List & Note Application.
+    Kemarin2 showcase masih pake html css php native, alhamdulillah sekarang sudah bisa menggunakan framework laravel berkat channel ini. Terimakasih banyak pak Dhika dan teman2 komunitas di discord :hehehe: 
+
+    Btw semua data todo list dan note di enkripsi menggunakan enkripsi bawaan laravel, jadi dapat dipastikan data yang masuk ke database akan disamarkan dengan aman.
+    Makasih juga buat @antwa karena ikut berkontribusi pada project ini :maaf:
+    Dengan keterbatasan ilmu yang saya miliki, saya terbuka dalam kritik dan saran dari pak Dhika dan teman2 semua.
+
+    Tech :
+    Laravel 10
+    Laravel Turbo
+    Socialite Plugin
+    Livewire
+    Alpine JS
+    Tailwind CSS
+    Daisy UI
+
+    Fitur :
+    Login & Register
+    Login with GitHub / Google
+    Reset Password (dikirim ke email)
+    Todo List
+    Note (bisa dikunci)
+    Enkripsi Laravel menggunakan OpenSSL untuk menyediakan enkripsi AES-256 dan AES-128 (contoh hasil enkripsinya ada di readme)
+
+    Link Website : https://nyatet.orzproject.my.id/
+    Link Repository : https://github.com/orz14/nyatet-app
+
+    Terimakasih 🙏
+
+<br>
+
+2.  [http://frogtel-discover.rf.gd/]  
+     **hehehe**
+
+    malam semua, kenalin aku joan, ini showcase ke 3 ku.
+
+    jadi ini web dinamakan Discover, sebagai besar projek ini aku sendiri yg ngerjain, karna saat itu tim ku lagi ada projek graduation dari sekolah juga. in the nutshell ini web ada atas dasar gobokan ide kami gimana cara orang" itu mudah sharing dan mencari budaya suku di indo gitu.
+
+    oh iya ini web lomba I/O Fest di Untar ya
+
+    link : http://frogtel-discover.rf.gd/
+    repo : https://github.com/joanpoerba/discover (bang kasi star bang biar dapat achievement github nya) 
+
+    tech stack
+    Bootstrap
+    PHP
+    MySql
+    JS
+
+    trimakasi
+
+    note: 25 Mei 2023, tim saya menang di lomba nya, di posisi juara 3 
+
+<br>
+
+3.  [https://www.mardiancode.tech/]  
+     **mardiansyah**
+
+    Assalamualaikum pak perkenalkan saya Muhammad Mardiansyah ini showcase ke 2 
+
+    Saya ingin share personal website yang sederhana saya sudah membuat 3 web portofolio setiap saya membuat web portofolio saya selalu update teknologi yang dipakai untuk personal website ini saya membuat menggunakan nextjs 13 sebenarnya hampir mirip dengan web portofolio yang kedua hanya saja saya menambahkan blog seputar programing  untuk dokumentasi saya belajar sekaligus sharing ilmu walaupun 
+    Konten blog saat ini hanya ada satu.
+    Link personal website: https://www.mardiancode.tech/
+
+    Link admin untuk membuat blog
+    https://blog.ti-bidar.com/admin
+    Email dan password akan saya share saat live 🙏
+
+    Teknologi yang digunakan
+
+    Tailwindcss
+    Nextjs 13
+    strapi (headless cms) untuk membuat konten blog
+
+    Terimakasih banyak atas ilmunya pak sandhika🙏
+
+<br>
+
+4.  [https://yazzlink.vercel.app/]  
+     **Yazz**
+
+    Assalamualaikum pak Dhika dan semuanyaa...
+    Kenalin saya Muhammad Yazid Akbar dan ini adalah showcase pertama saya
+
+    Sekarang saya sedang belajar firebase, dan mengimplementasikannya ke project website yg saya buat ini. 
+
+    Saya membuat website yang mirip seperti linktr.ee atau bagi yg belum tau itu adalah website untuk membuat website yg menampilkan button link, contohnya link semua akun social media kalian.
+
+    Tech Stack yg digunakan :
+    Next js@latest
+    Firebase
+    Tailwind CSS
+    Ant Design
+
+    Fitur :
+    Add Link / Header
+    Upload Photo Profile
+    Edit Background Color
+    Upload Background Image
+    Edit button color, button font color, font color
+    Edit username (untuk akhiran url  website yg kmu buat)
+    Tracking Visitor and Tracking Button Link
+    Realtime
+
+    Link website :
+    https://yazzlink.vercel.app/
+
+    Contoh hasil websitenya :
+    https://yazzlink.vercel.app/u/yazz
+
+    Repo : 
+    https://github.com/yazz803/linker_sosmed
+
+    Thank youu 🙏🏼
+
+<br>
+
+5.  [https://raihanmd.vercel.app/]  
+     **Raihanmd**
+
+    Assalamualaikum pak Dhika dan teman teman WPU semuanya,
+
+    perkenalkan nama saya Raihan, ini adalah pertama kalinya saya showcase di showcase project ini,
+    project yang mau saya showcase ini merupakan portfolio personal dari website saya.
+
+    project ini terinspirasi dari pak Dhika dan juga dari video random tiktok pas saya lagi scroll scroll, juga kebetulan waktu itu saya belum punya web portfolio yang bisa dibilang serius.
+
+    Tech Stack yang saya gunakan: React JS, Chakra UI, Typed JS
+
+    live preview nya ada di sini: https://raihanmd.vercel.app/
+
+<br>
+
+6.  [https://khaidar.me/]  
+     **Nitroless**
+
+    Assalamu'alaikum.. Halo Pak Dhika, Halo Sobat WPU
+
+    Ini adalah showcase project ke-2 saya setelah beberapa waktu lalu project saya yang pertama (ShortLink) telah direview oleh Pak Dhika dan Sobat WPU sekalian. Kali ini project yang ingin saya showcase sudah tidak lagi sederhana. Project ini adalah sebuah Website Portfolio yang kebetulan ide pembuatannya terinspirasi dari video Pak Dhika tentang Website Portfolio.
+
+    Teknologi yang digunakan:
+    HTML & CSS
+    Vanilla JavaScript
+
+    Hosted on:
+    Github Pages
+
+    Link Github: https://github.com/haidar038/haidar038.github.io
+    Link Website: https://khaidar.me/
+
+    Terimakasih semuanya, mohon masukan dan feedback dari teman-teman sekalian
+
+<br>
+
+7.  [https://ikhlasdansantai.github.io/weeekly-website-fanmade/]  
+     **ikhlasdansantai**
+
+    Selamat malam pak Dhika dan teman teman wpu lainnya,
+    perkenalkan nama saya ikhsan, ini pertama kalinya saya showcase project, project yang sangat sederhana ini adalah (weeekly fanmade website), terinpirasi dari pak Dhika yang suka sama group twice, sampai bikin twice survey from di freecodecamp.
+
+    Awal nya sih iseng karena suka sama musiknya yang After School, akhirnya riset untuk cari official website dari group Weeekly ini, ternyata belum punya website resminya, akhirnya saya coba untuk bikin versi saya sendiri, sebenarnya project ini adalah project yang saya kerjakan di bulan ramadhan, tapi sekarang saya jadi ketagihan buat ikutan showcase, hehehe.
+
+    Tech Stack
+    Client: ReactJS, TailwindCSS,  SweetAlert2, Iconify, diceBear, swiperJS
+
+    Others: Figma, Github + gh-pages 
+
+    Fitur
+    Profil Idol/Member: User dapat mengklik gambar setiap idol/member, yang akan menampilkan profil singkat tentang idol/member yang dipilih.
+    Sistem Voting: user dapat memilih idol favorit nya dengan mengklik tombol Vote yang terletak di bagian #Vote Your Bias. Setiap vote/klik akan menambahkan 1 suara untuk idol yang dipilih.
+
+    informasi selebihnya ada di repo github saya, terimakasih.
+    [https://github.com/ikhlasdansantai/weeekly-website-fanmade] Repo
+    [https://ikhlasdansantai.github.io/weeekly-website-fanmade/] Live Preview
+
+<br>
+
+8.  [https://instafam.vercel.app/]  
+     **wira**
+
+    Halo semuanya, 
+    Perkenalkan nama saya Wira dari Bali, Ini adalah showcase pertama dan juga project Nextjs pertama saya, yang tentunya masih banyak kekurangan. Dengan harapan memperlihatkan project ini disini ada masukan yang positif dan membangun
+
+    Tech Stack ;
+        React
+        Nextjs 13 (pages directory)
+        Tailwind CSS
+        Firebase
+        NextAuth
+        Zustand
+
+    Feature;
+        Create an account
+        Login
+        Log out
+        Like and comment on posts
+        Follow and unFollow other users
+        Search for users by username or name
+        View your profile
+        Crop photo before upload
+        View other users' profiles
+        View your feed
+        Save posts to your profile
+        View your saved posts
+        Create a post
+        View your posts
+        Delete your posts
+        Simple detection of nudity in images while create a post
+        Navigate to spesific post,
+        Copy post link
+        Share post
+        Responsive design
+        Update your posts
+        Report posts
+        Dark mode toggler
+        Send messages to other users
+
+    source code:https://github.com/wirayuda299/Instafam.git
+    Live Preview: https://instafam.vercel.app/
+
+<br>
+
+9.  [https://luminous-2110.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamualaikum warahmatullahi wabarakatuh. 
+
+    Perkenalkan, Saya Umar dari Kendari. Saya seorang mahasiswa informatika UIN SUKA Yogyakrata. Saya ingin menjadi full stack developer. Ini showcase ke-2 Saya yaitu website e-commerce bernama "Luminous" yang menjual barang-barang kebutuhan rumah tangga. Disclaimer: project ini hanya dari sisi front-end nya saja. Saya masih dalam proses belajar back-end
+
+    Tech stack: Tailwindcss, ReactJS
+
+    Link demo: https://luminous-2110.netlify.app/
+
+    Link repo: https://github.com/jihadable/myproject/tree/master/luminous
+
+    Silahkan berikan feedbacknya.
+
+<br>
+
+10.  [https://rakhacell.netlify.app/]  
+     **Rakay**
+
+    Assalamualaikum pak dhika dan kawan2 WPU semuanya
+
+    Perkenalkan nama saya Rakha, Saya senang bisa berbagi project dan showcase pertama saya di sini. Project ini adalah pembuatan website untuk toko saya sendiri yang berlokasi di rumah. Dalam showcase ini, saya ingin mendapatkan saran dan kritik dari Kawan2 semua mengenai desain dan performa website yang telah saya buat. Terima kasih atas perhatiannya!
+
+    Tech Stack :
+    Reactjs
+    Material ui
+    Scss
+    Firebase
+    Redux
+    React-slick
+
+    Fitur: 
+    Login
+    Register
+    Login dengan google
+    Reset password
+    Edit username & foto profile khusus yang login dengan register
+    Komentar & report
+    Search & filter pada product
+    User role
+
+    Link demo: https://rakhacell.netlify.app/
+
+<br>
+<br>
