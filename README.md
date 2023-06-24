@@ -485,3 +485,220 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 24 Juni 2023
+
+1.  [https://soerahmat69.github.io/ngajax/]  
+     **VvazoLsky**
+
+    Assalamualaikum
+
+    selamat malam pak Sandhika dan teman teman, Perkenalkan nama saya tirta, disini saya mau showcase website portfolio pertama buatan saya
+
+    tech :
+    -html
+    -css
+    -javascript
+    -bootstrap
+
+    link: https://tirtadhi.github.io/
+    Repo: https://github.com/tirtadhi/tirtadhi.github.io
+
+    Terima kasih🙏
+
+<br>
+
+2.  [https://www.drian.my.id/]  
+     **Drian Tcho**
+
+    Bismillah semoga pak dika dan warga wpu selalu di beri kesehatan dan rezeki,
+    izin ikutan showcase project web portofolio simple menggunakan:
+    React JS
+    Tailwind CSS
+    btw masih berantakan
+
+    *note, untuk bagian Contact Me masih belum berfungsi
+    Link Repo: https://github.com/Drian-key/new-portofolio
+    Link Website: https://www.drian.my.id/
+
+    Sekian showcase saya terimakasih.
+
+<br>
+
+3.  [https://imamrifaidev.my.id/]  
+     **Imam Rifai**
+
+    Halo pak dika dan temen - temen semua, perkenalkan nama saya Mohammad imam Rifai, saya berasal dari Indramayu Jawa Barat.
+
+    Izinkan saya untuk menunjukkan hasil begadang saya :). Ini adalah website portofolio sederhana yang di buat menggunakan: 
+
+    • Next js 13 dan 
+    • Tailwind CSS
+
+    Link website : https://imamrifaidev.my.id/
+    Github : https://github.com/mohimamrifai
+
+    Terima kasih semua 🙂 
+
+<br>
+
+4.  [https://ceritain.otakuline.id/]  
+     **CicakUngu**
+
+    Assalamualaikum pak Dhika dan teman-teman semua. Perkenalkan saya rijal, dan ini adalah showcase ke dua saya.
+
+    Di showcase kali ini saya membuat sebuah website yang bernama ceritain. Di website ini kalian bisa menuliskan hal-hal yang ingin kalian ceritakan seperti menulis keluh kesah, curhatan kalian, dan lain sebagainya. Oh iya, website ini masih dalam pengembangan, jadi mungkin saja kalian akan menemukan beberapa bug ketika membuka website ini.
+
+    Tech Stack :
+    Typescript
+    Tailwind CSS
+    Nuxt JS
+    Hapi JS
+    Nodemailer
+    PostgreSQL
+
+    Link website : https://ceritain.otakuline.id/
+    Github : https://github.com/euxzy/ceritain
+
+<br>
+
+5.  [https://basement.up.railway.app/]  
+     **Cup**
+
+    Halo Pak Sandhika Galih & teman-teman WPU. Setelah pada kesempatan sebelumnya saya membagikan Lyricstify, kali ini saya ingin membagikan lagi Basement Chat - sebuah package (via composer) untuk menambahkan real time chat widget ke Laravel.
+
+    Core tech stack yang dipakai disini:
+    PHP
+    Laravel
+    TypeScript
+    Alpine.js
+    TailwindCSS
+
+    Miscellenaous tech stack lain:
+    GitHub Actions (buat CI/CD)
+    PHP Unit (buat unit dan integration tests)
+    Laravel Dusk (dipakai untuk browser tests)
+    Docker (untuk development container sama keperluan biar browser testing-nya bisa konsisten di berbagai platform)
+
+    Instalasi, fitur, demo dan cara konfigurasi dapat dilihat pada
+    Repo: https://github.com/basement-chat/basement-chat
+    Demo: https://basement.up.railway.app/
+
+<br>
+
+6.  [https://www.forestapi.my.id/]  
+     **Rio Agung Purnomo**
+
+    Assalamualaikum
+
+    Halo selamat malam Pak Dhika dan temen temen WPU lainnya, perkenalkan nama saya Rio Agung Purnomo dan saya ingin fokus menjadi Web Developer dengan belajar otodidak selama 3 Tahun dan saya juga sangat suka belajar di WPU, channel favorit saya dan sangat disarankan untuk belajar coding atau bagaimana menjadi Web Developer pembelajaran yang jelas dan sangat mudah untuk dimengerti, sebelumnya Terimakasih untuk Pak Dhika telah memberikan ilmu yang sangat penting untuk seseorang yang ingin mempunyai skill dan prestasi untuk masa depan.
+
+    Ini pertama kali nya saya showcase projek, projek yang saya buat ini seperti penyedia API dan saya sediakan gratis tanpa apikey ataupun limit yang bisa digunakan kapan saja dan dimana saja dan saya membuat API tersebut dengan menggunakan teknik scraping.
+
+    Tech Stack :
+    HTML
+    CSS
+    Javascript
+    Tailwind CSS
+    Flask
+    Python
+
+    Website : https://www.forestapi.my.id/
+
+<br>
+
+7.  [https://smartcultureid.vercel.app/]  
+     **B...**
+
+    Halo Pak Dhika dan Teman-teman semua!
+
+    Perkenalkan saya Badzlan, Saya ingin membagikan project tim saya bersama 2 teman saya lainnya yakni Ridwan dan Abiyyu. Project ini bernama Smart Culture ID. Tujuan dari project ini adalah untuk memperkenalkan serta memfasilitasi Informasi tentang Budaya Provinsi yang ada di Indonesia. Selain itu, project ini juga mendapatkan perhargaan sebagai Juara 1 pada I/O Fest Web Development Competition yang diadakan oleh BEM FTI Universitas Tarumanagara pada 25 Mei 2023 kemarin.
+
+    Tech Stack :
+    • Next JS
+    • Nextra
+    • TypeScript
+    • TailwindCSS
+
+    Fitur - fitur :
+    • Konten Budaya
+    • Search / Pencarian
+    • Dark Mode
+    • Feedback*
+    • Edit Konten*
+
+    *(fitur feedback dan edit konten akan mengarahkan ke repository github)
+
+    Link Project : https://smartcultureid.vercel.app/
+    Link GitHub : https://github.com/badzlan/smart-culture-id/
+
+    Note : Project ini merupakan Project Open-Source. Jika teman-teman menemukan bug ataupun ingin membantu menambahkan budaya dari daerah teman-teman, jangan sungkan untuk berkontribusi ya.
+
+    Terima kasih semuanya 🙏
+
+<br>
+
+8.  [https://twelvesoftware1.vercel.app/]  
+     **Pahan**
+
+    Assalamualaikum wr wb
+
+    Halo selamat malam Pak Dhika dan temen-temen WPU lainnya, perkenalkan nama saya Farhan Mulyaputra.
+    Ini pertama kali nya saya showcase projek, projek yang saya buat adalah web kelas tujuannya untuk menyimpan foto-foto kami di kelas 12.
+    Oiyaa, website ini masih dalam pengembangan jadinya belum terlalu responsive dan di beberapa device akan terasa lag ketika membukanya,maap yee hehehe..
+
+    note, untuk bagian Gallery menggeser gambarnya di tahan tombol shiftnya(belum buat arrow untuk menggesernya)
+
+    Tech Stack :
+    • VueJs 3
+    • TailwindCSS
+    untuk data siswa saya letakkan di assets dalam bentuk file json
+
+    Link Project : https://twelvesoftware1.vercel.app/
+    Link GitHub : https://github.com/frhnn772/web-kelas
+    Link Design Figma : https://www.figma.com/file/zGjdfQhT6LOLhfU7zisjwz/Untitled?type=design&node-id=0%3A1&t=JGLJrlf8Bz0PKGd1-1
+
+    mon maap nii ee untuk teman-teman kelas yang mukanya gamau di post hahahaha...
+    Sekian Terima Gajii..🙏🙏
+
+<br>
+
+9.  [https://iqbalnetwork-v2.vercel.app/]  
+     **Alex de Mute**
+
+    Assalamualaikum
+    Halo Pak Dhika dan Teman-teman semua!
+
+    Perkenalkan saya Rajiph iqbal Ghandi dan biasa dipanggil Iqbal. saya seorang freelancer fullstack developer, saya ingin showcase project portfolio saya.
+    Teknologi yang digunakan :
+    Reactjs
+    Framer Motion
+    Tailwind css
+
+    Editor :
+    Jetbrains Intellij ultimate
+
+    Link project: https://iqbalnetwork-v2.vercel.app/
+    Link Github: https://github.com/felixa1243/portfolio-v2
+
+<br>
+
+10.  [https://github.com/azvyae/react-use-slots#readme]  
+     **azvyae**
+
+    Assalamualaikum Pak Sandhika, terakhir ngirim showcase project ke sini sebelum skripsian hehe, mumpung sekarang lagi anget React sama Typescriptnya jadi sekalian mau showcase project (npm package) ada dua npm package simpel di sini.
+
+    WebComponent slot style, buat React
+    Projectnya simpel tapi harusnya support sama project react apapun, sama udah ada type inferencenya juga karena packagenya dibikin pake typescript. Ini hasil forking project orang sih, tapi memang yang ini lebih performance friendly dan cocok kalau mau dipake sama typescript. Package ini berguna buat nerapin slot yang gayanya kaya di Vue/Angular/Laravel Blade Components di react
+
+    Repo : https://github.com/azvyae/react-use-slots#readme
+
+    React Worker Hook
+    Package satu ini berguna buat manfaatin Web Worker buat jalanin proses komputasi yang cukup intensif di background jadi bisa ngatasin blocking di UI aplikasi ketika ada proses yang berat.
+
+    Repo : https://github.com/azvyae/react-worker-hook#readme
+
+    Karena ini sebenernya cuma npm package biasa jadi harusnya bisa sekalian dua-duanya dicoba 😁, barangkali ada masukan dari temen-temen yang udah lama main di JS sama React, thanks
+
+
+<br><br>
