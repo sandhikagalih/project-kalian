@@ -702,3 +702,184 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 
 <br><br>
+
+### 8 Juli 2023
+
+1.  [https://fresh4u.site/]  
+     **Rizky Alfiansyah**
+
+    Assalamualaikum Pak Dhika, saya rizky dan kawan kawan raihan, farrel mau showcase project UKK kelas X, jadi saya buat web fake e commerce jadi kalo di refresh ke reset lagi hehehe, gambar2 product di web nya aga burem kita kesusahan cari gambar2 jadi sedapetnya aja, kira kira pembuatan webnya 2 mingguan lebih, dan role role  nya kalo saya yang megang js/react kalo si raihan html/css dan si farrel figma/design, projectnya juga belum sempurna bgt, buat saya yang megang js ini merupakan projek pertama kali yang luamayan kompleks bagi saya mulai dari pembuatan fitur add to cart, wishlist dll jadi kalo ada error mohon di maklumi heheh , pasti nnti juga kena revisi dari guru hahaha, waktu pengeerjaannya juga paling 3-4 jam perhari karna emang sekitar segitu kita bisa megang laptop di pondok , belum lagi ada tugas pelajaran lain, ini projek kedua saya dan kawan2 , sebelumnya saya kirim project web quran.... minta koreksinya dong pak dika hehehe...
+
+    fitur:
+    Add to cart
+    Wishlist
+    Checkout
+    dll
+
+    teknologi:
+    React (Vite)
+    TailwindCSS
+    Framer Motion
+    Redux Toolkit
+    React Hot Toast
+    Swiper
+    React Router Dom
+
+    web: https://fresh4u.site/
+    kalo yang di atas gabisa: https://fresh4u.netlify.app/
+    repo:  https://github.com/IkkYa/pas-x-s2
+
+    ini projek yang kita buat semaksimal mungkin jadi maaf kalo banyak kekuarangannya, soalnya dah mepet sama jadwal presentasi tgl 14 juni , ini juga dah kena revisi, contoh fake login (localstorage) jadi kalo udah register kalo di refresh gausah register lagi tapi masi banyak bug nya soalnya ngerjain cuma 2jam doang hehe gada waktu soalnya dah mepet pengumpulan revisi , total 8 revisi kurang lebih,,, di inspect pa dika biar tau datanya dah ada di localstorage atau belum.. soalnya banyak bug 
+
+
+<br>
+
+2.  [https://zeeb-tournament-landing.vercel.app/]  
+     **Kang Error**
+
+    semangat pagi/siang/sore guys perkenalkan dahulu nih namaku pilipus,ijin mau showcase project hehe,project yang bernama zeeb Tournament
+    yaitu tournament mobile Legends buatan saya dan temen temen saya. berhubung saya bisa membuat website jadi saya usulkan temen saya untuk buatin website tournamentnya,tetapi gatau tornament bakal jalan / tidak berhubung gak ada kepastian jadi saya hanya buat uinya saja belum + backend hehe.
+
+    Teknologi:Next js,Swipper js,Tailwind,framer Motion
+
+
+    Demo: https://zeeb-tournament-landing.vercel.app/
+    RepoGithub: https://github.com/PILIPSCODE/ZeebTournamentLanding
+
+<br>
+
+3.  [https://info-jadwal-sholat.vercel.app/]  
+     **Haikel**
+
+    Assalamu'alaikum pak Dhika dan temen-temen semua. Saya Haikel, izin showcase project kedua saya, yakni jadwal-sholat.
+
+    jadwal-sholat adalah sebuah Website untuk mendapatkan Jadwal Sholat dari berbagai daerah di Indonesia. Selain itu, dilengkapi dengan Asma'ul Husna serta Baca Al-Qur'an. Awalnya, saya buat ini agar memudahkan saya sendiri dalam melihat waktu sholat di daerah saya, tapi kemudian saya kembangkan lagi projectnya.
+
+    Sedikit cerita pak, saya pernah tambahin jadwal Puasa Sunnah disini, tapi rupanya pas masuk 2023, data dari API nya ga sesuai lagi, karena cuma sampai 2022. Jadi saya nonaktifin dulu sampai nanti ada API puasa sunnah yang baru muncul.
+
+    Teknologi yang digunakan:
+
+    Next JS
+    Typescript
+    Windi CSS
+    SWR
+    Framer Motion
+    Zustand
+
+    Live preview: https://info-jadwal-sholat.vercel.app/
+    Repository: https://github.com/haikelz/jadwal-sholat
+
+    Sekian dari saya, mohon kritik dan sarannya dari pak Dhika dan temen-temen semua. Btw thanks pak Dhika di beberapa live sebelumnya udah kasih feedback ke Personal Website saya, serta ilmu yang udah bapak bagikan🙏.
+
+    Terima kasih 🙂
+
+
+<br>
+
+4.  [https://acakkelompok.jawaireng.com/]  
+     **aansucc**
+
+    Assalamualaikum Pak Sandhika dan kawan-kawan, perkenalkan saya Aan. Izin showcase project sederhana(benar-benar sederhana, gak bohong saya) pertama saya. Perkenalkan Aplikasi Acak Kelompok menggunakan CI 4.
+
+    Saya mendapatkan ide ini karena dari pak Dhika showcase 3 minggu kemarin(kalo tidak salah), dan juga susahnya membagi kelompok, karena web web yang  menyediakan acak siswa tidak ada fitur grupnya, jadinya susah jika ingin membagi kelompok yang semisal cewe dan cowo digabung, atau yang pintar-pintar dipisah.
+
+    Demo: https://acakkelompok.jawaireng.com/
+    Repo: https://gitlab.com/aansuseno/acak-kelompok
+
+    Sekian mohon kritik dan sarannya kawan. Terimakasih.🙏
+
+<br>
+
+5.  [https://soerahmat69.github.io/MEDCOW/]  
+     **VvazoLsky**
+
+    Assalamualaikum pak sandhika dan minasan semuanya, saya surahmat izin showcase project saya dari tugas  matkul sistem pakar, studi kasus mendeteksi gejala penyakit pada sapi. Pada beberap fitur seperti  href pada api belum saya buat tapi bakal saya launch
+
+    Teknologi yang di gunakan:
+    html
+    js
+    tailwindcss
+
+    Mohon kritik dan sarannya. 
+
+    Link: https://soerahmat69.github.io/MEDCOW/
+
+<br>
+
+6.  [https://puri.systems/]  
+     **Tifan**
+
+    Halo Teman2 dan Pak Shandika, perkenalkan namaku Tifan
+
+    Aku mau showcase project skripsi ku: Puri
+
+    ✨ Puri adalah aplikasi Order Management System untuk untuk internal processing di salah satu perusahaan di kota Semarang. Jadi aplikasi ini dibuat untuk menjembatani antara 2 divisi di perusahaan tersebut. Fitur utama nya aplikasi ini bisa melacak secara realtime pesanan yang masuk, juga ngasih push notification ke device. Aplikasi ini juga PWA-compliant, jadi installable.
+
+    Libraries: React, Chakra UI, React Router, React Hook Form, React Select, TanStack Table
+    Backend Firebase (Authentication, Realtime Database, Cloud Messaging, Cloud Functions)
+    Hosting: Vercel
+
+    Demo: https://puri.systems/
+    Repo: https://github.com/tifandotme/puri 
+
+
+<br>
+
+7.  [https://nextjs-tailwind-blog-appdir.vercel.app/]  
+     **M.FajrulAmin**
+
+    Halo Teman2 dan Pak Shandika, perkenalkan namaku Fajrul
+
+    Aku mau tanya dan minta pendapat mengenai UI 
+
+    SIMPLE BLOG (FRONT END)
+
+    Libraries: Next13,tailwind
+    Hosting: Vercel
+
+    Demo: https://nextjs-tailwind-blog-appdir.vercel.app/
+    Repo: https://github.com/fajrul-id/nextjs-tailwind-blog-appdir
+
+<br>
+
+8.  [https://random-group-maker.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum 
+
+    Saya Umar dari jogja, ini showcase ke-3 saya, prejoct ini adalah website yang bisa membuatkan daftar random group. Ide ini Saya dapat tentunya dari pengalaman di kampus yang mana cukup sulit dalam menentukan kelompok pembelajaran.
+
+    Tech stack: SASS, Vanilla JS, JQuery
+
+    Link web: https://random-group-maker.netlify.app/
+    Link github: https://github.com/jihadable/myproject/tree/master/random-group-maker
+
+<br>
+
+9.  [https://ihsansfd.github.io/]  
+     **ihsansfd**
+
+    Hai guys.
+
+    Perkenalin nama saya Ihsan Dari Jakarta. Di sini saya mau showcase situs portfolio saya yg baru saja sy redesign. Di situs ini jg ada showcase bbrp proyek sy yg lainnya. Any feedback is welcome 😉 Berikut linknya: https://ihsansfd.github.io/
+
+    Repo: https://github.com/ihsansfd/ihsansfd.github.io
+
+    Tech stacks: css, html, js.
+
+
+<br>
+
+10.  [https://web-kasir-mhdgoncang.netlify.app/]  
+     **~Cang~**
+
+    Halo nama saya goncang saya dari Sumatra Utara saya mau showcase project saya yang merupakan website kasir yang bisa melihat menu dan menghitung jumalh pesanan dan harga pesannya dan ini cuman frontend.
+    Teknologi yang di gunakan 
+    react js
+    react bootstrap
+
+    demo https://web-kasir-mhdgoncang.netlify.app/
+    Git Hub https://github.com/goncang1512/website-kasir
+
+<br><br>
+
