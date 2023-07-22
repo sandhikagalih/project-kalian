@@ -706,7 +706,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 ### 8 Juli 2023
 
 1.  [https://fresh4u.site/]  
-     **Rizky Alfiansyah**
+     **Rizky**
 
     Assalamualaikum Pak Dhika, saya rizky dan kawan kawan raihan, farrel mau showcase project UKK kelas X, jadi saya buat web fake e commerce jadi kalo di refresh ke reset lagi hehehe, gambar2 product di web nya aga burem kita kesusahan cari gambar2 jadi sedapetnya aja, kira kira pembuatan webnya 2 mingguan lebih, dan role role  nya kalo saya yang megang js/react kalo si raihan html/css dan si farrel figma/design, projectnya juga belum sempurna bgt, buat saya yang megang js ini merupakan projek pertama kali yang luamayan kompleks bagi saya mulai dari pembuatan fitur add to cart, wishlist dll jadi kalo ada error mohon di maklumi heheh , pasti nnti juga kena revisi dari guru hahaha, waktu pengeerjaannya juga paling 3-4 jam perhari karna emang sekitar segitu kita bisa megang laptop di pondok , belum lagi ada tugas pelajaran lain, ini projek kedua saya dan kawan2 , sebelumnya saya kirim project web quran.... minta koreksinya dong pak dika hehehe...
 
@@ -880,6 +880,207 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
     demo https://web-kasir-mhdgoncang.netlify.app/
     Git Hub https://github.com/goncang1512/website-kasir
+
+<br><br>
+
+### 22 Juli 2023
+
+1.  [https://github.com/pepega90/rumah_susun]  
+     **dihpan**
+
+    Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, seperti biasa kalau ada saya pasti tidak lain dan tidak bukan, showcasenya pasti game akwoakwoa. baik, untuk game kali ini saya beri nama "Rumah Susun". gamenya itu  mirip seperti "City Bloxx" zaman game Java (Symbian), nah ini saya buat dengan bahasa pemrograman Lua teman-teman. dikarenakan saya ingat pernah belajar Lua, namun gak pernah bikin game make Lua, jadi baru keinget sekarang.
+
+
+    Demo:  untuk demonya teman-teman bisa clone reponya, lalu pilih folder build. dan jalankan "game.exe"
+
+    Control: 
+    Tekan "Space" untuk menjatuhkan rumah
+
+
+    Github Repo: https://github.com/pepega90/rumah_susun
+
+
+    Teknologi yang digunakan:
+
+    Lua (https://www.lua.org/)
+    LÖVE (https://love2d.org/)
+
+    Kurang lebihnya mohon maaf, terima kasih. 
+
+
+<br>
+
+2.  [https://t3-twitter-clone-nine.vercel.app/]  
+     **andrian1202**
+
+    Hai semuanya
+
+    Perkenalkan nama saya Andrian, kali ini saya izin showcase project twitter clone saya. Project ini dibuat menggunakan T3 Stack dan merupakan fullstack web app.
+
+    Tech stacks: Nextjs, Typescript ,Prisma, tRPC ,Zustand, Tailwind CSS, Upstash, Supabase, Framer motion
+
+    Repo: https://github.com/madbull12/t3-twitter-clone
+    Demo: https://t3-twitter-clone-nine.vercel.app/
+
+<br>
+
+3.  [https://www.npmjs.com/package/@dimfu/recipe-scraper]  
+     **a...**
+
+    Assalamualaikum
+
+    Halo Pak Dhika dan temen-temen semua. Perkenalkan saya Mufid mau berbagi library yang baru saya kembangkan. Singkatnya, library ini mengambil data resep makanan dari website-website tertentu yang menggunakan microdata atau JSON-LD.
+
+    Library ini masih jauh dari kata sempurna dan masih terdapat beberapa kekurangan, oleh karena itu saya mengharapkan saran dan kritik dari Pak Dhika & teman-teman.
+
+    Teknologi yang digunakan:
+    axios
+    cheerio
+    commander
+    iso8601-duration
+    jsonschema
+    microdata-node
+
+    Link NPM: https://www.npmjs.com/package/@dimfu/recipe-scraper
+    Link repo:  https://github.com/dimfu/recipe-scraper
+
+    Terimakasih 🙏
+
+<br>
+
+4.  [https://pahlawan-rupiah.netlify.app/]  
+     **n...**
+
+    Halo pak dhika dan teman-teman👋 Saya Rama Nusa Bakti ingin showcase project sederhana saya. Kali ini saya membuat aplikasi Augmented Reality. Untuk objeknya saya menggunakan uang rupiah.
+
+    Aturan main:
+    Scan bagian pahlawan pada uang rupiah. Ketika kalian scan uang rupiah maka akan muncul kartu bergambar burung Garuda. Klik kartu tersebut untuk membuka karakter baru sesuai pahlawan yang ada pada uang rupiah tersebut. Selain itu, ada deskripsi detail mengenai pahlawan tersebut.
+
+    Teknologi: A-frame, Mindar & Framework7
+
+    Link:
+    https://pahlawan-rupiah.netlify.app/
+
+<br>
+
+5.  [https://github.com/RidwanMasykur/groomsproject]  
+     **Ridwan.**
+
+    Assalamualaikum Warahmatullahi Wabarakatuh
+    Salam Sejahtera Bagi Kita Semua
+    Om Swastiastu
+    Namo Budaya Salam Kebajikan
+
+    Halo Pak Sandhika Galih beserta teman - teman titik koma semua. Perkenalkan nama saya Mohamad Ridwan Masykur. Saat ini saya menempuh perkuliahan di Universitas Jember, Fakultas Ilmu Komputer, Program Studi Teknologi Informasi. Ini adalah projek akhir saya di salah satu matkul yang saya tempuh. Website ini dinamakan "GROOMS" (Budidaya Jamur Tiram), cukup sederhana karena hanya menggunakan Bootstrap. Framework yang saya pakai adalah Laravel.  Pembuatan website ini dibantu oleh teman saya yaitu Guntur Wahyudi dan Zulfan Riski Darussalam. Terima kasih banyak teman - temanku.
+
+    Untuk menjalankan websitenya silahkan nyalakan XAMPP terlebih dahulu dengan MySQL juga. Jangan lupa juga untuk di migrate sebelum dideploy.
+
+    Fitur :
+    Login sebagai petani jamur
+    Login sebagai mebel kayu
+    Forum dengan postingan foto dan komentar (Khusus sebagai petani jamur saja)
+    Penjadwalan
+    Belanja
+    Akun
+
+
+    Jalankan perintah ini untuk migrate :
+    php artisan migrate:fresh --seed
+
+    Mohon maaf untuk websitenya tidak di hosting, karena tidak punya uang. Indonesia negaraku, Niagahoster webhostingku, WPUNPAS kode kuponku.  :iwak_hehe: :iwak_hehe: 
+    Sekian dari saya, jika ada kesalahan saya mengucapkan mohon maaf yang sebesar - besarnya. Terima kasih. 
+
+    GitHub : https://github.com/RidwanMasykur/groomsproject
+    LinkedIn : https://www.linkedin.com/in/mohamadridwanmasykur/
+
+<br>
+
+6.  [https://www.ysearch.site/]  
+     **Y...**
+
+    Assalamualaikum pak Dika
+    Nama saya Yuda Firmansyah, ijin mau showcase projek search engine lagi, 
+    Projek search engine ini sebelumnya sudah pernah showcase tanggal 27 mei no 1, Alhamdulillah 
+    projek search engine saya ada pembaharuan pada algoritma nya saya kasi nama Alya
+    Dengan pencarian yang lebih baik lagi
+    Web: https://www.ysearch.site/
+    Teknologi :
+    Laravel
+    jQuery
+    Phpmyadmin
+    Javascript
+    Css
+    Bootstrap
+    MdBoostrap
+
+    Web : https://www.ysearch.site/
+    Linkdin :  https://www.linkedin.com/in/yudafs
+
+<br>
+
+7.  [https://ridhosetia.github.io/ulartanggagame.github.io]  
+     **Ridho Setiawan**
+
+    Assalamu'alaikum Pak Dhika dan teman-teman, gimana kabarnya semoga sehat selalu ya, aamiin. Sebelumnya perkenalkan saya Ridho Setiawan salah satu siswa dari MAN 2 KUTAI KARTANEGARA, kali ini saya mau showcase project website game ular tangga yang saya kembangkan untuk Lomba Karya Tulis Ilmiah bantu do'akan semoga dapat hasil yang memuaskan ya teman-teman 🙏🏻, didalam program nya masih banyak baris code yang tidak rapi, lalu banyak juga code yang tidak efektif untuk digunakan. Saya butuh sekali saran dari Pak Dhika dan teman-teman sekalian, semoga kedepannya dapat membuat program yang lebih efektif lagi. 
+
+    Tekhnologi yang saya gunakan:
+
+    Html
+    Css
+    JavaScript
+    Library splide.js
+
+    Link repo github : https://ridhosetia.github.io/ulartanggagame.github.io
+
+    Terimakasih 🙏🏻
+
+<br>
+
+8.  [https://github.com/togihon/TToast/]  
+     **Togihon**
+
+    Hai semua, saya ingin membagikan sebuah project kecil yaitu sebuah library javascript yang simple. Dengan menggunakan library ini kalian bisa memunculkan toast / snackbar pada halaman website
+
+    tech stack: js vanilla
+
+    github: https://github.com/togihon/TToast/
+
+<br>
+
+9.  [https://nikyouva.ti20b.my.id/]  
+     **Ulva Fathiyyah**
+
+    Assalamualaikum warahmatullahi wabarakatuh, hello semuanya minasan, kenalin aku ulva, aku baru aja nyelesaiin playlist laravel 8 nih, nah disini aku coba buat project laravel  "belajar aksara dan kosakata Jepang" ,  bisa nih temen" review dan jangan lupa berikan kritikan atau saran pada project saya kali ini  terimakasih 😊
+
+    Web ini menampilkan data huruf hiragana,katakana, materi pembelajaran, dan Kosakata. Untuk huruf hiragana dan katakana dilengkapi dengan gambar dan juga audio
+
+    Ini Url web project : https://nikyouva.ti20b.my.id/
+
+<br>
+
+10.  [https://brokumen.up.railway.app/]  
+     **Bagood**
+
+    pusing skripsi jadi nyoba-nyoba buat projek yang terintegrasi ai buat refreshing (melupakan skripsi), kali ini projek web dengan judul ✊ "Brokumen - ngobrol bareng dokumen" , sesuai namanya kita bisa ngobrol, chat, atau tanya jawab dengan dokumen kita 📃.  hal itu bisa di lakukan dengan bantuan fitur embedding text dari open ai serta library langchain
+
+    💻 web ini di bangun dengan :
+    next js
+    tailwind
+    langchain js
+    open ai --> gpt 3.5 turbo dan text-embedding-ada-002
+    pinecone --> vector database
+    cloudflare R2 --> object storage
+    railway --> deploy dan hosting
+
+    🎨 Demo : https://brokumen.up.railway.app/
+    🧑‍💻 Repo : https://github.com/bagusindrayana/brokumen_test
+
+    ⚠️ Limitasi/Batasan
+    baru support pdf
+    pdf yang bisa di pakai hanya yang searchable/textnya bisa di seleksi (pdf hasil scan dokumen/gambar harus di konvert dulu pakai ocr dan sebagainya)
+    jumlah text/kalimat terbatas
+
+    untuk web demonya menggunakan api pribadi jadi sewaktu2 demonya bakal down
 
 <br><br>
 
