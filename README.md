@@ -1084,3 +1084,231 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+### 30 Juli 2023
+
+1.  [https://codelillah.com]  
+     **depran**
+
+    Assalamu’alaikum Pak Shandika  dan teman-teman Web Programming UNPAS, Saya Ade Pranaya dari tim Codelillah ingin share project untuk kita yang ingin belajar / bingung mau design atau coding apa, project ini menyediakan berbagai macam studi kasus based on problem client, dimana kita seakan akan berhadapan langsung dengan client yang sedang menghadapi masalahnya, harapan nya kita bisa melatih dan memberikan solusi yang kreatif yang dapat menyelesaikan masalah client kita baik dari sisi design atau pun coding.Selain itu project ini juga menyediakan UI dan Kode secara gratis. Yang bertujuan untuk melatih  teman teman untuk slicing dari design yang telah disediakan dijadikan sebuah code (web/mobile/…)
+    Link: https://codelillah.com
+
+    - Teknologi yang digunakan
+    - Laravel 8
+    - Bootstrap 5
+    - Alpine JS
+    - Filament (admin only)
+
+    Terimakasih semuanya, mohon kritik/sarannya semoga project ini bisa bermanfaat untuk kita semua
+
+<br>
+
+2.  [https://marketplace.visualstudio.com/items?itemName=hasheemidev.raqim]  
+     **Tank ~~jancox~~**
+
+    Assalamualaikum Pak Sandhika dan teman-teman Web Programming UNPAS, saya Hasheemi Rafsanjani bisa dipanggil has, akan menunjukkan projek vscode extension bernama "Raqim" yang merupakan singkatan dari (reminder adzan quran imsakiyah manaqib). Dari namanya saja projek ini khusus untuk programmer muslim yang suka lanjut ngoding pas dengar suara adzan
+
+    juga dilengkapi audio alquran per juz oleh qori legendaris H muammar Z.A dan manaqib Syaikh Abdul Qadir Aljaelani majlis Al khidmah. Audio disini dijalankan di latar belakang terminal jadi disarankan menginstall mpg123 atau sejenisnya (mplayer,afplay) agar bisa berjalan
+
+    projek ini sebenarnya sudah lama stuck karena kekurangan library yang sesuai tapi setelah kang dea buat vscode extension juga, saya memutuskan untuk lanjut menyelam ke lautan npm
+
+    projek ini dikerjakan di linux jadi saya perlu bantuan teman teman untuk mengetest-nya di windows dan macos. kalau ada yang tidak bekerja atau bug bisa open diskusi di issue github atau ⁠diskusi-programming ,juga open request fitur
+
+    https://github.com/hasheemi/raqim-vscode
+    https://marketplace.visualstudio.com/items?itemName=hasheemidev.raqim
+
+    terima kasih
+
+<br>
+
+3.  [https://talkk-gpt.netlify.app/]  
+     **Manusia.**
+
+    Selamat Malam Pak Dhika dan Teman2 semua.
+    Perkenalkan nama Saya Milan, ini project kedua saya
+
+    Ini website ChatBot yang sangat sederhana yang menggunakan api openai
+    Ini Saya masih belajar, jadi mohon saran dan masukkannya ya Pak Dhika dan teman2 🙏
+
+    Teknologi yang digunakan:
+    HTML
+    CSS
+    JavaScript
+
+    Website: https://talkk-gpt.netlify.app/
+    Github: https://github.com/milanlizriadi/TalkGPT
+
+    Udah itu ajah Makasih Semuanya
+
+<br>
+
+4.  [https://notabase.netlify.app/]  
+     **StechySai?**
+
+    Assalamualaikum, Selamat Siang Pak Dhika dan Teman-teman WPU semua!! Nama saya Said, Umur 15. 
+
+    Kali ini, saya membuat website aplikasi sederhana dengan API Javascript LocalStorage tentang aplikasi pencatatan penjualan. Kedepannya, saya ingin memberikan aplikasi ini ke orangtua saya karena orangtua saya adalah seorang pedagang:) . Memang masih banyak bug yang belum terselesaikan. Jadi boleh sobat WPU analisis aplikasinya? Hehe Makasih!!
+
+    Oh iya, Aplikasi ini juga dapat melakukan scan/generate barang menggunakan QR Code.
+
+    Beberapa Fitur:
+    CRUD
+    Input Data
+    Otomatis Kurangi Stok
+    Generator QR Barang
+    Kasir dengan fitur Scan QR
+    Histori pembayaran dengan tanggal dan waktu
+    Fitur Pencarian Barang
+    Double Akun yang mempunyai hak akses berbeda (Administrator/Non Administrator)
+    Ganti nama/sandi akun
+    Ganti Hak akses akun
+    Logout Akun
+    Fitur Ganti Tema Aplikasi (Gelap & Terang)
+    Mode Fullscreen
+    Fitur Backup & Restore Data
+    Fitur Layanan dan masukan yang tersambung ke email saya.
+    Reset Data Aplikasi
+    Double Click Kode untuk Salin
+    Dll (masih ada beberapa yang tidak saya tulis).
+
+    Teknologi yang saya gunakan:
+    HTML
+    CSS
+    JavaScript
+    jsqr & qrcodejs
+    Sweetalert2
+    IonIcons
+
+    Website: https://notabase.netlify.app/
+
+    GitHub Repo: https://github.com/stechyy/Notabase.git
+
+
+    Terima Kasih semuanya, oh iya kalau bingung sama aplikasinya bisa dilihat di file readme atau PDF yang sudah saya sematkan di repository ya
+
+<br>
+
+5.  [https://anime-nu-rosy.vercel.app/]  
+     **kuro**
+
+    Assalamualaikum
+    Halo pak Dika sudah lama saya tidak showcase website saya nah saya kali ini mau showcase project website anime  saya yang sederhana. Website ini adalah tempat Nonton anime gratis yang saya kerjakan di waktu liburan ini untuk mengisi waktu gabut saya di kos nah untuk api nya saya menggunakan api otakudesu 
+
+    Teknologi :
+    Nextjs
+    Tailwind
+
+    link : https://anime-nu-rosy.vercel.app/
+
+<br>
+
+6.  [https://hioakbarzz.netlify.app/]  
+     **Iyo**
+
+    Assalamualaikum Pak Dika dan temen temen semua. Saya Hio Fadlika Akbar biasa dipanggil Iyo, ijin ikutan showcase pertama kali, yaitu Personal Portfolio yang terinspirasi dari video Tailwind Portofolio yang pernah Pak Dika buat di youtube.
+
+    Teknologi:
+    Vue 3 (Vite)
+    Tailwind css
+    Aos
+    Sweet alert (form submission only)
+    Formspree
+
+    link: https://hioakbarzz.netlify.app/
+    repo: https://github.com/hiofadlikaakbar/Personal-Web
+    
+    note: untuk bagian cv dan linkedin blm saya isi karena profil linkedin ama cv nya masih on progress pembuatan. 
+
+    Sekian dari saya mohon kritik dan sarannya dari pak Dika dan temen temen semua terima kasih 🙏 .
+
+<br>
+
+7.  [https://swiftvel.vercel.app/]  
+     **mkhoirulhuda**
+
+    Assalamu'alaikum, pak dhika dan kawan" Semua. Nama saya Muhammad Khoirul Huda(20). Sebelum nya saya showcase "Framework CSS (valclass) ". Dan kali ini saya ingin share  "web builder" buatan saya yang bernama "Swiftvel". Platform membuat web dengan cepat, flexibel dan modal klik". 
+
+    Teknologi:
+    React JS
+    Node js
+    Midtrans
+    Mongodb atlas
+    Tailwind css
+    Express
+    Intro.js
+    AOS
+    Sweet alert 2
+    Chrompicker
+
+    link: https://swiftvel.vercel.app/ (Untuk menggunakan fitur utama nya harus buka di laptop/PC atau lebar layar min: 1000px) 
+
+    repo: https://github.com/khoirulhudaa/docsSwiftvel.git
+
+    Premium account (sample) :
+    wpu@gmail.com
+    -wpuggwp (password) 
+
+    *Akun premium menghadirkan semua fitur. 
+    
+    Fitur :
+    Add/remove components
+    Automatic build web (1 click)
+    Change Color components
+    Add animation scroll
+    Change typeface
+    Generate to React
+    Generate to PHP/HTML
+    Premium account purchase(100k)
+
+    Gmail : muhammadkhoirulhuda777@gmail.com
+
+    Sekian dari saya mohon kritik dan sarannya dari pak Dika dan temen temen semua terima kasih 😄.
+
+<br>
+
+8.  [https://chentaury-v2.vercel.app/]  
+     **Megumi**
+
+    Hallo semuanyaa, halo Pak Dika, izin showcase hasil gabut saya pak. Showcase ini terinspirasi ketika saya sedang memakai Archcraft. Web ini belum responsif terhadap ipad, disarankan mengakses melalui handphone ataupun laptop.  Project ini menggunakan tailwind css saja dengan plugin flowbite 
+
+    Teknologi :
+    Tailwind CSS
+
+    Source Media:
+    icons8
+    pinterest
+    alphacoders
+
+    link: https://chentaury-v2.vercel.app/
+    repo: https://github.com/rulanugrh/namra 
+
+<br>
+
+9.  [https://my-portfolio-livid-zeta.vercel.app/]  
+     **Kholid Irfangi**
+
+    Assalamu'alaikum semuanya, izin showcase project perdana hehe, Ini adalah web portfolio sederhana saya, masih banyak kekurangan dengan desain seadanya, minta kritik dan sarannya dari Pak Sandhika dan temen temen semua agar saya bisa lebih baik lagi kedepannya, Thank you
+
+    Tech :
+    HTML
+    CSS
+    JS
+    Tailwind
+
+
+    link : https://my-portfolio-livid-zeta.vercel.app/
+    repo : https://github.com/kholidirfangi/My-Portfolio
+
+<br>
+
+10.  [https://www.memetren.my.id/]  
+     **RyugenXD**
+
+    Assalamualaikum semua nya, Izin showcase projek sosial media terkhusus nya meme, projek ini awal nya dibuat karena gabut ehh akhirnya di seriusin hingga sudah mencapai production, dan projek ini dibuat di android dengan menggunakan text editor acode dan termux, web ini hanya sesuai di layar mobile karena dibuat khusus ke web app PWA untuk dijadikan aplikasi android kedepannya.
+
+    Tech : Bootstrap 5, Javascript, Python, Flask
+    Database : Mongodb, Imgbb
+
+    Link : https://www.memetren.my.id/
+
+<br>
+<br>
