@@ -1312,3 +1312,204 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 12 Agustus 2023
+
+1.  [https://expressify-mood.netlify.app/]  
+     **n...**
+
+    Halo pak Dhika dan teman-teman 👋 Saya Rama Nusa Bakti mau showcase project se*na (tidak boleh menggunakan kata sederhana ceunah) 😁. Project kali ini saya membuat Expressify Mood, ekspresikan mood-mu sesuai emoji.
+
+    Cara main:
+    Pertama klik button "Random Emoji" utk memilih emoji secara acak. Jika emoji sudah terpilih dan kalian sudah siap dengan emoji tersebut, maka kalian bisa memulai untuk mengambil gambar sesuai emoji tersebut secara berurutan dengan cara menekan icon kamera. Gambar akan terambil jika ekspresi kalian sesuai dengan emoji yang terpilih. Jika ketiga emoji tersebut sudah selesai diambil, kalian bisa mengunduh hasil kolase dari ketiga gambar tersebut.
+    Kalian juga bisa memilih tema untuk background kolase dari kumpulan gambar tersebut.
+    Showcase project sambil challenge pak Dhika buat berekspresi didepan layar😂
+    Tips: Cari emoji yang mudah supaya gampang dideteksi, misalnya emoji bahagia, marah & terkejut. Senyumin😁 Marahin😡 & Plongoin😮
+
+    Teknologi: Javascript (face-api.js)
+
+    Link:
+    https://expressify-mood.netlify.app/
+
+    GitHub:
+    https://github.com/noosabaktee/expressify
+
+<br>
+
+2.  [https://code-editor-milanz.netlify.app/]  
+     **Milan**
+
+    Halo Pak Dhika dan Teman2 semua, saya Milan, ini project ketiga saya
+    Saya mau showcase project gabut saya yang sederhana 😄
+
+    Webstite ini merupakan Code Editor yang mirip codepen
+    Website ini masih banyak bug, jadi mohon saran dan masukkannya ya
+    Pak Dhika dan teman2 🙏
+
+    Teknologi yang digunakan:
+    HTML
+    CSS
+    JavaScript
+
+    Website: https://code-editor-milanz.netlify.app/
+    Github: https://github.com/milanlizriadi/code-editor/
+
+    Makasih Semuanya
+
+<br>
+
+3.  [http://hascrypt.42web.io/]  
+     **Hasan**
+
+    Assalamualaikum warahmatullahi wabarakatuh,
+
+    Halo Teman Teman !
+    Perkenalkan nama saya Muhandis Hasan, umur saya 15, sekolah kelas 1 sma.
+    Ini project ketiga saya yang di-showcase
+
+    Website ini saya kasih nama HasCrypt, ini adalah website untuk encrypt text. 
+    Encrypt dan Decrypt function nya buatan saya sendiri.
+    functionnya lumayan bagus, kemungkinan kalian mendapatkan hasil enkripsi yang sama dari satu string yang sama kurang lebih 0.0001%, kemaren saya test dengan 1 juta loop dan ternyata ga ketemu hasil enkripsi yang sama
+    Untuk teman teman yang mungkin bosen atau gabut boleh banget untuk coba coba men-solve algoritmanya sendiri dan bisa kabarin ke saya kalau berhasil
+
+    Teknologi yang digunakan:
+
+    PHP (Bahasa utama)
+    Jquery Ajax
+    HTML CSS Javascript Bootstrap
+    InfinityFree (Hosting)
+
+    Link: http://hascrypt.42web.io/
+
+    Terimakasih
+
+<br>
+
+4.  [https://angkasamuhammad.github.io/TandakurungNode/Tandakurung%20Node%20v0.3.1/Tandakurung%20Node.html]  
+     **⚙⚙WowGGGearing⚙⚙**
+
+    Assalaamu'alaykum wrwhmatullaahi wabarakaatuh
+    Saya Angkasa Muhammad ingin share project bernama Tandakurung Node
+
+    Tandakurung Node adalah web application untuk visual programming, yaitu menggunakan nodes berwarna berisi coding & gambar. Nodes yang saling terhubung (garis) memudahkan prograammer memahami alur code yang dibuat. Nodes menggunakan sistem parent & children, yaitu nodes berisi nodes. Setiap node berisi 2 teks, yaitu pembuka & penutup, seperti html tag.
+
+    Hasil berupa teks biasa dan bisa dilihat di halaman export. Di dalam halaman export, user tidak bisa langsung edit. User harus click teks yang ingin diedit, lalu pindah ke halaman Edit node.
+
+    Teknoloogi: HTML, CSS, JS, gl-matrix.js
+    Web: https://angkasamuhammad.github.io/TandakurungNode/Tandakurung%20Node%20v0.3.1/Tandakurung%20Node.html
+    Repo: https://github.com/AngkasaMuhammad/TandakurungNode
+
+<br>
+
+5.  [https://alfianchii.github.io/reactjs-dependency-injection/]  
+     **alfian**
+
+    Halo teman-teman~!! Perkenalkan, saya Alfian. Izinkan saya untuk melakukan showcase project, ya~!! ^^
+
+    Kemarin lalu, saya sempat mempelajari salah satu tools React State Management, yaitu Redux. Tetapi, karena sukar sekali untuk dipahami, maka saya mencari pokok masalahnya, seperti kenapa Redux dibuat, apa yang mendasari pembuatan tersebut, apakah Redux dibuat menggunakan bantuan React (by under the hood), dsb.
+
+    Setelah mencari ke sana-sini, saya menemukan video mas Nauval (Array ID) yang membahas tentang React Dependency Injection and State Management. Ternyata, asal mula Redux itu berasal dari permasalahan useContext dan useReducer. Maka dari itu, project saya ini merupakan manifestasi dari pembelajaran saya mengenai kedua React Hooks tersebut.
+
+    Tech stack:
+    React
+    Tailwind
+    Typescript
+    Prettier (also w/ prettier-plugin-tailwindcss)
+
+    Fitur:
+    Localstorage
+    Username (w/ validations)
+    Theme
+    Counter
+    Counter input settings dynamically (w/ validations)
+
+    Note: untuk bagian theme pada Counter, sengaja tidak saya include ke dalam localstorage.
+
+    Repo:
+    https://github.com/alfianchii/reactjs-dependency-injection
+    Demo:
+    https://alfianchii.github.io/reactjs-dependency-injection/
+
+<br>
+
+6.  [https://menfess.mfathinhalim.repl.co/]  
+     **Gorengan Hunter**
+
+    Halo teman teman!
+    Saya ingin share projek M.Fathin Halim ( @ドマ ) dan saya, ya itu Menfess!
+    ya, memang sudah pernah di showcase, tetapi kali ini di remake ulang codebasenya sehingga lebih efisien
+
+    Tech Stack yang digunakan:
+    MongoDB
+    ExpressJS
+    React
+    Node.JS
+
+    Fitur:
+    Dapat mengpost text dan image seperti Thread/X(Twitter)
+    Menggunakan Socket.IO sehingga dapat RealTime
+    Dapat memberikan komentar kepada suatu post
+    Bisa Share ke temen yang lain
+    Image yang dikirim bisa berupa gif
+    Channel khusus Anime dan Memes!
+    Search Post
+    Like Post
+
+    (Saran: Agar kelihatan lebih seperti Thread/Twitter, bisa menggunakan screenphone)
+
+    silahkan dilihat, dan saran kritik kami terima
+
+    Link:
+    Website: https://menfess.mfathinhalim.repl.co/
+    GitHub: https://github.com/Doma-Tomoharu/Menfess
+
+<br>
+
+7.  [https://joanpoerba.github.io/book-store/]  
+     **jaon**
+
+    hallo, padika dan fren", kenalin saya joan seorang murid kelas 12 smk yg kecanduan berat akan dunia programming. ini adalah showcase ke 4 ku yang sebelumnya saya sudah showcase in web discover yg menang diuntar, dan sekarang saya mau showcase web design dalam rangka lomba web design poltek bali
+
+    teknologi : bootstrap, dom, sweetalert2
+    web : https://joanpoerba.github.io/book-store/
+    repo : https://github.com/joanpoerba/book-store
+
+<br>
+
+8.  [https://lawrencevectus86.github.io/My-Link-Web/]  
+     **P...**
+
+    Halo Pak Perkenalkan Nama Saya Calvin Lawrence dan di sini saya ingin memperkenalkan, Projek yang baru saja selesai saya Buat yaitu Web Portofolio saya
+
+    Tech :
+    Tailwind CSS
+    JavaScript
+    HTML
+
+    Ada 2 Projek Pak
+    LinkTree Terhubung Dengan Media Social Saya
+
+    https://lawrencevectus86.github.io/My-Link-Web/
+
+    Portofolio Web Saya
+
+    https://lawrencevectus86.github.io/Portofolio-CalvinLawrence/
+
+    Minta Saran Dari Pak Dhika apa saja yang masih kurang ya TERIMA KASIH
+
+<br>
+
+9.  [https://codelillah.com]  
+     **depran**
+
+    Assalamu’alaikum Pak Shandika
+
+<br>
+
+10.  [https://codelillah.com]  
+     **depran**
+
+    Assalamu’alaikum Pak Shandika
+
+<br>
+<br>
