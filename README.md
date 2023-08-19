@@ -298,7 +298,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 4.  [https://yazzlink.vercel.app/]  
      **Yazz**
 
-    Assalamualaikum pak Dhika dan semuanyaa...
+    Assalamualaikum pak Dhika dan semuanyaa
     Kenalin saya Muhammad Yazid Akbar dan ini adalah showcase pertama saya
 
     Sekarang saya sedang belajar firebase, dan mengimplementasikannya ke project website yg saya buat ini. 
@@ -608,7 +608,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br>
 
 7.  [https://smartcultureid.vercel.app/]  
-     **B...**
+     **B**
 
     Halo Pak Dhika dan Teman-teman semua!
 
@@ -658,7 +658,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     Link GitHub : https://github.com/frhnn772/web-kelas
     Link Design Figma : https://www.figma.com/file/zGjdfQhT6LOLhfU7zisjwz/Untitled?type=design&node-id=0%3A1&t=JGLJrlf8Bz0PKGd1-1
 
-    mon maap nii ee untuk teman-teman kelas yang mukanya gamau di post hahahaha...
+    mon maap nii ee untuk teman-teman kelas yang mukanya gamau di post hahahaha
     Sekian Terima Gajii..🙏🙏
 
 <br>
@@ -708,7 +708,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 1.  [https://fresh4u.site/]  
      **Rizky**
 
-    Assalamualaikum Pak Dhika, saya rizky dan kawan kawan raihan, farrel mau showcase project UKK kelas X, jadi saya buat web fake e commerce jadi kalo di refresh ke reset lagi hehehe, gambar2 product di web nya aga burem kita kesusahan cari gambar2 jadi sedapetnya aja, kira kira pembuatan webnya 2 mingguan lebih, dan role role  nya kalo saya yang megang js/react kalo si raihan html/css dan si farrel figma/design, projectnya juga belum sempurna bgt, buat saya yang megang js ini merupakan projek pertama kali yang luamayan kompleks bagi saya mulai dari pembuatan fitur add to cart, wishlist dll jadi kalo ada error mohon di maklumi heheh , pasti nnti juga kena revisi dari guru hahaha, waktu pengeerjaannya juga paling 3-4 jam perhari karna emang sekitar segitu kita bisa megang laptop di pondok , belum lagi ada tugas pelajaran lain, ini projek kedua saya dan kawan2 , sebelumnya saya kirim project web quran.... minta koreksinya dong pak dika hehehe...
+    Assalamualaikum Pak Dhika, saya rizky dan kawan kawan raihan, farrel mau showcase project UKK kelas X, jadi saya buat web fake e commerce jadi kalo di refresh ke reset lagi hehehe, gambar2 product di web nya aga burem kita kesusahan cari gambar2 jadi sedapetnya aja, kira kira pembuatan webnya 2 mingguan lebih, dan role role  nya kalo saya yang megang js/react kalo si raihan html/css dan si farrel figma/design, projectnya juga belum sempurna bgt, buat saya yang megang js ini merupakan projek pertama kali yang luamayan kompleks bagi saya mulai dari pembuatan fitur add to cart, wishlist dll jadi kalo ada error mohon di maklumi heheh , pasti nnti juga kena revisi dari guru hahaha, waktu pengeerjaannya juga paling 3-4 jam perhari karna emang sekitar segitu kita bisa megang laptop di pondok , belum lagi ada tugas pelajaran lain, ini projek kedua saya dan kawan2 , sebelumnya saya kirim project web quran. minta koreksinya dong pak dika hehehe
 
     fitur:
     Add to cart
@@ -925,7 +925,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br>
 
 3.  [https://www.npmjs.com/package/@dimfu/recipe-scraper]  
-     **a...**
+     **a**
 
     Assalamualaikum
 
@@ -949,7 +949,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br>
 
 4.  [https://pahlawan-rupiah.netlify.app/]  
-     **n...**
+     **n**
 
     Halo pak dhika dan teman-teman👋 Saya Rama Nusa Bakti ingin showcase project sederhana saya. Kali ini saya membuat aplikasi Augmented Reality. Untuk objeknya saya menggunakan uang rupiah.
 
@@ -996,7 +996,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br>
 
 6.  [https://www.ysearch.site/]  
-     **Y...**
+     **Y**
 
     Assalamualaikum pak Dika
     Nama saya Yuda Firmansyah, ijin mau showcase projek search engine lagi, 
@@ -1316,7 +1316,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 ### 12 Agustus 2023
 
 1.  [https://expressify-mood.netlify.app/]  
-     **n...**
+     **n**
 
     Halo pak Dhika dan teman-teman 👋 Saya Rama Nusa Bakti mau showcase project se*na (tidak boleh menggunakan kata sederhana ceunah) 😁. Project kali ini saya membuat Expressify Mood, ekspresikan mood-mu sesuai emoji.
 
@@ -1477,7 +1477,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br>
 
 8.  [https://lawrencevectus86.github.io/My-Link-Web/]  
-     **P...**
+     **P**
 
     Halo Pak Perkenalkan Nama Saya Calvin Lawrence dan di sini saya ingin memperkenalkan, Projek yang baru saja selesai saya Buat yaitu Web Portofolio saya
 
@@ -1521,6 +1521,147 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
         Demo: https://belanjaan.sampurasun.my.id/
 
         Terima Kasih
+
+<br>
+<br>
+
+### 19 Agustus 2023
+
+1.  [https://noosabaktee.netlify.app/]  
+     **noosabaktee**
+
+    Halo pak Dhika dan teman-teman 👋. Saya Rama Nusa Bakti mau showcase project. Project kali ini saya buat portfolio 3d pake Godot engine.
+
+    Explore my world:
+    https://noosabaktee.netlify.app/
+    GitHub: 
+    https://github.com/noosabaktee/portfolio-3d
+
+    Teknologi: Godot
+
+<br>
+
+2.  [https://alfarabygit.github.io/alby-portofolio/]  
+     **Indra**
+
+    Assalamu'alaikum warahmatullahi wabarakatuh. Halo pak dhika dan kawan-kawan, perkenalkan nama saya alfaraby indra, Izinkan saya utk showcase project saya yaitu web portofolio. 
+
+    Tech:
+    a. Html
+    b. Css
+    c. JavaScript
+
+    Link project:
+    https://alfarabygit.github.io/alby-portofolio/
+    Sebelumnya saya mengucapkan terimakasih kepada kawan-kawan yg sudah ngajak bacotan gajelas dengan saya di #oot-isekai-arc.
+
+    Utk pak dhika dan kawan-kawan mohon utk kritik dan saran dari project ini apa saja yg hrs saya perbaiki kedepannya. 
+
+    Terimakasih 🙏
+
+<br>
+
+3.  [https://readmebox.com/]  
+     **salluthdev**
+
+    Halo teman-teman pengguna github!  Saya Faisal dari Medan.
+
+    Kali ini ada sebuah svg generator yang bisa mempercantik readme github kamu, namanya ReadmeBox.  Kenapa namanya itu? Karena hasil animasi svg untuk readme-nya akan berbentuk box atau mirip juga dengan pixel art. 🎨 
+
+    Kamu bisa pakai di https://readmebox.com/. Cara menggunakan cukup mudah:
+    Isi nama dan title-mu
+    Download SVG
+    Drag & drop ke readme :githublight:
+
+    Tech stacknya next js, tailwind css, dan beberapa vanilla css. :css:  Tools ini bisa kamu gunakan gratis, untuk reponya ada di https://github.com/salluthdev/readmebox/. Jika ada saran dari Pak Dhika dan teman-teman, feel free to ask ya! Terima kasih, selamat mencoba. 🙌
+
+<br>
+
+4.  [https://syarifsoden.my.id/]  
+     **SyarifS**
+
+    Halo pak dika dan temen - temen semua, perkenalkan nama saya syarif, saya adalah mahasiswa Sitem Informasi di salah satu universitas swasta di Yogyakarta yang habis melaksanakan ujian pendadaran 02 Agustus kemarin.
+
+    Izinkan saya untuk menunjukkan project saya. Ini adalah website portofolio dengan fitur public side yang dapat diakses oleh semua pengguna internet dan admin side yang hanya bisa diakses pemilik website yang berfungsi untuk mengelola informasi yang ditampilkan pada tampilan public, teknologi yang saya gunakan adalah: 
+
+    • Laravel 9  dan
+    • CSS Bootstrap
+
+    Link website : https://syarifsoden.my.id/
+    Github : https://github.com/soden46/portofolio
+
+    Terima kasih semua.
+    Thread
+
+<br>
+
+5.  [https://eshal.vercel.app/]  
+     **back to pow**
+
+    Selamat malam teman-teman,
+
+    Sudah lama sekali saya tidak berpartisipasi dalam showcase project (terakhir 26 Juli 2022), juga sudah jarang aktif di server WPU ini. Saat ini, saya telah menyelesaikan studi dan sedang bekerja di sebuah perusahaan di bidang healthcare sebagai software engineer.
+
+    Pada kesempatan malam ini, saya ingin berbagi proyek landing page yang sederhana. Hanya 1 halaman yang menampilkan layanan Wedding Syar'i dari Eshal. Eshal Wedding Syar'i sendiri didirikan oleh kakak saya, oleh karena itu saya membuatkan website landing pagenya.
+
+    Link: https://eshal.vercel.app/
+    Teknologi yang digunakan: Next.js, Tailwind CSS, Framer Motion, heroicons, dan PocketBase.
+    Github saya: https://github.com/abnvlf Repository tidak dibagikan jadi star project lain saja:hehehe:
+
+
+<br>
+
+6.  [https://barangku.sampurasun.my.id/]  
+     **Eris Sulistina**
+
+    Pendahuluan
+    Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina yang kemarin showcase convert catatan belanja react WPU ke AlpineJS. Kali ini saya showcase program hasil ide sendiri (bukan convert) tapi masih dengan AlpineJS. Yang membedakan lainnya adalah saya memanfaatkan plugin AlpineJS yang bernama Persist untuk memudahkan bekerja dengan localStorage karena saya tidak menggunakan database.
+
+    Nama dan Fitur
+    Aplikasi ini bernama BARANGKU => Manajemen Barang Sederhana di Lokal Tanpa Database.
+    Fitur: edit username, edit foto profile/avatar, tambah barang, edit barang, hapus barang, cari barang.
+
+    Latar Belakang
+    Sebagai anak kost yang apatis, saya tidak terlalu memperdulikan barang-barang apa saja yang saya miliki. Sampai suatu hari saya me-laundry pakaian lalu mau mengambil laundryan. Sialnya, pegawai laundry tak kunjung menemukan pakaian saya karena keliru memasang struk/tanda terima. Pegawainya menanyakan pakaian apa saja yang saya laundry? agar dicari secara manual. Saya tidak bisa menjawab karena lupa dan tidak mendatanya. Dari sana lah saya terpikirkan untuk membuat aplikasi untuk mendata barang-barang yang dimiliki. BTW, laundry cucianku akhirnya ketemu berkat ingatan samarku kepada sarung berwarna ungu :maaf: 
+
+    Teknologi yang digunakan
+    HTML
+    TailwindCSS: framework css
+    AlpineJS: framework js
+    Persist: plugin AlpineJS untuk bekerja dengan localStorage
+    Heroicons: icons untuk fungsionalitas website
+    Icons8.com: icons untuk logo dan ilustrasi kategori barang
+    dicebear.com: Avatar untur profile
+
+    Repo & Demo
+    Repo: https://github.com/sejutaimpian/barangku-alpine
+    Demo: https://barangku.sampurasun.my.id/
+
+    Terima Kasih
+
+<br>
+
+7.  [https://aespa-adeivan.vercel.app/]  
+     **Ade Ivan**
+
+    Halo gais, perkenalkan nama saya Ade Ivan Saputra, panggi saja Ivan, izin showcase lagi, kali ini saya mau showcase hasil redesign website portfolio saya sebelumnya di https://incognito-new-adeivan.vercel.app/, jadi website ini saya koding ulang, kali ini saya menggunakan SCSS, terimaksih pak dhika tutorialnya sangat bermanfaat. Kenapa saya pake SCSS, tidak lain tidak bukan adalah biar kodenya terorganisir aja, sama biar gampang nyari kodenya kalo lupa ingatan gara gara sebulan ga ngoding hehehe
+
+    Teknologi yang digunakan:
+    Locomotive Scroll Saat ini pakai "Lenis Scroll", Locomotive, smooth scrollnya gak jalan di atas refresh rate 60Hz
+    Keluarga GSAP
+    Splitting.js
+    Barba.js
+    Email.js
+
+    Berikut linknya : https://aespa-adeivan.vercel.app/
+    Link Notion karena agak susah nulis di github hehe : https://adeivan.notion.site/2a94e0d0861343c3bb0231fd0af61d01?v=0ae6334f7e3a4df7998f575af99ad419
+
+    *Karena ini dirombak total kodenya, jadi Untuk versi mobile belum responsive dan juga belum optimal karena masih bingung sama layoutnya masih perlu explore lagi, jadi gambar masih banyak yang blm dikompres karena untuk uji coba saja
+    *Izin membalas feedback showcase waktu itu, untuk test Lighthousenya itu skornya rendah karena tabrakan sama ektensi Chromenya deh pak, saya sudah test dibrowser tanpa ektensi skornya aman diatas rata rata.
+
+    Semoga dapat menginspirasi😊✨
+
+    Coming Up : Lagi ngoding website baru ditunggu showcase berikutnya 😁 Terimakasih & Salam titik koma 
 
 <br>
 <br>
