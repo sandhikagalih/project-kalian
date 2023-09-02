@@ -1665,3 +1665,277 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 2 September 2023
+
+1.  [https://rickyroyn.vercel.app/]  
+     **Roooy**
+
+    Selamat pagi/siang/sore/malam pak dhika dan teman-teman, perkenalkan nama saya Ricky Roy.
+    Ini adalah showcase project saya yang gatau keberapa (kayaknya ketiga). Kali ini saya membuat sebuah project portfolio sederhana (sumpah beneran, ga bohong hehe), project ini saya buat untuk mengganti portfolio saya yang lama.
+
+    Teknologi yang digunakan:
+    NextJS
+    Next Themes (buat light/dark mode)
+    TailwindCSS
+
+    Website : https://rickyroyn.vercel.app/
+    Github : https://github.com/rickyroynardson/portfolio
+
+    Terima kasih pak dhika & teman-teman semua 🙏 
+
+<br>
+
+2.  [https://anisacollection.my.id/]  
+     **RizzM**
+
+    Assalamualaikum. Halo Pak Sandhika dan teman-teman WPU, perkenalkan nama saya Muhammad Rizki, izinkan saya untuk showcase project kedua saya. Yang sebelumnya merupakan project portfolio https://mhdrizki.com/, kali ini  merupakan project toko online penjualan pakaian yang juga merupakan project skripsi saya. Btw  terima kasih buat pak sandhika yang telah memberikan ucapan semangat kepada saya di hari sidang saya. Project ini masih terdapat kekurangan yaitu sistem pembayaran dilakukan secara manual dengan mengirimkan bukti pembayaran ke form yang ada di dalam sistem, karena berpacu dengan waktu sehingga tidak sempat untuk mengintegerasikan ke Payment Gateway. Project ini open source, kode tersedia di github, bagi teman-teman yang mau fork dipersilahkan mohon maaf bila kodenya bar-bar😊.
+
+    EMAIL & PASSWORD ADMIN (saya dm ke discord bapak)
+
+    FRONTEND:
+    HTML
+    Tailwind CSS
+    Javascript
+
+    BACKEND:
+    Laravel
+    MySql
+
+    link: 
+    WEB :
+    https://anisacollection.my.id/
+
+    REPO:
+    https://github.com/mhdky/the_anisa_collection 
+
+<br>
+
+3.  [https://noosabaktee.netlify.app/]  
+     **rengga_diansa**
+
+    Assalamualaikum Wr.Wb.
+    Selamat malam pak Dika dan teman-teman WPU. Perkenalkan nama saya Rengga Ferdiansa saya adalah salah satu mahasiswa baru Politeknik Elektronika Negeri Surabaya jurusan Teknik Informatika, ini adalah project showcase saya yang ke-5 setelah showcase terakhir pada 1 April 2023 dengan judul "Diary Note". Project saya kali ini adalah berupa aplikasi encryption text sederhana dengan metode encryption AES 256, metode yang sama digunakan untuk mengencrypt data pada perangkat Apple.
+
+    ~ Fitur aplikasi antara lain:
+
+    Encrypt Text
+    Decrypt Text
+    Copy text to clipboard (encrypt/decrypt)
+
+    ~ Teknologi/Alat yang digunakan antara lain:
+
+    Java Language
+    Android Studio Giraffe
+    AES 256 encryption
+
+
+    Catatan: untuk password screen adalah "12345" dan berikut adalah kunci untuk encrypt dari AES 256 yang saya gunakan untuk showcase kali ini
+    AES Key: "2@SB?YNi6HRW>c<PL4[;11-6tNoFVSVf"
+    AES IV: "]yq-CxXc}[$IYKqd"
+    kunci tersebut bisa diganti dengan meng-generate ulang pada file "KeyGenerate.java" yang terdapat di repository saya
+
+    ~ Repo Github
+    https://github.com/renggadiansa/AES256-encryption
+
+    ~ Link aplikasi
+    https://drive.google.com/file/d/1r00pRR26b48svlaH4zndPLPdTVjxcogo/view?usp=drive_link
+
+    ~Support me
+    https://www.buymeacoffee.com/renggaferdiansa
+
+
+    sekian showcase dari saya jika ada kekurangan saya mohon maaf, jangan lupa supportnya agar aplikasi buatan saya bisa segera rilis di Play Store. Wassalamualaikum Wr.Wb
+
+<br>
+
+4.  [https://temancircle.my.id/home]  
+     **M. Amal Ikhsani**
+
+    Assalamualaikum pak dika dan teman teman perkenalkan saya M. Amal Ikhsani, ini adalah showcase project saya kedua, di showcase kali ini saya akan menunjukkan website social media yang saya buat dari penelitian saya, yang bertujuan untuk membantu orang-orang untuk saling terhubung, selain itu juga project ini ditujukan untuk orang-orang yang ingin membangun profil bisnis atau usaha.
+
+    Teknologi Yang Digunakan Beserta Fungsinya :
+    1. Bootstrap Css & Js -> tampilan/frontend
+    2. Not Safe For Work (NSFW) Js -> validasi gambar
+    3. SpeechRecognition Js -> suara ke teks
+    4. Laravel -> backend
+    5. Socialite -> login dengan google
+    6. Ajax -> mendapatkan data jumlah pengguna/like secara langsung
+    7. phpmailer -> reset password ke gmail
+    8. Fortify -> memudahkan proses login,reset,verify,update
+    9. Stisla -> dashboard admin
+    10. Profanity -> sensor kata-kata kasar (terdaftar 3 ribu kata campur en/id)
+
+
+    Banyak teknologi lain yang saya buat, salah satunya linkify untuk mendeteksi jika ada link didalam suatu post, dan teknologi lainnya yang saya sembunyikan hehee,
+
+    Link Website:
+    https://temancircle.my.id/home
+
+    Silahkan di nikmati hehehe
+
+    Thankyou :wpugege: 
+
+
+<br>
+
+5.  [https://roamroads.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua, perkenalkan Saya Umar dari jogja. Ini showcase ke-3 Saya yaitu website booking app bernama RoamRoads. Website ini menampilkan daftar hotel, kereta api, dan pesawat terbang. Terdapat fitur filter pencarian dan penyimpanan rencana perjalanan. Untuk penamaan item di dalam nya, Saya menggunakan bantuan ChatGPT untuk generate nama yang keren atau unik untuk item yang dibutuhkan seperti nama hotel, kereta api, nama airline, dll. Untuk design dari website ini, Saya terinspirasi dari website Traveloka. Disclaimer: Website ini yang berjalan dari sisi frontend.
+
+    Demo: https://roamroads.netlify.app/
+    Repo: https://github.com/jihadable/roamroads
+
+    Tech stack: SASS dan ReactJS
+
+    Silahkan berikan feedback nya
+
+<br>
+
+6.  [https://ztools.vercel.app/]  
+     **zedd.jsx**
+
+    Assallamualikum semua saya jaenudin tapi lebih seneng kalo di panggil jay atau zedd
+    Ini ke 2x nya saya ikutan showcase. Di sini saya mau pamer web saya, yaitu kumpulan tools2 online, ini sudah full responsive 
+
+
+    About
+    Saya buat ini untuk mengasah skill saya di bidang frontend dan logic dan saya akan terus update untuk feature2 baru. Projects ini open juga buat temen2 yg mau ikut kontribusi
+
+    Minta Saran dan kekurangan nya terimakasih 🙂 
+
+    Tech
+    Nextjs13
+    zustand (state management)
+    tailwindcss
+    tanstack RQ
+
+    Demo: https://ztools.vercel.app/
+    Github: https://github.com/Zeddnyx/Ztools 
+
+<br>
+
+7.  [https://cheskoweb.site/]  
+     **Afiq_Chesko**
+
+    Assalamualaikum wr wb, Pak Sandhika dan teman-teman WPU , 
+    Saya Afiq Chesko panggil saja chesko, kali ini saya memberanikan diri mengikuti showcase project pertama saya kepada Pak Sandhika,
+    rekan-rekan di WPU, dan semuanya 🙏 .
+    .Yaitu sebuah aplikasi resep masakan yang saya bangun menggunakan teknologi "ReactJS" dan "TailwindCSS".
+
+    Aplikasi .exe: https://www.mediafire.com/file/vqh833n7hec8axx/resep-masakan_Setup_0.1.0.exe/file
+
+    GitHub:  https://github.com/chesko21/resep-masakan
+
+    Demo: https://cheskoweb.site/
+
+    Terima kasih atas waktu dan perhatian nya.
+
+<br>
+
+8.  [https://anime-nu-rosy.vercel.app/]  
+     **kuro**
+
+    Assalamualaikum
+    Halo pak Dika saya mau showcase website saya yg kemarin karena gak tau kenapa desain nya di saya dan di pak Dika beda maka saya desain ulang project website anime  saya. 
+
+    Teknologi :
+    Nextjs
+    Tailwind
+
+    link : https://anime-nu-rosy.vercel.app/
+
+    *Note: kalo ada desain yg error tolong di komen ya temen² 
+
+<br>
+
+9.  [https://kontakbase.sampurasun.my.id/]  
+     **Eris Sulistina**
+
+    Pendahuluan
+
+    Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina yang kemarin-kemarin showcase  AlpineJS. Kali ini saya showcase bersama saudaranya AlpineJS, yaitu Livewire. Setelah 2 showcase kemarin menggunakan AlpineJS semua, saya jadi terpikirkan untuk showcase menggunakan saudaranya (Livewire). Livewire yang ku gunakan adalah versi 3.0@beta10. Saya terpaksa menggunakan versi beta karena telah lelah menunggu rilis versi stabilnya selama sebulan. Desain website 'sedikit' terinspirasi dari web Livewire.
+
+    Tentang Aplikasi
+
+    Aplikasi ini bernama KONTAKBASE, singkatan dari kontak dan database. Kontakbase berfokus pada pencadangan dan pendistribusian kontak. Jadi kita bisa menyimpan kontak untuk diri kita sendiri atau bisa disebarluaskan kepada orang lain. flow aplikasi ini mirip dengan pemendek url. User tidak perlu login, bisa langsung membuat room kontak, lalu dapat mengaksesnya dari url sesuai kode yang diinputkan saat pembuatan room.
+
+    Contoh hasil yang dapat diketikkan pada kolom pencarian adalah dosen-unpas
+
+    Teknologi
+    Laravel 10
+    Livewire 3beta & AlpineJS
+    TailwindCSS
+    Heroicons
+    Icons8.com
+    Mysql
+
+    Repo & Demo
+
+    Repo: https://github.com/sejutaimpian/kontakbase
+    Demo: https://kontakbase.sampurasun.my.id/
+
+    Disclaimer
+
+    Website ini hanyalah projek latihan Livewire saya. Mohon untuk tidak memanfaatkan website untuk mencadangkan/membagikan kontak, karena mungkin saja suatu hari nanti saya akan memformat database atau menghapus websitenya.
+    Jika kalian merasa program ini bermanfaat, silakan buat versi kalian yang lebih keren atau boleh fork dari repo saya. Saya tunggu hasilnya di showcase selanjutnya :hehehe:  .
+    Sepertinya ini showcase terakhir saya dalam waktu dekat ini karena akan membuat aplikasi yang lumayan memakan waktu. Semoga kita semua tetap diberikan semangat belajar dan ngoding, Aamin.
+
+    Terima Kasih
+
+<br>
+
+10.  [https://dfsdanimaulana.github.io/memorygame]  
+     **dnm17_**
+
+    Introduction
+    Assalamu'alaikum wr wb, Pak Sandhika dan teman-teman WPU semoga masih semangat ngoding nya. Nama saya Dani izin showcase projek saya yang ke tiga, projek ini adalah versi terbaru dari projek yang pernah saya showcase pertama kali, yaitu:
+
+    TWICE MEMORY CARD GAME https://dfsdanimaulana.github.io/memorygame
+
+    sesuai janji saya waktu projek diatas di showcase akan menambah lebih banyak level lagi dan akhirnya terwujud walau membutuhkan waktu yang lama dan sedikit dibantu sama partner saya yaitu dek ChatGPT 😅
+
+    About
+    Nama projek ini masih sama yaitu "TWICE MEMORY CARD GAME". Projek ini adalah sebuah web game memory card bertema Twice, di mana Anda mencocokkan dua gambar yang sama dari anggota grup Twice.
+
+    Tujuan utamanya adalah menguji konsentrasi dan ingatan Anda dengan tantangan waktu dan level yang berbeda. Setiap kali Anda menyelesaikan sebuah level, Anda akan mendapatkan koleksi foto anggota grup Twice. Kumpulkan semua koleksinya untuk melengkapi galeri foto dalam permainan ini. Raih skor tertinggi dan menempati peringkat pertama.
+
+
+    Fiture
+
+    Galery Collection
+    Scoreboard
+    Toggle Dark Mode
+    Chat Room
+    9 game level
+
+    Authentication:
+    
+    • Login/Register using Email, Google, and Github 
+    • Forget password (email)
+    • Send Email verification (email)
+    • Change Password (email)
+    • Upload/Update photo profile
+    • Update Username
+    • Reset Game Data
+    • Delete Account
+    Guide tour
+
+
+    Technology
+    ReactJS(vite) (FE)
+    Firebase (BE & Database)
+    Tailwindcss (Style)
+    NPM library ( react-joyride, react-toastify, sweetalert2, fireworks-js and more )
+
+
+    URL
+    https://twice-memory.netlify.app/
+
+    Thank you
+    Sekian dari saya apabila Ada kekurangan mohon di maafkan, dan apabila teman-teman menemukan bug bisa di share di room chat yang tersedia. Untuk waktu dan perhatian nya saya ucapkan terimakasih..
+
+<br>
+<br>
+
