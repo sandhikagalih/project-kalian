@@ -1939,3 +1939,192 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br>
 <br>
 
+### 9 September 2023
+
+1.  [https://github.com/haniframadhani/giant-stride-frontend]  
+     **Buku dibaca Kutu**
+
+    halo semuanya, perkenalkan nama saya hanif ramadhani. dikali kelima (mungkin, entahlah tak hitung) showcase project ini saya akan memamerkan projek full stack pertama saya yang dibuat dengan MERN stack hasi belajar node js di channel WPU. Projek ini adalah sebuah blog untuk seorang penyelam yang menggunakan tema laut. Projek ini akhirnya bisa selesai walau gila dikit, nggak ngaruh. ternyata lebih sulit dari yang saya kira.
+
+    teknologi yang digunakan:
+    next js
+    tailwind css
+    node js
+    express js
+    mongo db
+
+    bagi yang ini mencoba silakan diintal di mesin masing-masing karena saya sudah menyerah untuk mendeploy web ini di hosting. contoh data ada di repo backend tinggal import aja. untuk login email : owner123@owner.com password : owner123
+    berikut link githubnya :
+    https://github.com/haniframadhani/giant-stride-frontend
+    https://github.com/haniframadhani/giant-stride-backend
+
+    mohon kritik dan sarannya untuk pengembangan selanjutnya. 
+
+
+<br>
+
+2.  [https://stockwise-2110.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua, Saya Umar dari jogja. Showcase kali ini, Saya membuat website IMS (Inventory Management System). Website ini dilengkapi fitur CRUD, search item, dan sort items. Website ini hanya menggunakan localStorage sebagai tempat penyimpanan data.
+
+    Demo: https://stockwise-2110.netlify.app/
+    Repo: https://github.com/jihadable/stockwise
+
+    Tech stack: Vanilla CSS, TypeScript, React.js
+
+<br>
+
+3.  [https://rickyroyn.vercel.app/]  
+     **Arnadi atakana.com**
+
+    Assalamu'alaikum Warahmatullahi Wabarakatuh.
+
+    Setelah sekian lama tidak submit akhirnya dapat masuk lagi dalam list showcase project.
+
+    Masih seputaran CRUD, kali ini saya membagikan sebuah project Undangan Website Pernikahan.
+
+    Project ini saya garap mulai dari akhir Juli lalu usai nonton undangan website pernikahan WPU.
+
+    Dari video tersebut jadi tertarik dan ingin mencoba untuk membuatnya sendiri.
+
+    Singkat saja...
+
+    Sampai hari ini Jum'at, 1 September 2023 saya perkirakan 90% jadi dan tigal poles tipis-tipis.
+
+    Maaf kalau masalah desain masih kaku banget, tidak se pro teman-teman 😁🙏
+
+    Direkomendasikan untuk melihat versi mobile 😁
+
+    Tools
+    Oppo F9
+    Acode (Text Editor)
+    KSWEB (Local Server)
+    PHP
+    HTML
+    CSS
+    Javascript
+    Font Awesome
+
+    Page: https://atakana.com/uw/
+    Join: https://atakana.com/uw/join/
+    Seller: https://atakana.com/uw/seller/
+
+    Setelah join dan konfirmasi via email, masukkan nomor Whatsapp maka akun segera aktif dan penjual akan mendapatkan halaman promosi.
+
+    Pada halaman promosi tombol order via Whatsapp, jika ada calon pembeli yang memesan akan dialihkan otomatis ke Whatsapp penjual.
+
+    Calon pembeli > penjual > deal > admin > pengerjaan > tunggu beres 😁
+
+    Jangan lupa kritik & sarannya teman-teman 🙏
+
+    Info selengkapnya https://wa.me/6281285242366
+
+<br>
+
+4.  [https://imagepixel.pages.dev/]  
+     **array**
+
+    Assalamualaikum wr wb, selamat pagi semua, perkenalkan nama saya rohmat. Izin showcase project belajar saya tentang react dan typescript. web ini terinpirasi dari web https://www.iloveimg.com/crop-image. Disini saya membuat sebuah  tools yang mirip dengan sedikit tambahan fitur.
+    Teknologi yang digunakan:
+    TypeScript
+    TailwindCSS
+    ReactJs
+    GatsbyJs, dan
+    Cloudflare Pages (Server)
+
+    Demo:
+    https://imagepixel.pages.dev/
+
+    Repo:
+    https://github.com/rohmatnov/cropimage-tool
+
+    Terimakasih
+
+<br>
+
+5.  [https://react-chat-rouge.vercel.app/]  
+     **bloody**
+
+    Assalamualaikum semuanya 😁
+    
+    Saya Alvalen, ini kali peetama saya showcase project di sini. Projek ini adalah projek ke 2 react saya, jadi mohon maaf apabila kode berantakan dan tidak terstruktur hehe.
+
+    Projek ini mungkin saya kembangkan sekitar 1 minggu, dimulai dengan mencari referensi namun masih tidak puas dengan realtime chat yang ada di tutorial hanya 1 room saja yang tidak dapat di konfigurasi akhirnya saya memutuskan untuk sedikit memalukan improvement
+
+    Singkatnya projek ini adalah realtime chat dengan konsep group jadi user membuat grup dan kemudian dapat melakukan chat di grup tersebut.
+
+    Tech stack:
+    react js
+    Javascript
+    firebase
+    tailwind css
+    daisy ui
+
+    Di tampilan awal akan terdapat oauth github dan google setelah login user bisa membuat group atau chatting di grup yang sudah ada, user juga bisa melihat informasi grup dengan hold atau klik kanan pada grup.
+
+    Demo: https://react-chat-rouge.vercel.app/
+    Repo: https://github.com/Alvalens/react-realtime-chat
+    Referensi:
+    https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/
+
+    Terimakasih 
+
+<br>
+
+6.  [http://mywebforum.rf.gd/]  
+     **.cat**
+
+    Assalamualaikum wr wb 
+
+    Perkenalkan nama saya Rahmat, saya ingin mengshowcase project hasil latihan web developement (Non Responsive design). Projectnya cukup simple, hanyalah berisikan fitur CRUD seperti forum (gamefaqs) yang meliputi :
+
+    Member role :
+    Create post
+    Edit post
+    Delete Post
+    Update profile
+    Comment and Reply comment
+    Delete comment and post
+    Report comment and post
+
+    Admin role :
+    Create post
+    Edit post
+    Delete Post
+    Update profile
+    Comment and Reply comment
+    Delete comment and post
+    Delete Reported comment and post
+
+    Dan beberapa fitur2 kecil lainnya, untuk bagian chat masih belum real time karena masih otak atik pakai websocket, mungkin di next project aja hehe. 
+
+    Tech stack yang dipakai :
+    Javascript
+    PHP native
+    CSS
+
+    Library yang dipakai :
+    -HTMLpurifier
+
+    Demo web : http://mywebforum.rf.gd/
+    Repository : https://github.com/cidi12/webforum (sangat tidak clean code, sulit dicerna :maaf: )
+
+    Terimakasih teman2
+    :hehehe:
+    untuk akun role admin sudah saya DM pak sandhika
+
+<br>
+
+7.  [https://chats-room.glitch.me/]  
+     **hamzahxou**
+
+    Simple chat
+    Tanpa login
+    Anonymous nama
+    Upload img
+
+    Node js
+
+<br>
+<br>
