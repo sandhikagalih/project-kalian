@@ -1941,7 +1941,71 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 ### 9 September 2023
 
-1.  [https://github.com/haniframadhani/giant-stride-frontend]  
+1.  [https://mgkusumaputra.my.id/]  
+     **MGKPs**
+
+    Halo semuanya, setelah sekian lama mengumpulkan niat dan waktu yang cukup akhirnya project yang tak terhitung waktu pembuatannya selesai 😅 Kali ini adalah project portfolio pribadi sembari mempelajari tailwind css, website ini dibuat menggunakan :
+    - Tailwind CSS
+    - HTML
+    - AOS
+
+    Linknya ada disini: https://mgkusumaputra.my.id/
+    Link github siapa tau mau liat (codingan berantakan jangan dipeduliin wowkwkwkwk): https://github.com/Mgkusumaputra/Portfolio-Website
+
+    Mohon kritik dan sarannya semua dan Terima kasih :>
+
+<br>
+
+2.  [https://bayupm.com/]  
+     **YoungTeacher**
+
+    Selamat pagi, siang, malam gaes. Kali ini saya ngeshare hasil belajar nextjs dalam beberapa jam saja untuk compro pribadi. Saat ini status saya menjadi Guru di yayasan pertamina semoga bisa menjadi dosen di tahun yang akan datang. Dan nextjs ini untuk pertimbangan bahan ajar saya nanti di angkatan berikutnya.
+    Teknologi yang dipakai:
+    - Next js
+    - Typescript
+    - Json pribadi.
+
+    Link website: https://bayupm.com/
+
+    Mohon bimbingannya para suhu next🙌 dan terima kasih.
+
+<br>
+
+3.  [https://github.com/reacto11mecha/wuno-bot]  
+     **reacto_mecha!**
+
+    Assalamualaikum, selamat ${time.getCurrentState()} semua. Showcase lagi setelah cukup lama dah ga showcase project lagi. Projek kali ini adalah bot whatsapp yang kegunaannya buat main uno.
+
+    Latar belakang  bot ini dibuat. Dulu ada bot uno di dc, akhirnya main bareng sama temen smp di dc. Saya sama beberapa temen saya main, cuman ada yang gak bisa main di dc karena penyimpanan hapenya terbatas. Selang beberapa main, botnya mati permanen. Akhirnya ga maen lagi, ini waktu 2020 akhir 2021 awal. Akhirnya saya kepikiran, kenapa ga bikin hal yang sama, tapi di wa.
+
+    Selama development ini yang pusing ada di bagian bermain sama si kartu itu sendiri, karena perlu di test secara mendetail buat keseluruhan kartu yang ada, sampe unit test jalan perulangan sampe ~2000 test masing masing kombinasi kartu yang seharusnya valid dan yang bukan. Karena di awal pake js OOP, saya malah bingung sendiri sama apa yang saya buat, akhirnya pindah ke ts (dan waktu itu masih belajar juga). Kemudian berurusan dengan database yang awalnya mongodb jadi mysql (dan performanya lumayan berdampak). Algoritma buat kasih kartu ke pemain yang awalnya membuat permainan semakin lama yabg akhirnya bisa pas. Terakhir memilih engine yang cocok buat komunikasi dengan whatsapp.
+
+    Fitur utama
+    Main uno, setiap main dikasih gambar kartunya (walaupun cuma bisa naro satu kartu sekali giliran)
+    chat in game, bisa kirim text, gif, gambar, sama sticker
+    leaderboard
+
+    Bot ini dibuat dengan
+    typescript
+    whatsapp web js (engine buat komunikasi ke wa)
+    node-cache (caching gambar)
+    mysql/mariadb (database)
+    tsup (bundler)
+    dan beberapa package yang sudah disebutkan di package.json
+
+    Saya mau bilang makasih buat temen saya miko yang udah mau jadi temen nyoba, ngetest dan kasih feedback terus ke bot ini.
+
+    Penjelasan video
+    https://youtu.be/c43occbi7Fw
+
+    Link github
+    https://github.com/reacto11mecha/wuno-bot
+
+    Mohon kritik, saran, dan kontribusinya. Terimakasih
+
+<br>
+
+4.  [https://github.com/haniframadhani/giant-stride-frontend]  
      **Buku dibaca Kutu**
 
     halo semuanya, perkenalkan nama saya hanif ramadhani. dikali kelima (mungkin, entahlah tak hitung) showcase project ini saya akan memamerkan projek full stack pertama saya yang dibuat dengan MERN stack hasi belajar node js di channel WPU. Projek ini adalah sebuah blog untuk seorang penyelam yang menggunakan tema laut. Projek ini akhirnya bisa selesai walau gila dikit, nggak ngaruh. ternyata lebih sulit dari yang saya kira.
@@ -1963,7 +2027,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-2.  [https://stockwise-2110.netlify.app/]  
+5.  [https://stockwise-2110.netlify.app/]  
      **Umar Jihad**
 
     Assalamu'alaikum semua, Saya Umar dari jogja. Showcase kali ini, Saya membuat website IMS (Inventory Management System). Website ini dilengkapi fitur CRUD, search item, dan sort items. Website ini hanya menggunakan localStorage sebagai tempat penyimpanan data.
@@ -1975,7 +2039,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-3.  [https://rickyroyn.vercel.app/]  
+6.  [https://rickyroyn.vercel.app/]  
      **Arnadi atakana.com**
 
     Assalamu'alaikum Warahmatullahi Wabarakatuh.
@@ -2022,7 +2086,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-4.  [https://imagepixel.pages.dev/]  
+7.  [https://imagepixel.pages.dev/]  
      **array**
 
     Assalamualaikum wr wb, selamat pagi semua, perkenalkan nama saya rohmat. Izin showcase project belajar saya tentang react dan typescript. web ini terinpirasi dari web https://www.iloveimg.com/crop-image. Disini saya membuat sebuah  tools yang mirip dengan sedikit tambahan fitur.
@@ -2043,7 +2107,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-5.  [https://react-chat-rouge.vercel.app/]  
+8.  [https://react-chat-rouge.vercel.app/]  
      **bloody**
 
     Assalamualaikum semuanya 😁
@@ -2072,7 +2136,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-6.  [http://mywebforum.rf.gd/]  
+9.  [http://mywebforum.rf.gd/]  
      **.cat**
 
     Assalamualaikum wr wb 
@@ -2116,7 +2180,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-7.  [https://chats-room.glitch.me/]  
+10.  [https://chats-room.glitch.me/]  
      **hamzahxou**
 
     Simple chat
