@@ -1941,18 +1941,32 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 ### 9 September 2023
 
-1.  [https://mgkusumaputra.my.id/]  
+1.  [https://haziq.mgkusumaputra.me/]  
      **MGKPs**
 
-    Halo semuanya, setelah sekian lama mengumpulkan niat dan waktu yang cukup akhirnya project yang tak terhitung waktu pembuatannya selesai 😅 Kali ini adalah project portfolio pribadi sembari mempelajari tailwind css, website ini dibuat menggunakan :
-    - Tailwind CSS
-    - HTML
-    - AOS
+    Assalamualaikum... Halo semua selamat pagi siang sore malam subuh, izin ikutan showcase lagi setelah seribu purnama tidak muncul di live 😅 
 
-    Linknya ada disini: https://mgkusumaputra.my.id/
-    Link github siapa tau mau liat (codingan berantakan jangan dipeduliin wowkwkwkwk): https://github.com/Mgkusumaputra/Portfolio-Website
+    Mumpung liburan sekolah dan task kerjaan tidak begitu padat. Kali ini mau ikutan showcase project web Haziq Al-Quran online yang dikerjakan pusreng selama 36 jam, karena dari itu masih banyak kekurangannya jadi mohon kritik dan sarannya ya :hehehe: 
 
-    Mohon kritik dan sarannya semua dan Terima kasih :>
+    Fiturnya antara lain:
+    Kumpulan Doa
+    Filter Juz Amma
+    Search Surah
+    Ayat Favorit (Bookmark)
+    Tafsir Ayat
+    Audio (Full surah/per ayat)
+
+    Websitenya dibuat menggunakan:
+    Next.js 13
+    Tailwind
+    Umami Analytics
+    dan datanya diambil dari API https://equran.id/
+
+    Bisa langsung cek di https://haziq.mgkusumaputra.me/
+    Yang mau saran fitur ataupun melaporkan bug bisa langsung cek reponya disini https://github.com/mgkusumaputra/haziq (jangan lupa star reponya kakak)
+
+    bagi para suhu next boleh kasih saran juga untuk kedepannya saya merapihkan kodenya hehe
+    Terima kasih semuanya 😁 🙏 
 
 <br>
 
