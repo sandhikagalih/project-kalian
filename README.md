@@ -2206,3 +2206,289 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 <br>
+
+### 23 September 2023
+
+1.  [https://jcode-2110.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua, Saya Umar dari Jogja. Showcase kali Saya membuat website bernama "Jcode" yang merupakan tempat kursus online untuk belajar programming. Web ini menampilkan landing page, course apa saja yang diajarkan dan juga course's detail. Untuk design dari website ini, Saya terinspirasi dari website myskill.id. Saya juga menggunakan ChatGPT untuk memberikan data dummy pada web ini seperti nama orang dan pekerjaan nya.
+    Desclaimer: Web ini hanya berjalan dari sisi frontend
+
+    Tech stack: Vanilla CSS dan ReactJS
+
+    Images resource:
+    https://unsplash.com/
+    https://icon-icons.com/
+    https://undraw.co/
+
+    SVG resource: https://tabler-icons.io/
+
+    Demo: https://jcode-2110.netlify.app/
+    Repo: https://github.com/jihadable/jcode 
+
+
+<br>
+
+2.  [https://flappybird.jauhar.dev/]  
+     **patrick star**
+
+    Halo Pak Dhika & teman semua,
+
+    Nama saya Jauhar. Saya mau showcase project hobby saya flappybird clone. Ini adalah clone dari flappy bird. Yang menarik dari project ini adalah: game ini dibuat hampir 100% dengan bahasa yang saya buat sendiri yaitu Magelang (https://github.com/jauhararifin/magelang), hanya ada beberapa baris JS sebagai glue code. Game ini dibuat dengan webassembly dan webgl, Magelang sendiri saat ini hanya memiliki 1 target kompilasi yaitu webassembly, kedepannya saya berencana untuk support x86 linux juga. Magelang saat ini masih sangat jauh dari selesai, masih sangat banyak bug dan fiturnya belum lengkap. Tetapi, paling tidak sudah bisa digunakan untuk prototype (contohnya ya game flappybird ini).
+    Game ini dibuat hampir 100% from scratch. Karena bahasa yang saya gunakan adalah bahasa baru yang saya buat sendiri, tentunya belum ada standard library-nya. Jadi semua harus dibuat sendiri:
+    Tidak ada builtin math function seperti sin, cos, & fmod: untuk ini saya perlu membuat fungsi tersebut sendiri dengan taylor series
+    Tidak ada builtin collections seperti vector dan matrix: saya juga mengimplementasikan ini sendiri
+    Tidak ada library untuk load image: jadi saya parse image sendiri
+    Dan yang paling melelahkan adalah tidak ada memory allocator: untuk ini, saya mengimplementasikan malloc dan free menggunakan freelist. Ini sangat sulit dibuat karna tidak ada cara yang bagus untuk melakukan debugging, padahal untuk bisa debugging, juga perlu memory allocator, jadi chicken-and-egg problem. Saat ini, masih sering terjadi memory leak, jadi harap dimaklumi.
+
+    Cara main: klik/tap/space untuk lompat.
+
+    Teknologi yang saya pakai untuk membuat flappybird:
+    Magelang (https://github.com/jauhararifin/magelang)
+    WebGL
+    Webassembly
+    JS
+
+    Teknologi yang saya pakai untuk membuat magelang:
+    Pure Rust
+
+    Link demo: https://flappybird.jauhar.dev/
+    Github: https://github.com/jauhararifin/flappybird
+    Github Magelang: https://github.com/jauhararifin/magelang
+
+    Terima kasih.
+
+<br>
+
+3.  [https://atakana.com/uw/]  
+     **Arnadi atakana.com**
+
+    Assalamu'alaikum Warahmatullahi Wabarakatuh.
+
+    Ini adalah update project undangan website pernikahan pada showcase minggu lalu.
+
+    Setelah mendapatkan saran atau masukan dari pak Dika dan teman-teman pada showcase minggu lalu saya pun langsung bergerak.
+
+    Project ini saya bedah abis-abisan, error... error dah bodo amat yang penting semangat, dan Alhamdulliah nya berjalan lancar.
+
+    Mudah-mudahan kali ini aman ya wkwkwk...
+
+    Tools: Oppo F9 (perangkat), Acode (text editor), KSWEB (local server), MySQL (database), PHP, HTML, CSS, JavaScript, Font Awesome.
+
+    KSWEB sama seperti XAMPP dan semacamnya, dan database MySQL yang dipakai sudah satu paket di KSWEB. 
+
+    Home: https://atakana.com/uw/
+    Join Gratis!
+    Join: https://atakana.com/uw/join/
+    Login: https://atakana.com/uw/seller/
+
+    Setelah join dan konfirmasi, masukkan nomor Whatsapp maka akun segera aktif sebagai penjual dan akan mendapatkan halaman promosi sendiri kemudian atur harga sendiri maksimal harga 99K.
+
+    Modal atau harga dari admin adalah 20K. Seller dapat mengatur harga jual maksimal hingga 99K, dan selisih harga adalah keuntungan seller.
+
+    Pada halaman promosi tombol order via Whatsapp, jika ada calon pembeli yang order akan dialihkan otomatis ke Whatsapp penjual dengan informasi dan harga yang telah ditentukan penjual.
+
+    Calon pembeli > penjual > deal > admin > pengerjaan dan tunggu beres.
+
+    Info selengkapnya di https://wa.me/6281285242366
+
+    Sekedar candaan!
+    Siapa ya minggu lalu yang mengatasnamakan "Muhammad Ridwan Masykur", kapan-kapan mainlah ke Tangerang kita belajar ngoding bareng di handphone supaya tau gimana serunya ngoding di handphone. 😁 🙏
+
+<br>
+
+4.  [https://haziq.mgkusumaputra.me/]  
+     **QCTFW**
+
+    Assalamu'alaikum wr wb
+    Halo semuanya!
+
+
+    Nama saya Azhar dan saya mau showcase extension saya. Terakhir saya ikutan showcase project ini kayaknya sekitar 2 tahun yang lalu yaitu project anime list bernama WibuSaka dengan menampilkan daftar-daftar platform legal yang tersedia di Indonesia. Saya menyadari bahwa user tetap lebih memilih untuk langsung membuka website MyAnimeList daripada website saya. Jadi saya mencoba untuk membuat extension. Untuk saat ini extensionnya masih berupa userscript karena masih baru belajar soal extension.
+
+
+    Jadi di MyAnimeList itu ada daftar-daftar platform legal untuk menonton anime tertentu. Tetapi kebanyakan platform yang ada di daftar tidak tersedia di Indonesia. Jadi saya mencoba menampilkan daftar-daftar platform legal yang tersedia di Indonesia yang ada di WibuSaka ke daftar MyAnimeList.
+
+
+    Untuk menginstal userscript yang saya buat, silahkan install extension Tampermonkey.
+    Setelah menginstal Tampermonkey, kalian sudah bisa menginstall userscript saya dengan mengikuti cara ini.
+
+
+    Kunjungi link gist saya dibawah lalu tekan "Raw" diatas code.
+
+    Tekan "Instal" di halaman Tampermonkey nya.
+
+    Selesai. Kalian sudah bisa menggunakan userscript nya.
+
+    Setelah selesai instal, halaman MyAnimeList nya akan memunculkan daftar-daftar platform legal yang ada di bawah detail anime, di halaman season, genre, dan user list.
+    Untuk gambaran lebih jelasnya, kalian bisa lihat screenshot nya melalui link "Gallery" di bawah.
+
+
+    Semoga ini bisa berguna untuk kalian yang ingin mencari platform anime secara legal tanpa harus ke website lain. Kalau userscript ini rame, saya akan usaha kembangkan ini menjadi extension standalone dan menambahkan support anime list lainnya seperti AniList, Kitsu, dll.
+
+
+    Repo: https://gist.github.com/qctfw/dd71a93bffee961b884fd6a16e26daa8
+
+    Gallery: https://imgur.com/a/rKKtkSb
+
+    GitHub: https://github.com/qctfw
+
+    Website: https://wibusaka.moe/anime/extension
+
+    Terima kasih atas kesempatannya.
+    Wassalamu'alaikum wr. wb.
+
+<br>
+
+5.  [https://pixelsam123.github.io/pcp]  
+     **Hitori**
+
+    Selamat malam Pak Sandhika dan teman-teman, kali ini saya ingin menampilkan  pcp (Pixel Code Platform).
+    Sebenarnya itu hanya nama sok keren sih wkwkwk, judul yang lebih tepat untuk website ini adalah Simple JS online judge
+
+    Link deployment: https://pixelsam123.github.io/pcp
+
+    Backend: https://github.com/pixelsam123/pcp
+    Swagger docs: https://pcp.azurewebsites.net/docs
+    Backend dibuat menggunakan Quarkus 3 dan hosting sql dari Planetscale
+
+    Frontend: https://github.com/pixelsam123/pcp_frontend_web
+    Frontend dibuat menggunakan Next.js (App Router) dengan Tailwind CSS, Radix UI, fetch library SWR
+
+    Untuk membuat akun baru silahkan klik tombol profil di kanan atas, kemudian Sign In, di bagian bawah dialog Sign In ada tombol untuk Sign Up.
+    Untuk mengerjakan challenge silahkan klik Available on: javascript di salah satu challenge pada homepage. Untuk membuat challenge silahkan masuk ke bagian Creator Panel dan Create new Challenge.
+
+    Untuk Test Cases saya belum menyediakan testing library, jadi silahkan throw new Error jika anda ingin menggagalkan sebuah kasus, misalnya:
+
+    ```
+    function assertEquals(expected, actual) {
+        if (expected !== actual) {
+            throw new Error(`Expected does not match Actual.\nExpected: ${expected}\nActual: ${actual}`)
+        }
+    }
+
+    assertEquals('hello world', helloWorld())
+    ```
+
+<br>
+
+6.  [https://klass.pages.dev/]  
+     **flamrdevs**
+
+    Halo, Pak Dhika dan teman-teman semuanya, izin showcase open-source javascript project.
+
+    🚀 Introduction
+    Klass : class variant utility, adalah sebuah javascript utility library untuk membuat dan mendesain variants based component class secara terstruktur. Klass terinspirasi dari cva, stitches, vanilla-extract dan tailwind-variants. Klass akan sangat cocok jika digunakan dengan utility-first css framework seperti TailwindCSS, UnoCSS dan MasterCSS. Klass berada dibawah lisensi MIT.
+
+    🎨 Feature
+    framework agnostic
+    base, variants, default variants, compound variants, responsive variants
+    group and slots
+    first class typescript support
+    styled-component like (preact,react,solid) - ex : klassed("div", /* options */)
+    polymorphic components (preact,react,solid) - as prop
+
+    💎 Tech Stack
+    Deps: clsx
+    DevDeps: NodeJS, TypeScript, PNPM, TurboRepo, Vite, Vitest, Vitepress
+    Other: CloudFlare, Penpot
+
+    🔗 Links
+    Website: https://klass.pages.dev/
+    Repository: https://github.com/flamrdevs/klass
+    NPM: 
+    @klass/core
+    @klass/preact
+    @klass/react
+    @klass/solid
+
+    📚 Resources
+    Benchmark: https://github.com/flamrdevs/klass-benchmark
+    Examples: https://github.com/flamrdevs/klass-examples
+
+    Thank You
+<br>
+
+7.  [https://lawrencevectus86.github.io/My-Link-Web/]  
+     **PutuxRex**
+
+    Halo Perkenalkan Nama Saya Calvin di Projek Kali ini saya ingin mencoba membuat projek sederhana di karenakan
+    lagi libur semester jadi nya saya ingin mencoba mengulang lagi belajar dan permantap HTML, CSS dan JavaScript Saya
+    projek ini saya namakan 'My Link Web' dimana saya ingin ngikut Web LinkTree yang apa bila ingin mempercantik link ada yang berbayar
+    maka dari itu saya mencoba untuk mengikuti / clone ingin membuat hal yang sama seperti LinkTree, Jika Ingin Lihat LinkTree Old Version yang pernah saya buat kalian bisa Klik Button Paling bawah pada halaman Web nya
+
+    Link Web : https://lawrencevectus86.github.io/My-Link-Web/
+
+    Tech Stack : HTML, CSS dan JavaScript Saja
+
+    Repositori Github : https://github.com/LawrenceVectus86/My-Link-Web
+
+    Link Semua Sudah Aktif
+    Memiliki fitur Dark Mode
+
+    Terima Kasih Mohon Berikan Saran dan Masukan nya Pak Dhika 🙏🙏🙏
+
+<br>
+
+8.  [https://aclwebdev-production.vercel.app/]  
+     **acldev**
+
+    Pendahuluan
+    Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Marchel Lumimpah , akhirnya bisa ikutan showcase project setelah sudah cukup lama bergabung di discord heheh. Di sini saya mau showcase project pertama saya yaitu web portofolio yang terinspirasi dari video  web portofolio menggunakan tailwindCSS milik pak Sandhika. maaf klo webnya mungkin belum responsive di device tablet🙏
+
+
+    Teknologi yang digunakan :
+    -HTML,CSS & JS
+    -TailwindCSS
+    -AOS: animation scroll
+    -Swiper Js : slider
+
+    Repo & Demo
+    Repo: https://github.com/acelproject/aclwebdev
+    Demo: https://aclwebdev-production.vercel.app/
+
+    Terima Kasih, Mohon Berikan Kritik,Saran dan Masukan nya Pak Dhika🙏
+
+<br>
+
+9.  [https://adityawarman.vercel.app/]  
+     **!Dewa**
+
+    Hallo pak Dhika dan teman-teman, saya akan showcase new portfolio saya, terakhir kali showcase 2021 (dewaprogramming.vercel.app) . Mungkin lain waktu showcase selain portfolio.
+
+    Tech: Nuxt 3 
+
+    Modules
+    @nuxtjs/tailwindcss
+    @nuxtjs/google-fonts
+    @nuxtjs/color-mode
+    @nuxt/image
+    nuxt-icon
+    nuxt-delay-hydration
+
+    Demo: https://adityawarman.vercel.app/
+    Repo: https://github.com/devdewa/adityawarman-dewa-putra
+
+    *Untuk Accessibility  PageSpeed Insights  score pada mobile di abaikan saja, karena pada tampilan mobile sudah terasa nyaman dengan style tsb.
+
+    Terima kasih
+
+<br>
+
+10.  [https://quranlet.vercel.app/]  
+     **Framadhita**
+
+    Assalamualaikum Wr. Wb.
+    Halo pak Dhika dan teman teman WPU, ini pertama kali saya ikutan showcase.
+    Nama website saya adalah Quranlet, namanya diambil dari Quran Lite terus dipersingkat lagi namanya. Website ini terinspirasi dari website quran.com makanya mirip banget wkwk.
+
+    Tech : NextJs, jotai
+
+    Demo : https://quranlet.vercel.app/
+    Repo : https://github.com/framadhita4/QuranLet
+
+    Terima kasih 
+
+
+<br><br>
