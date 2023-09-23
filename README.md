@@ -2298,7 +2298,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br>
 
-4.  [https://haziq.mgkusumaputra.me/]  
+4.  [https://wibusaka.moe/anime/extension]  
      **QCTFW**
 
     Assalamu'alaikum wr wb
