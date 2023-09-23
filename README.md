@@ -2479,16 +2479,16 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 10.  [https://quranlet.vercel.app/]  
      **Framadhita**
 
-    Assalamualaikum Wr. Wb.
+     Assalamualaikum Wr. Wb.
     Halo pak Dhika dan teman teman WPU, ini pertama kali saya ikutan showcase.
     Nama website saya adalah Quranlet, namanya diambil dari Quran Lite terus dipersingkat lagi namanya. Website ini terinspirasi dari website quran.com makanya mirip banget wkwk.
 
-    Tech : NextJs, jotai
+     Tech : NextJs, jotai
 
-    Demo : https://quranlet.vercel.app/
+     Demo : https://quranlet.vercel.app/
     Repo : https://github.com/framadhita4/QuranLet
 
-    Terima kasih 
+     Terima kasih 
 
 
 <br><br>
