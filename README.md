@@ -2742,20 +2742,20 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 10.  [https://github.com/rhysqi/Simple-Text-Editor]  
      **__rhysqi__**
 
-    Assalamualaikum pak dhika dan semuanya
-
-    Saya Risky, ini showcase project pertama saya
-    kali ini saya mau showcase project berbasis Desktop. Project saya adalah Simple Text Editor. Tech Stack yang saya gunakan adalah GTK 3 Widget dan beberapa toolchains seperti makefile dan CMake. Saya menyediakan opsi antara build dari source dan ada opsi langsung install binary.  Simple Text Editor ini hanya sekedar bisa read and write data saja dari storage.
-
-    Tech Stack :
-    C/C++ (GTK 3)
-
-    thanks to @Futaba de Rune  sebagai tester :hehehe: 
-
-    github : https://github.com/rhysqi/Simple-Text-Editor
-    release : https://github.com/rhysqi/Simple-Text-Editor/releases/tag/v1.0-alpha
-
-    Sekian, Terimakasih
+        Assalamualaikum pak dhika dan semuanya
+        
+        Saya Risky, ini showcase project pertama saya
+        kali ini saya mau showcase project berbasis Desktop. Project saya adalah Simple Text Editor. Tech Stack yang saya gunakan adalah GTK 3 Widget dan beberapa toolchains seperti makefile dan CMake. Saya menyediakan opsi antara build dari source dan ada opsi langsung install binary.  Simple Text Editor ini hanya sekedar bisa read and write data saja dari storage.
+        
+        Tech Stack :
+        C/C++ (GTK 3)
+        
+        thanks to @Futaba de Rune  sebagai tester :hehehe: 
+        
+        github : https://github.com/rhysqi/Simple-Text-Editor
+        release : https://github.com/rhysqi/Simple-Text-Editor/releases/tag/v1.0-alpha
+        
+        Sekian, Terimakasih
 
 <br><br>
 
