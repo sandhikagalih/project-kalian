@@ -2492,3 +2492,271 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 
 <br><br>
+
+### 30 September 2023
+
+1.  [https://forumgw.vercel.app/]  
+     **Adicss**
+
+    Assalamualaikum,
+    Halo pak Dhika, ini kedua kali saya ikut showcase project (karena baru bisa showcase lagi pas level saya udh nyampe wkwkwk)
+
+    Nama website nya adalah ForumGW, Sebuah forum komunitas non-formal buat tempat diskusi publik atau bahkan secara anonimus. Website ini saya buat menggunakan bahasa non-formal (of course gk ada kata kata toxic nya) supaya saya ngerasa lebih deket aja ama user dan user pun akan ngerasa ini forum punya mereka (tadi nya sih pengen pake bahasa jaksel wkwkwk)
+
+    Tech Stack
+    NextTS (karena pake typescript)
+    TailwindCSS + shadcn/ui 😎
+    tRPC
+    Prisma
+    Supabase
+    uploadthing
+
+    Demo : https://forumgw.vercel.app/
+
+    Repo : https://github.com/AdiCahyaSaputra/forumgw
+
+    Klo mungkin ada bahasa yg kurang berkenan saya mohon maaf, ditunggu feedback nya. Terima Kasih 🙏 
+
+
+<br>
+
+2.  [https://collosal-drab-kappa.vercel.app/]  
+     **nafy**
+
+    Selamat pagi, siang, sore dan malam para sepuh semuanya.
+
+    Izinkan saya sebagai pemula share project sederhana 👉 👈. Cuma share hasil slicing design dari codedesign.dev karena gabut sembari menunggu beberapa minggu lagi masuk kampus ya saya sebagai pemula ini belajar nextjs dan tailwind. Karena saya masih pemula project ini selesai sekitar 11 hari.
+
+    LIVE: https://collosal-drab-kappa.vercel.app/
+    CODE: https://github.com/naufal-yafi/collosal-slicing-design
+    TECH: {'nextjs', 'tailwindcss'}
+
+    Kritik dan sarannya ya puh sepuh 🙏
+
+<br>
+
+3.  [https://dfsdanimaulana.github.io/tank-war/]  
+     **dnm17_**
+
+    Assalamualaikum wr. wb.
+
+    Halo pak Dhika dan teman2, perkenalkan saya Dani, kali ini mau showcase project saya yg ke-4 yaitu web game ber tema Tank War. tujuannya sederhana yaitu hancurkan semua musuh yang ada dan raih skor tertinggi, game ini bisa dimainkan di dekstop dan mobile.
+
+    fitur-fitur yg sudah ada di game ini  yaitu sebagai berikut:
+    game score (local storage)
+    empat jenis bonus game yg berbeda
+    🔴 : Upgrade weapon
+    🟢 : Shield
+    🔵 : Live +1
+    ⚪ : Rocket weapon
+    interactive terrains
+    random map saat mulai game baru
+    pohon akan hancur saat di tabrak dan akan tumbuh kembali dlm beberapa detik
+    tidak bisa melewati/menembus tembok
+
+    Project ini di buat tanpa menggunakan library atau framework apapun, yaitu hanya menggunakan 
+    HTML
+    JavaScript
+    CSS
+
+    Demo : https://dfsdanimaulana.github.io/tank-war/
+
+    Github : https://github.com/dfsdanimaulana/tank-war/
+
+    Assets : https://zintoki.itch.io/ground-shaker?download
+
+    Harap maklum karena gamenya masih banyak bug dan fitur yg belum sempurna, sekian dari saya dan terimakasih. 
+
+
+<br>
+
+4.  [https://react-tools-flax.vercel.app/]  
+     **bloody**
+
+    Assalamualaikum semuanya, semoga kabar kalian baik 😁.
+    ini adalah kali ke 2 saya showcase projek disini, sebenernya kebalik harusnya projek ini yang dishowcase pertama sebelum react chat sebelumnya tapi.. yasudahlah
+
+    "react tools" merupakan projek pertama saya menggunakan react js dan tailwind, dimana pada web ini terdapat 3 fitur utama yaitu todo list, notes, dan juga expense tracker. Projek saya kerjakan dalam waktu beberapa bulan, karena sempat terhenti ditengah jalan (malas belajar tidak untuk ditiru😅).
+
+    pada awal tampilan kalian akan disuguhkan tampilan home yang juga terdapat menu untuk menuju ke 3 fitur yang disebutkan sebelumnya. Secara singkat todolist digunakan untuk mencatat kegiatan kalian, note untuk mencatat (namanya juga note mau buat apalagi), dan yang terakhir adalah expense tracker dimana kalian bisa mencatat pengeluaran dan pemasukan keuangan kalian. 
+
+    projek ini tidak mengugunakan database, tapi memanfaatkan local storage dari browser. Mohon maaf kalo tidak memanjakan mata soalnya ini first time pakai react dan tailwind hehe.
+
+    tech stack:
+    Javascript
+    React JS
+    TailwindCSS
+
+    repo: https://github.com/Alvalens/react-tools
+    demo: https://react-tools-flax.vercel.app/
+
+    jangan lupa bintang dan follownya bang, nanti pasti ku follow back 😁
+
+<br>
+
+5.  [https://jcode-2110.netlify.app/]  
+     **Shinn Asuka**
+
+    Selamat hari H semuanya, bagaimana kabarnya? semoga sehat selalu.
+
+    perkenalkan saya Agung ini show case pertama kali saya sebagai pemula, disini saya mau show project mentah yang awalnya diminta teman untuk buatin Aplikasi Apotek untuk  menghandle bisnis apotek teman seperti transaksi,inventory,laporan pajak, laporan keungan, laporan jurnal,kasir dll. Karena butuhnya cepat, jadi saya tidak bisa membuatkannya . Tapi saya jadi tertarik untuk buat sendiri sebagai project pribadi dan ini masih dalam tahap pengembangan.
+
+    Webnya saat ini sudah memiliki fitur auth dan saat pertama kali akses akan diminta buat login. Menu yang sudah bekerja sementara menu Master aja, untuk transaksi dan lainnya belum bekerja. untuk tabel datanya juga belum ada pagination masih dummy hehe. sebelum install pastikan extensi zip dan xls yg di php.ini sudah aktif 
+
+    tech stack:
+    Codeigniter 4
+    JQuery
+    Swal2
+    Tabler.io
+    phpspreadsheet
+
+    step install:
+    - clone repo https://github.com/agungpdev/pos-apotek
+    - jalankan composer install or composer update
+    - create file env
+    - set baseurl
+    - config database env
+    - aktifkan security di env
+
+    ```
+    security.csrfProtection = 'cookie'
+    security.tokenRandomize = false
+    security.tokenName = 'csrf_token_apotech'
+    security.headerName = 'X-CSRF-TOKEN'
+    security.cookieName = 'csrf_cookie_secure'
+    security.expires = 7200
+    security.regenerate = true
+    security.redirect = false
+    ```
+
+    - create database
+    - jalankan migrasi php spark migrate
+    - done jalankan aplikasi
+
+    Bila ada bug atau detil kecil yang kurang silahkan dikomentari dan kasih feedbacknya guys 😎
+
+<br>
+
+6.  [https://zenfresh.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua.
+
+    Saya Umar dari Jogja. Showcase kali ini Saya membuat website Laundry business bernama "ZenFresh". Website ini menampilkan landing page, service yang diberikan dan online ordering. Saya juga menggunakan bantuan ChatGPT untuk memberikan data dummy seperti nama orang, alamat, dll. 
+
+    Desclaimer: Web ini hanya berjalan dari sisi frontend jadi online ordering nya hanya sampai ke appointment, tidak sampai ke payment gateway.
+
+    Images resource:
+    https://unsplash.com/
+
+    SVG resource:
+    https://tabler-icons.io/
+
+    Tech stack: Tailwindcss, DaisyUI, dan ReactJS.
+
+    Demo: https://zenfresh.netlify.app/
+    Repo: https://github.com/jihadable/zenfresh
+
+<br>
+
+7.  [https://alfarabygit.github.io/Gallery-Photo/]  
+     **Indra**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan. 
+    Semoga sehat selalu utk semuanya. Kali ini saya ingin showcase project sederhana yang kedua yaitu simple pinterest gallery photo . 
+    Tech stack:
+    Html
+    CSS
+    Javascript dan js library(aos, fancybox)
+
+    Sebelumnya saya mengucapkan terimakasih kepada pak sandhika atas saran dan kritik project showcase pertama sebelumnya.
+
+    Jgn lupa feedback dari showcase saya yg kedua ini utk pak dhika dan kawan-kawan. Dan sebelum saya tutup saya ingin menyampaikan beberapa peribahasa: "Tak ada gading yg tak retak"
+    
+    Terimakasih🙏
+
+
+    Demo: https://alfarabygit.github.io/Gallery-Photo/
+
+    Github: https://github.com/alfarabygit/Gallery-Photo 
+
+
+<br>
+
+8.  [https://github.com/slowy07/clara]  
+     **Hugo de Rune**
+
+    halo pak 6468696b61 :hehehe: 
+    kmarin saya pergi ke supermarket kemudian saya membeli makanan, dan kemudian bayar ke kasir, setlah itu saya pulang dan memakan makanan tersebut, setelah itu saya lanjut ngoding, jadi dari pernyataan diatas sebenarnya tidak ada hubungannya sama sekali pak dengan project ini :hehehe: , jadi disini saya ingin showcase project yang bernama clara, project ini adalah sebuah library yang bisa pak 6468696b61 gunakan dalam membuat sebuah perhitungan yang berhubungan dengan mekanika quantum (lebih mengarah ke perhitungan untuk  tujuan dari quantum computing), project ini dibuat hasil belajar saya dari kak rey (@Pemuja TempleOS de rune) yang udah mengajari, membimbing saya belajar tentang quantum computing (terima kasih atas ilmunya kak rey (@Pemuja TempleOS de rune) sebagai saya yang masih belum banyak ilmunya ❤️ ,  project ini dibuat dengan
+    C++ ( libeigen)
+    hasil dari project ini bisa pak dhika lihat pada demo yang sudah saya berikan disini
+    https://colab.research.google.com/drive/1Ac_Y9Rabh2NuNR9QpwHY68Y5baEX13Mh?usp=sharing 
+
+    sementara demonya terkendala di running karena path libeigennya bermasalah pada google colab pak, tapi pak dhika bisa melihat penjelasan dari google colab perihal demo yang diberikan serta source code dari demonya  dan project dari clara yang bisa dilihat di repositori dibawah ini
+    https://github.com/slowy07/clara
+    thanks to:
+    @Arul de Rune (docker support)
+    @Nab de Rune (improvement some function)
+
+    terima kasih pak 6468696b61 salam CPU (c++ programming unpas) :hehehe: 
+
+
+<br>
+
+9.  [https://harli.mgkusumaputra.me/]  
+     **MGKPs #SMAImComing**
+
+    Assalamualaikum Semuanya, selamat const date = new Date();  Kali ini pengen ikutan showcase project gabut yang dikerjakan cukup lama karena bug yang lumayan nyebelin 🗿
+
+    Website kali ini adalah Harli (Singkatan dari Hari Libur) yang fungsinya untuk mengecek hari libur terdekat dari hari ini biar nggak usah bulak-balik buka kalender/surat pemerintah..
+    Website ini terinspirasi dari https://twitter.com/r__h_n/status/1700141308063408599 punyanya mas Raihan Nizar. Karena kalo cuma buat tampilan yang sama jadi nggak ada bahan pembelajarannya, jadi saya tambahkan Public APInya juga, agar yang lain bisa ikutan coba buat tampilan berbeda tapi nggak perlu ribet buat APInya 😎 
+
+    Fiturnya antara lain:
+    Cek Hari Libur Terdekat
+    API
+    GET Seluruh Hari Libur
+    GET Hari Libur Terdekat
+    Filter Tahun
+    Filter Bulan
+    Filter Cuti Bersama
+
+    Menggunakan Tech Stack:
+    Next.js 13 (App dir)
+    Tailwind CSS
+    Shadcn UI
+    Vercel
+    Umami Analytics
+    Cloudinary
+
+    Yang penasarannya sama webnya bisa langsung akses disini https://harli.mgkusumaputra.me/
+    Jangan lupa juga buat star reponya https://github.com/mgkusumaputra/harli
+
+    Bagi yang mau ngesih feedback, saran fitur atau melaporkan bug bisa langsung akses https://mgkps.producter.co/portal/feedback/list dengan Format Title: Harli | (Title)
+
+    Tengkyu buat @Framadhita @Agus Wesly yang sudah membantu proses dalam perbaikan bugnya wkwkwkwk
+
+    Sekian dan terima kasih semuanya, jangan lupa titik koma (ditunggu project berikutnya) :senyumin_aja:
+
+<br>
+
+10.  [https://github.com/rhysqi/Simple-Text-Editor]  
+     **__rhysqi__**
+
+    Assalamualaikum pak dhika dan semuanya
+
+    Saya Risky, ini showcase project pertama saya
+    kali ini saya mau showcase project berbasis Desktop. Project saya adalah Simple Text Editor. Tech Stack yang saya gunakan adalah GTK 3 Widget dan beberapa toolchains seperti makefile dan CMake. Saya menyediakan opsi antara build dari source dan ada opsi langsung install binary.  Simple Text Editor ini hanya sekedar bisa read and write data saja dari storage.
+
+    Tech Stack :
+    C/C++ (GTK 3)
+
+    thanks to @Futaba de Rune  sebagai tester :hehehe: 
+
+    github : https://github.com/rhysqi/Simple-Text-Editor
+    release : https://github.com/rhysqi/Simple-Text-Editor/releases/tag/v1.0-alpha
+
+    Sekian, Terimakasih
+
+<br><br>
+
+
