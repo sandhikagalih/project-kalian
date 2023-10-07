@@ -2765,15 +2765,15 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 1.  [https://forumgw.vercel.app/]  
      **Eris Sulistina**
 
-    # Pendahuluan
+    ### Pendahuluan
 
     Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina yang kemarin-kemarin showcase AlpineJS. Kali ini saya masih bersama AlpineJS. Yang membedakan pada projek ini adalah penggunaan API pada AlpineJS.
 
-    # Tentang Aplikasi
+    ### Tentang Aplikasi
 
     Aplikasi ini bernama Alpine-Movie. Aplikasi ini cloningan dari wpu-movie tapi dengan sedikit upgrade dan menggunakan AlpineJS. API film berasal dari [OMDB](https://www.omdbapi.com/).
 
-    # Tahap Pembuatan
+    ### Tahap Pembuatan
 
     Awalnya saya ingin mengimplementasikan .env untuk mengamankan apikey punya saya, tapi setelah mencari tahu kesana-kemari ternyata solusinya harus install package. Karena saya tidak menginginkan install package lain, maka saya terpaksa mengurungkan niat dan membiarkan apikey terlihat.
 
@@ -2785,23 +2785,23 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
     Perihal sedikit upgrade, saya menambahkan skeleton pada list movies dan modal movie
 
-    # Teknologi
+    ### Teknologi
 
     1. AlpineJS
     1. TailwindCSS
     1. API: omdbAPI
 
-    # Repo & Demo
+    ### Repo & Demo
 
     Repo: https://github.com/sejutaimpian/alpine-movie  
     Demo: https://alpine-movie.sampurasun.my.id/
 
-    # Disclaimer
+    ### Disclaimer
 
     - Dikarenakan apikey saya terlihat, dimohon untuk tidak dimanfaatkan tanpa seizin saya karena saya punya beberapa ide projek bersama omdb
     - Dimohon untuk tidak mengunjungi web Demo pada hari Sabtu (hari showcase projek) karena takutnya limitku habis dan tidak terpresentasikan oleh pak Dhika
 
-    # Terimakasih
+    ### Terimakasih
 
 <br>
 
@@ -2825,12 +2825,12 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 
     project ini juga sebagai tugas akhir dari matkul perencaan dasar Project Sains Data yang akan di uji pada bulan desember ini
-    ## link repository:
+    ### link repository:
     https://github.com/kayabaakihiko13/Selector
 
-    ## link Untuk Tester:
+    ### link Untuk Tester:
     https://colab.research.google.com/drive/1FpTei28EkxRID4E4N8G-t_RE0U3l4G9E?usp=sharing
-    ## Info lebih lanjut
+    ### Info lebih lanjut
     https://github.com/kayabaakihiko13/Selector#readme
 
     terima kasih atas perhatiaannya
