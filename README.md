@@ -2760,3 +2760,194 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br><br>
 
 
+### 7 Oktober 2023
+
+1.  [https://forumgw.vercel.app/]  
+     **Eris Sulistina**
+
+    # Pendahuluan
+
+    Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina yang kemarin-kemarin showcase AlpineJS. Kali ini saya masih bersama AlpineJS. Yang membedakan pada projek ini adalah penggunaan API pada AlpineJS.
+
+    # Tentang Aplikasi
+
+    Aplikasi ini bernama Alpine-Movie. Aplikasi ini cloningan dari wpu-movie tapi dengan sedikit upgrade dan menggunakan AlpineJS. API film berasal dari [OMDB](https://www.omdbapi.com/).
+
+    # Tahap Pembuatan
+
+    Awalnya saya ingin mengimplementasikan .env untuk mengamankan apikey punya saya, tapi setelah mencari tahu kesana-kemari ternyata solusinya harus install package. Karena saya tidak menginginkan install package lain, maka saya terpaksa mengurungkan niat dan membiarkan apikey terlihat.
+
+    Kebiasaan saya dalam ngoding biasanya mendahulukan bereksperimen membuat codingan yang menurut saya ragu apakah saya bisa membuatnya atau tidak sebelum ke desain. Dalam projek ini, saya bereksperimen fetch API, print API, dan yg berhubungan dengan API lainnya. Pada proses ini berulang kali saya menemukan error karena kurang pengetahuan terkait API dan fetch API pada Javascript. hampir saja saya menyerah. Tapi karena saya menyukai AlpineJS, saya enjoy mengerjakannya.
+
+    Ngoding pakai AlpineJS menyenangkan loh (iklan, hehe)
+
+    Pada proses convert design bootstrap ke Tailwind tentunya menjadi tantangan tersendiri. Tapi karena saya menyukai Tailwind, saya enjoy mengerjakannya.
+
+    Perihal sedikit upgrade, saya menambahkan skeleton pada list movies dan modal movie
+
+    # Teknologi
+
+    1. AlpineJS
+    1. TailwindCSS
+    1. API: omdbAPI
+
+    # Repo & Demo
+
+    Repo: https://github.com/sejutaimpian/alpine-movie  
+    Demo: https://alpine-movie.sampurasun.my.id/
+
+    # Disclaimer
+
+    - Dikarenakan apikey saya terlihat, dimohon untuk tidak dimanfaatkan tanpa seizin saya karena saya punya beberapa ide projek bersama omdb
+    - Dimohon untuk tidak mengunjungi web Demo pada hari Sabtu (hari showcase projek) karena takutnya limitku habis dan tidak terpresentasikan oleh pak Dhika
+
+    # Terimakasih
+
+<br>
+
+2.  [https://github.com/kayabaakihiko13/Selector]  
+     **Futaba Aug de Rune**
+
+    Assalamualaikum pak dhika dan semuanya
+
+    izinkan saya mengshow case lagi dan juga mempernal kan diri lagi
+    Saya Iqbal Ramadhan Anniswa dari mahasiswa sains data di sebuah kampus bertema bela negara dan saya seorang mahasiswa semester 5 (masih banyak belajar,), kesempatan ini merupakan showcase project kedua saya hasil evaluasi dan belajar lagi dari sebelumnya (https://discord.com/channels/722002048643497994/758600947692732436/1049367790831812668) dan terima kasih juga kepada tester dan juga kak arfy atas sumber bacaan teori ML dan DL 
+
+    Project ini tentang image classifikation waifu dengan nama `Selector` . project ini merupakan suruh Komputer bedakan mana waifu ku `Takina Inoue` dan `Shibuya Rin` (note: sama-sama karakter dari studio A-1 Pictures)
+    untuk data gambar nya hasil scrapping data di pinterest 
+    untuk teknologi nya :
+    1. matplotlib
+    2. numpy
+    3. cv2
+    4. pywt
+    5. sklearn
+    6. pandas
+
+
+    project ini juga sebagai tugas akhir dari matkul perencaan dasar Project Sains Data yang akan di uji pada bulan desember ini
+    ## link repository:
+    https://github.com/kayabaakihiko13/Selector
+
+    ## link Untuk Tester:
+    https://colab.research.google.com/drive/1FpTei28EkxRID4E4N8G-t_RE0U3l4G9E?usp=sharing
+    ## Info lebih lanjut
+    https://github.com/kayabaakihiko13/Selector#readme
+
+    terima kasih atas perhatiaannya
+
+<br>
+
+3.  [https://goldenfist.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua.
+
+    Saya Umar dari Jogja. Showcase kali ini Saya membuat website company profile bernama "Golden FIst" yang merupakan tempat belajar bela diri. Website ini terdiri dari beberapa halaman, dan tidak bosan-bosan nya Saya meminta bantuan dari teman kita semua yaitu ChatGPT untuk memberikan data dummy.
+
+    Teck Stack: SASS dan ReactJS.
+
+    Demo: https://goldenfist.netlify.app/
+    Repo: https://github.com/jihadable/goldenfist
+
+    Silahkan berikan feedback nya.
+
+<br>
+
+4.  [https://qovier.xyz]  
+     **cholis04**
+
+    **#Pendahuluan**
+    Assalamualaikum warahmatullahi wabarakatuh. 
+
+    Halo Pak Dhika dan halo juga teman-teman member WPU, izinkan saya memperkenalkan *personal project* yang telah saya kerjakan dalam beberapa minggu ini, yang saya kasih nama Qovier.
+
+    Namanya sendiri diambil dari "Color Pairs", kemudian disingkat jadi "Co-Pair",  dan akhirnya sedikit diplesetkan menjadi Qovier. 
+
+
+    **#Tentang**
+    *Project* ini adalah sebuah *online generator tool* untuk berkesperimen dan menjelajahi pasangan warna.
+
+    Qovier akan menghasilkan daftar pasangan warna (kombinasi dua warna) dalam bentuk *solid*, teks, pola, warna gradasi dan juga ilustrasi (*flatline*). 
+
+    Berikut beberapa fitur yang tersedia untuk melengkapi fungsi web aplikasi: 
+    1. *Filter* warna yang ingin ditampilkan berdasarkan Hue.
+    3. Simpan warna (Localstorage API).
+    3. Kunci warna sebelum men-*generate* daftar yang baru.
+    4. *Swap Colors* pada pratinjau pola, warna gradasi dan ilustrasi.
+    5. Rasio kontras pada pratinjau teks.
+    6. Dan lain-lain.
+
+
+    **#Teknologi yang digunakan**
+    - **Framework**
+    - Next JS
+    - **Styling**
+    - CSS Modules
+    - **UI Component**
+    - Headless UI
+    - Nuka Carousel
+    - React Modal Sheet
+    - React Colorful
+    - React Toastify
+    - **State Management**
+    - Redux Toolkit
+
+
+    **#Kelemahan**
+    Terkadang warna yang muncul hampir sama, padahal kode warna nya sudah berbeda.
+
+    Web aplikasi ini juga belum menerapkan *Testing*, sehingga proses *development* nya pun jadi ngeri ngeri sedap.
+
+
+    **#Tautan**
+    - Situs : https://qovier.xyz
+    - Repo : https://github.com/cholis04/qovier
+
+
+    **#Penutup**
+    Sekian dari saya. 👋 Terima kasih atas perhatiannya, semoga kita semua selalu diberikan kesehatan. 
+
+    Wassalamualaikum Warahmatullahi Wabarakatuh.
+
+<br>
+
+5.  [https://indracode.itch.io/gefys]  
+     **Indra vs dosen tamu**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan. 
+    Semoga sehat selalu utk semuanya. Kali ini saya ingin showcase project sederhana yang ketiga yaitu Gefys(Game Education Fisher Yates Shuffle). 
+    Tech stack: Construct 2
+
+    Singkat cerita, Gefys(Game education Fisher yates shuffle) ini merupakan projek skripsi yg saya buat pada tahun 2020 di saat pandemi melanda dan aplikasi ini ditujukan utk anak usia 3 s/d 6 tahun berbasis android. Waktu itu awalnya saya bingung utk mencari bahan utk skripsi di saat pandemi melanda dan setelah beberapa kali konsultasi dgn dospem, dospem saya menganjurkan utk membuat aplikasinya saja sekalian skripsi agar saya bisa selesai tepat waktu pada tahun itu. Dan saya sangat beruntung sekali yg mana saya hanya disuruh utk membuat aplikasi nya tanpa hrs ke lapangan utk mengumpulkan data-data yg diperlukan utk skripsi saya.
+
+    Jgn lupa feedback dari showcase saya yg kedua ini utk pak dhika dan kawan-kawan. Dan sebelum saya tutup saya ingin menyampaikan satu atau beberapa peribahasa: 
+    1. "Tak ada gading yg tak retak"
+    2. "Tak ada rotan akar pun jadi"
+    
+    Terimakasih🙏
+
+    Demo utk web:https://indracode.itch.io/gefys
+
+    Demo utk mobile:https://drive.google.com/file/d/11zL1Yko-5DFREqwCFBqy3d1VGzOhZSOE/view?usp=drivesdk
+    Note: utk mobile didownload apk terlebih dahulu lalu install
+
+    Github:https://github.com/alfarabygit/GEFYS
+
+    jgn lupa titik koma guys (ditunggu project berikut nya)
+
+<br>
+
+6.  [https://siidappa.github.io/IDCAMP/]  
+     **dotEnv —**
+
+    Assalammualaikum Pak dika dan temen-temen izin showcase project yang sudah saya buat untuk submission Tugas Akhir IDCAMP dari Indosat . saya buat web ini sederhana aja baru ui nya saja. web ini juga sudah di review oleh pihak reviewer dari dicoding.com
+
+    Teknologi : HTML CSS JAVASCRIPT doang hehe 
+    link : https://siidappa.github.io/IDCAMP/
+    github : https://github.com/siidappa/IDCAMP
+
+    mungkin itu aja pak dika dan temen temen semua terima kasih 
+    hatur nuhun 😇
+    assalammualaikum
+
+<br><br>
