@@ -2762,7 +2762,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 ### 7 Oktober 2023
 
-1.  [https://forumgw.vercel.app/]  
+1.  [https://alpine-movie.sampurasun.my.id]  
      **Eris Sulistina**
 
     ### Pendahuluan
@@ -2856,7 +2856,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 4.  [https://qovier.xyz]  
      **cholis04**
 
-    **#Pendahuluan**
+    **###Pendahuluan**
     Assalamualaikum warahmatullahi wabarakatuh. 
 
     Halo Pak Dhika dan halo juga teman-teman member WPU, izinkan saya memperkenalkan *personal project* yang telah saya kerjakan dalam beberapa minggu ini, yang saya kasih nama Qovier.
@@ -2864,7 +2864,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     Namanya sendiri diambil dari "Color Pairs", kemudian disingkat jadi "Co-Pair",  dan akhirnya sedikit diplesetkan menjadi Qovier. 
 
 
-    **#Tentang**
+    **###Tentang**
     *Project* ini adalah sebuah *online generator tool* untuk berkesperimen dan menjelajahi pasangan warna.
 
     Qovier akan menghasilkan daftar pasangan warna (kombinasi dua warna) dalam bentuk *solid*, teks, pola, warna gradasi dan juga ilustrasi (*flatline*). 
@@ -2878,7 +2878,7 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     6. Dan lain-lain.
 
 
-    **#Teknologi yang digunakan**
+    **###Teknologi yang digunakan**
     - **Framework**
     - Next JS
     - **Styling**
@@ -2893,18 +2893,18 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     - Redux Toolkit
 
 
-    **#Kelemahan**
+    **###Kelemahan**
     Terkadang warna yang muncul hampir sama, padahal kode warna nya sudah berbeda.
 
     Web aplikasi ini juga belum menerapkan *Testing*, sehingga proses *development* nya pun jadi ngeri ngeri sedap.
 
 
-    **#Tautan**
+    **###Tautan**
     - Situs : https://qovier.xyz
     - Repo : https://github.com/cholis04/qovier
 
 
-    **#Penutup**
+    **###Penutup**
     Sekian dari saya. 👋 Terima kasih atas perhatiannya, semoga kita semua selalu diberikan kesehatan. 
 
     Wassalamualaikum Warahmatullahi Wabarakatuh.
