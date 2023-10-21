@@ -2951,3 +2951,179 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     assalammualaikum
 
 <br><br>
+
+### 21 Oktober 2023
+
+1.  [https://grensa-stiker.vercel.app/]  
+     **Kang Error**
+
+    hallo teman teman WPU dan Pak Sandi, Saya mau memamerkan Portfolio teman saya, yang saya buat Portfolionya untuk Tambah2 Project untuk Portfolio saya 
+    
+    Teknologi
+    -Next js
+    -Tailwind css
+    -Swipper js
+    -Framer motion
+    
+    Github: https://github.com/PILIPSCODE/Grensa-Stiker
+    Demo: https://grensa-stiker.vercel.app/
+    
+    Terimakasih dan sampai jumpa di showcase project saya selanjutnya
+
+<br>
+
+2.  [https://weebsy.my.id/]  
+     **Lost Gophers**
+
+    Halo semua nya 👋, aku KagChi. sudah lama rasa nya terakhir saya share project saya ke teman teman. kali ini aku punya project baru nih. TopUp Pulsa, Game dll. bisa lewat online !
+    
+    Project ini dikerjakan dalam 1 bulan. semuanya sudah rampung dan bekerja semana mestinya. saya sangat amat membutuhkan feedback untuk menyempurnakan project saya.
+    
+     Tech Stacks:
+    ~ Fastify (backend, typescript)
+    ~ Midtrans (payment gateway)
+    ~ NextJS (frontend, typescript)
+    ~ Database PosgreSQL
+    ~ Styling menggunakan TailwindCSS
+    ~ Brevo (SMTP Server)
+    
+    Terima Kasih 🙏 
+    
+    ~ https://weebsy.my.id
+
+<br>
+
+3.  [https://sudokumar.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua, Saya Umar dari Jogja. Showcase kali ini Saya membuat website sudoku. Cara main nya sama seperti sudoku pada umum nya dan design web ini terinspirasi dari https://sudoku.com/.
+    
+    Ide pembuatan web ini tercipta ketika Saya dan teman-teman kuliah sedang mengerjakan tugas kuliah di kampus. Ternyata, ada teman yang sedang bermain sudoku. Kemudian, salah satu teman yang lein nyeletuk "Coba buat mar". Saya kemudian coba membuatnya hehe, dan ternyata waktu pembuatannya gak sampe seminggu. 
+    
+    Tech stack: HTML5, SASS, dan JS
+    
+    Demo: https://sudokumar.netlify.app/
+    Repo: https://github.com/jihadable/sudokumar
+
+<br>
+
+4.  [https://pengelolaan-buku.vercel.app/]  
+     **Kang Dappa**
+
+    Assalammulaikum pak dika dan teman teman saya mau showcase 2 project sederhana dan kecil kecilan saja btw project ini tugas akhir kelas DICODING daripada nganggur di lokal mending saya push ke production dan saya submit biar temen temen dan pak dika dapat mencoba project yang sudah saya buat ini . mohon maaf sebelumnya project ini belum responsif ( baru buat ui versi desktop )
+    
+    Project 1 
+    Teknologi : HTML CSS JAVASCRIPT 
+    link : https://pengelolaan-buku.vercel.app/
+    repo : https://github.com/siidappa/pengelolaan-buku
+    
+    Project 2
+    Teknologi : React dan Css
+    link : https://aplikasi-catatan.vercel.app/
+    repo : https://github.com/siidappa/aplikasi-catatan
+    
+    **Mohon maaf kalo ada bug selama mereview web yang saya buat . Saya sangat terbuka dengan saran dan masukan dari pak Dika dan temen temen semuanya 
+    
+    mungkin itu saja yang bisa saya sampaikan kurang lebih nya mohon maaf 
+    Hatur nuhun 😇
+
+<br>
+
+5.  [https://indogithubers.vercel.app/]  
+     **depa**
+
+    halo semuanya, salam kenal 👋 
+    perkenalkan saya depa. izin ikutan showcase project sederhana yg saya bikin 🙇‍♂️ 
+    
+    project ini dibikin karena rasa penasaran saya soal siapa github user di indonesia yg paling banyak followers & contributions nya.
+    sambil belajar react & biar ada hasilnya, saya coba bikin project ini dengan nama `IndoGitHubers`
+    *dan ternyata rank 1 nya Pak Dhika 🥇 
+    
+    tech stack:
+    - react with vite
+    - primereact
+    
+    link : https://indogithubers.vercel.app/
+    repo : https://github.com/depapp/IndoGitHubers
+    *klo vercel nya di blok (lagi), bisa pake https://indogithubers.netlify.app/ 
+    
+    hatur nuhun semuanya..
+
+<br>
+
+6.  [https://alfarabygit.github.io/risoles-umi/]  
+     **Indra**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan. 
+    Semoga sehat selalu utk semuanya. Kali ini saya ingin showcase project sederhana yang keempat  yaitu Landing page Risoles Umi
+    Tech stack: 
+    1. Html
+    2. Css
+    3. JavaScript
+    
+    Singkat cerita setelah saya menyelesaikan kuliah saya menghabiskan waktu saya utk berdagang usaha kecil risoles ibu saya yang bernama risoles umi ini yang dibuat oleh ibu saya pada tahun 2021. Tujuan saya membuat landing page sederhana ini sebagai rasa terimakasih bagaimana saya belajar utk mencari nafkah. 
+    
+    Website ini hanya berjalan di front end nya saja. 
+    
+    Jgn lupa feedback dari showcase saya yg keempat ini utk pak dhika dan kawan-kawan. Dan sebelum saya tutup saya ingin menyampaikan satu atau beberapa peribahasa: 
+    1. "Tak ada gading yg tak retak"
+    2. "Tak ada rotan akar pun jadi"
+     
+    Terimakasih🙏
+    
+    Demo: https://alfarabygit.github.io/risoles-umi/
+    GitHub: https://github.com/alfarabygit/risoles-umi
+    
+    Jgn lupa titik koma guys (ditunggu project selanjutnya)
+
+<br>
+
+7.  [https://projectwebsite.xyz/]  
+     **Giri Adam**
+
+    Assalamu'alaikum, Pak dhika dan rekan-rekan programmer seperjuangan.
+    Ini merupakan Kesempatan Pertama saya Mengikuti Showcase Project.
+    
+    Pada Kesempatan Kali Ini saya ingin Menunjukan Hasil Karya saya sebuah
+    Portofolio Sederhana, Ya memang tidak sebagus portofolio lainnya cuma saya merasa Puas
+    dan akan terus berkembang kedepanya.
+    
+    Untuk Techstack Yang saya Gunakan :
+    1. Vite React
+    2. Tailwind CSS
+    3. Headless UI
+    
+    Mungkin masih banyak kekurangan Yang Harus Saya Sempurnakan 
+    Mudah-mudahan dengan Ikutnya saya di Showcase Project Kali Ini,
+    Menjadikan saya lebih baik Lagi di masa depan, Terimakasih. 
+    
+    Link Website : https://projectwebsite.xyz/
+    Link Github  : -
+
+<br>
+
+8.  [http://kasir.kecor.my.id]  
+     **KevinAdhaikal**
+
+    Assalamualaikum Warohmatullahi Wabarokatuh pak dhika dan teman teman.
+    
+    Kali ini, saya akan mau showcase project saya, yaitu AplikasiKasir, jadi, agar memudahkan pemilik usaha untuk mengelola Kasir
+    
+    Jadi, saya membuat aplikasi ini, karena saya gabut wkwk, dan juga, ini buat di Toko saya juga, makanya, jadi saya buat aplikasi ini
+    
+    Tech Stack yang saya gunakan
+    
+    - C Programming (untuk backend server)
+    - AdminLTE Template
+    
+    Link Demo: http://kasir.kecor.my.id
+    Jika tidak bisa di akses, bisa lewat IP: http://103.179.57.43
+    Jika tidak bisa di akses juga, coba pake VPN
+    
+    Link Github: https://github.com/KevinAdhaikal/AplikasiKasir
+    
+    Untuk default username dan password: admin
+    
+    Terimakasih, Assalamualaikum Warohmatullahi Wabarokatuh
+
+<br><br>
