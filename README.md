@@ -3126,4 +3126,29 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     
     Terimakasih, Assalamualaikum Warohmatullahi Wabarokatuh
 
+<br>
+
+9.  [https://film-script.sampurasun.my.id/]  
+     **Eris Sulistina**
+
+    Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina masih setia dengan AlpineJS. Kali ini saya membawa projek yang lumayan menguras pikiran. Berawal dari saya yang menyukai film, tertarik membuat naskah, mempelajari format penulisannya  sampai pernah bikin 1 naskah ala-ala cerita pendek walaupun tidak pernah difilmkan, akhirnya baru-baru ini kepikiran untuk membuat editor naskah versi website. Aplikasi ini saya beri nama film-script (website untuk menulis naskah film). 
+    
+    Sebelum proses pembuatannya, saya sampai research format penulisan naskah film, software desktop penulisan naskah, sampai apk mobile penulisan naskah.  
+    Pada proses pembuatannya, saya banyak menemukan kesulitan seperti convert design ke versi mobile, fungsionalitas focus, shortcut keyboard, hingga pada tahap saya menemukan  dan tersadar bahwa ternyata directive $nextTick milik alpineJS sangat berguna dan berperan penting disini. Semua kesulitan itu saya lalui dengan enjoy dan berapi-api 
+    
+    Ngoding pakai AlpineJS menyenangkan loh (iklan, hehe)
+    
+    Teknologi yang saya gunakan:
+    - AlpineJS
+    - TailwindCSS
+    - Focus: plugin AlpineJS untuk bekerja dengan focus
+    
+    Repo: https://github.com/sejutaimpian/film-script  
+    Demo: https://film-script.sampurasun.my.id/
+    
+    NB:  
+    Karena ini projek belajar saya, saya tidak menggunakan penyimpanan apapun sehingga tidak direkomendasikan untuk penggunaannya.
+    
+    Terima kasih atas perhatian dan bintangnya
+
 <br><br>
