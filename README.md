@@ -3152,3 +3152,209 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
     Terima kasih atas perhatian dan bintangnya
 
 <br><br>
+
+### 28 Oktober 2023
+
+1.  [https://linktree-reza.vercel.app]  
+     **reza**
+
+    Assalamu'alaikum, Pak dhika dan rekan-rekan programmer seperjuangan.
+    Ini merupakan Kesempatan Pertama saya Mengikuti Showcase Project.
+
+    Pada Kesempatan Kali Ini saya ingin Menunjukan Hasil Karya saya sebuah
+    Link tree Sederhana, Ya memang tidak sebagus link tree aslinya cuma saya merasa Puas
+    dan akan terus berkembang kedepanya.
+
+    Untuk Techstack Yang saya Gunakan :
+    1. Nextjs
+    2. Tailwind CSS
+
+    Mungkin masih banyak kekurangan Yang Harus Saya Sempurnakan 
+    Mudah-mudahan dengan Ikutnya saya di Showcase Project Kali Ini,
+    Menjadikan saya lebih baik Lagi di masa depan, Terimakasih. 
+
+    Link Website : https://linktree-reza.vercel.app
+    Link Github  : -
+
+<br>
+
+2.  [https://x.thunkable.com/projectPage/652ddc726b7bb0452d34ce58]  
+     **Hasan**
+
+    Halo gaes, setelah lama tidak mengirim showcase project, kali ini saya mau share hasil praktikum di kampus saja. Tugas praktikum kali ini adalah membuat aplikasi kuis menggunakan Thunkable. Thunkable ini adalah app builder berbasis pemrograman visual (mirip AppInventor). Seingat saya masih ada bug entah dari API nya atau dari kodingan saya hhe. Untuk API nya ini pake OpenTDB.com. Aplikasi ini dibuat dengan buru buru (tidak sampai 3 jam) karena dikerjakan mepet deadline. Link https://x.thunkable.com/projectPage/652ddc726b7bb0452d34ce58
+
+<br>
+
+3.  [https://gahi-apod.vercel.app/]  
+     **Buku dibaca Kutu**
+
+    halo semuanya, perkenalkan nama saya hanif ramadhani. kali ini saya ingin membagikan kembali web yang sudah pernah dishowcase sebelumnya. kalau tidak salah dulu belum sempat dishowcase karena terjadi kesalahan saat dishow case karena kontennya tidak muncul. saya ingin mengirimkan kembali web saya yaitu GAHI. tidak ada yang berubah secara tampilan antarmuka, tetapi terjadi perubahan padad teknologi dibelakangnya. teknologi yang saya pakai untuk GAHI kali ini adalah next js dan typescript jika yang sebelumnya menggunakan react dan javascript.
+
+    perubahan yang ditambahkan yaitu prerender dari server tidak lagi client render karena menggunakan next js 13. kemudian ditambahkan juga preview ketika dishare di social media. sebelumnya preview tidak muncul karena menggunakan react js dan client side sehingga tidak muncul walau sudah ditambahkan.
+
+    himbauan tetap sama seperti sebelumnya, dimohonn untuk **tidak request berulang** ketika project showcase berlangsung agar konten dapat tampil atau paling tidak, tampil dalam bahasa inggris walau yang optimal tampil dalam bahasa indonesia. berikut linknya
+    - web : https://gahi-apod.vercel.app/
+    - repo github : https://github.com/haniframadhani/gahi
+    mohon kritik dan sarannya.
+
+<br>
+
+4.  [https://sdn13-inventaris.000webhostapp.com]  
+     **Shizuiii**
+
+    Assalamualaikum pak dhika dan teman-teman semua,
+    Perkenalkan nama saya Fahrul Adib, saya seorang mahasiswa sistem informasi dari salah satu universitas yang ada di kota palembang, ini merupakan showcase pertama saya, pada kesempatan kali ini saya mohon izin untuk membagikan project pertama saya yang saya buat dgn menggunakan framework codeigniter 4. sebelumnya mohon maaf apabila masih terdapat banyak kekurangan karena saya juga masih baru beberapa bulan ini belajar coding, walaupun begitu tetapi saya pribadi merasa cukup puas dgn hasil project yg saya buat ini.
+    fitur yang tersedia pada sistem inventaris sekolah ini yaitu :
+    1. data user (admin, guru, kepala sekolah)
+    2. data suplier
+    3. stok barang
+    4. barang masuk & barang keluar
+    5. peminjaman & pengembalian barang
+    6. cetak laporan dalam bentuk pdf
+
+    teknologi yang saya gunakan yaitu framework codeigniter, sb admin (template), dompdf.
+    demo :
+    https://sdn13-inventaris.000webhostapp.com
+
+    Admin :
+    username : sudendev
+    password : admin
+
+    kepsek :
+    username : ritwancuy
+    password : ridwan123
+
+    guru :
+    username : fbys
+    password : feby123
+
+    mohon kritik dan sarannya dari pak dhika dan teman2 untuk jadi bahan pembelajaran saya agar kedepannya bisa jadi lebih baik lagi, terimakasih.
+    Wassalamualaikum Warohmatullahi Wabarakatuh.
+
+<br>
+
+5.  [https://wordle2110.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua.
+
+    Saya Umar dari Jogja. Showcase kali ini Saya membuat web game lagi yaitu wordle. 
+
+    Cara main:
+    - Pemain memilih panjang huruf dari kata yang akan ditebak
+    - Pemain memasukkan kata. Jika kata tersebut benar, pemain menang
+    - Pemain hanya memiliki 6 kali percobaan
+    - Jika setelah 6 kali percobaan, kata yang dimasukkan salah semua maka pemain kalah.
+
+    Note:
+    - Kata yang akan ditebak merupakan kata bahasa inggris
+    - Tidak ada pengecekan valid word sehingga pemain bisa memasukkan kata apapun meskipun kata tersebut tidak valid.
+    - Arti warna:
+    - Putih: huruf salah
+    - Kuning: huruf benar tapi posisi salah
+    - Hijau: huruf dan posisi benar
+
+    Pembuatan game ini terinspirasi setelah menonton salah satu video tiktok yang di mana orang di dalam video tersebut sedang memainkan game ini.
+
+    Jangan heran ketika melihat code🙈 yang sangat tidak teratur. Banyak baris-baris code yang seharusnya bisa dijadikan function terpisah. Project ini juga termasuk project awal yang Saya buat saat masih belajar JS.
+
+    Demo: https://wordle2110.netlify.app/
+    Repo: https://github.com/jihadable/wordle
+
+<br>
+
+6.  [https://x-twitter-clone-weiwei2694.vercel.app/home]  
+     **wei**
+
+    Assalamualaikum Pak.
+
+    Ini pertama kalinya saya showcase projek disini.
+    Saya ingin showcase `X Twitter Clone` milik saya.
+    Proses yang dibutuhkan 3-4 minggu, jadi ini `project based on learn`.
+    Teknologi utama nya adalah `Next.js 13 + Typescript`.
+
+    Untuk fitur apa saja yang telah saya buat, kekurangan website ini apa, dan lain-lain,
+    bisa cek ke repository `readme.md` nya langsung, saya sudah jelaskan seluruh disitu.
+
+    Repository: https://github.com/weiwei2694/x-twitter-clone
+    Demo:  https://x-twitter-clone-weiwei2694.vercel.app/home
+
+<br>
+
+7.  [https://ikr4m.my.id]  
+     **Bukan Wibu**
+
+    Selamat pagi/siang/sore/malam semuanya, salam sejahtera bagi kita semua.
+
+    Saya ingin kembali sharing project saya. Alhamdulillah akhirnya saya kembali lagi berkecimpung di dunia webdev setelah sekian lama nyemplung di dunia cloud computing karena ~~dipaksa ama temen untuk ngeperbarui web pribadi~~ sekalian bikin blog biar kalau ada catatan ga ilang kemana-mana.
+
+    Web ini ga terlalu istimewa dibanding teman-teman lainnya, web ini cuma menggunakan kombo Svelte + MDsveX + Tailwind dengan beberapa Remark Plugin yang ada. Sehingga, apabila semisalnya saya pengen bikin blog baru, saya tinggal masukin file Markdown baru. Contohnya bisa cek di sini:
+    https://github.com/ikr4-m/my-website/tree/master/src/pages
+
+    Repositori dan website saya cantumkan di bawah ini.
+    https://github.com/ikr4-m/my-website/
+    https://ikr4m.my.id
+
+<br>
+
+8.  [https://pijar-pelajar-atg1.vercel.app/]  
+     **jaon**
+
+    hallo, padika dan fren", kenalin saya joan seorang murid kelas 12 smk yg kecanduan berat akan dunia programming. ini adalah showcase ke 5 ku yang sebelumnya saya sudah showcase in web book store yg kalah di poltek bali, sayangnya saya pantang menyerah, dan sekarang saya mau showcase web design sederhana dalam rangka lomba web design festika
+
+    oh ya dan ini first time pake react dan tailwind
+
+    teknologi : react js, tailwind, flowbite
+
+    web : https://pijar-pelajar-atg1.vercel.app/
+    repo : https://github.com/joanpoerba/pijar-pelajari
+
+<br>
+
+9.  [https://react-image-generator-a.vercel.app]  
+     **ammar**
+
+    Selamat malam, Pa Dhika, dan teman-teman semua perkenalkan saya Ahmad Ammar Musyaffa dari Universitas Negeri Malang yang saat ini sedang belajar React Js. Ini adalah showcase project saya yang pertama yaitu tentang pencari gambar secara otomatis.
+
+    - Disini pengguna akan dihimbau untuk menginputkan kata-kata kunci saja seperti : Cats, Cars, dll.
+    - Untuk inputan diharap menggunakan bahasa inggris.
+    - Setelah gambar muncul pengguna akan di tampilkan dua pilihan yaitu mau mendownload gambar atau bisa langsung di close gambarnya.
+    - Website ini juga dilengkapi Light and Dark Mode untuk mendukung UI nya.
+
+    Project ini menggunakan teknologi React Js sama Tailwind, terus ada Framer Motion, React Hot Toast, dan juga React Icons untuk mendukung UI nya.
+
+    Repository saya (kalau mau follow github gas yaa, langsung aku follback hehehe) :
+    https://github.com/ahmadammarm/image-generator
+
+    Website :
+    https://react-image-generator-a.vercel.app
+
+    Saya sangat berharap untuk kiritk dan saran kalian semua untuk menciptakan project yang lebih baik lagi
+    Terimakasi semua
+
+<br>
+
+10.  [https://poip.vercel.app/]  
+     **Muhamad_Avwan**
+
+    Assalamualaikum Warohmatullahi Wabarokatuh pak dhika dan teman teman.
+
+    Kali ini, saya akan mau showcase project saya, yaitu aplikasi note.
+
+    Untuk Techstack Yang saya Gunakan :
+    - Vite react
+    - typescript 
+    - materialUI
+    - expressjs
+    - jwt
+    - mongoDB
+
+    Mungkin masih banyak kekurangan Yang Harus Saya Sempurnakan 
+    Mudah-mudahan dengan Ikutnya saya di Showcase Project Kali Ini,
+    Menjadikan saya lebih baik Lagi di masa depan, Terimakasih. 
+
+    link Website: https://poip.vercel.app/
+
+<br><br>
+
+
