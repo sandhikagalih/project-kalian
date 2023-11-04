@@ -3600,26 +3600,26 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 10.  [https://ammar-porto.vercel.app/]  
      **ammar**
 
-    Assalamualaikum, Pa Dhika, dan teman-teman semua perkenalkan saya Ammar dari Universitas Negeri Malang yang saat ini sedang belajar Pemrograman Web. Ini adalah showcase project saya yang kedua yaitu tentang website portofolio pribadi saya.
-
-    - Kontennya berisi halaman Home, About, Services, Project, dan juga Contact.
-
-    - Website ini juga dilengkapi dengan pergantian warna tema untuk konten" didalamnya yang togglenya terletak di bagian pojok kanan atas.
-
-    - Dalam sesi Contact message yang disubmit akan tersimpan di dalam spredsheet di bawah ini :
-    https://docs.google.com/spreadsheets/u/0/d/13RmAur4xU1x_uZLcOwoqpQseUsaTVgCOe4In9oBdtk8/htmlview#gid=0 
-
-
-    Project ini masih menggunakan HTML, CSS, dan Javascript saja.
-
-    Repository saya (kalau mau follow github gas yaa, langsung aku follback hehehe) :
-    https://github.com/ahmadammarm/ammar
-
-    Website :
-    https://ammar-porto.vercel.app/
-
-    Saya sangat berharap untuk kritik dan saran kalian semua untuk menciptakan project yang lebih baik lagi.
-    Terimakasi semua.
+        Assalamualaikum, Pa Dhika, dan teman-teman semua perkenalkan saya Ammar dari Universitas Negeri Malang yang saat ini sedang belajar Pemrograman Web. Ini adalah showcase project saya yang kedua yaitu tentang website portofolio pribadi saya.
+        
+        - Kontennya berisi halaman Home, About, Services, Project, dan juga Contact.
+        
+        - Website ini juga dilengkapi dengan pergantian warna tema untuk konten" didalamnya yang togglenya terletak di bagian pojok kanan atas.
+        
+        - Dalam sesi Contact message yang disubmit akan tersimpan di dalam spredsheet di bawah ini :
+        https://docs.google.com/spreadsheets/u/0/d/13RmAur4xU1x_uZLcOwoqpQseUsaTVgCOe4In9oBdtk8/htmlview#gid=0 
+        
+        
+        Project ini masih menggunakan HTML, CSS, dan Javascript saja.
+        
+        Repository saya (kalau mau follow github gas yaa, langsung aku follback hehehe) :
+        https://github.com/ahmadammarm/ammar
+        
+        Website :
+        https://ammar-porto.vercel.app/
+        
+        Saya sangat berharap untuk kritik dan saran kalian semua untuk menciptakan project yang lebih baik lagi.
+        Terimakasi semua.
 
 <br><br>
 
