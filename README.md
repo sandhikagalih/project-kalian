@@ -3623,3 +3623,27 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+11. [1. https://s.id/cheatvip, 2. https://filesdc.my.id/login]
+
+Assalamualaikum pak galih, perkenalkan saya alvio saya siswa kelas 2 smk, asal saya dari jawa timur 😁🙌
+
+Pada project yang saya buat kali ini, saya membuat website tentang program cheat game online begitu pak
+
+Jadi untuk yang link pertama saya membuat landing page untuk mempromosikan cheat game online, kemudian link kedua saya membuat untuk websitenya buat cheatnya diperjual belikan gitu
+
+Di website https://filesdc.my.id/login saya menggunakan multi user, jadi ada 3 role yaitu ceo, admin dan resseler
+
+Untuk tiap role nya menu nya berbeda" pak, jadi untuk ceo ini ibarat punya hak akses penuh ke website nya sedangkan role selain ceo beda hak aksesnya
+
+Dan ada juga untuk login membernya sendiri
+
+Untuk akun demo nya
+1. Login user : username nya ceo, admin, resseler - untuk password -> 123456
+2. Login member : member id nya PBZPT123
+
+Bisa mampir ke github saya ya temen temen, nanti saya follback 😉
+https://github.com/pio-razorr
+
+Alasan saya membuat website ini karna saya ingin jual sc web untuk orang" yang membutuhkan panel website dan landing page begitu pak, mumpung saya punya skill ngoding buat begitu jadi biar supaya lebih berguna sedikit saya gunakan untuk membuat website dan landing page nya, supaya saya bisa dapat uang buat tambahan jajan sekolah 🙌😁
+
+Terima kasih pak galih, wassalamualaikum wr.wb 🙏
