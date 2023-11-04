@@ -3358,3 +3358,268 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 <br><br>
 
 
+### 4 November 2023
+
+1.  [https://insta.adydetra.my.id/]  
+     **Dewa**
+
+    Hallo pak Dhika dan teman-teman, kali ini saya akan showcase project kecil" lan, bisa dibilang ini project gabut.
+
+    Nama nya **Insta**, secara fungsi untuk gambaran bagaimana content kita nanti di instagram sebelum di post. 
+
+    Sedikit berguna untuk orang yang suka memperhatikan layout contentnya agar rapih. Apalagi perfeksionis yang biasanya 1 row (3 box sejajar) harus cocok, semisal dari warna nya.
+
+    Tech: **Nuxt** 
+
+    **Modules**
+    - @nuxtjs/tailwindcss
+    - @nuxtjs/google-fonts
+    - @nuxtjs/color-mode
+    - @nuxt/image
+    - nuxt-icon
+
+    Demo: https://insta.adydetra.my.id/
+    Repo: https://github.com/adydetra/insta
+
+    Fitur yang akan saya terapkan kedepannya PWA, Drag & Drop box.
+    Mungkin satu lagi bisa import 9  foto terbaru / semuanya dari akun instagram.
+    Saya belum cek API IG, kl bisa kemungkinan saya terapkan pak.
+
+    Terima kasih
+
+<br>
+
+2.  [https://github.com/hajilok/youtube-live-streaming]  
+     **TN.ERERERE**
+
+    Assalamualaikum Pak Dika Dan Kawan Kawan , Kali ini Saya Mau Showcase Project Belajar Node Js saya Yaitu Node js Livestreaming Youtube Sederhana.
+
+    Jadi Dengan Project ini Maka Kawan Kawan bisa Livestreaming diyoutube dengan bantuan node atau server ,  tentu saja bisa 24 jam tanpa henti , akan berhenti jika server kita matikan wkwkwkwk.
+
+    Alasan Membuat Project ini Adalah karena saya  ingin membuat konten livestreaming sperti chanel  lofi girl namun bisa dideploy ke mana saja seperti render , docker, codespace di github dan lain lain 
+
+    Tech Stack : 
+    1. node js 
+    2. Express js untuk pelengkap saja di bagian server
+
+    Github : https://github.com/hajilok/youtube-live-streaming
+
+    Jangan Lupa Feedback nya guys
+
+<br>
+
+3.  [https://api.project-kalian.rmecha.my.id/]  
+     **reacto_mecha!**
+
+    Pagi buat pak dika dan semua, izin showcase project lagi. 
+
+    Kali ini saya mau challange diri saya buat bikin sesuatu. Saya mencoba untuk parse README.md yang  ada di repositori `project-kalian` punya bapak buat di ubah jadi data json, bisa di bilang saya buat Public API dari repositori itu juga terdapat screenshot web setiap projectnya. Latar belakang project ini karena saya gabut dan ke inget salah satu livestream yang bahas web penampil project (saya ga inget livestream yang mana), nah disitu kalo ga salah ada yang ngomong "buat dong apinya versi project kalian sekalian sama screenshot linknya". Kemudian guru-guru lagi pada pergi ke jogja buat outing project, laptop adek juga saya yang megang, daripada gabut yaudah saya bikin project ini. Kurang lebih project ini makan waktu pembuatan 4 hari.
+
+    Cara kerja yaitu saya fetch list branch dulu, download file readme, di map untuk diolah, di validate menggunakan zod, di tulis jadi file.
+
+    Teknologi yang digunakan: axios, jsdom, marked, puppeteer, dan zod.
+    Link repositori: https://github.com/reacto11mecha/project-kalian-scraper
+    Link API: https://api.project-kalian.rmecha.my.id/
+
+    Terdapat github action yang bisa di trigger manual dan cron job yang akan update list setiap hari sabtu jam 19:30.
+
+    Kekurangan dari project saya yaitu format readme yang kurang konsisten di beberapa project, mengakibatkan data tetap ada tapi bukan di field yang semestinya. Salah satu cara fixnya harus menambahkan beberapa kode yang kompatibel dengan format readme, atau memperbaiki readmenya. 
+
+    Rencananya pengen buat webnya juga pake astro, tapi karena besok senin juga laptopnya mau dipake ade lagi, Jadi siapapun tolong buat versi webnya, terima kasih.
+
+<br>
+
+4.  [https://brainwave-beta.netlify.app]  
+     **!!rwd**
+
+    Halo Pak Dika dan warga WPU, disini saya mau showcase project saya yang ketiga kalinya di WPU, sebenernya ini project sudah dari beberapa bulan lalu saya buat, tapi baru kepikiran sekarang buat showcase project ini. Project ini sendiri bertemakan Quiz yang API nya saya ambil dari https://opentdb.com. 
+
+    Link Github : https://github.com/rolandowebdev/brain-wave
+    Link Preview : https://brainwave-beta.netlify.app
+
+    Tech stack yang digunakan :
+    - ReactJS 
+    - Typescript
+    - Chakra UI
+    - Axios
+    - Zustand
+    - React Router Dom
+    - Firebase Auth
+    - Netlify
+
+    Feature  :
+    - SignIn
+    - SignUp
+    - Logout
+    - Reset Password
+    - Quiz dengan 4 category berbeda
+
+    Masih ada dua feature yang belum sempat saya tambahkan seperti `history` dan `ranking user`.
+
+<br>
+
+5.  [https://bomb-sweeper.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua.
+
+    Saya Umar dari Jogja. Showcase kali ini Saya membuat web game lagi yaitu "Bombsweeper" yang merupakan plesetan game Minesweeper. Cara bermain nya pun sama persis. 
+
+    Ide pembuatan game ini muncul ketika gabut di rumah saat libur semester.
+
+    Jika pemain belum mengetahui cara bermain, bisa dilihat langsung di web nya. Game ini hanya bisa dimainkan di laptop atau desktop device.
+
+    Untuk fitur tingkat kesulitan belum ditambahkan. Jika teman-teman ingin menambahkan nya, silahkan difork repo nya.
+
+    Tech stack: HTML, CSS, JS
+
+    Demo: https://bomb-sweeper.netlify.app/
+    Repo: https://github.com/jihadable/bombsweeper
+
+<br>
+
+6.  [https://showcase-wpu.sampurasun.my.id/]  
+     **Eris Sulistina**
+
+    Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina yg sudah tidak punya ide projek AlpineJS, sekarang beralih ke Livewire.
+
+    Kali ini saya membawa projek bernama Showcase-WPU, sebuah web untuk mengelola showcase di WPU. Berawal dari sering kirim projek, dan melihat pengelolaan projek menggunakan github, yang mana ketika saya ingin mencari projek terbaru harus senam jari scroll sampe bawah dan sulit mencari kategori app yang diinginkan. Dari sini saya kepikiran untuk membuat appnya.
+
+    Desain home terinspirasi dari https://docusaurus.io/showcase, desain dashboard pakai bawaan breeze. Teknologi:
+    - Laravel, Breeze, Tailwind CSS, Livewire, Volt, AlpineJS (Sepaket)
+    - SweetAlert2
+    - MariaDB
+    - https://github.com/barryvdh/laravel-debugbar
+    - https://simpleicons.org : Icon Brand Teknologi
+    - https://icons8.com/ : logo app
+
+    Pada proses pengerjaannya, saya menemukan banyak tantangan dan error. Diantaranya:
+    1. Coding filter sangat menguras tenaga. Tadinya mau seperti docusaurus yang menerima logic AND dan OR, tapi saya menyerah sehingga hanya menyediakan logic AND saja.
+    1. Lifecycle Livewire tak berguna (Dalam kasus projek ini). Mungkin ilmu saya kurang dan salah mengimplementasikannya. Akhirnya menggunakan dispatch yg mengakibatkan web seakan-akan refresh 2x
+    1. Variable penampung filter ternyata malah mendatangkan n+1. Saya jg bingung.
+    1. Pada project ini saya belajar optimalisasi eloquent (seperti N+1 problem) dan menginstall laravel-debugbar untuk mendukungnya.
+    1. Sesaat setelah app diupload ke hosting, appnya aku test submit form tapi malah error. dicek di laravel-debugbar seakan-akan function save dipanggil 2 kali. Setelah ditelusuri ternyata saya secara tidak sadar dan tidak tahu memang memanggil function save 2 kali, yaitu saat button submit diclick dan saat form disubmit.
+
+    Repo: https://github.com/sejutaimpian/showcase-wpu  
+    Demo: https://showcase-wpu.sampurasun.my.id/
+    Username: admin@gmail.com
+    Password: admin
+
+    Terima kasih atas perhatian dan bintangnya.
+
+<br>
+
+7.  [https://github.com/pepega90/water-wave)]  
+     **dihpan**
+
+    Assalamualaikum wr wb teman-teman. Nama saya Aji Mustofa, dan kali ini saya ingin membagikan project terbaru saya yaitu water simulation. project ini dibuat menggunakan bahasa pemrograman Lua dan game library bernama LÖVE2D.
+
+    Dalam project ini, saya menggabungkan konsep fisika dengan pemrograman untuk menciptakan simulasi air yang realistis. Salah satu prinsip dasar yang digunakan di dalamnya adalah hukum Hooke. Hukum Hooke ini membantu dalam mensimulasikan pergerakan air yang elastis dan responsif terhadap gaya yang diberikan, menciptakan efek yang memukau dan mendekati perilaku air sebenarnya.
+
+    Demo:
+    Untuk melihat demo project ini, teman-teman bisa meng-clone repositorinya, kemudian pilih folder build, dan jalankan "game.exe".
+
+    Control:
+    - klik kiri  untuk membuat gelombang air
+    - klik kanan untun menjatuhkan batu
+
+    GitHub Repo: (https://github.com/pepega90/water-wave)
+
+    Teknologi yang Digunakan:
+    - Lua (https://www.lua.org/)
+    - LÖVE (https://love2d.org/)
+
+    Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+8.  [https://alfarabygit.github.io/bookshelf/]  
+     **Indra**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan. 
+    Semoga sehat selalu utk semuanya. Kali ini saya ingin showcase project sederhana yang kelima  yaitu Bookshelf
+    Tech stack: 
+    1. Html
+    2. Css
+    3. JavaScript
+    4. Scroll reveal js supaya ada animasi
+
+    Singkat cerita project ini merupakan submission dicoding IDCAMP 2023 path pemrograman web yang sudah saya selesaikan awal bulan Oktober lalu. Karena masih mencari referensi utk showcase nya maka saya pilih ini utk sementara dulu agar saya bisa fokus utk mencari referensi showcase project selanjutnya. Template dari project ini menggunakan bawaan yg disediakan dicoding. Dari sisi responsive nya sudah saya perbaiki sedikit dan kekurangan nya adalah bug yg muncul alert tetapi itu tdk mempengaruhi project ini karena bisa disimpan menggunakan Localstorage. 
+
+    Jgn lupa feedback dari showcase saya yg kelima ini utk pak dhika dan kawan-kawan. Dan sebelum saya tutup saya ingin menyampaikan satu atau beberapa peribahasa: 
+    1. "Tak ada gading yg tak retak"
+    2. "Tak ada rotan akar pun jadi"
+    
+    Terimakasih🙏
+    Jgn lupa titik koma(Ditunggu project showcase selanjutnya guys) <:hehehe:972470914488885288> 
+
+    Github:https://github.com/alfarabygit/bookshelf
+    Demo:https://alfarabygit.github.io/bookshelf/
+
+<br>
+
+9.  [https://weather-web-9uot.onrender.com/]  
+     **aditpee**
+
+    ### Perkenalan
+    Assalamualaikum pak dhika dan teman teman, ini adalah showcase project pertama saya. Jadi izinkan saya memperkenalkan diri terlebih dahulu. Perkenalkan nama saya Adit, seorang pengangguran dan alumni SMK jurusan multimedia tahun 2022 yg ada di jogja
+
+    ### Detail Project
+    Kali ini saya akan membagikan project yg bernama "Weather Web" aplikasi cuaca responsive sederhana yg menampilkan cuaca berdasarkan kota kalian atau kota yg kalian cari. Bagi saya project ini bertujuan untuk mengulang apa yg sudah saya pelajari sebelum memulai belajar front-end framework
+
+    Di project ini saya menggunakan beberapa API. Project ini memiliki beberapa fitur seperti menampil kan cuaca, detail cuaca, dan ramalan cuaca
+
+    API:
+    1. OpenWeatherMap.org(current weather, 3-hour Forecast 5 days, geocoding API)
+    2. Geolocation API
+
+    Teknologi:
+    SASS, postcss, Express js, ejs
+
+    ### Kesulitan
+    Sebenarnya saya sudah menyiapkan kata kata tentang kesulitan dan kekurangan aplikasi ini, tapi ternyata kepanjangan wkwk. Jadi saya urungkan niat saya 
+
+    Intinya banyak kesulitan yg saya hadapi, dan tentunya masih banyak kekurang dari aplikasi ini, maka dari itu saya minta saran dan kritiknya agar bisa lebih baik lagi
+
+    ### Demo & Repo
+    Demo - https://weather-web-9uot.onrender.com/
+    Repo - https://github.com/aditpee/weather-web
+    Bagi yang mau coba slicing design saya di figma juga boleh - https://www.figma.com/community/file/1300997022541611628/weather-web
+
+    ### Tips 💡
+    Di aplikasi ini akan mengubah background img sesuai cuaca. Jadi karena ada cuaca yg jarang di temukan, kalian bisa mengubah file nya sendiri di inspect >> pilih element body >> pilih style `--background-image: url(/img/bg/rain.jpg` >> ganti nama file dengan `snow, thunderstorm, clear, clouds-night, clouds, mist, night`
+
+    ### Source
+    Icons : [Figma Community](https://www.figma.com/community/file/1059229179375580154/weather-icons-kit), Iconify
+    Background Img: unsplash
+
+    Note: tolong izinkan lokasi untuk menampilkan cuaca di lokasi kalian
+
+<br>
+
+10.  [https://ammar-porto.vercel.app/]  
+     **ammar**
+
+    Assalamualaikum, Pa Dhika, dan teman-teman semua perkenalkan saya Ammar dari Universitas Negeri Malang yang saat ini sedang belajar Pemrograman Web. Ini adalah showcase project saya yang kedua yaitu tentang website portofolio pribadi saya.
+
+    - Kontennya berisi halaman Home, About, Services, Project, dan juga Contact.
+
+    - Website ini juga dilengkapi dengan pergantian warna tema untuk konten" didalamnya yang togglenya terletak di bagian pojok kanan atas.
+
+    - Dalam sesi Contact message yang disubmit akan tersimpan di dalam spredsheet di bawah ini :
+    https://docs.google.com/spreadsheets/u/0/d/13RmAur4xU1x_uZLcOwoqpQseUsaTVgCOe4In9oBdtk8/htmlview#gid=0 
+
+
+    Project ini masih menggunakan HTML, CSS, dan Javascript saja.
+
+    Repository saya (kalau mau follow github gas yaa, langsung aku follback hehehe) :
+    https://github.com/ahmadammarm/ammar
+
+    Website :
+    https://ammar-porto.vercel.app/
+
+    Saya sangat berharap untuk kritik dan saran kalian semua untuk menciptakan project yang lebih baik lagi.
+    Terimakasi semua.
+
+<br><br>
+
