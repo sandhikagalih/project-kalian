@@ -3623,3 +3623,293 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+### 18 November 2023
+
+1.  [https://www.npmjs.com/package/card-flex]  
+     **depa**
+
+    halo semuanya, salam kenal 👋 
+    perkenalkan saya depa. izin ikutan showcase project yg saya bikin 🙇‍♂️ 
+
+    project kali ini saya coba bikin ***CLI tools untuk meng-generate kartu-nama dalam bentuk CLI***.
+    cukup dengan 1 command
+    ```
+    npx card-flex
+    ```
+    nntinya orang lain dapat mengakses kartu-nama kita cukup dengan menggunakan command `npx <github-username-kita>`
+    contohnya seperti gambar dibawah ini
+
+    penggunaan lebih details nya bisa dicek disini : https://github.com/depapp/card-flex#card-flex
+    untuk cara penggunaan dalam bentuk video nya bisa diliat disini : https://github.com/depapp/card-flex/blob/main/HOW_TO_VIDEO.md
+    buat cara ganti2 styling cardnya bisa dicek disini : https://github.com/depapp/card-flex/blob/main/ADVANCE_USAGE.md
+
+    tech stack nya --> javascript dengan libraries : chalk, clear, esm, execa, figlet, inquirer, listr, ncp, pkg-install
+
+    link : https://www.npmjs.com/package/card-flex
+    repo : https://github.com/depapp/card-flex
+
+    makasih semuanya, semoga bisa bermanfaat.. 🚀
+
+<br>
+
+2.  [https://circle-drop.netlify.app/]  
+     **dnm17_**
+
+    Assalamualaikum pak dika dan teman-teman semuanya, perkenalkan nama saya dani. Ini adalah showcase projek saya yang ke 5, kali ini saya akan showcase projek game lagi namanya adalah Circle-drop, seperti namanya ini adalah game yang simpel dan sederhana dimana tugas kita adalah mencocokkan dua lingkaran yg memiliki ukuran dan texture yang sama, game akan berakhir jika salah satu lingkaran menyentuh batas paling atas. Game ini cocok dimainkan jika anda gabut dan sering lose strike kalo main game yg lain.
+
+    **Feature:**
+    - Auth (Google, Github)
+    - Game Scoring (Best Score, Leaderboard, Rank, Badges)
+    - 39 Random Circle texture 
+    - 4 Random Background particles
+    - BGM dan SFX (Royalty free music)
+
+    **Stack: **
+    - HTML, CSS, JS
+    - Matter.js (2D javascript physics engine library)
+    - Howler.js (javascript audio library)
+    - particle.js (background)
+    - Firebase (auth & database)
+    - Webpack (bundler)
+
+    Demo: https://circle-drop.netlify.app/
+
+    Github: https://github.com/dfsdanimaulana/circle-drop
+
+    ini adalah koleksi game Matter.js pertama saya ditunggu game selanjutnya
+
+    sekian dari saya mohon kritik dan sarannya, terimakasih
+
+<br>
+
+3.  [https://fabyanyastika.my.id/]  
+     **Fabyann**
+
+    Haloo pak dhika dan teman-teman  sepuh semuanyaaa, perkenalkan saya Fabyan pemula yang belajar react sebulan hehe
+    Mau izin ikutan showcase project yaak
+
+    project ini saya buat kurang lebih 3 harian untuk web portfolio saya yang menggunakan:
+    - React JS
+    - Tailwind
+    - Daisy UI
+    - Dan pemanis lain-lainnya
+
+    Mungkin terasa berat karena asset yang digunakan agak sedikit besar dan tampilan yang kurang rapi karena bener2 belajar front-end nya 2 bulanan.
+
+    Minta kritik pedasnya jga bole, biar makin berkembang teman-teman dan pak Dhika<:hehehe:972470914488885288> 
+
+    Link: https://fabyanyastika.my.id/
+    Repo: https://github.com/Fabyan08/fabyan-v2
+
+<br>
+
+4.  [https://github.com/kayabaakihiko13/Selector-WebApp]  
+     **Luna de Rune**
+
+    Halo pak Shandika dan teman-teman lainnya semua nya,di masa semester 5 penuh kosong,alangkah baiknya saya mengisi dengan projek simple atas project AI dengan web app.jadi projek web ini cuma lanjutan yang 'Waifu selector" tersebut.tujuan untuk projek dari showcase ini untuk mengcounter project-project gabut yang banyak terjadi pada wpu
+
+    bahan yang diperlukan:
+    - boostrap
+    - python 
+    - js
+    - css
+    link untuk video demonya bisa dilihat disini
+    [linkend](https://www.linkedin.com/posts/iqbal-ramadhananniswa_machinelearning-opencv-imageclassification-activity-7122124819575312385-M_7k?utm_source=share&utm_medium=member_desktop)
+    [github](https://github.com/kayabaakihiko13/Selector-WebApp)
+    kalau malas download github,bisa di run disini kok (sama kayak algorithma pada sistem belakang python tersebut):
+    [Colab](https://colab.research.google.com/drive/1AmzLhlQG0CU3BnVl_KupXcBH9Q9aMrjP?usp=sharing)
+    <:hehehe:972470914488885288> 
+    terima kasih pak dhika,dan lupakan titik koma <:hehehe:972470914488885288>
+
+<br>
+
+5.  [https://api.lynninc.cloud/]  
+     **リン**
+
+    Assalamu'alaikum semua, Perkenalkan Saya Rahman dari Malang Seorang Pelajar SMK Jurusan RPL . Showcase ini adalah pertama Saya, Saya membuat website Rest Api Berbasis Javascript. Project Rest API ini Sederhana Digunakan Untuk Kebutuhan Pengembangan Aplikasi Kalian.
+
+    Project ini dikerjakan selama 1 bulan. Meskipun ada beberapa fitur Api yang masih Maitenance/Bug. Saya sangat amat membutuhkan feedback untuk menyempurnakan project saya.
+
+    Tech stack: HTML CSS JAVASCRIPT BOOTSTRAP
+
+    Link Web Project : https://api.lynninc.cloud/ (Deploy Replit)
+    Repo : https://github.com/Lynnxha/Lynn-RestApi-Official
+
+    Note :
+    Jika Replit Muncul
+    ```We ran into an internal error.
+    The repl didn't wake up in time. Please try again in 30 seconds.```
+
+    Tunggu 30 detik lalu refresh halaman
+
+    Hatur nuhun <:gud:976023133481996298>
+
+<br>
+
+6.  [https://rezareza.vercel.app]  
+     **reza**
+
+    Assalamu'alaikum, Pak dhika dan rekan-rekan programmer seperjuangan.
+    Ini merupakan Kesempatan kedua kalinya saya Mengikuti Showcase Project.
+
+    Pada Kesempatan Kali Ini saya ingin Menunjukan Hasil Karya saya sebuah
+    Personal Website Sederhana, memang tidak begitu bagus cuma saya merasa Puas
+    dan akan terus berkembang kedepanya. Dan project ini masih dalam tahap development.
+
+    Untuk Techstack Yang saya Gunakan :
+    1. Nextjs
+    2. Tailwind CSS
+    3. Framer motion
+
+    Mungkin masih banyak kekurangan Yang Harus Saya Sempurnakan 
+    Mudah-mudahan dengan Ikutnya saya di Showcase Project Kali Ini,
+    Menjadikan saya lebih baik Lagi di masa depan, Terimakasih. 
+
+    Link Website : https://rezareza.vercel.app
+    Link Github  : https://github.com/ryznoxy/portfolio-next (jangan lupa Star yaa)
+
+
+
+    Sekian dari saya , saya ucapkan terimakasih
+
+<br>
+
+7.  [https://restaurants-beta.netlify.app/]  
+     **!!rwd**
+
+    Halo Pak Dika & Warga WPU semuanya. Karena di showcase sebelumnya Pak Dika ada nanya nama asli saya siapa, sekalian aja saya showcase lagi sekarang, nama asli saya itu Rolando Pranata, bisa panggil aja Rolan pak, **rwd(rolandowebdev)** itu bisa dibilang nama Personal Branding saya aja hehe..
+
+    Back to the project, jadi project ini sendiri itu saya buat untuk nyobain UI `Collection Component` yang beberapa waktu lalu sempet hype yaitu `Shadcn UI` yang dimana dibuat menggunakan `Tailwind` & `Radix UI`, karena saya sendiri adalah penggemar berat `Tailwind`, saya jadi tertarik buat nyobain `Shadcn UI` ini.
+
+    Alhasil jadi lah project `Restaurants` sederhana ini, yang sebenernya saya remake dari project saya yang lama bernama `Bites` yang waktu tahun 2021 sempet showcase juga di WPU, kalau bapak masih inget itu project dibuat hanya menggunakan `HTML`,` CSS` & `JS` Pure.
+
+    Kalo mau liat project versi `HTML`, `CSS` & `JS` nya bisa lihat disini :
+    https://bitess.netlify.app/
+
+    Link Github :
+    https://github.com/rolandowebdev/restaurants
+    Link Preview :
+    https://restaurants-beta.netlify.app/
+
+    Tech Stack :
+    - React
+    - Typescript
+    - Axios
+    - React Query
+    - React Router Dom
+    - React Hook Form
+    - Zod
+    - Netlify
+    - Vite
+
+    Feature :
+    - Sorting
+    - Comment
+    - Load more
+
+    Untuk penjelasan lebih detailnya bisa kunjungi readme pada repository diatas, terima kasih<:senyumin_aja:980830376547217419>
+
+<br>
+
+8.  [https://github.com/feri-irawan/baileys-express-socketio-boilerplate]  
+     **Feri Irawan**
+
+    Assalamualikum, selamat malam semuanya.
+
+
+    Apa kabar pak Sandhika Galih? Apa kabar semuanya?
+
+
+    Setelah cukup lama tidak ikut showcase WPU (terakhir pas kelas 9) izinkan saya Feri Irawan dari Bulukumba siswa Kelas 11, SMAN 10 Bulukumba untuk ikut showcase kali ini.
+
+
+    Ini adalah showcase keenam saya, boilerplate untuk membuat WhatsApp Bot (**Baileys + Express + Socket.IO + TypeScript**)
+
+
+    Alasan saya membuat ini adalah karena:
+
+
+    - Library WhatsApp Bot hanya menampilkan QR code di Terminal.
+    - QR codenya tidak bisa ditampilkan dengan realtime di FrontEnd atau di Web.
+    - Tidak bisa mengirim pesan jika ada HTTP reguest seperti `POST /send` atau `POST /broadcast`, atau endpoint dengan method dan pathname lainnya untuk mengirim pesan dengan custom teks, dan nomor tujuan.
+    - Ini dibuat supaya nanti kalau mau bot, bisa buat dengan cepat.
+    - Membantu orang-orang yang ingin membuat bot dan mengintegrasikannya dengan website.
+
+
+    **Stack:**
+
+
+    - @whiskeysockets/baileys
+    - express
+    - socket.io
+    - qrcode
+    - typescript
+    - @hapi/boom
+
+
+    Sisanya bisa cek `package.json` hehehe.
+
+
+    **Quick Start**
+    ```bash
+    git clone git@github.com:feri-irawan/baileys-express-socketio-boilerplate.git
+    yarn dev
+    ```
+    Setelah itu buka http://localhost:3000 untuk scan QR Codenya, itu adalah contoh penggunaan QR Codenya di Front End.
+
+
+    **Link repository:** https://github.com/feri-irawan/baileys-express-socketio-boilerplate
+
+
+    Mungkin cukup sekian, jangan lupa bintangnya, follow, dan terima kasih banyak. Semoga bermanfaat see you at the next showcase guys!
+
+<br>
+
+9.  [https://alfarabygit.github.io/alfarabygit/]  
+     **Indra**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan. 
+    Semoga sehat selalu utk semuanya. Kali ini saya ingin showcase project sederhana yang keenam yaitu redesign portfolio. 
+    Tech stack: 
+    1. Html
+    2. Css
+    3. JavaScript
+    4. Scroll reveal js
+
+    Project ini adalah perbaikan sebelum nya pada showcase project pertama saya yg mana desainnya dibilang minimalis, selain itu showcase project sebelumnya yang sudah tampil di channel wpu saya dokumentasikan juga disini serta Portofolio nya responsive mobile dan memiliki light/dark mode. Redesign portofolio ini juga dijadikan sebagai profil github saya. 
+
+    Jgn lupa feedback dari showcase saya yg kelima ini utk pak dhika dan kawan-kawan. Dan sebelum saya tutup saya ingin menyampaikan satu atau beberapa peribahasa: 
+    1. "Tak ada gading yg tak retak"
+    2. "Tak ada rotan akar pun jadi"
+    
+    Terimakasih🙏
+    Jgn lupa titik koma(Ditunggu project showcase selanjutnya guys) <:hehehe:972470914488885288>  
+
+    Github: https://github.com/alfarabygit/alfarabygit
+    Demo: https://alfarabygit.github.io/alfarabygit/
+
+<br>
+
+10.  [https://valetv.malvinval.my.id/]  
+     **fluxpav**
+
+        Halo WPU, perkenalkan saya Malvin. Project web yang ingin saya showcase namanya ValeTV untuk nonton live streaming televisi dan radio publik di berbagai negara seluruh dunia secara gratis. Project ini cuma sekedar untuk belajar backend, jadi fiturnya masih ala kadarnya. Kalo ada temen-temen disini yang mau ikutan develop bole si 😄 (pasti pusing baca kode saya). Jangan lupa kasih star untuk reponya :p
+
+        Tech Stack:
+        1. Laravel
+        2. Inertia
+        3. ReactJS
+        4. TailwindCSS
+        dan beberapa package pendukung seperti:
+        1. Hsl.js
+        2. Axios
+        ...dan lainnya.
+
+        Github: https://github.com/malvinval/valetv
+        URL: https://valetv.malvinval.my.id/
+        Support me: https://donate.malvinval.my.id
+        
+        Harus register dan login terlebih dahulu ya 🙂 Makasi~~
+
+<br><br>
+
