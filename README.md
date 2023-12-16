@@ -3913,3 +3913,240 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+
+### 16 Desember 2023
+
+1.  [https://www.npmjs.com/package/youtube-live-streaming]  
+     **TN.ERERERE**
+
+    Halo pak dika dan kawan , Perkenalkan nama saya : Imam Wahyu ,
+    kali ini saya mau Showcase project belajar node js saya yang kedua ,  yaitu penambahan feature di Project saya sebelumnya tentang node js Youtube live streaming 
+
+    Nah sekarang Pak dika dan kawan kawan tidak usah bingung deploy itu project bagaimana ,  karena di project kali saya sudah buat tuh Libray menjadi Module yang bisa di install Menggunakan npm saja
+
+    npm i youtube-live-streaming
+
+
+    Hal Ini sangat bagus karena bisa dikembangkan lebih jauh  dengan codingan kawan kawan dan lebih simpel juga penggunaanya 
+
+    Tech Stack : hanya nodejs dan expresjs ( untuk server saja )
+
+    Link :  https://www.npmjs.com/package/youtube-live-streaming
+    Github: https://github.com/hajilok/youtube-live-streaming
+
+    Jangan Lupa Feedback nya guys , Terima Kasih
+
+<br>
+
+2.  [https://jkt48-card-game.netlify.app/]  
+     **dihpan**
+
+    Assalamualaikum wr wb teman-teman. Nama saya Aji Mustofa, dan kali ini saya mau share project game matching game dengan tema yang pasti akan membuat kalian merasa lebih dekat  dengan JKT48.
+
+    Demo: JKT48 Matching Game (https://jkt48-card-game.netlify.app/), mungkin ada beberapa bug (anggap saja fitur akwoako) soalnya bikinnya speedrun XD
+
+    NOTE untuk pak dhika: di game-nya ada bgm lagu JKT48, jadi ditakutkan copyright. bisa di mute terlebih dahulu
+
+    Game ini dikembangkan menggunakan teknologi JavaScript dan kaboom.js (https://kaboomjs.com/),
+
+    Selamat bermain dan semoga terhibur! Kurang lebihnya mohon maaf, terima kasih. 
+
+<br>
+
+3.  [https://github.com/arifbudimanar/lali/blob/main/README.md]  
+     **Arif Budiman Arrosyid**
+
+    Halo pak dika dan teman teman semuanya, saya Arif Budiman, ini merupakan showcase project pertama saya setelah sekian lama cuma melihat showcase teman teman semua.
+
+    Kali ini saya akan share project **Lali (Laravel Livewire) Starter Project**,
+    Kan ada **Breeze** dan **Jetstream** sebagai livewire starter kit ngapain pake yang lain, mungkin itu pertanyaan teman teman semua, well...
+
+    Karena di **Breeze** pake **Volt** dan **Folio**, kemudian karena **Jetstream** pake **Fortify**, dan itu hal yg saya pribadi kurang suka.
+    Kemudian kepikiran kenapa gk buat sendiri starter project livewire yang pake fullpage component dan full SPA (wire:navigate), akhirnya terciptalah project **Lali** ini.
+
+    Tech stack TALL:
+    - Tailwind
+    - AlpineJS
+    - Laravel
+    - Livewire
+
+    Fitur
+    Lali :
+    - Auth : Login, Register, Forget Password, Verify Email, dll
+    - 2  Bahasa tersedia : Inggris (Default), Indonesia - Bisa ubah bahasa kalo udah login.
+    - 4 Layout : Auth, Main, App (Default), Admin
+    - Tested dengan PEST (193 assertions)
+    - SPA dengan wire:navigate
+    - Fullpage Livewire Component
+    - Livewire Toaster
+    - Custom Modal
+    - Custom Error Page
+    - Theme Auto with Tailwind CSS
+    - Semua pake Blade component
+
+    Tambahan fitur di Lali Pro :
+    - Spatie Role Permission
+
+    Lebih lengkapnya bisa dilihat di https://github.com/arifbudimanar/lali/blob/main/README.md
+
+    Todo :
+    - Bulk Action - Baru html css dropdown doang, blm implementasi, kalo ada waktu lanjut lagi
+    - Dibuat laravel package kyk Breeze, Jetstream (Masih belajar bikin package)
+
+    Kalo ada yg mau bantu implement, silahkan Pull Request 👍👍👍
+
+    Demo :
+    Lali : http://128.199.133.78/
+    Lali Pro : http://178.128.48.52/ 
+
+    Github : https://github.com/arifbudimanar/lali
+    Packagist : https://packagist.org/packages/arifbudimanar/lali bisa install dg `composer create-project arifbudimanar/lali`
+    Portofolio Site : https://arifbudimanar.github.io/
+
+    Masih di Digital Ocean droplet, blm beli domain 🥲
+    Yang mau coba silahkan **register dg valid email, krn nnti akan ada verify email**
+
+<br>
+
+4.  [https://magnes.jauhar.dev/]  
+     **Jauhar Arifin**
+
+    Halo Pak Dhika & teman semua,
+
+    Nama saya Jauhar. Saya mau showcase project hobby saya yang bernama Magnes (https://magnes.jauhar.dev/). Magnes adalah Emulator NES (Nintendo Entertaiment System) yang dibuat hampir 100% dengan bahasa yang saya buat sendiri yaitu Mage-lang (https://github.com/jauhararifin/magelang). Ada beberapa baris JS sebagai glue code. Karna bahasa Magelang mentargetkan webassembly, sbnernya Magnes bisa di-port ke platform apapun, baik itu web, desktop seperti windows, linux & mac, dan bahkan mobile, tapi saya belum punya waktu untuk porting ke desktop. Magnes masih work-in-progress, belum semua fitur diimplementasikan (seperti custom mapper, unofficial instructions, cycle accuracy, audio processing unit, dll), dan masih banyak bug. Masih banyak juga game yang belum bisa disupport. Paling tidak, saya sudah test game2 NES yang classic seperti Donkey Kong dan Pacman, dan sudah bisa dimainkan. Super mario masih neg-bug. Tapi untuk demo, saya tidak akan menggunakan game tersebut karna mendistribusikan ROM itu illegal. Beberapa game yang lebih baru seperti tetris, zelda, bomberman, dll memiliki mapper special dan butuh fitur NES yang lumayan rumit sehingga belum sempat saya buat.
+
+    Teknologi yang digunakan: 
+    - Magelang (https://github.com/jauhararifin/magelang)
+
+    Teknologi yang saya pakai untuk membuat magelang:
+    - Rust
+
+    Link demo: https://magnes.jauhar.dev/
+    Github: https://github.com/jauhararifin/magnes
+    Github Magelang: https://github.com/jauhararifin/magelang
+
+<br>
+
+5.  [https://formify-web.vercel.app]  
+     **ammar**
+
+    Assalamualaikum, Pa Dhika, dan teman-teman semua perkenalkan saya Ammar dari Universitas Negeri Malang yang saat ini sedang belajar Pemrograman Web. Ini adalah showcase project saya yang ketiga yaitu bernama "Formify" (website sederhana pembuat formulir).
+
+    - Dalam website ini ada otentikasi yang menggunakan Clerk
+    - Konten dari website ini berupa drag and down dari elemen-elemen pembuat form, seperti judul, isi form, dan lain-lain.
+    - Seteleh pengguna selesai membuat formulir, maka formulir tersebut dapat di save maupun di publish. 
+    - Website ini menggunakan teknologi Next Js, PostgreSQL, dan juga Prisma ORM.
+
+    Website ini masih memiliki banyak kekurangan, oleh karena itu saya butuh saran dari Pa Dhika dan teman- teman semua untuk membuat website ini menjadi lebih baik lagi.
+
+
+    Repository saya (kalau mau follow github gas yaa, langsung aku follback hehehe) :
+    https://github.com/ahmadammarm/formify
+
+    Website :
+    https://formify-web.vercel.app
+
+<br>
+
+6.  [https://angkasamuhammad.github.io/RantaiKode/Rantai%20Kode%20v0.html]  
+     **⚙⚙WowGGGearing⚙⚙**
+
+    Assalaamu'alaykum Wr wb, Saya, Angkasa Muhammad
+    Project shocase kali ini adalah Rantai Kode.
+    Rantai Kode adalaah web visual programming yang menyediakan fitur coding, diagram, dan animasi.
+    Web ini dibuat menggunakan project sebelumnya, yaitu Tandakurung Node
+    Repo Tandakurung Node https://github.com/AngkasaMuhammad/TandakurungNode
+
+    Sedikit perkenalan: https://youtu.be/_nST-Ze7ZLw?si=ROhtkyjg2BAk1wEU
+
+    Libary: gl-matrix.js ( https://glmatrix.net/)
+
+    Repo: https://github.com/AngkasaMuhammad/RantaiKode
+    Web: https://angkasamuhammad.github.io/RantaiKode/Rantai%20Kode%20v0.html
+
+<br>
+
+7.  [https://echo-spotify-clone.netlify.app]  
+     **pusakamngl**
+
+    Assalamualaikum, halo semuanya. Perkenalkan nama saya Pusaka Manggala. Saya ingin showcase project clone Spotify saya yang bernama ECHO. Ini merupakan project showcase pertama saya disini.
+
+    Echo adalah aplikasi web yang memungkinkan pengguna untuk menjelajahi lagu, artis, daftar putar, album, dan banyak lagi dari katalog musik Spotify.
+
+    Project ini bermula dari rasa ingin tahu saya untuk menguji dan meningkatkan keterampilan serta pemahaman saya dalam CSS (Styling), khususnya dalam membangun website yang responsif. Saya memilih untuk mengkloning antarmuka pengguna (UI) aplikasi Spotify, yang menurut saya cukup rumit, sebagai tantangan tambahan untuk mengasah kemampuan saya lebih lanjut.
+
+    Features :
+    - Pengguna dapat menjelajahi lagu, artis, playlist, dan album dari katalog Spotify.
+    - Mencari lagu, artis, dan album dengan kata kunci.
+    - Melihat informasi rinci tentang lagu, artis, dan album.
+    - Lirik lagu yang sedang diputar (synchronize lyrics).
+
+    Technologies :
+    - ReactJS
+    - VITE
+    - TailwindCSS
+    - React Query
+    - React Router
+
+    Github(untuk detail lebih lanjut) : https://github.com/pusakamanggala/echo-music-app 
+    Website : https://echo-spotify-clone.netlify.app
+
+    Note :
+    Walaupun pengguna dapat berinteraksi dengan kontrol pemutar musik, namun pemutar musik tidak dapat memainkan musik atau lagu yang sebenarnya. Hal ini disebabkan oleh penggunaan alur autentikasi Client Credentials dalam Spotify Clone saya. Dalam alur ini, aplikasi hanya mendapatkan token akses yang memberikan akses terbatas, biasanya hanya untuk mengambil data seperti informasi artis, album, atau tren musik. Autentikasi ini tidak mengizinkan kontrol pemutaran musik yang sebenarnya, seperti memulai, menghentikan, atau mengganti trek yang diputar, karena tidak terkait dengan akun pengguna atau Playback API Spotify.
+
+<br>
+
+8.  [https://koalatype.netlify.app/]  
+     **Umar Jihad**
+
+    Assalamu'alaikum semua.
+
+    Saya Umar dari Jogja. Showcase kali ini Saya membuat web typing speed test. Ide pembuatan web ini lagi-lagi muncul ketika melihat teman di kampus yang menggunakan web https://monkeytype.com/. Sehingga web yang Saya buat ini banyak meniru web tersebut.
+
+    Tech stack: HTML5, CSS3, JS
+
+    Demo: https://koalatype.netlify.app/
+    Repo: https://github.com/jihadable/koalatype
+
+    Tidak ada alasan tertentu dalam pemilihan nama "Koala" pada web ini🐨.
+
+<br>
+
+9.  [https://lynnflix.vercel.app/]  
+     **Kibieptr**
+
+    Assalamu'alaikum semua, Perkenalkan Nama Saya Rahman dari Malang Seorang Pelajar SMK Jurusan RPL Di SMK PGRI 3 Malang. Showcase ini adalah Kedua Saya Setelah Showcase Website Rest Api
+
+    Website ini adalah Nonton serial anime dan film favorit online dan gratis
+
+    Project ini dikerjakan selama 2 Bulan
+    Saya sangat amat membutuhkan feedback & kritikan
+
+    **Tech stack:**
+    -  Next JS
+    -  Typescript n Javascript
+    -  GraphQL
+    -  Tailwind CSS
+    -  Video players : Plyr
+
+    Link Web Project : https://lynnflix.lynninc.cloud/ or https://lynnflix.vercel.app/
+    Repo :https://github.com/Lynnxha/Lynnflix
+    Instagram : https://www.instagram.com/kibieptr_/
+
+<br>
+
+10.  [https://ilhanhj-portfolio-v2.vercel.app/]  
+     **hanzuldan**
+
+    Assalamualaikum pa dika dan teman teman👋 
+
+    Perkenalkan saya **Ilhan**—bukan Ilham dengan **'N'** bukan 'M'—, Mahasiswa semester 3 dari STMIK Jabar. Saya ingin showcase project saya yang pertama yaitu Website Personal Portfolio. Project ini merupakan project yang sederhana **PRITTTTTTTTT*📢  untuk melatih pemahaman saya di TailwindCSS dan JAVASCRIPT. Ini juga merupakan pengalaman pertama saya merancang sebuah proyek secara menyeluruh di Figma sebelum melakukan pengembangan aktual. Proses pengerjaan proyek ini memakan waktu sekitar 3 minggu. 1 Minggu untuk mendesign dan mencari inspirasi dan 2 Minggu untuk pengerjaan code.
+
+    Saya sangat mengharapkan masukkan dan kritikan dari pa dika dan teman-teman semua agar bisa lebih baik lagi kedepannya. Dan terakhir, Terima kasih banyak pa dika atas ilmu yang sangat bermanfaat nya, semoga kita semua bisa lebih baik tiap harinya.
+
+    Github : https://github.com/Ilhanhj/ilhanhj-portfolio-v2
+    Website : https://ilhanhj-portfolio-v2.vercel.app/
+    Instagram : https://www.instagram.com/HANZULDAN
+
+<br><br>
+
