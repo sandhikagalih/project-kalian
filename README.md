@@ -4150,3 +4150,279 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+### 23 Desember 2023
+
+1.  [https://netai.vercel.app/]  
+     **ʎǝןɥsɐ**
+
+    Selamat malam Pak.
+
+    Ini pertama kalinya saya showcase projek disini.
+    Saya ingin showcase web sosial media milik saya yang dibuat dengan Next.js. Waktu yang dibutuhkan untuk pengerjaan projek ini sekitar 5-6 bulan.
+
+    Detail lengkap untuk fitur, tech stack yang digunakan, dan lain-lain bisa dibaca di repository saya: https://github.com/kaylaiueo/netai
+
+    Website: https://netai.vercel.app/
+
+    Note: kalau dark mode terjadi flickering dari hitam ke putih, itu karena Next.js yang saya gunakan versi lama dan baru di-fix di Next.js 14.
+
+    ---
+
+    Q: Kenapa pakai Next.js versi lama?
+    A: Next.js yang digunakan di projek ini versi terbaru pada 5-6 bulan yang lalu (saat saya memulai projek ini).
+
+<br>
+
+2.  [https://zaadevofc.tech/]  
+     **zaadevofc**
+
+    Assalamualaikum pak dika dan teman2 semua👋
+
+    Pada showcase ke tiga kali ini saya ingin showcase project web portofolio sederhana yang di kerjakan pada saat waktu luang.  Karna hanya sederhana sya membuat nya menggunakan vitejs + preact dengan bahasa typescript dikit. Buat temen temen yg memiliki saran atau masukan jgn ragu ragu utk di sampaikan. ini merupakan project open source yang temen temen semua bisa akses dan gunakan di repo github saya.
+
+    - Tech : ViteJS + Preact, Typescsript, AOS, NextUI, Tailwindcss, etc
+
+    ~> Open Source : https://github.com/zaadevofc/zaadevofc.tech/
+    ~> Preview : https://zaadevofc.tech/
+
+    Terimakasih pak dika dan temen temen semua<:ada:1164580304435019846>
+
+<br>
+
+3.  [https://sosmed-client-ivory.vercel.app]  
+     **sus**
+
+    Assalamualaikum. Halo Pak Dhika dan temen² wpu perkenalkan nama saya Abdul Majid asal Mataram, Lombok. Ini adalah showcase pertama sy hehe.
+    Project kali ini adalah social media yang sy kasih nama "Batur Luah App" itu dlm bahasa Lombok yg artinya temen luar. Tapi msih ada beberapa fitur yg blum bisa sy selesaikan seperti fitur edit profile dan juga masih belum responsive jadi agak berantakan klo dibuka di mobile. Adapun beberapa fitur yang ada di aplikasi ini adalah:
+    1. Login/Register user
+    2. Follow/unfollow user
+    3. Realtime chat
+    4. CRUD post
+    5. Like/dislike post
+    6. Comment post
+    7. Serach post by description
+    8. Delete message
+    9. Logout
+
+    Adapun teknologi yg digunakan adalah MERN stack seperti:
+    1. Mongodb
+    2. Express
+    3. React
+    4. Node
+    5. Socket.io
+    6. Tailwindcss
+    7. Sweet alert
+
+    Untuk demo aplikasinya :
+    https://sosmed-client-ivory.vercel.app
+
+    Untuk link repository github
+    Sosmed API:
+    https://github.com/Adji2001/sosmed-api
+
+    Sosmed Client:
+    https://github.com/Adji2001/sosmed-client
+
+<br>
+
+4.  [https://github.com/feri-irawan/fiimage]  
+     **Feri Irawan**
+
+    Assalamualaikum, halo Pak Dhika, halo semuanya apa kabar? Perkenalkan saya Feri Irawan dari Bulukumba, izin ikutan showcase hari ini. Ini adalah showcase ke-7 saya, kali ini saya ingin showcase projek bernama **Fiimage**.
+
+    Jadi **Fiimage** adalah layanan untuk resize image, membuat open graph image, dan, membuat thumbnail video berdasarkan URL. Untuk dokumentasi lengkapnya bisa dibaca di [README](https://github.com/feri-irawan/fiimage)-nya.
+
+    Alasan saya membuat projek ini karena terkadang kita butuh alat untuk resize gambar atau membuat gambar thumbnail video dengan cepat tanpa banyak menulis kode lagi, atau ketika kita membuat web baru, web tersebut tidak langsung memiliki open graph image sehingga ketika link webnya dishare, linknya tidak punya gambar/preview pemanis.
+
+    Maka dari itu saya buat projek ini, dan saya sangat rasakan manfaatnya. Performan web bisa lebih ditingkatkan dengan ukuran gambar yang awalnya besar bisa diubah jadi lebih kecil tentunya kuota yang terkuras juga jadi lebih sedikit dan halaman bisa diload dengan cepat. Jika web berisi video atau banyak video, kita bisa buatkan thumbnail jadi diawal sebelum videonya diplay yang tampil bukan kotak hitam lagi tapi thumbnail/gambar cuplikan videonya. Atau jika kita punya halaman post/blog yang dinamis, projek ini bisa membuat open graph image yang dinamis juga sesuai title dan description halaman, jadi ketika dishare linknya punya preview/gambar.
+
+    Stacks:
+    - Express
+    - TypeScript
+
+    Contoh:
+    ```
+    https://fiimage.vercel.app/og?url=https://github.com/feri-irawan/fiimage
+    ```
+    Hasil:
+    ![Fiimage](https://fiimage.vercel.app/og?url=https://github.com/feri-irawan/fiimage)
+
+    Contoh lainnya bisa dilihat di README.
+
+    Link repo:
+    https://github.com/feri-irawan/fiimage
+
+    Projek ini juga terbuka untuk teman-teman yang ingin berkontribusi dan membantu membuatnya menjadi lebih baik.
+
+    Sekian, jangan lupa starnya ⭐  dan [follow](https://github.com/feri-irawan) teman-teman, semoga bermanfaat, terima kasih.
+
+<br>
+
+5.  [https://alfianxi.my.id]  
+     **alfian**
+
+    Halo semuanya~ Perkenalkan, saya Alfian! Izinkan saya untuk mengikuti WPU Showcase ini teman-teman~!!
+
+    Confess merupakan sebuah aplikasi berbasis web yang berguna untuk menampung keluhan/*confess*, kritik, dan saran dari siswa/i.
+
+    Sebenarnya, Confess ini sudah pernah di-showcase-kan di WPU Showcase sebelumnya. Tapi, guru saya meminta untuk di-refactor ulang karena ada beberapa konsepsi, terutama *database schema*, yang tidak jelas. Oleh karenanya, saya melakukan refactoring terhadap backend-nya.
+
+    Juga, saya menambahkan Docker sebagai development environment untuk developers yang ingin men-deploy melalui VPS~
+
+    Tools yang digunakan adalah sebagai berikut:
+    Docker
+    Laravel
+    Vite
+    Mazer
+
+    *Actors* yang tersedia:
+    - Admin, officer, dan student
+    - - Admin
+    Username: alfianchii
+    Password: admin123
+
+    - - Officer
+    Username: moepoi
+    Password: officer123
+
+    - - Student
+    Username: nata.ardhana
+    Password: student123
+
+    - Pencarian *confessions* di homepage
+
+    - Etc
+
+    Demo: https://alfianxi.my.id
+    Repo: https://github.com/alfianchii/confess
+
+<br>
+
+6.  [https://alfarabygit.github.io/punipun7web-fanmade]  
+     **Indra**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan, 
+    Semoga sehat selalu utk semuanya. Nama saya Alfaraby Indra alumni STMIK AMIK Riau angkatan 16 lulusan 2020. Sudah tak terasa sudah enam kali saya mengikuti showcase project ini dan utk yg ketujuh sudah dinantikan dengan keyword nya adalah: 
+    Di antara cosplayer-cosplayer yang cantik dan cakap di negeri ini, aku hanya pilih yg belakang nya 7 utk showcase project ke tujuh ini
+
+    yaitu"punipun7 web fanmade" Yup itulah showcase project ketujuh yang ingin saya tampilkan maaf agak dikit lebay guys. 
+    Tech stack:
+    1.  Html
+    2. CSS
+    3. JavaScript
+    4. Swiperjs
+    5. Scrollreveal.js
+    6. AOS
+    7. Fancybox
+
+    Web yang saya buat ini adalah atas keinginan saya sendiri sekaligus kejutan kecil dari fans punipun tanpa paksaan dan sebenarnya saya sudah lama merencanakan ini semenjak ikut showcase project walaupun masih ada beberapa kekurangan dan tidak semirip dengan website aslinya, dan saya juga merupakan fans berat punipun. Awalnya sih karena ketidaksengajaan ketemu dia di postingan ig lalu saya Coba-coba utk follow. Dan setelah saya telusuri tentang dia dan juga website resminya ternyata dia ini cosplayer sepuh dan memiliki banyak prestasi dia raih seperti cosplayer nya dan di bidang IT walaupun saya blm pernah ketemu langsung sama sekali. 
+
+    Jgn lupa feedback dan like dari showcase saya yg ketujuh ini utk pak dhika dan kawan-kawan. Setelah project ini saya akan mempelajari back end dan framework utk showcase project berikutnya serta saya tidak boleh berhenti sampai disini saja karena termotivasi dari acara youtube live Dev fest bandung 2023 yang telah dilaksanakan beberapa hari yang lalu dan video penyesalan ketika kuliah it di channel WPU.
+
+    Demikian yang saya sampaikan, saya akhiri dengan Wassalamu'alaikum wr.wb 
+
+    Jgn lupa titik koma guys(sampai jumpa di tahun depan) 
+
+    Github: https://github.com/alfarabygit/punipun7web-fanmade
+
+    Demo: https://alfarabygit.github.io/punipun7web-fanmade/#
+
+<br>
+
+7.  [https://skaters-inifarhan.vercel.app/]  
+     **farhannnnn**
+
+    Hallo semuanya, perkenalkan nama saya Farhan dari Bekasi! Izinkan saya untuk mengikuti WPU Showcase ini teman-teman~!!
+
+    jadi ini kali pertama saya ikutan showcase project di discord WPU, dsini saya mau share project open source saya yang bernama *Skaters*. Jd ini merupakan aplikasi ecommerce yang terintegrasi dgn payment gateway midtrans, tdk hanya itu di dalam aplikasi ini kalian juga bisa membuat store serta product kalian sendiri lho.. silahkan yang ingin lihat, berkontribusi atw bahkan ingin belajar bisa di check link nya di bawah ini 👇
+
+    TECH STACK:
+    - Framework: Next.js
+    - Styling: Tailwind CSS
+    - Authentication: Next Auth
+    - Database: Mysql
+    - ORM: Prisma ORM
+    - UI Components: shadcn/ui
+    - File Uploads: uploadthing
+    - Payments infrastructure: Midtrans
+
+    Repo: https://github.com/inifarhan/skaters/
+    Demo: https://skaters-inifarhan.vercel.app/
+
+<br>
+
+8.  [https://pokemon-react-owaj.vercel.app/]  
+     **dev/azim**
+
+    Assalamu'alaikum pak dhika dan kawan-kawan. 
+    Semoga sehat selalu utk semuanya. Kali ini saya ingin showcase project pokemon api menggunakan reactjs
+    Tech stack: 
+    Reactjs
+    HTML
+    CSS 
+    BOOTSRAP
+    REDUX
+
+    Tujuan utama saya membuat website ini ingin membuat game website sederhana adu tarung pokemon sesuai keberuntungan mendapatkan sebuah pokemon
+
+    Website ini hanya berjalan di front end nya saja. 
+
+    Terimakasih🙏
+
+    Demo: https://pokemon-react-owaj.vercel.app/
+    GitHub: https://github.com/BudAzimbud/pokemon-react/
+
+<br>
+
+9.  [https://wisely.vercel.app]  
+     **F for Fityan**
+
+    Halo semuanya, selamat malam! Perkenalkan, saya Fityan. Ini showcase kedua saya (sebelumnya: `idn-area`).
+
+    Di showcase kali ini, saya ingin membagikan tools buatan saya yang diberi nama **Wisely**, sebuah *package* Node.js untuk mengaburkan teks atau frasa dengan karakter acak yang tidak umum. 
+
+    Contoh: `Jangan lupa titik koma!` menjadi `Ĵáñǵáņ ĺųƥą ţĭŧįķ ķómä!`
+
+    Secara sederhana, tools ini menggunakan *regex* untuk mencari frasa yang akan diubah dari suatu teks, lalu mengganti setiap karakter dari frasa itu berdasarkan *charset* yang ditentukan.
+
+    Saya juga membuat **website dokumentasi** beserta **playground** untuk mempermudah penggunaan Wisely bagi user non-IT.
+
+    **Package**
+
+    - Tech Stack: Node.js, TypeScript, vitest, eslint
+    - Link package: https://www.npmjs.com/package/wisely
+    - Link repo: https://github.com/fityannugroho/wisely
+    - Install command: `npm i wisely`
+
+    **Website**
+
+    - Tech stack: TypeScript, Astro (Starlight), React, Tailwind CSS
+    - Link website: https://wisely.vercel.app
+    - Link repo: https://github.com/fityannugroho/wisely-web
+
+    > Project ini **open-source**, baik package maupun websitenya, sehingga teman2 bisa ikut berkontribusi.
+    ﻿
+    Sekian dan terima kasih 🙏
+
+<br>
+
+10.  [https://tank-war-2d.netlify.app]  
+     **dnm17_**
+
+        Selamat malam pak dhika dan teman2 semuanya, perkenalkan nama saya dani kali ini saya mau showcase project yg ke-6. 
+
+        Kalo pak dhika dan teman2 masih ingat saya pernah showcase project game bernama Tank War `https://dfsdanimaulana.github.io/tank-war`, nah project kali ini adalah versi kedua dari game tersebut tentunya dengan tampilan dan fitur game yg lebih seru dan menarik.
+
+        Sesuai saran dari pak dhika di game sebelumnya supaya musuh bisa mencari player, di versi terbaru ini sudah ditambahkan algoritma dimana musuh akan mencari dan bergerak ke lokasi dimana player berada, di game ini terdapat 9 level untuk di selesaikan dan setiap level terdapat 3 star yang bisa di peroleh sesuai score yg di dapat.
+
+        Tech Stack:
+        - Kaboom.js (JavaScript game library)
+        - Tiled (Sprite sheet Map editor)
+        - Typescript
+        - Vite Bundler
+
+        Demo: https://tank-war-2d.netlify.app
+
+        mohon kritik dan sarannya untuk projek ini sekian dan terimakasih, Jangan lupa titik koma (walaupun saya team gak pakai titik koma hehehe  🤭)
+
+<br><br>
