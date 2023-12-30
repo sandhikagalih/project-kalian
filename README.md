@@ -4673,3 +4673,15 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+assalamualaikum pa sandika 
+saya dari pertama selalu binggung mau mulai dari mana karna chanel bapa sayang jadi paham dan tau roadmap untuk menjadi web developer saya sebelum emng sudah ada basic dari sekolah karna saya jurusan rekayasa pernagkat lunak dan abis itu ggra kerja jadi saya gak terusin lagi terus saya liat  chanel ini pas lagi live pamerin project dari situ saya bertekad suatu saat akan ikutan pamerin project
+ini link reponya pa https://github.com/Suryaramadan115/online-store-revisi
+ini link webnya myonlinetoko.vercel.app/
+ini link adminnya pa https://myonlinetoko.vercel.app/login
+email adminnya nya tiyas@gmail.com
+passwordnya tiyas
+
+saya buat pake fullstack nextjs
+pake orm prisma 
+pake database mysql
+
