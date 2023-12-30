@@ -4426,3 +4426,250 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
         mohon kritik dan sarannya untuk projek ini sekian dan terimakasih, Jangan lupa titik koma (walaupun saya team gak pakai titik koma hehehe  🤭)
 
 <br><br>
+
+
+### 30 Desember 2023
+
+1.  [https://tic-tac-toe-2023-muhammad-ahya-aulias-projects.vercel.app/]  
+     **I MAA**
+
+     Selamat malam Pak Dhika dan kawan-kawan semua, perkenalkan nama saya Ahya pada kesempatan kali ini saya mau showcase project saya yang pertama. Project ini sebenernya cukup sederhana karena mengikuti video tutorial Pak Dhika tentang ReactJs yang saya kreasikan sedikit, dan iyap project ini adalah Game Tic-Tac-Toe. Awalnya karena kebosanan saya dalam belajar ReactJs saya akhirnya mencoba mengeluarkan sedikit dari kreatifitas saya pada setiap materi yang saya pelajari, karena saya memiliki prinsip “The Key of Learning is never make it Boring” jadi setiap kali saya merasa bosan, daripada melanjutkan materi berikutnya yang hanya akan menambah jenuh saya memilih mencoba meng-kreasikan hal-hal yang sudah saya pelajari dengan pemikiran yang suka-suka saya gk peduli berhasil apa ngga yang penting dh pernah nyoba. Nah inilah salah satu hasil kreasi saya dalam belajar ReactJs selama satu bulan (meskipun ngestuck di tutorial Tic-Tac-Toe).
+
+     Dan makasih banyak buat Kakak-Kakak helper UI/UX atas sarannya, kalo gk dikasih tips designnya mungkin ini website bakalan polosan jadinya (>_<).
+
+     WARNING!!! : Ada lagu yang saya ambil dari Youtube sebagai backsound Gamenya jadi takutnya bisa kena Copyright
+
+     Fitur :
+     1. Gk bisa menang
+     2. Characters
+     3. Custom Errors
+     4. Winning History (Setiap ada yg Win gk peduli musuh atau player bakalan kesimpan)
+     5. Musics
+
+     Tech Stack :
+     1. ReactJs
+     2. Vite
+
+     Demo : https://tic-tac-toe-2023-muhammad-ahya-aulias-projects.vercel.app/
+     Git Repository : https://github.com/MAA14/Tic-Tac-Toe-2023
+
+     Terimakasih atas waktunya Pak Dhika dan kawan-kawan semua, semoga kita sehat selalu <:wpugege:827100210563776512> .
+
+<br>
+
+2.  [https://simplicite.vercel.app]  
+     **<[FDMZ17]>**
+
+     Assalamualaikum semuanya,
+
+     Perkenalkan, saya Fakhri dari Sidoarjo, seorang pelajar SMA kelas X. Saya ingin memperkenalkan project pertama saya, yaitu website "Simplicite". Website ini saya kembangkan dengan tujuan mempermudah pembuatan makalah, terutama dalam menyusun latar belakang yang seringkali memerlukan referensi. Nama project ini diambil dari gabungan kata "Simple" yang artinya sederhana atau mudah, dan "Cite" yang berasal dari kata Kutipan.
+
+     Stack yang saya gunakan meliputi NextJS, MongoDB, Auth0, dan Tailwind CSS. Proyek ini juga menjadi salah satu project belajar menggunakan framework NextJS dan prompt engineering di LLM.
+
+     Saya mengharapkan masukan dan kritikan dari Pak Dika dan teman-teman semua. Ini sangat membantu agar proyek ini dapat terus berkembang ke depannya. 
+
+     Developer note: buat sekarang masih cuma english only, tapi kedepannya bakal di add bahasa indonesia dan lain". Buat auth nya masih menggunkan dev key auth0 karena menunggu dari google cloud untuk key nya <:hehehe:972470914488885288> 
+
+     Cara menggunakannya hanya memasukkan keyword/kata utama yang ingin dicari, misal:
+     - Generative AI
+     - Tempe
+
+     webapp: https://simplicite.vercel.app
+
+     Terima kasih.
+
+<br>
+
+3.  [https://swappes.netlify.app/]  
+     **Iqro Negoro**
+
+     Assalamualaikum,
+
+     Selamat sore untuk semuanya, perkenalkan saya Iqro Negoro, ingin showcase project pertama dalam proses belajar Nuxt JS (project based learning), awalnya bingung mau buat apa tapi setelah melihat showcase orang ini itu yang makai react, jadi saya ingin membuat salah satunya dengan vue js, yaitu facebook lite (karena user facebook) yang bener-bener simple, sebelumnya terima kasih pada helper-vue js bang jamil yang udah bantu tanpa pamrih hehe. sebenernya masih ada fitur yang mau ditambahkan tapi saya rasa ini sudah cukup dulu untuk di tunjukkan
+
+     Tech Stack :
+     1. Nuxt 3
+     2. Express
+     3. MongoDB
+     4. discord.js
+     5.  socket.io
+
+     Feat :
+     CRUD Post,
+     Friendship
+     Chatting
+
+     Masih banyak kekurangannya salah satunya seperti sesi login yang agak lain (agak bingung sistem auth karena baru kenal SSR), update user profile dll, krisar sangat di terima!
+
+     Link App :
+     https://swappes.netlify.app/
+
+     Repo FE : https://github.com/IqroNegoro/swappes
+     Terima kasih!
+
+<br>
+
+4.  [https://github.com/ryugenxd/ContactApp]  
+     **gatankaite**
+
+     assalamualaikum warahmatullahi wabarakatuh
+
+     saya ryugenxd 😂 nama yang unique , ingin showcase project restfulAPI 
+     managment contact (sederhana / fitur nya simpel ) ,agar showcase nya tidak membosankan 
+     mungkin ada baik nya menambahkan sendikit reactjs agar resfulAPInya 
+     lebih enak di showcase 😁 mengunakan metode microservices architecture 
+     untuk backend dan frontend secara terpisah implementasi clean code di 
+     di bagian backend , frontend nya simpel soal nya ga fokus kesitu 
+     pembelajaran nya karena frontend itu easy 😂 waduh mewehehhe.
+
+     Tech Stack:
+
+     - Laravel 10
+     - Mysql 
+     - Tailwindcss
+     - Reactjs
+     - React Toastify
+
+
+     fitur auth manual mengunakan interface dari ```Illuminate\Contracts\Auth\Authenticatable```
+     penerapan pagination 
+     Real Time Search tapi agak lucu auto limit request  😁
+
+     repository github : https://github.com/ryugenxd/ContactApp
+
+<br>
+
+5.  [https://www.valoin.tech/]  
+     **kopi dingin**
+
+     assalamualaikum,
+
+     saya andika, ingin showcase project yang sudah saya build sekitar 4 bulanan menggunakan Next js, mongodb, tailwindcss.
+
+     tujuan dari saya membangun website ini. untuk membantu player game valorant untuk menemukan lienup. bukan hanya untuk menemukan lineup tapi user juga bisa mengunggah lineupnya sendiri
+
+     ada beberapa fitur yang lagi dibuild sekarang (21 desember) yang mungkin nanti masuk ke production, yaitu:
+     leadboard
+     leveling
+     dll
+
+     website: https://www.valoin.tech/
+     repo: https://github.com/dikaaajs/valoin
+
+<br>
+
+6.  [https://dp.andrimc.my.id]  
+     **andrimc**
+
+     Assalamualaikum Warohmatullohi Wabarokatuh
+
+     Perkenalkan saya andriziro dari binjai, Alumni STMIK Kaputama binjai 2021. Project pertama saya
+     website untuk digitial printing hasil pemebalajaran dari workshop dan channel youtube
+
+     alur website ini memiliki 2 role admin dan user
+     admin bisa segalanya tambah kategori dan tambah produk lainya
+     user bisa beli dan lihat pesanan
+
+     akun admin
+     - andrimc1999@gmail.com
+     - 123456789
+
+     akun user
+     - user@gmail.com
+     - user@gmail.com
+
+
+     Teknologi digunakan :
+     PHP
+     Laravel
+     BOOTSTRAP
+     Midtrans
+     Raja Ongkir
+     Mailtrap
+
+     Mohon Dikoreksi pak kekurangnya website agar menjadi maksimal
+
+     Repo githubnya 
+     https://github.com/andrisyahputra/digital-printing
+     Link Demo
+     https://dp.andrimc.my.id
+     Terima kasih
+
+<br>
+
+7.  [https://cakrawala.vercel.app/]  
+     **jaon**
+
+     hallo, padika dan fren", kenalin saya joan seorang murid kelas 12 smk yg kecanduan berat akan dunia programming. ini adalah showcase ke 6 ku yang sebelumnya saya sudah showcase in web pijar pelajar yg kalah, sayangnya saya pantang menyerah, dan sekarang saya mau showcase web design sederhana dalam rangka lomba web design techcom, yang sudah saya kerjakan bersama teman" tim saya
+
+     teknologi : react js, tailwind, docusaurus(ssg), mdx
+
+     web : https://cakrawala.vercel.app/
+     repo : https://github.com/joanpoerba/Cakrawala
+
+<br>
+
+8.  [https://www.bangjeff.com]  
+     **Fahmi Idris**
+
+     Assalamualaikum
+
+     Kenalin aku Fahmi Idris dari Kabupaten Bogor,
+     mau showcase project yang pertama masuk real production dan udah banyak user nya.
+
+     project ini sebelum nya pake laravel dan blade. tapi di revamp jadi techstack di bawah. waktu buat revamp nya 2 bulan, tapi masih terus di maintenance dan update sampe sekarang.
+     oh iya, ini aku frontend nya aja ya, kalo backend nya di bikin temen ku.
+
+     Tech Stack:
+     - TypeScript
+     - Next.js
+     - Tailwind CSS
+     - TanStack
+     - React Form Hook
+
+     - Go
+     - PostgreSQL
+     - Redis
+
+     website: https://www.bangjeff.com
+     repo nya private 🙏🏽 tapi ini github ku https://www.github.com/fahmiidris
+
+<br>
+
+9.  [https://pasarkripto.vercel.app/]  
+     **Zyee**
+
+     Assalamualaikum,
+
+     Halo Pak Dhika dan teman-teman semuanya semoga kita semua sehat selalu,
+
+     Perkenalkan nama saya Ari Hazamie Jurusan Sistem Informasi Semester 5 salah satu Univ di Padang, ini adalah Project Showcase pertama saya yang bernama PasarKripto.
+
+     PasarKripto adalah website untuk tracking harga koin Crypto & NFT favorite anda, sesederhana itu. Masih Banyak Kekurangan 🙏 
+
+     Untuk lebih lanjut langsung ke :
+     Repo : https://github.com/arihazamie/PasarKripto
+     Website : https://pasarkripto.vercel.app/
+
+     Terimakasih Pak Dhika
+     Wassalamualikum
+
+<br>
+
+10.  [https://ilhanhj.github.io/OHQ/index.html]  
+     **hanzuldan**
+
+          Assalamualaikum pa dika dan teman teman👋 
+
+          Perkenalkan saya Ilhan—bukan Ilham dengan 'N' bukan 'M'—, Mahasiswa semester 3 dari STMIK Jabar. Saya ingin showcase project saya yang kedua. Project ini bernama Oxford Happiness  Questionnaire yang merupakan kuisioner yang dibuat oleh Oxford University pada tahun 2002 untuk mengukur tingkat kebahagiaan seseorang. Ketika mengisi disarankan untuk membaca setiap pertanyaan dengan baik. Sistem pengukuran kebahagiaan nya juga saya dasarkan pada penelitian nya.
+
+          Tech :
+          - HTML
+          - CSS
+          - JS
+
+          Github : https://github.com/Ilhanhj/OHQ
+          Website : https://ilhanhj.github.io/OHQ/index.html
+
+<br><br>
+
