@@ -4032,6 +4032,9 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
     Assalamualaikum, Pa Dhika, dan teman-teman semua perkenalkan saya Ammar dari Universitas Negeri Malang yang saat ini sedang belajar Pemrograman Web. Ini adalah showcase project saya yang ketiga yaitu bernama "Formify" (website sederhana pembuat formulir).
 
+
+
+
     - Dalam website ini ada otentikasi yang menggunakan Clerk
     - Konten dari website ini berupa drag and down dari elemen-elemen pembuat form, seperti judul, isi form, dan lain-lain.
     - Seteleh pengguna selesai membuat formulir, maka formulir tersebut dapat di save maupun di publish. 
@@ -4673,3 +4676,6 @@ setiap hari Sabtu, pukul 19.45WIB (jika tidak ada perubahan :p)
 
 <br><br>
 
+11. https://fancypedia.my.id/
+    **Raul Mahya**
+Project Sederhana pa Dhika dan tmn tmn bersii html css dan JS murni dengan backend Golang Cloudfunction Deploymennya
