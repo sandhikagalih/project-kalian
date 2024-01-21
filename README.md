@@ -311,3 +311,315 @@
     Jika ada feedback dan saran dari teman", jangan ragu ragu untuk disampaikan yaww.. Terima kasih 🙏 
 
   <br><br>
+
+
+### 21 Januari 2024
+
+1. [https://belajarebt.vercel.app/]  
+   **ryact**
+   
+  Selamat pagi , siang , sore pa dhika dan teman teman 
+  saya ry baru kluar goa hehe pc yg lama meledak itu juga di beliin karna kepaksa buat skolah malah meledak<:hehehe:972470914488885288> , kali ini saya buat project iseng iseng juga karna gatau mau buat web apa bingung, project ini blum responsive jadi enaknya di laptop atau komputer aja<:mantab:972471617923993600> 
+
+  Belajar EBT (Energi Baru Terbarukan) 
+  EBT adalah energi yang ramah lingkungan (bisa di liat di webnya aja)
+
+  teknologi yang saya gunakan :
+  HTML
+  CSS
+  BOOTSTRAP
+  AOS
+
+  Link Github Repo : 
+  https://github.com/RNRYT/belajarebt
+
+  Link Website : 
+  https://belajarebt.vercel.app/
+
+  Minta saran dari pa dhika dan teman teman dan Terimakasihh🙏
+
+<br>
+
+2. [https://angkasamuhammad.github.io/BeritaTerkini/WebGPU%20-%20Berita%20Terkini.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+   
+  Bismillahirohmaanirrohiim
+  Assalaamu'alaykum wr wb.
+
+  Project kali ini berupa art/seni gambar abstrak yang terbentuk dari komputasi di dalam GPU. WebGPU memberi access ke GPU & fasilitas memudahkan komputasi menjadi lebih cepat. Beberapa gambar di web ini aku bikin mirip peristiwa saat ini, di Palestina, pejuang melawan tentara pampers.
+
+  Mulai bikin project: 5 Januari 2024
+  Total file size: 7.36 KB
+
+  Repo: https://github.com/AngkasaMuhammad/BeritaTerkini
+  Web: https://angkasamuhammad.github.io/BeritaTerkini/WebGPU%20-%20Berita%20Terkini.html
+
+  Dari project ini diharapkan kita tidak cuma ahli main game, kita juga bisa bikin game yang berfaedah dan bisa dimainkan di device kentang, ga pake topup gacha dompet makin slim.
+
+<br>
+
+3. [https://anime.bimabizz.my.id/]  
+   **BimaBizz**
+   
+  punten pak dika dan teman-teman mau ikut nampilin project yang bukan sederhana (karena jika bilang sederhana kena peluit nantinya <:iwakwok:967398978603851826> )
+
+  **Judul Project** : ANIMEBIZZ FE & BE streaming Platform
+
+  ceritanya ini website saya buat dikarenakan nonton anime terus muncul iklan judi yang tidak enak untuk dilihat, project ini sendiri saya buat pas waktu nunggu jadwal untuk maju seminar proposal desember ahir lalu, untuk durasi pembuatan project ini saya buat untuk BE dalam waktu 2 hari dan untuk FE juga 2 hari (hanya bisa untuk nonton) untuk fiturnya saya mengerjakan dalam waktu kurang lebih 5 harian dikarenakan seminar proposal tadi
+
+  **Penjelasan BE**
+  > project ini dibuat dengan expressJS dan melakukan metode scrapping untuk mengambil data dari website nonton anime bajakan kesukaan kalangan gratisan ( ANOBOY ) dan kemudian dilempar kembali menngunakan api dalam bentuk JSON, untuk kode masih saya private dan untuk kali ini hanya saya tampilkan documentation nya saja mohon pengertiannya 🙇 
+
+  **Github BE Dokumentasi**
+  https://github.com/BimaBizz/Api-Anoboy-Docs
+
+  **Demo Website**
+  https://animev1.bimabizz.my.id/api/anime
+
+  **Teknologi BE**
+  1️⃣  ExpressJS
+  2️⃣  Morgan
+  3️⃣  dotenv
+  4️⃣  Axios
+  5️⃣  Cheerio
+
+  **Penjelasan FE**
+  > Project ini dibuat dengan ala kadarnya dikarenakan mengejar jam tayang anime kesukaan saya <:hehehe:972470914488885288> , jadi mohon maaf untuk segi tampilan jika kurang memuaskan mata teman-teman, project ini dibuat dengan ReactJS dan tailwindCSS
+
+  **Fitur Utama**
+  1. List Anime dan Komik terupdate dari api
+  2. Bebas Iklan
+  3. Custom Tema ( ada didalam dashboard setelah Login )
+  4. Chat Diskusi (ada didalam dashboard setelah Login)
+  5. Simpan Anime dan Komik (ada didalam dashboard setelah Login dan akan muncul tombol simpan di beranda anime dan komik )
+
+  **Github FE**
+  https://github.com/BimaBizz/animebizz
+
+  **Demo Website**
+  https://anime.bimabizz.my.id/
+
+  **Teknologi FE**
+  1️⃣  React
+  2️⃣  Firebase
+  3️⃣  Tailwind CSS
+
+<br>
+
+4. [https://beamish-dolphin-c4ecf8.netlify.app/]  
+   **dihpan**
+   
+  Assalamualaikum wr. wb. Nama saya Aji Mustofa. kali ini, saya ingin memperkenalkan sebuah proyek game clone yaitu "Frogger"
+
+  Game ini terinspirasi dari game klasik  dengan nama yang sama (Frogger 1981), dimana kita harus Ngehindarin mobil, menyebrang sungai—petualangan seekor kodok yang seru!. Saya membuatnya menggunakan bahasa pemrograman C++ dan menggunakan raylib sebagai framework grafisnya.
+
+  Demo: https://beamish-dolphin-c4ecf8.netlify.app/
+
+  Control:
+
+  Panah Atas: Maju
+  Panah Kanan: Bergerak ke Kanan
+  Panah Bawah: Mundur
+  Panah Kiri: Bergerak ke Kiri
+
+  GitHub Repo: https://github.com/pepega90/frogger
+
+  Teknologi yang Digunakan:
+
+  - C++ 
+  - Raylib (https://www.raylib.com/)
+
+  Mohon maaf jika masih ada kekurangan. Terima kasih banyak.
+
+<br>
+
+5. [https://tamanagev1.me/]  
+   **FarhanAnshari25**
+   
+  *sebelumnya aku udah post tanggal 7 januari, tapi ada beberapa updatean jadi aku hapus dan post ulang*
+  Assalamu'alaikum dan Halo semuanya,
+
+  Ini pertama kalinya saya ikut showcase project. Saya ingin "memamerkan" sebuah projct menarik yang mungkin dapat memberikan inspirasi dalam pengembangan manajemen tugas di tengah-tengah aktivitas kita.
+
+  Tech stack yang saya gunakan:
+  - PHP 8.2
+  - Laravel 10
+  - MySQL 8
+  - Bootstrap
+  - Jquery
+
+  🌐 Tamanagev1 - Sebuah Showcase Project Manajemen Tugas yang mengusung fleksibilitas! 🌐
+
+  ✨ Jelajahi berbagai kemampuan dengan Fitur Unggulan:
+
+  1️⃣ Auth & Access Control: Menyajikan keamanan dengan sistem login dan kontrol akses yang canggih.
+  2️⃣ Task List & Log: Membantu dalam organisasi tugas dengan struktur data yang kuat dan log terperinci pada setiap update task.
+  3️⃣ Pie Diagram: Menampilkan data proyek melalui diagram yang informatif.
+  4️⃣ Master Data Management: Mudah mengelola status, prioritas, permission, role, dan pengguna.
+  5️⃣ Setup User-Role & Role-Permission: Sesuaikan tingkat akses dan kendali sistem.
+  6️⃣  Ada fitur dark-modenya juga lhoo
+
+  Jika tertarik untuk menjelajahi lebih lanjut, silakan kunjungi Link Demo: https://tamanagev1.me/
+
+  Kredential admin untuk eksplorasi: 
+  **Email: admin@example.com
+  Password: admin**
+
+  Teman-teman juga dapat membuat akun baru dan login sebagai officer biasa melalui menu register di website (tapi tetap disarankan memakai kredential admin agar aksesnya lebih luas yaa hehe). 
+
+  Kritik dan masukan sangat dihargai :). Untuk informasi lebih lanjut atau pembelian source code guna pengembangan sebagai tugas akhir atau penggunaan di kantor, silakan hubungi saya secara pribadi (via discord atau via wa https://wa.me/6285723193141). Terima kasih atas perhatiannya. 😊
+
+<br>
+
+6. [https://i-recitev2.vercel.app/]  
+   **Kibieptr**
+   
+  Assalamualaikum Pak Dhika & teman-teman, aku mau showcase project yg keempat disini 
+  Sedikit cerita ya, website ini dikerjakan selama 1 bulan ½  Jadi nih website isinya apaan sih?  Yups ini adalah proyek pengembangan website Al-Quran yang bertujuan untuk menyediakan akses mudah dan interaktif untuk membaca, menghafal, dan mempelajari Al-Quran secara online. Oke itu aja sih, boleh banget kok klo mau kontribusi dengan project ini. 
+
+  Tech :
+  - Vite Js
+  - React Js
+  - Tailwind CSS
+  - API
+  - Javascript
+
+  **Demo : **
+  https://i-recitev2.lynninc.cloud/ or https://i-recitev2.vercel.app/
+  **Repo :**
+  https://github.com/Lynnxha/iRecitev2 
+  https://gitlab.com/Lynnxha/iRecitev2
+
+  Jangan Lupa Follow :
+  Github : https://github.com/Lynnxha
+  Instagram : http://instagram.com/kibieptr_/
+  Twitter / X : https://twitter.com/lynnxha
+
+  **Project ini sangat amat membutuhkan feedback dan kritikan dari kalian !**
+
+<br>
+
+7. [https://milanliz.netlify.app/]  
+   **milan**
+   
+  Halo Pak Dhika dan teman-teman semua, aku Milan dan ini showcase ke 3 ku (kalo ga salah)
+  ini merupakan website portfolio saya.
+
+  Project ini saya buat sekitar 1 minggu menggunakan:
+  - HTML
+  - CSS
+  - JavaScript
+  - SweetAlert2
+  - SwiperJS
+
+  Websitenya: https://milanliz.netlify.app/
+  Github: https://github.com/milanlizriadi/portfolio-milan
+
+  yang mau roasting silakan nanti akan saya perbaiki 
+  udah itu aja makasih
+
+<br>
+
+8. [https://drive.google.com/drive/folders/16vL6N_zlV_tBnlWgvJuw1NBFgUXxWzvG?usp=sharing]  
+   **Alexxxx**
+   
+  Assalamualaikum wb. wb. Perkenalkan nama saya Luthfi . Ini adalah Showcase Project pertama saya .  Sekarang saya mengikuti Bangkit Academy dan kemarin saya dan tim saya membuat Project Aplikasi Android sederhana bernama "HikeWise".  Project ini dikerjakan selama 4 minggu. Untuk fitur chat di kerjakan selama 5 harian dimulai dari 10 januari setelah penutupan Capstone Project.
+
+  "HikeWise" ini sebenarnya diambil dari dua kata "Hike" yaitu pendaki "Wise" yaitu bijaksana , kalau disatukan menjadi Pendaki Bijaksana. Aplikasi HikeWise ini adalah aplikasi untuk mempersiapkan pendakian , karena banyak orang yang tidak memperdulikan persiapan ketika mau melakukan pendakian seperti mempersiapkan alat-alat atau kesehatan . 
+
+  **Untuk lebih jelas tentang aplikasi ini bisa dilihat dari slide PPT berikut :**
+  https://www.canva.com/design/DAF6B0yqx2k/StjuiAWiAL9wVJ0RCa8vVw/edit
+
+  Fitur yang terdapat di aplikasi ini :
+  - Cek peralatan menggunakan image processing
+  - Cek kesehatan 
+  - Cek cuaca (3rd party API)
+  - Booking Pendakian
+  - Booking Open trip 
+  - Booking alat 
+  - Chat antar User 
+
+  Stack yang digunakan :
+
+  Android :
+  - Kotlin
+  - Android Studio
+  - Firebase
+  - Material3
+  - Coroutine
+  - Retrofit
+  - LiveData
+  - Glide
+
+  Cloud Computing (Back-End) :
+  - Typescript
+  - DB Postgre
+  - Cloud SQL
+  - Cloud Run
+  - PhpMyAdmin
+
+  Machine Learning :
+  - Python
+  - Tensorflow
+  - FastAPI
+  - Docker
+
+  **Link Aplikasi :**
+  https://drive.google.com/drive/folders/16vL6N_zlV_tBnlWgvJuw1NBFgUXxWzvG?usp=sharing 
+
+  **Link Repo :**
+  https://github.com/Xcelerators-Bangkit
+
+  **Minta kritik dan sarannya ya teman-teman , itu sangat membantu kami untuk mengembangkan aplikasi ini**
+
+<br>
+
+9. [https://project-kalian.vercel.app/]  
+   **SYF**
+   
+  Halo semuanya,
+
+  Simple aja mau ngirim hasil mengisi waktu luang doang sih, buat list project-project yang udah di showcase, kemaren tuh liat ada yang buat api nya dari bang, thank you sebelumnya. fiturnya juga simple banget ya cuman bisa liat liat sama nyimpen doang, dan fitur search nya belum sempet diselesain.
+
+  Stacknya:
+  - Vue
+  - Vue Router
+  - Pinia
+  - Tailwind
+
+  Web :
+  https://project-kalian.vercel.app/
+  https://github.com/Syafwan000/project-kalian
+
+  API :
+  https://github.com/reacto11mecha/project-kalian-scraper
+  https://api.project-kalian.rmecha.my.id/
+
+  Thanks
+
+<br>
+
+10. [https://openseries.pages.dev/]  
+   **Hugo de Rune**
+   
+  selamat malam pak dhika <:hehehe:972470914488885288> , pada showcase kali ini, bellshade membuat modul namanya ``OpenSeries`` hasil dari ``sharing session`` bareng temen-temen ``wpu`` dan ``kelas terbuka`` (mulai dari inisialisasi project, unitesting, lisensi,dan yang berhubungan dengan bagaimana proses pembangunan dari library hingga ke skala enterprise) jadi di finalnya episodenya yaitu modulnya akan di showcase, modul ini membantu daripada teman sma / smk / sederajat dalam menyelesaikan soal-soal yang berhubungan dengan matematika dan fisika, modulnya memungkinkan akan berlanjut hingga ke jenjang yang lebih tinggi. untuk informasi cara installasi dan penggunaannya bisa dilihat dari web atau repositorinya langsung, yang untuk websitenya di bangun oleh <@1169538417365876806> (helper tailwind), yang digunakan dalam pembuatan modul ini antara lain
+
+  - Python <:python:778794123544887348> 
+
+  untuk website <:typescript:866425731835625512> 
+  - bun <:bun:1171676272779341875> 
+  - tailwind <:tailwind:833996706651176980> 
+  - mdx.js
+  - next.js <:nextjs:866437538255863818> 
+  - remark.js
+  - vanta.js
+
+  untuk websitenya bisa dilihat disini
+  https://openseries.pages.dev/
+  repositori
+  https://github.com/bellshade/OpenSeries
+
+  terima kasih pak dhika 3x3 = 9 dan 5x5 = 25 <:mantab:972471617923993600>
+
+<br><br>
+
