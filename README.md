@@ -623,3 +623,245 @@
 
 <br><br>
 
+### 3 Februari 2024
+
+1. [https://atakana.com/app/app-toko-vmo/]  
+   **Arnadi WebDev**
+   
+  Assalamu'alaikum.
+
+  Kali ini saya akan membagikan sebuah project terbaru saya. Ini adalah kloningan dan yang realnya sudah digunakan sikitar 10 hari ini.
+
+  Masih seputaran CRUD website sederhana untuk mencatat penjualan toko dan masih dalam pengembangan penambahan fitur dll.
+
+  Website ini saya desain khusus untuk perangkat mobile dan diwajibkan instal agar terlihat seperti aplikasi sungguhan, dan ini baru saya coba di Android.
+
+  Untuk device lain belum tau bisa diinstal atau tidak begitu juga dengn fitur-fitur yang ada, karena sejauh ini baru mencobanya di Android. 
+
+  # Fitur
+  Input Produk, Input Penjualan, Tambah Catatan, Tambah Admin, Tambah Toko, Login, Register.
+
+  # Memakai
+  HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Font Awesome.
+
+  # Peralatan
+  Android, Acode, KSWEB.
+
+  Disarankan untuk menggunakan perangkat Android dan browser Google Chrome terbaru, dengan cara Instal atau add to home screen pada list menu browser.
+
+  Website
+  https://atakana.com/app/app-toko-vmo/
+
+  Bonus kali ini saya kasih repo dan videonya 😁
+
+  Repo
+  https://github.com/masadiblog/app-toko-vmo/
+
+  Youtube
+  https://www.youtube.com/embed/ZCs_34A04mQ
+
+  Maaf sebelumnya kodingannya masih sangat acak-acakan dan asal-asalan tidak terstruktur, tapi aman jalan semua.
+
+  Jika ingin coba data sampel
+  Login
+  * User: Us3RTe5tER
+  * Pass: APP_TOKOUs3RTe5tER
+
+  Jangan diacak-acak ya 😂
+
+  Atau bisa coba langsung dengan mendaftarkan akun sendiri.
+
+  Dimohon kritik dan sarannya teman-teman.
+
+  Kurang lebihnya ya begitulah 😁🙏
+  Terima Kasih.
+
+<br>
+
+2. [https://kagchi.my.id/]  
+   **Lost Gophers**
+   
+  Halo temen temen, 👋
+
+  Udah lama ngga showcase nih, kali ini aku mau showcase portfolio web ku yang terbaru 😁
+  bosen pake nextjs mulu, kali ini nyobain solidstart. framework baru yang berbasis solidjs
+
+  Teknologi Yang Digunakan:
+  - SolidStart
+  - TypeScript
+  - TailwindCSS
+  - Directus
+
+
+  Terima Kasih 😁🙏
+
+  - Link : https://kagchi.my.id/
+  - Github: https://github.com/KagChi/KagChi
+
+<br>
+
+3. [https://syafiqparadisam.netlify.app]  
+   **anis.sol**
+   
+  Halo teman" 
+
+  Kali ini aku akan nunjukin project portofolio saya, yg aku buat desember lalu. Ini adalah project portofolioku yang pertama kali, mohon saran dan kritiknya ya. Udah beberapa kali direvisi dan sekarang jadi seperti ini, sebenarnya aku lebih prefer ke backend sih guys, tapi frontend juga harus ngerti ygy :hehehe 
+
+
+
+  Tech Stack :
+  - ReactJS
+  - TailwindCSS
+  - EmailJS
+
+  Link : https://syafiqparadisam.netlify.app
+  Github : https://github.com/syafiqparadisam/portofolio
+
+<br>
+
+4. [https://alifichiganjati.github.io]  
+   **chigan**
+   
+  assalamualaikum pak Dhika dan teman-teman, saya mau showcase project pertama saya web portofolio sederhana. makasih juga untuk sepuh-sepuh discord WPU yang sudah membantu untuk membuat web portofolio saya menjadi lebih baik. web portofolio ini adalah proses pembelajaran React saya dari playlist tutorial react kang avip dan izin pak untuk pakai contact me dari tutorial portofolio tailwindcss pak Dhika.
+
+  tech stack:
+  - Frontend:React
+  - style:Tailwindcss
+
+  Link: https://alifichiganjati.github.io
+
+  repo: https://github.com/AlifiChiganjati/alifichiganjati.github.io
+
+  Semoga sehat selalu untuk bapak dan keluarga.
+
+<br>
+
+5. [https://indogithubers.vercel.app/]  
+   **depa**
+   
+  halo semuanya, salam kenal.
+  perkenalkan saya depa. izin ikutan showcase project yg saya bikin 👨‍💻 
+
+  project kali ini saya coba bikin badge yg berisikan informasi dari `Followers Rank` & `Contribution Rank` kita di GitHub region Indonesia 🇮🇩 
+
+  nntinya badge punya kita bisa kita embed di berbagi tempat, salah satu nya kita bisa embed di halaman README profile github kita <:githublight:782080612546248754> 
+  contohnya seperti gambar dibawah ini
+
+  * contoh generated badge nya (Pak Dhika) : https://indogithubers-badge.vercel.app/badge?username=sandhikagalih&style=plastic&color=blue
+  * repo : https://github.com/depapp/IndoGitHubers
+  * rules tentang gimana biar akun github kita bisa ter-index bisa dicek disini https://indogithubers.vercel.app/
+
+  - penggunaan lebih details nya bisa dicek disini : https://github.com/depapp/IndoGitHubers/blob/main/BADGE_USAGE.md
+  - tech stack nya --> javascript dengan libraries : badge-maker, axios, cors, express
+
+  makasih semuanya, semoga bisa bermanfaat.. 🚀
+
+<br>
+
+6. [https://belajarebt.vercel.app/]  
+   **nexblu**
+   
+  halo semuanya, salam kenal.
+  perkenalkan saya andana farras pramudita biasa di panggil adit. izin ikutan showcase project
+
+  project yang saya buat kali ini adalah project game web sederhana yaitu game rps/batu gunting kertas, project kali ini dibuat karena ada tugas dari dosen berupa tugas framework yang menggunakan bahasa fastapi sebagai backend yaitu berupa logic game rpsnya dan frontend menggunakan reactjs dan bootstrap
+
+  ```yml
+  Tech :
+  - FastAPI (Python)
+  - React (JS)
+  - Bootstrap (HTML, CSS, SCSS)
+  ```
+
+  berikut link repositorinya
+  - https://github.com/nexblu/game-rps
+  - https://hub.docker.com/repository/docker/nexblu/backend-game-rps/general
+  - https://hub.docker.com/repository/docker/nexblu/frontend-game-rps/general
+
+<br>
+
+7. [https://infinesting.com]  
+   **Ferdi**
+   
+  Halo semuanya. Izin kirim ulang salah project saya yang sebelumnya sudah di review sama pak dhika. Sudah saya perbaiki berdasarkan saran yg sebelumnya diberikan. Serta ada peningkatan dari segi best practice dan tampilan.
+
+  Tech Stack:
+  - MongoDB
+  - Express + JWT Auth
+  - NextJS 14 App Router
+  - Websocket
+  - Shadcn (Custom)
+  - React Toastify
+  - React Grid Layout
+
+  Home: https://infinesting.com
+  Halaman yang menarik untuk dilihat: https://infinesting.com/saham/aio/BBCA
+
+  Sudah tersedia i18n dan fitur baru yang sebelumnya direncakan di pipeline video sebelumnya. Terimakasih
+
+<br>
+
+8. [https://threads-clone-brown.vercel.app/]  
+   **ARU PALAKKA**
+   
+  Hallo pak dhika dan teman-teman semua,
+
+  Kali ini saya ingin showcase project pertama saya yang bernama "Threads-Clone" dengan membangun sebuah aplikasi Full Stack Threads menggunakan NextJs. hasil belajar saya secara Otodidak melalui Youtube dan juga course2 online.  Project ini  membutuhkan waktu sekitar kurang lebih seminggu untuk bisa di deploy dan di tampilkan ke production
+
+  Tech Stack
+  Next.js
+  MongoDB
+  Shadcn UI
+  TailwindCSS
+  Clerk
+  Webhooks
+  Serverless APIs
+  React Hook Form
+  Zod
+  TypeScript
+
+  Fitur yang disediakan:
+  - Authentication: Otentikasi menggunakan Clerk untuk email, kata sandi, dan login (Google dan GitHub) dengan sistem manajemen profil yang komprehensif
+  - Halaman Beranda: Halaman beranda yang menarik secara visual untuk menampilkan rangkaian pesan terbaru dan pengalaman pengguna yang menarik.
+  - Membuat Halaman Thread: Halaman khusus bagi pengguna untuk membuat postingan, serta keterlibatan didalam komunitas
+  - Komentar: Fitur komentar untuk memfasilitasi diskusi dalam thread.
+  - User Search dengan Pagination: Fitur pencarian pengguna dengan pagination untuk memudahkan eksplorasi dan penemuan pengguna lain.
+  - Halaman Activity: Menampilkan pemberitahuan di halaman aktivitas ketika seseorang berkomentar di thread pengguna, sehingga meningkatkan keterlibatan pengguna.
+  - Membuat dan Mengundang ke dalam Komunitas: mengizinkan pengguna untuk membuat komunitas baru dan mengundang orang lain menggunakan template email yang dapat disesuaikan.
+  - Realtime Events: fitur Real Time refresh dengan menggunakan webhook agar pengguna selalu mendapat informasi terbaru.
+  - Community Member Management: sebuah user-friendly interface untuk mengelola anggota komunitas, memungkinkan perubahan dan penghapusan peran.
+
+
+  Repo: https://github.com/pandawaa/threads-clone
+  Live: https://threads-clone-brown.vercel.app/
+
+  note: Mohon untuk Masukan dan Saran agar Dapat dikembangkan lebih baik lagi
+
+  sekian terimakasih
+
+<br>
+
+9. [https://openseries.pages.dev/]  
+   **Hugo de Rune**
+   
+  selamat ``6d616c616d`` pak dhika <:hehehe:972470914488885288> 
+
+  kembali lagi bellshade update project dari ``OpenSeries`` yang sebelumnya sudah diterima masukkannya dari pak dhika tentang beberapa hal, di kali ini ``OpenSeries`` membuat sedikit perubahan dan serta sudah bisa di install via pip, kembali lagi ``OpenSeries`` menggunakan library:
+
+  - numpy
+
+  untuk webnya menggunakan teknologi
+  - next.js
+  - bun
+  - tailwind
+
+  untuk informasi lebih lanjut bisa dilihat di website openseries disini
+  https://openseries.pages.dev/
+  untuk github bisa dilihat disini
+  https://github.com/bellshade/OpenSeries
+  untuk perubahan daripada update ini bisa dilihat disini
+  https://github.com/bellshade/OpenSeries/releases/tag/v1.6.6
+
+
+<br><br>
+
