@@ -865,3 +865,313 @@
 
 <br><br>
 
+### 11 Februari 2024
+
+1. [https://pengiriman.kagchi.my.id/home]  
+   **Lost Gophers**
+   
+  Halo 👋,
+
+  Baru aja share project hehe 😅. seperti yang kubilang di livestream. UAS smt 1 aku disuruh buat web fullstack pake PHP.
+
+  uas nya kelompok tapi aku full ngerjain web nya. temen ku ui/ux jadi aku fullstack nya. jadi kasus nya itu pengiriman barang
+
+  Teknologi yang digunakan:
+  - PHP
+  - MariaDB
+
+  Website:
+  > https://pengiriman.kagchi.my.id/home
+  Github:
+  > https://github.com/KagChi/pengiriman-barang
+
+  Credentials Admin:
+  Email: `admin@example.com`
+  Password: `admin`
+
+  (Admin role di disable karena ada iseng ganti email, role nya udah ku buat `kurir`. permissions nya sama bedanya gabisa update user)
+
+  Terima Kasih 🙏😁
+
+<br>
+
+
+2. [https://fluxxing.netlify.app/]  
+   **Iqro Negoro**
+   
+  Assalamualaikum
+
+  Izin showcase project ke-2 sebagai project based learning Nuxt yaitu flux (ter inspirasi dari lagu fluxxingwave), setelah sebulan yang lalu saya membuat aplikasi sosmed simple, dalam sebulan ini. dalam rangka belajar Nuxt Server API dan Prisma ORM, saya mencoba membuat monolith ecommerce menggunakan Nuxt from scratch, karena sebelumnya saya juga pernah membuat nya dengan vue express. as always thx to bang jamil selalu bantu saat bingung hehe.
+
+  Tech Stack :
+  1. Nuxt 3
+  2. MongoDB
+  3. discord.js
+  4. Tailwind
+  5. Prisma ORM
+  6. Midtrans (sandbox) CoreApi
+
+  Feat :
+  Customer :
+  1. as always bisa beli barang
+  2. Cart sistem & checkout
+  3. Rating product saat order sukses
+  4. Cek status order
+
+  Admin :
+  1. CRUD Products
+  2. CRUD Categories
+  3. Cek orders
+
+  Masih ada beberapa fitur yang belum di implementasikan tapi saya rasa dasarnya sudah cukup bisa untuk di gunakan
+
+  link :
+  Customer :
+  https://fluxxing.netlify.app/
+
+  Admin :
+  https://fluxxed.netlify.app/
+
+  Akun Admin :
+  admin@gmail.com
+  admin
+
+  Repo Customer : 
+  https://github.com/IqroNegoro/flux
+
+  Repo Admin :
+  https://github.com/IqroNegoro/admin-flux
+
+  Terima kasih!
+
+<br>
+
+
+3. [https://islampro.site]  
+   **Indo Galaxy**
+   
+  Assalamualaikum Pak Dhika & teman-teman wpu semuanya, aku mau showcase project yg ketiga disini 
+  Sedikit cerita ya, website ini dikerjakan selama 1 bulan  Jadi nih website isinya apaan sih?  Yups ini adalah proyek pengembangan website Al-Quran yang bertujuan untuk menyediakan akses mudah dan interaktif untuk membaca, menghafal, dan mempelajari Al-Quran secara online, dan tidak hanya ada fitur al-quran saja di website islampro masih banyak fitur lain nya yang sangat menarik. Dan website ini masih tahap pengembangan jadi belum begitu bagus dari segi design dan juga fitur. Oke itu aja sih, boleh banget kok klo mau kontribusi dengan project ini. Dan minta saran nya pak apa yang kurang dari project ini terimakasih
+
+  Tech :
+  - Vanilla Js
+  - Html
+  - API
+  - Javascript
+
+  **Demo : **
+  https://islampro.site
+
+  Jangan Lupa Follow :
+  Github : https://github.com/IndoGalaxy
+  Instagram : https://www.instagram.com/class_programmerr?igsh=cmthdGlydXRvanNr
+  Tiktok : https://www.tiktok.com/@mr.programmer2?_t=8jaTK2izdQ2&_r=1
+
+  **Project ini sangat amat membutuhkan feedback dan kritikan dari kalian!**
+
+<br>
+
+
+4. [https://capresfacts.site/]  
+   **klaw**
+   
+  Halo pa Dhika dan teman-teman semuanya, berhubung sebentar lagi kita akan menghadapi yang namanya pemilihan umum terkhususnya untuk Capres dan Cawapres, jadi saya mau bagikan hasil kerja saya bernama Capres Facts.
+
+  Isi dari website ini kurang lebih tentang biodata masing-masing Capres dan Cawapres, karir, visi misi, janji-janji, dan lain-lain.
+
+  Website yang saya buat ini terinspirasi penuh oleh website bijakmemilih.id, bedanya dengan Capres Facts saya adalah lebih "Simple" dari konten yang ditampilkan di bijakmemilih.id
+
+  Semua data yang diperoleh berasal dari video YouTube debat Capres dan Cawapres, kpu.go.id, dan semua portal berita yang kredibel yang ada Indonesia.
+
+  Website ini hanya menggunakan:
+  - HTML
+  - CSS
+  - Javascript
+  - Tailwind
+
+  Berikut link Website, Github, dan API-nya:
+  - Website:
+  > https://capresfacts.site/
+
+  - Github:
+  > https://github.com/klawcodes/capres-facts-web
+
+  - API:
+  > https://capresfactsapi.cyclic.app/
+
+
+  Kritik dan saran dari pak Dhika dan teman-teman sangat diterima 🙂
+
+  Terima kasih.
+
+<br>
+
+
+5. [http://143.198.206.231/]  
+   **Arif Budiman Arrosyid**
+   
+  Halo pak dhika dan teman teman semuanya, perkenalkan saya Arif Budiman, pada kali ini saya akan showcase project **Lali Pro**.
+  Ini merupakan private project. Project ini sudah sekitar 90% (kurang third party component aja).
+
+  Khusus untuk pak dhika jika ingin mencoba di local, saya sudah mengirimkan email github invitation.
+  Dan untuk teman teman semua jika ingin mendapatkan early access bisa melalui github sponsor.
+
+  TALL Stack:
+  - Tailwind
+  - Alpine JS
+  - Laravel
+  - Livewire
+
+  Apa yang didapat dr Lali Pro?
+  - Semua yg ada di Lali
+  - Redesign UI
+  - Better Sidebar Admin Panel
+  - Socialite (OAuth) - Github dan Google - di demo baru github yg disetup.
+  - Spatie Permission
+  - Browser Session
+  - Bulk Action, Sort, Filter
+  - Third Party Component
+    - Trix Editor - In Progress - kurang upload attachment.
+    - EasyMDE - Todo
+    - Choices - Todo
+    - Pickaday - Todo
+    - dll
+
+  Untuk melihat contoh componentnya bisa dilihat pada **/example** dan **/another-example**
+
+  Penggunaan komponen sesimpel
+  ```
+  <x-input.trix-editor wire:model="model_name"/>
+  ```
+  Intinya tinggal fokus bikin aplikasi tanpa pusing mikirin pembuatan komponen.
+
+  Demo:
+  - [Lali Pro](http://143.198.206.231/)
+
+  User : user.example@mail.com - password
+  Admin : admin.example@mail.com - password
+
+  Saya sarankan untuk melakukan register atau login melalui **Github**  dan **gunakan akun admin** pd browser lain **untuk menambahkan role atau permission ke akun anda** agar bisa melihat bagaimana implementasi **Spatie Permission**.
+
+  Ini yang versi gratisnya
+  - [Lali](http://68.183.184.25/)
+  - [Github Lali](https://github.com/arifbudimanar/lali)
+
+  Sekian, Terimakasih 🙏
+
+<br>
+
+
+6. [https://satsune.vercel.app/]  
+   **aditpee**
+   
+  Assalamualaikum pak dhika dan teman teman. Saya Adit, kali ini saya akan showcase project saya. Project nya adalah website static tentang "satsune", satsune adalah brand kaos anime milik teman saya.
+
+  Jadi saya iseng ingin membuatkan website nya itung² buat tambah² portofolio saya. Website ini juga sebagai proses pembelajaran saya mengenai framework react serta iseng iseng coba library swiper js
+
+  Website ini menggunakan teknologi
+  - React
+  - Sass
+  - Swiper js
+
+  Tentunya project ini masih banyak kekurangan, jadi mohon saran dan masukannya nya dari pak Dhika dan teman teman
+
+  Demo
+  - https://satsune.vercel.app/
+  Repo
+  - https://github.com/aditpee/satsune-web
+
+  Ini cuma website static biasa, bukan web e-commerce. Jadi mohon maaf tidak ada fitur payment gateway
+
+  Jadi jika ada teman teman disini yg tertarik dengan kaos nya, bisa order melalui via WhatsApp atau shopee yg sudah tertera, kalo saran saya via WA saja.
+
+<br>
+
+
+7. [https://wedding-invitation-app-black.vercel.app/]  
+   **Kholid Irfangi**
+   
+  Assalamu'alaikum semuanya izin showcase project. Kali ini saya mencoba membuat website undangan pernikahan. Dengan segala keterbatasan pengetahuan, saya mencoba membuat project ini dengan menggunakan tekhnologi Vite, React, Vanilla CSS, dan AOS. Masih banyak kekurangan salah satunya di bagian url parameternya belum berjalan sesuai dengan yang saya inginkan dan belum ada yang menghandle backend. Saya harap banyak masukan yang bisa di dapat dari sini. link demo : https://wedding-invitation-app-black.vercel.app/ link github : https://github.com/kholidirfangi/Wedding-Invitation-App
+
+<br>
+
+
+8. [https://openseries.pages.dev/]  
+   **Hugo de Rune**
+   
+  selamat malam pak dhika :mantab:, we are comeback again dengan project OpenSeries dengan tim antara lain @Dietary de Rune,  @pace de rune, @Chentaury , @Ayumu.so  @pow (?) , @zorev  , di versi 1.7.0 ini sudah di improvisasi lebih baru lagi yang dimana kode dari library OpenSeries bisa dijalankan langsung di web dokumentasinya serta tambahan lainnya (page kontribusi, komunitas, playseries, darkmode), sudah update juga banyak rumus matematika dan juga angka unikdll, seperti biasa project ini menggunakan library dari
+
+  OpenSeries library
+  numpy
+  OpenSeries Website:
+  bun
+  nextjs + ts
+  tailwindcss
+  monaco editor
+  postgree sql dari supabase untuk menyimpan hasil dari hasil sharing code
+  codemirror untuk code editor (sama seperti yang digunakan codepen)
+  run python code di browser menggunakan library pyodide dengan bantuan library react-py
+
+  untuk librarynya bisa dilihat disni 
+  https://github.com/bellshade/OpenSeries
+
+  untuk webnya pak dhika bisa lihat disini
+  https://openseries.pages.dev/
+
+  untuk informasi perubahan bisa lihat disini pak 
+  https://github.com/bellshade/OpenSeries/releases/tag/v1.7.0
+  selebihnya tolong di roasting sebanyak2nya beserta kritik dan saran, soalnya untuk sementara butuh bahan roasting pak dhika untuk biar bisa ada next updatenya :hehehe: .
+  btw yang mau ikutan bagian dari tim openseries gass bisa join di channel bellshade discussion gassken :wpugege: 
+
+  terima kasih pak dhika, 4x4 = 16
+
+<br>
+
+
+9. [https://alfarabygit.github.io/calculator-app/]  
+   **Indra**
+   
+  Assalamu'alaikum pak dhika dan kawan-kawan semoga sehat selalu Nama saya Alfaraby Indra alumni STMIK AMIK Riau angkatan 16 lulusan 2020. Sudah tak terasa waktu berlalu begitu cepat, showcase projects sederhana saya yang ke delapan kali ini menggunakan framework yaitu calculator app react. 
+  Tech stack:
+  A.Reactjs
+  B.Vanilla CSS
+
+  Adapun alasan saya membuat nya adalah utk menguji seberapa paham mengenai konsep framework react dasar seperti components, props dan state. Project ini juga merupakan referensi dari ||course front end freecodecamp.org||.<:hehehe:972470914488885288> 
+
+  Seperti biasa jgn lupa like dan feedback showcase projects saya yang ke delapan dari bapak dan kawan-kawan.
+
+  Sekian, Wassalamu'alaikum wr, wb
+
+  Jgn lupa titik koma guys(ditunggu projects selanjutnya) <:hehehe:972470914488885288> 
+
+  Demo: https://alfarabygit.github.io/calculator-app/
+
+  Repository: https://github.com/alfarabygit/calculator-app
+
+<br>
+
+
+10. [https://snap-size-studio.netlify.app]  
+   **dnm17_**
+   
+  Assalamualaikum pak dhika dan teman-teman semua, perkenalkan nama saya dani. Kali ini saya mau showcase project website simple dan sederhana yang saya buat disaat waktu luang.
+
+  Nama websitenya adalah *SnapSizeStudio* yaitu free online image editor. walaupun diluar sana sudah banyak website seperti ini yang bahkan fitur nya lebih lengkap, tapi belom puas kalo belom coba bikin sendiri 😅.
+
+  Fitur yang sudah tersedia baru *Image Croper* dengan beberapa options yang bisa pak dhika dan teman2 lihat di websitenya, rencana kedepannya akan di tambah banyak fitur lagi.
+
+  Dibuat menggunakan:
+  - Reactjs + Typescript
+  - Tailwindcss + Shadcn/ui
+  - react-image-crop
+
+  Demo: https://snap-size-studio.netlify.app
+  Repo: https://github.com/dfsdanimaulana/snap-size-studio
+
+  Sekian dan terimakasih, ditunggu project selanjutnya
+
+<br>
+<br>
+
+
+  
