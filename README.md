@@ -1174,4 +1174,201 @@
 <br>
 
 
-  
+### 17 Februari 2024
+
+1. [https://www.alvalens.my.id/]  
+   **bloody**
+   
+  Assalamualaikum dan selamat pagi/siang/malam pak dhika dan semuanya, perkenalkan saya Alvalen. Udah lama nih ga nongol di discord soalnya sibuk banget sama urusan kuliah 😅. mungkin ini showcase ke 3 saya setelah sekian lama.
+
+  Behold my portofolio website, sebenernya udah lama sih ini cuman belom sempet urus urusin lagi, jadi mungkin pak dhika dan kawan kawan bisa kasih saran ke web saya biar nanti bisa di improve lagi.
+
+  ini website portofolio ke 2 saya (masih pemula bang). Kurang lebih ada 4 halaman utama yaitu home, about, project, dan archive. Warna websitenya monochrome karena gabisa milih warna 😃. Oiya ada juga chatbot di pojok kanan bawah. Oiya **kadang beberapa tombol harus di klik 2x lebih** (entahlah kenapa next js kadang gini)
+
+  **Tech stack: **
+  - NextJs
+  - Javascript
+  - Tailwind CSS
+  - Framer Motion (animasi)
+
+  **Demo**: https://www.alvalens.my.id/ (bisa juga search google alvalens) ngetes index google ceritanya hehe
+  **Repo**: https://github.com/Alvalens/Alvalens-porto-2-nextJs 
+  **Linkedin**: https://www.linkedin.com/in/alvalens/ (siapa tau ada yang mau konek konek 😅)
+
+  Thanks semua, jangan lupa follow githubku juga ges pasti ku folbek 😁 , dan ditunggu kritik dan sarannya para sepuh 🙏
+
+<br>
+
+2. [https://qovier.xyz]  
+   **cholis04**
+   
+  Halo pak Dhika dan teman-teman semua, saya ingin membagikan kembali lanjutan dari proyek sebelumnya yang juga sudah pernah di *showcase* yaitu "Qovier - Integrated Color Pairs".
+
+  ### Tentang
+  Qovier adalah sebuah alat penghasil kombinasi warna berdasarkan *color scheme* untuk memudahkan pengguna bereksplorasi pasangan warna yang cocok.
+
+  Dimulai dari satu warna utama, lalu menggeser hue setiap 30 derajat, sehingga menghasilkan 12 warna. Nah, setiap warna tersebut dihasilkan lagi variasi (tint shade) sebanyak 13. Terakhir menambahkan *grayscale* dari warna utama. 
+
+  Jadi secara total, terdapat 13 warna beserta 13 variasi didalamnya.
+
+  Harapannya warna yang dihasilkan lebih dinamis dan optimal dalam berbagai situasi, seperti tampilan gelap atau terang dan juga memenuhi kebutuhan *accessible colors*. 
+
+  Agar lebih mudah, saya menerapkan dua nuansa warna saja pada bentuk visual. Namun pengguna tetap bisa mengkombinasikan lebih banyak warna yang tertera di panel *color scheme* sesuai dengan kebutuhan pada proyek masing-masing.
+
+  ### Pembaruan
+  - Tingkat kecerahan variasi warna lebih konsisten.
+  - Menambahkan visualisasi baru seperti Carousel Post dan UI Design.
+  - Quick Palette Generator.
+  - Terapkan nuansa warna lain dan lihat hasilnya secara langsung.
+  - Color Inspector (Khusus Desktop).
+  - Export Colors to JSON/CSS Variables dalam bentuk kode.
+
+  ### Teknologi yang digunakan
+  - Framework
+    - Next JS
+  - UI Component
+  - Headless UI
+  - React Modal Sheet
+  - React Toastify
+  - State Management
+  - Redux Toolkit
+
+  ### Tautan
+  - Situs: https://qovier.xyz
+
+  ### Penutup
+  Saya sangat mengapresiasi *feedback* baik itu kritik maupun saran yang sekiranya akan membantu pengembangan proyek ini di kedepannya.
+
+  Sekian dari saya, terima kasih.
+
+<br>
+
+3. [https://github.com/crosbydoo/lokarasa-app/releases/tag/release-app]  
+   **Comrade Crosby**
+   
+  Assalamualaikum pak dhika dan rekan-rekan semuanya, sebelumnya mohon izin untuk ikut showcase project untuk pertama kali, disini saya membuat simple project yang bertemakan Restaurant menggunakan Flutter. Project ini saya buat karena kemarin sempet ikut dicoding dan ada APInya yang lumayan lah buat belajar juga daripada tidak sama sekali  dan kebetulan sedang kosong / gabut gak tau mau ngapain lagi hehe, jadi saya buat aplikasi ini.  Masih ada beberapa kekurangan jadi mohon dimaklumi. 
+
+  Tech Stack:
+  - Flutter
+  - Hive Local Storage
+  - Bloc State Management
+  - Bloc Clean-Architecture
+  - Flutter Flavors
+  - Go - Router
+  - Getx
+
+  Features:
+  - Search Restaurant
+  - Bookmark Restaurant
+  - Light Dark Mode
+
+  Download Apk - https://github.com/crosbydoo/lokarasa-app/releases/tag/release-app
+  Repo - https://github.com/crosbydoo/lokarasa-app
+  API - https://restaurant-api.dicoding.dev/#/
+
+  saya sangat mengapresiasi feedback baik dalam kritik ataupun saran agar development untuk kedepannya lebih baik. Terima kasih salam titik koma
+
+<br>
+
+4. [https://leemrtnzz.github.io/Portfolio]  
+   **SAN**
+   
+  Assalamu'alaikum
+
+  Hallo pak dhika, dan teman2 lainnya. Semoga sehat2 dan lancar terus rezekinya, aamin.
+
+  Saya maba di unpam serang, salam buat mahasiswa/sesepuh lainnya, saya masih tahap belajar. Saya sendiri sebetulnya lebih suka ke backend di banding frontend. Tapi tidak menutup kemungkinan saya suka keduanya, karena menarik buat dipelajari😂
+
+  Ini pertama kali saya showcase, yaitu membuat project portfolio, kritik dan saran saya terima, font masih belum nemu yang pas, mungkin pak dhika bisa kasih saran😁 mohon maaf kalau ui nya masih berantakan, ketika klik tautan, tampilannya ketutup sama header. 
+
+  Tech stack:
+  - tailwinds
+
+  Url: https://leemrtnzz.github.io/Portfolio
+  Repo: https://github.com/leemrtnzz/Portfolio
+
+  Terima kasih
+  - Allah SWT (yang memberikan kesehatan dan rezeki)
+  - Orang tua dan keluarga yang support
+  - Pak dhika (bapak dosen online saya🥳)
+  - Semua member WPU
+
+  Wa'salamu alaikum
+
+<br>
+
+5. [https://barokah.bayudc.fun/]  
+   **BayuDC**
+   
+  Assalamualaikum teman-teman, aku mau showcase project yg keempat disini
+  Jadi ceritanya lagi fomo karena tiap liat personal web atau portfolio orang-orang kok pada punya web toko online, yauda aku ikut bikin deh tapi yang sederhana aja. Web yg kubuat ini temanya toko yang jual bahan buat masak kayak daging, sayur-sayuran, dan juga bumbu dapur. Awalnya mau bikin frontend doang terus backend cuma api buat ngambil produknya, tapi kok rasanya nanggung gitu yaudah backendnya dijadiin dashboard aja sekalian biar pemilik toko makin mudah ngelolanya. Jadi web ini udah paket lengkap cuma kurang di fitur pembayarannya.
+
+  Demo : 
+  - https://barokah.bayudc.fun/
+  - https://barokah.bayudc.fun/admin
+  (email dan password ada di readme)
+
+  Repo:
+  - https://github.com/BayuDC/barokah-shop
+  - https://github.com/BayuDC/barokah-admin
+
+  Teknologi:
+  - Laravel  
+  - Livewire
+  - Nuxt 3
+  - Tailwind
+  - NotusJS
+  - Iconify
+  - MySQL
+
+<br>
+
+6. [https://nextjs14-nowted.vercel.app/]  
+   **wei**
+   
+  Assalamualaikum Pak Sandhika.
+
+  Saya Wei, ingin showcase projek saya yang bernama Nowted Apps.
+  Projek ini adaptasi dari design atau ide https://codedesign.dev/challenge/nowted-app yang dibuat oleh mas Nauval.
+
+  Teknologi :
+  - Reactjs
+  - Nextjs 14
+  - Typescript
+  - Tailwind CSS
+  - MySQL (provide by railway)
+  - Prisma ORM
+  - Authentication - NextAuthv4
+
+  Projek yang saya buat, sepenuhnya di design untuk desktop, jadi jika dibuka pada mobile atau tablet, mungkin tampilan nya akan berantakan atau pecah.
+
+  Official Website: https://nextjs14-nowted.vercel.app/
+  Official Repositori: https://github.com/weiwei2694/nextjs14-nowted
+  Adapted from: Nauval - https://codedesign.dev/challenge/nowted-app
+
+  Terimah kasih.
+
+<br>
+
+7. [https://nathad17.github.io/nath_portfolio/]  
+   **NATH**
+   
+  Selamat malam Pak Dhika dan teman-teman semua,
+
+  Perkenalkan, saya Nathan dari Kupang, NTT.
+  Ini adalah Showcase Project pertama saya. Proyek yang saya bagikan disini adalah web portofolio saya.
+
+  **Tech Stack:**
+  - Tailwind CSS
+  - Vanilla JS
+  - Swiper JS
+  - AOS (Animate On Scroll)
+
+  **Tautan:**
+  - Website : https://nathad17.github.io/nath_portfolio/
+  - Repositori : https://github.com/nathAd17/nath_portfolio
+
+  Mohon kritik dan saran dari Pak Dhika dan teman-teman 🙏.  Terima kasih atas perhatiannya.
+
+<br>
+<br>
