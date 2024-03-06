@@ -1372,3 +1372,251 @@
 
 <br>
 <br>
+
+### 6 Maret 2024
+
+1. [https://mabox-cli.vercel.app]  
+   **UndeadBrain**
+   
+  Mabox-CLI, ngubah web jadi ala cli, cocok buat yang mabox CLI (anti GUI).
+  Gak jamin work semua website dan cuma navigasi dengan GET request
+  Web : https://mabox-cli.vercel.app
+  GitHub : https://github.com/bagusindrayana/mabox-cli
+
+  Perintah : convert link_websitemu
+
+  Atau buka https://mabox-cli.vercel.app/?sc=link_websitemu
+
+  ketik help untuk list command lainnya
+
+<br>
+
+2. [https://vebriannn.github.io/portofolio/]  
+   **Yn Suka Turuu**
+   
+  Selamat siang Pak Dhika dan teman-teman semua. 
+  Perkenalkan saya vebrian, saya ingin mengikuti Showcase Project. Project yang saya buat yaitu portofolio. 
+
+  Teknologi yang saya pakai:
+  - Bootstrap CSS
+  - Typed JS
+
+  - Link Website Portofolio: 
+  https://vebriannn.github.io/portofolio/
+  - Link Repositori: 
+  https://github.com/vebriannn/portofolio
+  
+  Sekian terimakasih.
+
+<br>
+
+3. [https://makanbang.sampurasun.my.id/]  
+   **Eris Sulistina**
+   
+  Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina masih setia dengan AlpineJS.
+
+  Kali ini saya membawa projek yg awalnya kukira sederhana dan akan cepat selesai ternyata memakan waktu sekitar 2 mingguan. Nama projek ini bernama Makanbang. Nama ini terinspirasi dari meme yg menampilkan foto orang sedang makan. Latar belakang pembuatan projek ini berawal dari saya membaca berita bahwa 86% gen Z mengalami sindrom 'Menu Anxiety', yaitu kesulitan dalam memilih makanan. Dari sini lah saya kepikiran untuk membuat app yg merekomendasikan menu makan. Karena saya tidak tahu API yg menyediakan menu makanan, dan juga tidak mahu rekomendasi makanannya sangat acak, makanya saya memutuskan menggunakan localStorage agar user memasukkan menunya sendiri menyesuaikan kategori Breakfast, Lunch, Dinner, Snack, atau Drink.
+
+  Pada proses pengerjaannya, saya mencoba hal baru di AlpineJS agar memisahkan x-data menjadi Global Alpine.data() lalu mengkombinasikannya dengan Alpine.store(). Dari projek ini saya belajar mutable&imutable, setter & getter, dan hal-hal sederhana lainnya. Mohon maklum jika pemilihan warnanya kurang nyaman dimata, soalnya saya kurang ahli di desain.
+
+  Teknologi yang saya gunakan:
+  - AlpineJS: framework JS
+  - TailwindCSS: framework CSS
+  - Persist: plugin AlpineJS untuk bekerja dengan localStorage
+  - Icons8: icons untuk logo dan ilustrasi pada onBoard
+  - Heroicons: icons untuk fungsionalitas website
+  - dicebear.com: Avatar untuk profile
+  - pexels.com: asset foto
+  - fonts.google.com: asset font, saya pakai Plus Jakarta Sans
+
+  Fitur:
+  - Edit profile
+  - Reset & Format data
+  - Rekomendasi menu
+  - Menambahkan menu
+  - Melihat detail menu
+  - Mengedit menu
+  - Menghapus menu
+  - Mencari menu
+  - Filter menu
+
+  Repo: https://github.com/sejutaimpian/makanbang
+  Demo: https://makanbang.sampurasun.my.id/
+
+  Terima kasih atas perhatian dan bintangnnya.
+
+<br>
+
+4. [http://memory-game.ikr4m.my.id/]  
+   **Bukan Wibu**
+   
+  Selamat malam Pak Dhika semoga sehat selalu. Saya datang lagi dengan proyek iseng saya ini.
+
+  Isengnya ini karena ini sebenarnya tugas bikin game sederhana dulu di kampus dan deadlinenya cuma dua hari jadi maaf banget kalau kodenya berantakan. Kemudian maaf juga karena ngga responsif karena targetnya cuma untuk PC doang.
+
+  Stack yang dipakai cuma tok Svelte aja.
+
+  Gamenya simpel pak, cuma game memory yang ngecocokin dua kotak doang. Bisa dilihat di repo saya ini (sudah ada beserta link gamenya di dalam repo).
+
+  https://github.com/ikr4-m/simple-memory-game
+
+  Terima kasih pak atas perhatiannya 🙏
+
+<br>
+
+5. [https://nurfisyal.online/]  
+   **gizon_**
+   
+  Halo Semuanya, Izin showcase untuk pertama kali nya 😀
+  Ini web portofolio saya, dibuat semingguan karena saya sering revisi design nya. Yaa walaupun sekarang mungkin gak terlalu bagus banget hehe.
+
+  Tech yang dipakai:
+  - NextJS
+  - Tailwind CSS
+  - AOS
+
+  link website: https://nurfisyal.online/
+
+  Kritik dan Saran sarannya ditunggu banget 😁 
+  Terima Kasih🙏
+
+<br>
+
+6. [https://elegant-twilight-8db55f.netlify.app/]  
+   **dihpan**
+   
+  Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, seperti biasa kalau ada saya pasti tidak lain dan tidak bukan, showcasenya pasti game akwoakwoa. baik, untuk game kali ini saya beri nama "Monster Orbit". dimana kita sebagai player menembaki musuh yang di lindungi oleh armor yang mengitarinya. untuk level ada 2, pertama dia punya 1 armor dan yang kedua dia punya 2 dan juga mohon do'anya warga WPU saya tgl 1 maret nanti saya sidang skripsi XD
+
+
+  Demo:  https://elegant-twilight-8db55f.netlify.app/
+
+  Control: 
+  - Tekan "Space" untuk menembak
+  - Panah "kanan/kiri" untuk bergerak
+
+
+  Github Repo: https://github.com/pepega90/monster-orbit
+
+
+  Teknologi yang digunakan:
+
+  - C++
+  - raylib (https://www.raylib.com/)
+  - emscripten (https://emscripten.org/)
+
+  Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+7. [https://idn-area-map.vercel.app]  
+   **F for Fityan**
+   
+  Halo semuanya, saya Fityan. Kali ini saya ingin showcase project **peta wilayah Indonesia** yang berbasis web. Data utamanya diambil dari API idn-area yang sudah pernah saya showcase sebelumnya. 
+
+  Fitur:
+  - Cari provinsi, kabupaten/kota, kecamatan, dan desa/kelurahan berdasarkan nama
+  - Ambil data wilayah dan turunannya
+  - Ambil data pulau berdasarkan kabupaten/kota dan menunjukkan koordinatnya di peta
+  - Menampilkan batas wilayah pada peta
+  - Opsi show/hide batas wilayah
+  - Tombol untuk melihat wilayah di Google Maps berdasarkan koordinat
+  - Mode gelap
+
+  Tech stack:
+  - Next.js 14 + TypeScript
+  - Leaflet.js + react-leaflet untuk petanya
+  - Tailwind CSS + shadcn-ui
+
+  Link website: https://idn-area-map.vercel.app
+  Link repo: https://github.com/fityannugroho/idn-area-map
+
+  > **Note:** Untuk data batas wilayahnya belum lengkap, terutama di level kecamatan & desa/kelurahan. Jadi jangan kaget kalau pas lagi explore tiba2 muncul alert `failed to fetch boundary data`.
+
+  Mohon feedback dan ⭐ nya, terima kasih 🙏
+
+<br>
+
+8. [https://spmb.peix.my.id/]  
+   **stepan**
+   
+  Halo Pak Dosen, teman-teman sekalian,
+
+  Perkenalkan, nama saya Fais. Pada showcase kedua ini, saya ingin mempersembahkan proyek Sistem Pendaftaran Mahasiswa Baru berbasis website yang dibuat menggunakan Laravel 10, Inertia.js, Tailwind css, Vue, dan database MySQL.
+
+  Saya menyempatkan diri untuk membuat proyek sederhana ini selama magang di Kominfo pada masa liburan semester 1. Terima kasih kepada tim SPBE Kominfo Pekanbaru yang telah membantu saya dan membuat saya sadar bahwa Laravel masih sangat dibutuhkan. Sejujurnya, saya awalnya mempelajari Node.js.
+
+  Proyek ini dibuat selama magang di Kominfo pada masa liburan semester 1. Saya memutuskan untuk mengembangkan proyek ini karena website sebelumnya sudah dibuat sejak sekitar tahun 2018, dan saya ingin meningkatkan kualitasnya.
+
+  Meskipun proyek sederhana ini sudah dibuat, saya sadar bahwa masih banyak hal yang perlu diperbaiki dan ditingkatkan. Oleh karena itu, saya mengundang kawan-kawan untuk memberikan ide dan masukan. Jika ada ide atau masalah yang ditemukan, silakan kabari saya agar proyek ini dapat menjadi lebih baik lagi.
+
+  Fitur:
+  - Pendaftaran & Formulir
+  - Tes Ujian, Kesehatan, dan Wawancara.
+  - 4 role/level : user, panitia, keuangan, dan admin
+  - web setting (perencanaan agar dinamis)
+  - setting prodi & gelombang
+  - setting mapel ujian, soal ujian, dan waktu pengerjaan
+  - Notifikasi sederhana di dalam website
+  - dashboard panitia
+
+  Source code: https://github.com/Paiiss/spmb-laravel
+  Preview: https://spmb.peix.my.id/
+  Website lama: https://spmb.htp.ac.id/
+
+  Akun uji coba:
+  1. Panitia, Email: demo@peix.my.id - Pass: DemoSpmb
+  2. Keuangan, Email:  keuangan@peix.my.id - Pass: AdminKeuangan
+  Catatan: Harap tidak melakukan perubahan yang tidak diinginkan, untuk pengetesan pendaftaran bisa langsung mendaftarkan akun
+
+  Kalau teman - teman ingin menggunakan source code ini di sekolah / kampus teman - teman silahkan saja untuk menggunakanya, tapi jangan di jual ya ^_^
+
+  Terima kasih atas perhatiannya.
+
+<br>
+
+9. [https://vue-school.vercel.app/]  
+   **NATH**
+   
+  Selamat malam, Pak Dhika dan teman-teman semua.  
+
+  Saya Nathan. Kali ini saya ingin membagikan project kedua saya. Untuk showcase project kali ini, saya membagikan web landing page sekolah .
+
+  Untuk data gambar di web, saya masih menggunakan gambar asal-asalan. separuh didapat dari situs unsplash.
+
+  ### Tech Stack : 
+  - Tailwind CSS
+  - Vue JS + Vite
+  - AOS (Animate On Scroll).
+
+  ### Tautan : 
+  - Website : https://vue-school.vercel.app/
+  - Repo      : https://github.com/nathAd17/vue-school
+
+  Mohon kritik dan saran dari Pak Dhika dan teman-teman semuanya 🙏🙏 .  Terima kasih atas perhatiannya.
+
+<br>
+
+10. [https://zia-bakery.vercel.app/]  
+   **zyourbae**
+   
+  Selamat malam pak dhika dan teman-teman WPU semua, perkenalkan saya Heru Azy.
+
+  Izinkan saya ikut showcase project pertama saya yang bernama Zia Bakery, website ini saya buat dalam rangka pembelajaran React yang saya dapat dari channel WPU dan juga VIP CODE STUDIO.
+
+  Website ini ceritanya akan digunakan untuk toko kue milik calon istri saya, karena masih tahap pengembangan semua asset didalamnya masih saya ambil dari internet dan ada beberapa fitur seperti cart yang masih belum bisa berfungsi. Website ini akan terus saya update seiring saya belajar React, karena untuk sekarang masih dalam bentuk User Interface nya saja.
+
+  **Tech Stack:**
+  - React
+  - Tailwind
+  - Framer Motion
+
+  **Link:**
+  - Website: https://zia-bakery.vercel.app/
+  - Repository: https://github.com/HeruAzyy/zia-bakery
+
+  Agar website ini terus berkembang mohon kritik dan saran dari pak dhika dan teman-teman WPU semua.
+
+  Dan sekali lagi terimakasih banyak untuk <@376337405185097728>  dan juga <@628868756634075167> atas ilmunya 🙏🏻
+
+<br><br>
+
