@@ -1620,3 +1620,290 @@
 
 <br><br>
 
+### 25 Maret 2024
+
+1. [https://webcademy-orcin.vercel.app]  
+   **ammar**
+   
+  Assalamualaikum, Selamat pagi Pa Dhika dan teman-teman, perkenalkan saya Ammar ingin mengikuti project showcase nya WPU
+
+  Disini saya membuat website pembelajaran pemrograman website yang berbasis video dari Youtube WPU yang di dukung dengan fitur login oleh GitHub dan Google. Dalam website saya ini juga dilengkapi dengan fitur dark mode untuk user interface nya, ya mungkin project saya ini masih sangat terlihat sederhana oleh karena itu melalui project showcase ini saya ingin memperoleh masukan dari Pa Dhika dan teman-teman WPU semua dengan cara menyampaikan issue di repo saya
+
+  Tech Stack :
+  - NextJs 14
+  - Tailwind CSS
+  - Shadcn UI
+  - Clerk Auth
+
+  Link GitHub : 
+  https://github.com/ahmadammarm/webcademy
+
+  Link Website : 
+  https://webcademy-orcin.vercel.app
+
+  Terima kasih sudah mereview project sederhana saya ini semoga kedepannya bisa mengembangkan dengan lebih baik lagi😃
+
+<br>
+
+2. [https://extract-apk.vercel.app]  
+   **UndeadBrain**
+   
+  Ijin share web untuk extract/view data APK
+  https://extract-apk.vercel.app
+  masih cuma data AndroidManifest, gambar/icon, serta link2 yang ada di dalam classes.dex, proses extract lewat client browser
+  kegunaannya? ini cuma project iseng aja sih tapi bisa dipakai untuk liat token tele dari aplikasi scam undangan/cek resi apk
+
+  stack : next js
+  repo : https://github.com/bagusindrayana/extract-apk-web
+
+<br>
+
+3. [https://chilin.pilipus.com/]  
+   **Kang Error**
+   
+  Hallo semuanya Perkenalkan saya Pilipus.
+  Saya mau Share project hasil gabut saya waktu mengerjakan ukk branding produk multimedia.
+  Karena Waktu Pengerjaan project ukk waktunya 2 bln dan saya 2 minggu sudah selesai tinggal presentasi.
+  Jadi saya Gabut truus bikin web ini "Mayan Tambah" Portfolio".
+  Project ukk saya adalah Branding, Saya memilih kopi untuk saya branding.
+  Yang bernama Kopi Chillin.
+
+  Technology:
+
+  Frontend
+  -Next js
+  -Tailwind
+
+  Backend
+  -Go lang
+
+  PaymentGateway dan Ongkir
+  -Midtrans
+  -Raja Ongkir
+
+  Note Jika Payment Gateway sudah tidak berjalan berarti deployment backend saya sudah Exp
+
+  web: https://chilin.pilipus.com/
+  github
+  frontend:https://github.com/PILIPSCODE/Chilin-
+  backend:https://github.com/PILIPSCODE/PaymentGateWay-With-Go
+
+<br>
+
+4. [https://power-type.com]  
+   **Suryaaditya**
+   
+  Halo semua, saya mau share lagi kali ini project client freelance (pastinya gabisa share code 🙏🏻) berikut adalah e-commerce yg di build menggunakan:
+
+  - Express.js
+  - Pug (HTML engine)
+  - SCSS
+  - Shopify
+  - Prismic (Headless CMS)
+  - Native WebGL
+  - Native Javascript (Client side)
+
+  Saya tidak menggunakan library tambahan untuk client side ataupun master libs seperti GSAP untuk animation, tidak menggunakan javascript framework untuk SPA seperti React/Vue ataupun CSS framework seperti tailwind. Semua saya buat native untuk smoothscroll maupun animation dan motion jadi ini project yg saya buat dengan effort 😂.
+
+  Page yg menggunakan WebGL
+  - Homepage Slider
+  - Product banner
+  - Product specimens (paling bawah)
+  - Font in Use
+
+  Klo mau akses mobile jangan lupa di refresh ya. Soalnya build mobile dan desktop berbeda 🙏🏻
+
+  Live site: https://power-type.com
+
+  Update (15-03-2024): Website ini memenangkan Site of the Day dan Developer Award di Awwwards (https://www.awwwards.com/sites/power-type-foundry-1)
+
+<br>
+
+5. [https://tamanagev1.me/]  
+   **FarhanAnshari25**
+   
+  Assalamu'alaikum, 
+
+  Saya ingin "memamerkan" sebuah projct menarik yang mana ini adalah update dari website yang saya pernah pamerkan sebelumnya.
+
+  Tamanagev2 - Solusi Manajemen Tugas yang Lebih Cantik dan Lebih Powerfull! 🚀
+
+
+  Tech stack yang saya gunakan:
+  PHP 8.2
+  Laravel 10
+  MySQL 8
+  Bootstrap
+  Jquery
+
+  ✨ Fitur Baru yang Menarik:
+
+  Desain Tabel Task yang Lebih Menawan
+  Form Task yang Lebih Elegan
+  Statistik yang Lebih Estetis
+  Menu Kategori dan Tim yang Diperbarui
+  Tersedia Sekarang: Menu FAQ
+  Fitur Terbaru: Menu Laporan
+
+  🌐 Kunjungi Tamanagev2 Sekarang untuk Pengalaman Manajemen Tugas yang Lebih Baik! 🌐
+
+  Berminat mencoba? Silakan kunjungi situs kami di: https://tamanagev1.me/ (linknya masih sama seperti yang sebelumnya)
+
+  Kredential admin untuk eksplorasi: 
+  Email: admin@example.com
+  Password: admin
+
+  Dapatkan Pengalaman Manajemen Tugas yang Terdepan dengan Tamanagev2! Ini adalah versi terbaru yang telah diperbarui dari Tamanagev1.
+
+  🌟 Kritik dan masukan sangat dihargai :). Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau ingin mendapatkan informasi lebih lanjut. Silakan PM kami atau hubungi kami melalui WA di https://wa.me/6285723193141. 🌟
+
+<br>
+
+6. [https://encaleoz.vercel.app/]  
+   **eil.**
+   
+  Halo pak Sandhika, teman teman semuanya. Dimana dan kapanpun kalian berada semoga kita tetap sehat sehat selalu ya😆 
+  Perkenalkan nama saya Delrico, panggil aja Del. Ini merupakan showcase pertama saya setelah mengikuti channel WPU 11 bulan yang lalu hehehe.
+
+  Showcase ini merupakan sebuah website kelas, awalnya karena IG kelas kami yg sepi (ngga ada postingan samsek) jadinya kurang menarik, jadi kepikiran "gimana kalau buat website aja? trus nnti taruh di bio ig kelas".
+
+  ✨ Tech Stack:
+  - HTML
+  - CSS, Bootstrap
+  - JS (tipis tipis abangku), Swiper Js, JQuery (untuk scroll offset)
+  - AOS (Animasi)
+
+  Website: https://encaleoz.vercel.app/
+  Git repo: https://github.com/Ocirled/encaleoz
+
+
+  ❗ Kritik dan saran sangat dibutuhkan, sehingga bisa improve buat kedepannya. Terimakasih😆
+
+<br>
+
+7. [https://imsak.my.id/]  
+   **klaw**
+   
+  Halo pa Dhika dan teman-teman semuanya, karena bulan ini adalah bulan ramadhan, saya ingin membagikan project saya yang bernama Awas Imsak!
+
+  Project ini dibuat atas kekesalan saya ketika ingin mencari jadwal imsak bulan puasa di internet, karna yang muncul kebanyakan adalah portal berita dan tampilannya juga cukup susah untuk dilihat. Di website Awas Imsak! ini saya memaparkan jadwal sholat sekaligus jadwal imsak untuk seluruh Indonesia.
+
+  Dan bukan hanya jadwal sholat dan imsak, di website yang saya buat ini saya juga menambahkan fitur baca Quran online dan Resep Masakan untuk kebutuhan bulan puasa bagi teman-teman semuanya.
+
+  Website ini saya buat dengan:
+  - Next JS
+  - Redux
+  - Tailwind
+  - AOS
+  - Framer Motion
+  - Textra
+
+  Berikut link website dan juga githubnya:
+  - Website:
+  > https://imsak.my.id/
+
+  - Github:
+  > https://github.com/klawcodes/awas-imsak
+
+
+  Semoga website yang saya buat ini berguna untuk teman-teman semuanya, Terima Kasih 🙂
+
+<br>
+
+8. [https://kalsir.sampurasun.my.id]  
+   **Eris Sulistina**
+   
+  Selamat malam pak Dhika dan semuanya. Saya Eris Sulistina yang kemarin mendapat gelar "Fanatik AlpineJS" dari pak Dhika 😅. Tapi mohon maaf pak saya kurang suka. Setelah dipikir-pikir, saya lebih suka "AlpineJS Developer" 😁
+
+  Kali ini masih bersama AlpineJS, saya membawakan projek bernama Kalsir (Kalkulator Kasir). Latar belakang pembuatan projek ini yaitu ortu saya kan punya warung dan transaksi nya masih manual. Kepikiran lah untuk cari aplikasi kasir di playstore. Setelah banyak menginstal aplikasi kasir, tidak ada satupun aplikasi yg cocok di hati saya. Dari sinilah saya kepikiran untuk membuatnya saja sesuai kebutuhan saya.
+
+  Pada proses pengerjaannya, saya memaksimalkan desain agar mobile-first sehingga desain desktop kurang nyaman. Tapi walaupun begitu, pada tampilan desktop saya tambahkan keyboard shortcut untuk mempercepat pekerjaan. 
+
+  Seperti biasa, data disimpan di localStorage. Projek ini menjawab saran pada projek sebelumnya yg menyarankan untuk menyediakan fitur eksport/import data. Proses eksport/import data dari localStorage sangat tricky. Setelah menemukan codingan mentahnya, saya coba pada projek ini ternyata gagal import. Setelah dioprek sedikit ternyata berhasil, data di localStorage terupdate tapi state Alpine JS masih memakai data sebelumnya. Setelah direfresh baru lah datanya terupdate. Kalo user diperintahkan untuk merefresh setelah import data, maka akan mendatangkan bad UX. Oleh karena itu saya memutar otak untuk menyelesaikan masalah ini. Hingga pada akhirnya saya tercerahkan dan import data sudah langsung reactive.
+
+  Terakhir saya menambahkan fitur serviceWorker agar projek ini menjadi PWA
+
+  Teknologi yang saya gunakan: AlpineJS, TailwindCSS,  Persist, Focus, Icons8, Heroicons, dicebear.com, dan workbox.
+
+  Repo: https://github.com/sejutaimpian/kalsir
+  Demo: https://kalsir.sampurasun.my.id
+
+  Terima kasih atas perhatian dan bintangnnya.
+
+<br>
+
+9. [https://todoplus-web.vercel.app/]  
+   **nexblu**
+   
+  haloo pak dhika dan teman teman semuanya, semoga pak dhika dan teman teman semuanya dalam keadaan baik, pada kesempatan kali ini saya ingin nge showcase project yang saya buat yaitu project todo list app sederhana berbasis web, jadi pada project kali ini saya mecoba menggunakan arsitektur microservice yang mana antara backend dan frontend di tempatkan di tempat yang berbeda
+
+  ```yml
+  Teknologi Yang Saya Gunakan:
+
+  Backend:
+  - Flask (Framework Python)
+  - PostgreSQL (Database SQL)
+
+  Frontend:
+  - React (JavaScript)
+  - Bootstrap (CSS)
+  - SASS (CSS)
+
+  Cloud Hosting:
+  - Railway (Backend)
+  - Vercel (Frontend)```
+
+  Link Repo :
+  https://github.com/nexblu/todoplus-api [Backend]
+  https://github.com/nexblu/todoplus-web [Frontend]
+
+  Link Demo :
+  https://todoplus-web.vercel.app/
+
+<br>
+
+10. [https://wa.me/6285163124075]  
+   **Kibieptr**
+   
+  Assalamualaikum Pak Dhika & teman-teman, aku mau showcase project yg kelima disini 
+
+  # PROJEK DESK
+  **Raza-Bot adalah sebuah proyek yang bertujuan untuk menyediakan akses cepat dan mudah ke berbagai layanan yang berguna dalam kehidupan sehari-hari melalui platform WhatsApp. Dengan menggunakan kemampuan multi-device WhatsApp, Raza-Bot dapat diakses dari berbagai perangkat, memungkinkan pengguna untuk mendapatkan informasi dan layanan kapan pun dan di mana pun mereka membutuhkannya.**
+
+  # FITUR FITUR:
+  ```
+  Pencarian Cepat: Raza-Bot dilengkapi dengan mesin pencari yang memungkinkan pengguna untuk mencari informasi tentang berbagai topik, mulai dari resep masakan hingga informasi cuaca, hanya dengan mengirimkan permintaan pencarian melalui pesan teks.
+
+  ChatGPT: Raza-Bot menggunakan kecerdasan buatan untuk memberikan respons dan dukungan dalam percakapan. Dengan menggunakan teknologi ChatGPT, Raza-Bot dapat memahami pertanyaan dan memberikan jawaban yang relevan dan berguna kepada pengguna.
+
+  Pengunduh: Raza-Bot memfasilitasi pengunduhan konten dengan mudah. Pengguna dapat mengirimkan permintaan untuk mengunduh file, video, atau musik, dan Raza-Bot akan memberikan tautan langsung untuk mengunduh konten tersebut.
+
+  Juga Terdapat Fitur lainnya yang gak kalah menarik
+  ```
+
+  # USAGE BOT
+  Command Bot : .menu (untuk memulai fitur bot pada chat)
+  Selalu awali command dengan  .  agar bisa jalan
+  contoh :  .menu  ,   .allmenu,   .register
+
+  # TECH :
+  - API
+  - Javascript
+
+  Demo : 
+  https://wa.me/6285163124075
+
+  GC Information :
+  https://chat.whatsapp.com/LKjTYbeY1vf5iOhimpfp3x
+
+  Repo :
+  https://github.com/Lynnxha/Raza-MultiDevice
+
+  Jangan Lupa Follow :
+  Github : https://github.com/Lynnxha
+  Instagram : http://instagram.com/kibieptr_/
+  Twitter / X : https://twitter.com/lynnxha
+
+<br>
+<br>
+
