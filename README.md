@@ -1851,7 +1851,8 @@
 
   Cloud Hosting:
   - Railway (Backend)
-  - Vercel (Frontend)```
+  - Vercel (Frontend)
+```
 
   Link Repo :
   https://github.com/nexblu/todoplus-api [Backend]
