@@ -1908,3 +1908,243 @@
 <br>
 <br>
 
+### 13 April 2024
+
+1. [https://github.com/alfarabygit/KisahNabi]  
+   **Indra**
+   
+  Assalamu'alaikum pak dhika dan kawan-kawan semoga sehat selalu. Kali ini saya mau showcase projects ke sembilan yang mana projects nya ini dalam bentuk mobile(aplikasi android) sederhana yaitu app kisah nabi. <:hehehe:972470914488885288> 
+
+  Tech stack:
+  A. Android studio
+  B. Java(programming language) 
+
+  Adapun alasannya adalah untuk menguji pemahaman saya sejauh mana saya mampu membuat sebuah projects menggunakan Android studio dan juga untuk meramaikan showcase projects selama bulan puasa. Jadi di dalam aplikasi ini terdapat beberapa kisah-kisah nabi yang kita kenal mulai dari Nabi Adam sampai dengan Nabi Muhammad. 
+
+  Seperti biasa jgn lupa like dan feedback showcase projects sederhana saya yang ke sembilan dari bapak dan kawan-kawan.
+
+  Sekian, Wassalamu'alaikum wr, wb
+
+  Jgn lupa titik koma guys(ditunggu projects selanjutnya) <:hehehe:972470914488885288> 
+
+  Link download app:
+  https://drive.google.com/file/d/15W3_nWZu5qNPOFs-vvEiEOgn9kHIr0dI/view?usp=drivesdk
+
+  GitHub link:
+  https://github.com/alfarabygit/KisahNabi
+
+  Jangan lupa follow:
+  GitHub: https://github.com/alfarabygit
+  LinkedIn:https://www.linkedin.com/in/alfaraby-indra-2084501b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+  Instagram:https://instagram.com/alfarabyindra?igshid=OGQ5ZDc2ODk2ZA==
+  YouTube: https://youtube.com/@indracode7?si=0q3i5-a3Z6ltfHZc
+
+<br>
+
+2. [https://nezu.my.id/]  
+   **Lost Gophers**
+   
+  Halo temen temen 👋 udah lama nih. kalo ini aku mau share project website discord bot aku yang dulu. sekarang tampilan nya udah lebih modern 😁
+
+  Teknologi yang di gunakan:
+  -  SolidJS
+  -  TailwindCSS
+  -  TypeScript
+  -  Golang (Backend API) [Buat yang kemaren bilang "Gophers kok php"]
+  -  Kotlin JVM (Discord BOT)
+
+  Dan aku mau kasih tau kalau `NezukoChan` music bot Discord pertama yang mempunyai fitur `Crossfade` secara komersil
+
+  Links:
+  - https://nezu.my.id/
+
+<br>
+
+3. [https://dua-opat.vercel.app]  
+   **pusakamngl**
+   
+  Halo temen-temen semua, kali ini saya mau showcase projek ke dua kalinya disini. Projek ini cukup sederhana yang dibuat untuk mengisi waktu kosong di bulan ramadhan nemenin ngabuburit sama nunggu sahur.
+
+  Projek ini bernama **24 Game**, yaitu permainan matematika di mana pemain mencoba mencari solusi perhitungan untuk mencapai nilai 24 dari empat atau enam kartu yang diberikan, menggunakan operasi matematika ( x - + ÷ ).
+
+  **Tech :**
+  - ReactJS
+  - VITE
+  - TailwindCSS
+  - React Joyride
+  - React Router
+  - React Card Flip
+
+  **Fitur :**
+  - Yak nyari nilai 24
+
+  **Links :**
+  - [Demo]  https://dua-opat.vercel.app
+  - [Repo] https://github.com/pusakamanggala/24-game-web-app
+
+<br>
+
+4. [https://kurakuraninja-towewew.vercel.app/]  
+   **Chopper**
+   
+  Halloo semuanya saya chopper, kali ini saya mau showcase project sederhana. Project gabut tidak di sengaja, bernama TOWEWEW.
+
+  Ini adalah hasil experiment menggunakan framermotion.
+
+  Link: https://kurakuraninja-towewew.vercel.app/
+  Repo: https://github.com/Drian-key/kurakuraninja-towewew
+
+<br>
+
+5. [https://angkasamuhammad.github.io/Object-3D-View/object3dview.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+   
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Project shocase kali ini adalah Object 3D Viewer..
+  Menampilkan objek 3d menggunakan texture berupa Voronoi, sehingga texture tidak tampak pixelated/blur saat zoom in.
+  Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+
+  JS library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/Object-3D-View/
+  Web: https://angkasamuhammad.github.io/Object-3D-View/object3dview.html
+
+  Dari project ini diharapkan kita tidak cuma ahli main game, kita juga bisa 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 dompet makin slim 💸📉.
+  Maturnuewun
+
+<br>
+
+6. [https://armandwipangestu.vercel.app]  
+   **devnull**
+   
+  Assalamu'alaikum pak dhika dan kawan-kawan. Kali ini saya mau showcase project yang ke tiga kali, yang dimana project kali ini adalah sebuah web portfolio pribadi saya dan juga blog sederhana untuk sharing atau catetan proses pembelajaran saya mengenai teknologi.
+
+  Website ini saya buat dengan tech stack:
+
+  - `Next.js`
+  - `Tailwind CSS`
+  - `Markdown`
+
+  FYI: Design web ini terinspirasi dari video pak dhika yang "Membuat Website Portfolio Menggunakan Tailwind CSS 3", namun saya coba buat dengan tech stack Next.js dan menambahkan halaman blog
+
+  Berikut link website dan juga repository github nya:
+
+  - Website:
+  https://armandwipangestu.vercel.app
+
+  - GitHub:
+  https://github.com/armandwipangestu/armandwipangestu.vercel.app
+
+  Semoga website yang saya buat ini bisa berguna untuk teman-teman semuanya (terlebih khusus pada bagian blog, soalnya saya suka bikin tulisan disana <:hehehe:972470914488885288> ).
+
+<br>
+
+7. [https://blog.bellawan.my.id]  
+   **Bellawan Kusuma Aji**
+   
+  **BKBlog Management System**
+
+  Selamat beraktifitas Pak Sandhika dan kawan-kawan sekalian. Berikut project ke 2 saya yang saya submit di Project Showcase ini.
+
+  Sedikit background, project ini merupakan sebuah project **Web Blog/CMS** (Content Management System) yang berbasiskan framework Laravel. Project ini pada awalnya berangkat dari keinginan membangun ulang project blog, yang mulai dibuat 2010 silam menggunakan platform Blogspot. Dengan semakin berkembangnya teknologi web, saya tertarik untuk kembali belajar mengikuti perkembangan yang ada. Salah satunya framework PHP yang sangat powerful, yang baru saya kenal 2023 yang lalu.
+
+  Awalnya saya berniat untuk membuat project ini tertutup, namun karena banyak hal yang saya pelajari dan kulik dari project ini, saya memutuskan untuk terus belajar dan membuatnya open source.
+
+  Saya sadari masih banyak kekurangan di sana sini, saya mohon kritikan dan saran agar terus berkembang <:hehehe:972470914488885288> 
+
+  **Teknologi :**
+
+  1. Laravel 10
+  2. Laravel Livewire & AlpineJS
+  3. TailwindCSS
+  4. EditorJS
+
+  **Project Link:**
+
+  1. GitHub Repo https://github.com/belankus/BKBlog
+  2. Website https://blog.bellawan.my.id
+  3. Dashboard https://blog.bellawan.my.id/dashboard (register dahulu, verifikasi email untuk fitur lebih lengkap)
+
+  **Akses Dashboard:**
+
+  Kawan kawan dapat mencoba dengan registrasi untuk mendapat akses ke dashboard sebagai visitor. Apabila kawan-kawan konfirmasi email akan naik role otomatis ke user. Atau dapat gunakan akun berikut
+
+  Credentials:
+
+  1. Visitor `abc@abc.com` pass: `password`
+  2. Visitor `def@def.com` pass: `password`
+  3. User `user1@bellawan.my.id` pass: `password`
+  4. User `user2@bellawan.my.id` pass: `password`
+  5. Superadmin `sandhika.galih@unpas.ac.id` pass: sudah saya DM ke Pak Dhika
+
+<br>
+
+8. [https://drive.google.com/file/d/1uDqulMIgdv7p1tWCoshFj2sR2zfRpb7F/view?usp=sharing]  
+   **kopi dingin**
+   
+  **bangdik adventure**
+
+  selamat pagi pak, kali ini saya mau showcase game buatan saya. dibuat pake **RPG maker xp**. gamenya dibuat pake RPG maker tapi saya ga bikin sistem role di game ini pak. jadi saya cuma ngegunain fitur dialog sama pengkondisian aja untuk ngebuat game ini
+
+  navigasi di in gamenya bukan pake mouse tapi pake arrou button sama enter buat confirm.
+
+  link download : https://drive.google.com/file/d/1uDqulMIgdv7p1tWCoshFj2sR2zfRpb7F/view?usp=sharing
+
+  maap maap ni pak klo kualitasnya masih kureng 🙏
+
+<br>
+
+9. [https://ews-concept.vercel.app]  
+   **UndeadBrain**
+   
+  share konsep desain web informasi/ews gempa bumi dengan tema neon genesis evangelion terinspirasi dari nerv app dari jepang, beberapa data-datanya dari bmkg tapi bisa jadi tidak realtime dan akurat
+
+  Web : https://ews-concept.vercel.app
+  Repo : https://github.com/bagusindrayana/ews-concept
+
+<br>
+
+10. [https://winter-cosrent.vercel.app]  
+   **Yuichiro Takumi**
+   
+  Asallamualaikum Wr wb, Salam Sejahtera dan Namobudhaya, Salam Harmoni
+
+  Hallo temen-temen dan Sandhika sensei 😇 perkenalkan saya Yuichiro, saya merupakan mahasiswa sastra jepang smester 4 dari universitas di Bali. Pada kali ini saya ingin showcase project pertama saya  dan pertama kali juga saya showcase di chanell WPUNPAS, project saya berbasis Front End yaitu website Winter Cosrent. Website ini merupakan project gabut yang saya buat karena jenuh belajar bahasa jepang. Saya membuatnya sekitar 4 hari saja. 
+
+  Adapaun hal yg saya lakukan karena tidak paham akan data base: 
+
+  1. Pada bagian registrasi form, saya memamfaatkan api bot telegram untuk mengirimkan notifikasi ke id chat telegram user, ketika user mengirim form 
+  Data registrasi username dan password akan tersimpan secara otomatis di localstorage 
+
+  2. Pada halaman admin terdapat satu form saja, form tersebut bertujuan untuk menginput data customer yg melakukan booking pada costume cosplay, Selanjutnya pada form booking costume cosplay, form sudah terkoneksi dengan api bot telegram  yg nanti akan terkirim ke grup telegram. 
+
+  maaf jika website nya kurang responsive di berbagai device hehe😁, selain itu website ini sangat 単純と思いました。
+
+  Untuk membantu perkembangan skill dan pengetahuan saya akan dunia programming  saya membutuhkan roastingan dan komentar hot spicy dari temen-temen dan juga Sandhika sensei untuk membantu diri saya berkembang 🙏
+  Asallamualaikum Wr wb, salam sejahtera dan namo budhaya, salam harmoni, dan salam titik koma👋👋
+
+  Tech :
+  ​Tailwind CSS
+  ​JS
+  ​AOS
+  ​Spreedsheet excel
+  ​API Bot telegeram
+
+  Hosting :
+  Vercel
+
+  Link demo website : 
+  https://winter-cosrent.vercel.app
+
+  Link grup telegram untuk cek fungsi bot  : 
+  https://t.me/+RfDiQ9bthYswZmE9
+
+  Repo github : 
+  https://github.com/Yu1chiro/winter-cosrent
+
+<br>
+<br>
+
