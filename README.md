@@ -2148,3 +2148,171 @@
 <br>
 <br>
 
+### 27 April 2024
+
+1. [https://muuwafi.site]  
+   **wapii**
+   
+  Assalamualaikum wr.wb.
+
+  Halo teman teman, perkenalkan saya Wafi. Saya seorang ui/ux design, duduk dibangku kelas 10 jurusan DKV (Desain Komunikasi Visual).
+
+  Kali ini saya ingin mengikuti showcase project WPUNPAS.
+
+  Disini saya ingin mengshare project website personal/portofolio yang dibuat dengan react js, firebase dan tailwind css.
+
+  Link web : https://muuwafi.site
+  Github : https://github.com/muuwafi
+
+<br>
+
+2. [https://pamerajadulu.vercel.app]  
+   **depa**
+   
+  halo semuanya, salam kenal.
+  perkenalkan saya depa. izin ikutan showcase project yg saya bikin 👨‍💻
+
+  project kali ini terinspirasi dari hashtag yg rame di twitter #PamerAjaDulu (https://twitter.com/hashtag/PamerAjaDulu)
+  jadi saya coba bikin web untuk tempat temen-temen semua me-"mamerkan" project yang temen-temen pernah buat agar tidak hilang begitu saja
+
+  untuk web nya sendiri bisa di akses di : https://pamerajadulu.vercel.app
+
+  untuk fitur-fiturnya sendiri diantaranya:
+  - register & login
+  - submit project
+  - vote project
+
+  ayo temen-temen semua buat submit semua project yang pernah dibikin biar bisa diliat sama yang lain 🚀
+
+  *project ini bisa dibilang sebagai clone dari ProductHunt dengan kearifan lokal hehehe
+
+  makasih semuanya, semoga bisa bermanfaat.. 🙇‍♂️
+
+<br>
+
+3. [https://yogameleniawan.com/]  
+   **yogameleniawan**
+   
+  halo semuanya, salam kenal. perkenalkan nama saya yoga, izin mengikuti showcase project portfolio saya yak..
+
+  untuk tema project portfolio sebenernya ambil tema vs code jadi icon2 yang dipake ya pake vscode icon, mau pake theme sublime tapi engga deh😁 
+
+  untuk linknya bisa diakses di : https://yogameleniawan.com/
+
+  untuk techstack yang saya gunakan adalah :
+  - NextJS
+  - TailwindCSS
+  - Framer Motion
+
+  terimakasih atas perhatiannya temen-temen🫡
+
+<br>
+
+4. [https://thedonation.cloud ]  
+   **Muhammad Saleh Solahudin**
+   
+  Halo semuanya perkenalkan nama saya Muhammad Saleh Solahudin, izin ikut showcase project website yang saya dan rekan saya buat ya Pak.
+
+  Jadi website sederhana ini waktu itu kami buat untuk mengikuti PolarDB Global Hackathon 2023 yang diselenggarakan oleh Alibaba Cloud dan CodePolitan. Website ini kami beri nama **"The Cloud Donation"**, nama tersebut terpikir karena kami ingin membuat website donasi yang memanfaatkan teknologi cloud. 
+
+  Untuk tantangan nya mungkin lebih ke arah waktu pengerjaan nya, karena waktunya yang lumayan singkat (hanya ada waktu 1  bulan) dan kami ber tiga semuanya kerja. Jadi hanya ada waktu 1 sampai 2 jam saja setelah working hours di malam hari. Oleh karena itu kami memilih teknologi yang benar-benar kami bisa. 
+
+  Mungkin jika teman-teman melihat teknologi nya kenapa ga pake react, vue, next atau nuxt? jawabannya karena kami waktu itu belum menguasainya 😅
+
+  Teknologi:
+  - HTML, CSS, JS
+  - PHP
+  - Go
+  - Berbagai Macam Layanan dari AlibabaCloud
+
+  Untuk akses buat loginnya akan saya kirim via private message ya Pak.
+
+  Terimakasih semua untuk perhatiannya 🫡
+
+  Link Website: https://thedonation.cloud 
+
+  Kalau mau nyoba-nyoba boleh ya, soalnya bukan website production 😁
+
+<br>
+
+5. [https://msaf.tech]  
+   **CC-18 | Muhammad Salman Alfarisi**
+   
+  Halo semuanya, aku **Salman** dan izin buat ikut showcase projek ku yang ku buat beberapa minggu terakhir ini
+
+  Jadi pertama, aku ada website portfolio pribadi yang punya beberapa fitur berikut:
+  - Dark mode
+  - Keyboard shortcut (`ctrl m` dan `ctrl f`)
+  - Guestbook (isi guys :D)
+  - Form
+  - dll.
+
+  Nah websitenya juga punya beberapa page yang punya beberapa fungsi spesial, contohnya:
+  - `/playground` : Komponen librari gratis yang bisa di-copy-paste sebagai sarana aku eksplorasi (kaya shadcn-ui)
+  - `/guestbook` : Sebagai tanda pengunjung website, bisa login pake OAuth supabase
+  - `/blog` : Sarana aku untuk menulis blog, mulai dari personal sampai ke tutorial
+  - `/template` : Page ini bakal dipake buat taro template yg aku punya, mostly starters buat efisiensi setup projek
+
+  Techstack yang aku pake di projek ini mencakup:
+  - Next, Typescript
+  - TailwindCSS
+  - Supabase
+  - Hygraph, GQL
+
+  Projeknya bisa dilihat di https://msaf.tech
+
+<br>
+
+6. [https://github.com/aufarijaal/online-book-store-backend]  
+   **Aufa Rijal**
+   
+  Assalamu'alaikum Wr Wb. Selamat malam teman teman WPU.
+
+  Perkenalkan kembali nama saya Aufa, saya sebenernya udah dua kali showcase project cuma gap nya agak lama sejak terakhir showcase jdi mending kenalan lagi. hehe.
+
+  Project yang kali ini mau share adalah sebuah **Fullstack Web Application** tentang **Online Book Store** dan saya kasih nama **Garadia**, gak tau lah ngarang aja namanya, mirip Gramedia. wkwk.
+
+  **Tech Stack**
+
+  -   Laravel Sail, sebagai Backend API
+  -   Nuxt JS, sebagai Front End
+  -   Bootstrap, tpi pake custom theme yg namanya Zephyr dari Bootswatch
+  -   MySQL
+  -   Midtrans, pake Sandbox
+  -   Ngrok, buat expose backend supaya midtrans bisa di pake.
+
+  **Fitur**
+
+  - Cart, Checkout
+  - Admin role
+  - CRUD Genre, Books, Author, dll
+
+  **Note**
+
+  -   Project ini belum dihosting, dan belum ada rencana untuk dihosting, jdi maaf pak dhika, nanti nyoba nya manual, step demo nya ada dibawah.
+  -   Mohon maaf juga kalo nanti ada buku buku dgn cover yang lumayan vulgar / tdk pantas. di ignore aja.
+      karena data nya hasil scrape random, sekitar 700an. tpi cover yang ke download cuma 400an, sisanya gagal download, jdi nanti ada beberapa buku yang no cover.
+
+  **Link Repo Backend / API**
+  https://github.com/aufarijaal/online-book-store-backend
+
+  **Link Repo Frontend**
+  https://github.com/aufarijaal/online-book-store-frontend
+
+  **Link Cover Images**
+  https://drive.google.com/file/d/1QbS-hXFRQt9Dr7tZekATfI5cHrPJTv6d/view?usp=sharing
+
+  **Step Demo**
+
+  1. Clone kedua repo.
+  2. Jalankan docker.
+  3. Run `composer install` di backend.
+  4. Run `vendor/bin/sail up` untuk jalankan container nya. tambahkan `-d` kalo mau mode `detach`
+  5. Buat database bernama `laravel`, atau nama lain juga boleh tpi harus ubah dulu di .env
+  6. Run `vendor/bin/sail artisan migrate --seed` untuk migrate sekaligus seeder nya.
+  7. Download cover image dari link diatas, extract lalu simpan di `storage/app/public/covers`
+  8. Buat file .env (lihat di DM pak)
+  9. Untuk repo front end cukup `npm i` lalu `npm run dev`
+
+<br>
+<br>
