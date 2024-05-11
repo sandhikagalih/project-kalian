@@ -2316,3 +2316,214 @@
 
 <br>
 <br>
+
+### 11 Mei 2024
+
+1. [https://angkasamuhammad.github.io/Helikopter/Helikopter.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+   
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Project shocase kali ini adalah Helikopter 🚁🚁🚁.
+  Cari gentong, beri ke ayunan, ayunan makin kencang.
+
+  Game ini aku bikin untuk tes resource dari  Poly Landhep v1 (link ada di dalam game)
+  Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+
+  library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/Helikopter
+  Web: https://angkasamuhammad.github.io/Helikopter/Helikopter.html
+
+  Dari project ini diharapkan kita tidak cuma ahli main game, kita juga bisa 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 dompet makin slim 💸📉.
+  Maturnuewun
+
+<br>
+
+2. [https://discussion-forum-v1.vercel.app/]  
+   **amandd**
+   
+  Halo semua perkenalkan nama saya Aman, izin ikut showcase project yang merupakan submission atau tugas akhir untuk lulus di kelas "Menjadi React Web Developer Expert" program beasiswa IDCamp 2023 yang diselenggarakan oleh Dicoding.
+
+  Nama aplikasinya adalah Forum App, aplikasi ini menggunakan api yang sudah disediakan oleh Dicoding dan saya hanya membuat Front end nya saja, untuk fitur yang dibuat hanya sebatas pada endpoint yang tersedia.
+
+  Techstack yang digunakan yaitu:
+
+  - Vite
+  - Typescript
+  - React
+  - Tailwindcss
+  - DaisyUi
+  - Redux Toolkit
+
+  Link Project: https://discussion-forum-v1.vercel.app/
+
+  untuk source code tidak bisa saya bagikan karena ada aturan plagiasi untuk semua project dikelas Dicoding, karena dikhawatirkan ada yang sedang belajar di kelas yang sama.
+
+  Terima kasih sehat selalu buat pak Sandhika Galih.
+
+<br>
+
+3. [https://github.com/caesarmario/data-slices/tree/main/20240124]  
+   **[Data Wizards] jUM**
+   
+  Halo teman" 👋 ,
+
+  Kali ini aku mau sharing data visualization terbaru lagi nih. Kali ini temanya Titanic, dimana aku mencoba merangkum menit" terakhir momen sebelum kapal Titanic tenggelam. Data nya aku visualisasi kan menggunakan Python dan Matplotlib. Mungkin bagi kalian yg penasaran, bisa langsung cek Jupyter notebooknya aja di: https://github.com/caesarmario/data-slices/tree/main/20240124
+
+  Detail stack yang saya gunakan:
+  - Python
+  - Seaborn
+  - Matplotlib
+  - Highlight text
+  - Pandas
+  - Jupyter Notebook
+  - Photoshop (untuk logo)
+
+  Jika ada feedback dan saran dari teman", jangan ragu ragu untuk disampaikan yaww.. Terima kasih 🙏  
+
+<br>
+
+4. [https://github.com/darkterminal/libsql-php-ext]  
+   **⚡ darkterminal - S.F.E**
+   
+  **Introduction LibSQL Client PHP**
+
+  This is the first **LibSQL Client for PHP** that can interact with **LibSQL** server natively via the **LibSQL PHP Extension** which is written with Rust C Binding and communicates with PHP via FFI.
+
+  https://github.com/darkterminal/libsql-client-php
+  https://github.com/darkterminal/libsql-php-ext
+
+<br>
+
+5. [https://ngochat.vercel.app]  
+   **noosabaktee**
+   
+  Halo pak dhika dan teman-teman👋 
+
+  Saya Rama Nusa Bakti ingin showcase project saya. Kali ini saya membuat aplikasi random chat bernama NgoChat. Disini kita bisa mencari teman chat secara random serta dapat membuat room untuk memulai percakapan
+
+  Teknologi: MERN
+
+  Link:
+  https://ngochat.vercel.app
+
+<br>
+
+6. [https://play.google.com/store/apps/details?id=com.bercamilan.getthestar]  
+   **SAMBUYYA - bercamilan.com**
+   
+  Selamat Malam Pak Sandhika dan Teman teman semuanya,
+
+  Saya mau showcase game android saya yaitu Dapatkan Bintang yang sebelumnya juga pernah showcase game android yaitu Benteng Diam (Idle).
+
+  Sebuah permainan teka teki labirin untuk mendapatkan 3 bintang.
+
+  Game tersedia untuk android:
+  https://play.google.com/store/apps/details?id=com.bercamilan.getthestar
+
+  Teknologi yang digunakan pada permainan:
+  - Javascript 
+  - HTML
+  - CSS
+
+  Teknologi yang digunakan agar dapat berjalan di android:
+  - Android SDK(Android Studio)
+  - Java
+  - Webview
+
+  Terima kasih
+
+<br>
+
+7. [https://heraa-bio.vercel.app/]  
+   **Yuichiro Takumi**
+   
+  Hallo semuanya dan sandhika sensei 
+  Saya yuichiro yg ingin showcase project portfolio sederhana saya hehe:v edisi belajar  color gradient dan tailwind css seperti biasa mohon maaf jika sedikit belum responsive  + di beberapa codinganya sedikit berantakan ʕ´•ᴥ•`ʔ 
+
+  Tech : 
+  1. Javascript gas tipis"
+  2. Tailwind css
+  3. Typed js
+
+  Fitur : 
+  Darkmod Lightmod
+  Translate English to Japan
+
+  Untuk fitur darkmode dan lightmode serta fitur translate maaf jika fiturnya belum bisa permanen untuk setiap page nya hehe, untuk fitur translatenya saya translate nya manual untuk menghindari kesalahan arti dan kalimat yang ambigu jika translatenya memakai google translate
+
+  Link: https://heraa-bio.vercel.app/
+
+  Seperti biasa saya juga minta kritik dan saran dari teman temanʕ´•ᴥ•`ʔ  dan sandhika sensei Arigthanks minna ʕ´•ᴥ•`ʔ 👋
+
+<br>
+
+8. [https://fiqri-ardiansyah.vercel.app/]  
+   **suararakyat**
+   
+  Halo pak sandika dan temen-teman
+  Kenalin lagi saya fiqri, udah lama gk ikutan showcase nih 😁
+
+  Jadi saya ada update portfolio web yang udah ada pada showcase tahun sebelumnya, bisa lihat disini https://fiqriardiansyah-82a2c.web.app/. Pada portfolio sebelumnya bisa dinilai kurang profesional dan kurang menunjukkan experience penulis. Terimakasih atas feedbacknya temen"
+
+  Untuk portfolio yang baru ini saya rasa sudah cukup proper dan profesional walaupun akan ada beberapa iteriasi development kedepannya. Dan saya harap temen-temen bisa menyampikan kritik dan sarannya terkait web portfolio saya.
+
+  Tech:
+  ```
+  ReactJS
+  TailwindCSS
+  Framer Motion / GSAP
+  ```
+  Live:
+  https://fiqri-ardiansyah.vercel.app/
+
+  Terimakasih pak dika dan temen-temen 🙏
+
+<br>
+
+9. [https://adityasemara.com/]  
+   **Aditya Semara**
+   
+  Halo Pak Sandhika dan Teman-teman semuanya, Perkenalkan nama saya Aditya Semara, Sebelumnya saya sudah pernah mengikuti showcase project dan kali ini saya ingin membagikan website Portfolio saya lagi yang telah dikembangkan. Website ini merupakan hasil dari saya belajar react.js .Website ini saya design dengan konsep modern minimalist.
+
+  Adapun teknologi yang digunakan sebagai berikut :
+  HTML
+  SCSS
+  React.js
+  GSAP
+  Locomotive Scroll
+
+  Link Website: https://adityasemara.com/
+
+  Terima kasih Pak Sandhika dan Teman-teman semuanya.
+
+<br>
+
+10. [https://thoyiburrohman.my.id]  
+   **schrodingers9166**
+   
+  Selamat malam Pak Dhika dan teman-teman semua. 
+  Perkenalkan saya Thoyiburrohman,  Izin showcase untuk pertama kali nya, web portofolio yang saya buat hasil ikutin playlist laravel di youtube WPU.
+
+  Web portofolio ini memiliki admin panel sederhana yang hanya memiliki fitur untuk menambahkan project project yang sudah saya kerjakan yang nantinya akan tampil dinamis pada bagian project di portofolio.
+
+  Pada bagian contact saya membuat form yang terintegrasi dengan telegram bot, jika ada seseorang yang mengirim pesan, saya akan mengetahui pesan tersebut secara realtime yang kebetulan saya memang cukup aktif pada aplikasi telegram ini.
+
+  Teknologi yang saya pakai:
+  Bootstrap
+  Laravel
+  Telegram Bot
+
+  Link Website :
+  https://thoyiburrohman.my.id
+  Link Repositori :
+  https://github.com/thoyiburrohman/portofolio
+
+  Saya sangat senang jika Pak Dhika dan teman teman bisa membantu kritik/saran untuk portofolio Saya dengan memberi pesan melalui fitur contact yang sudah saya buat.
+  Sekian Terima kasih Pak Dhika dan teman teman atas waktu, dan kesempatannya.
+
+<br>
+<br>
