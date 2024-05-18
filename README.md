@@ -2527,3 +2527,243 @@
 
 <br>
 <br>
+
+### 18 Mei 2024
+
+1. [https://zenfresh-proto.netlify.app/]  
+   **Umar Jihad**
+
+  Halo semuanya.
+
+  Saya Umar dari Jogja. Sudah lama gak showcase 😁. Kali ini saya mau showcase website pemesanan laundry. Ini upgrade dari showcase Saya sebelumnya. Pada showcase sebelumnya hanya dari frontend nya saja, sekarang udah full stack 😁. Kebetulan, project ini juga Saya jadikan bahan tugas mata kuliah MPPL (Metode Pengembangan Perangkat Lunak)
+
+  Demo: https://zenfresh-proto.netlify.app/
+  Repo: https://github.com/jihadable/zenfresh/tree/tugas_mppl
+
+  Tech Stack: MERN + daisyui (tailwindcss)
+
+  Di dalam web ini, terdapat 2 role yaitu user dan admin. Untuk user, Pak Dhika bisa registrasi aja, untuk admin, nanti Saya kirim email sama password nya lewat DM instagram Pak Dhika hehe 😉
+
+
+<br>
+
+2. [https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack]  
+   **Arif Budiman Arrosyid**
+
+  Selamat malam semuanya,
+  Saya Arif Budiman, saya mau berbagi vscode extension pack "**Better Laravel Extension Pack**"
+  untuk TALL stack (Tailwind, AlpineJs, Laravel, Livewire) dan
+  beberapa config yang saya pakai.
+  https://marketplace.visualstudio.com/items?itemName=arifbudimanar.better-laravel-extension-pack
+  atau bisa dengan eksekusi di vscode
+  ```
+  ext install arifbudimanar.better-laravel-extension-pack
+  ```
+  Sudah sekitar **2,465** yang install dan **4,900** download, lumayan banyak.
+  Untuk repo sudah ada di deskripsinya.
+  
+  Ada juga beberapa vscode theme dan windows terminal theme, untuk lebih lengkapnya silahkan kunjungi
+  https://marketplace.visualstudio.com/publishers/arifbudimanar
+
+  Terimakasih. ✌️
+
+<br>
+
+3. [https://absenin.vann.my.id]  
+   **Vann**
+
+  Malam semua nya,
+  Kenalin Saya Vann, nama asli Stevan, terakhir showcase disini sih 2022, udah lama banget.
+
+  Sekarang saya balik lagi pengen showcase, disini saya ingin memperkenalkan sebuah project yang bernama **Absenin**, absenin ini merupakan web absensi yang memiliki fitur yang bernama **anti absenin orang lain**, dimana kita tidak bisa absenin orang lain.
+
+  Web ini terinpirasi dari teman sekelas yang selalu ngomong "weh absenin dong, tar gw masuk kelas nya agak telat, biar dosen nya ga marah", nyatanya dia madol 🤣.
+
+  Di web ini memiliki beberapa fitur yang berguna untuk mencegah hal tersebut terjadi, seperti
+  1. IP Logging
+  2. Browser Fingerprint
+
+  > "Lah misal ada ip logging, pake vpn bisa dong lolos?", nah disini saya juga ada logging Fingerprint, jadi 1 device cuma bisa 1x scan
+
+  **Untuk fitur lain ada di readme Project nya**
+  https://github.com/Absenin
+
+  **Untuk repo WEB dan API ada disini**
+  https://github.com/Absenin/absenin-web
+  https://github.com/Absenin/absenin-api
+
+  **Untuk link website ada disini**
+  https://absenin.vann.my.id
+
+  **Oh ya untuk credentials nya**
+  https://absenin.vann.my.id/login/admin 
+  Pass: admin
+
+  https://absenin.vann.my.id/login/account 
+  Email: admin@admin.com 
+  Pass: admin
+
+  **Oh ya kalian juga bisa nambah user dari dashboard**
+  https://absenin.vann.my.id/dashboard/admin
+
+  **Documentation cara pakai**
+  https://github.com/Absenin/docs/tree/main/how-to-use
+
+  **Untuk teknologi dan bahasa yang di pakai di project ini**
+  - Nextjs
+  - Flask
+  - Python
+  - Typescript
+  - Postgresql
+  - Prisma ORM
+  - Rest API
+
+  > Untuk showcase ini, pembuatan user sudah saya limit ke 20, dan akun 20, untuk mencegah spam dan down saat showcase
+
+  Mungkin sekian dari saya, 
+  Terimakasih
+
+<br>
+
+4. [https://noosabaktee-room.netlify.app/]  
+   **noosabaktee**
+
+  Halo pak dhika dan teman-teman👋 
+
+  Saya Rama Nusa Bakti ingin showcase project saya. Kali ini saya membuat portfolio 3d. Disini kalian bisa explore kamar saya sambil mencari tahu tentang diri saya🤗
+
+  Teknologi: 
+  React Three Fiber
+
+  Link: 
+  https://noosabaktee-room.netlify.app/
+
+  GitHub:
+  https://github.com/noosabaktee/my-room
+
+<br>
+
+5. [https://al-quranku-v1.vercel.app]  
+   **amandd**
+
+  Hallo, selamat malam pak dhika dan teman-teman wpu semua
+  perkenalkan kembali nama saya Aman, izin showcase project untuk yang ke dua, nama project nya adalah al-quranku project ini merupakan hasil belajar next js selama bulan puasa kemarin
+
+  website ini terinspirasi dari equran.id, API nya juga saya ambil dari  https://equran.id/apidev/v2
+
+  untuk saat ini fitur yang tersedia
+  - mode fokus baca qur'an (tanpa terjemahan)
+  - mode baca qur'an + terjemahan
+  - tafsir
+  - pencarian berdasarkan nama atau nomor surah
+  - audio player murottal
+  - bookmark ayat
+  - login dan register untuk bookmark
+  - PWA
+
+  Techstack:
+  - Typescript
+  - NextJs
+  - Tailwindcss
+  - Firebase
+
+  Link: https://al-quranku-v1.vercel.app
+  Repo: https://github.com/aMand777/al-quranku
+
+  Terima kasih semoga bermanfaat.
+
+
+<br>
+
+6. [https://github.com/DeRuneLabs/jane]  
+   **Hugo de Rune**
+
+  wello pak dhika, seperti biasa lupakanlah titik koma <:hehehe:972470914488885288> 
+  kali ini saya akan showcase project yang bernama ``jane (joy along new experience)``, jadi project ini kerja sama bareng @Nab de Rune yang merupakan compiler dari bahasa pemograman yang saya buat sendiri pak dengan ekstensi ``.jn``, jadi tujuan dari project ini adalah untuk mengcounter project-project gabut, sederhana, dan melawan serangan dari pengguna ``$`` di awal nama variabel. ``jane`` ini bisa compile dan transpile (dari bahasa jane ke cpp untuk transpile) sehingga lebih fleksibel lagi (rencana bisa support banyak bahasa untuk intergrasi ke bahasa ``jane``), tujuan dari project ini difokuskan untuk membuat program dengan bahasa yang safe dan mudah untuk dipelajari dan menjadi sebuah pengalaman baru dalam membuat program sistem yang safe
+
+  bahasa yang digunakan:
+  - golang
+  - c++ ( untuk api )
+  - shell ( untuk automatic build project, maintain oleh <@731792306511806496> )
+
+  repository: https://github.com/DeRuneLabs/jane
+
+  terima kasih pak dhika, menerima kritik dan saran, and lupakan titik koma
+
+<br>
+
+7. [https://ngc-1512.github.io/]  
+   **Sometimes**
+
+  Punten, perkenalkan saya uji saya ingin showcase project pertama saya yaitu sebuah game tik tak toe yang dilengkapi dengan algoritma minimax.
+
+  Bahasa yang saya gunakan hanyalah vanilla javascript dan untuk framework hanya menggunakan
+  bootstrap saja.
+
+  untuk pilihan ai nya hanya ada dua yaitu smartAI dan foolAI.
+
+  site: https://ngc-1512.github.io/
+  repository: https://github.com/NGC-1512/NGC-1512.github.io
+
+  Hatur nuhun.
+
+<br>
+
+8. [https://cari-mahasiswa.vercel.app/]  
+   **f/1.8**
+
+  Halo Pak Dhika dan temen-temen semuanya, semoga diberikan kesehatan dan kelancaran dalam menjalani hari. Perkenalkan saya Haikel Ilham Hakim, izin untuk showcase project. Jadi **cari-mahasiswa** adalah sebuah Website yang berfungsi untuk mencari data mahasiswa berdasarkan nama, NIM, juga perguruan tingginya. Selain itu, kita juga bisa melihat detail perguruan tinggi mahasiswa yang kita cari. Cara kerjanya sama seperti Websitenya PDDikti, hanya saja Website ini ga ada pencarian dosennya + secara UI nya juga lebih simple hehe 😄 . By default, value dari input searchnya sendiri adalah **Yuuki**.
+
+  Dibuat dengan:
+  - Next JS 14
+  - Typescript
+  - Tailwind CSS + shadcn/ui
+  - React Query
+  - Jotai
+  - tRPC
+
+  Repository: https://github.com/haikelz/cari-mahasiswa
+  Live Website: https://cari-mahasiswa.vercel.app/
+
+  ありがとう (Terima Kasih)
+
+<br>
+
+9. [https://github.com/ekokurniadi/rust_user_api_monolith]  
+   **Kurniadi**
+
+  Assalamualaikum Pak Dhika dan teman-teman semua, izin share hasil belajar Backend dengan Rust.
+
+  Dibuat Dengan :
+  - Rust
+  - PostgresSql
+  - Diesel ORM
+  - Rocket Framework
+
+  Terima kasih
+
+  Repository : https://github.com/ekokurniadi/rust_user_api_monolith
+
+<br>
+
+10. [https://farkhanmhd.vercel.app/]  
+   **farkhanmhd**
+
+  Assalaumalaikum Pak Dhika dan teman-teman semua, 
+
+  Perkenalkan nama saya Farkhan dari Medan, Izin showcase untuk pertama kalinya untuk web portfolio sederhana yang saya buat dari hasil belajar NextJS, Jotai, dan GSAP.
+
+  Site: https://farkhanmhd.vercel.app/
+  Repo: https://github.com/farkhanmhd/portfolio
+
+  Teknologi yang dipakai pada project ini:
+  - NextJS
+  - TailwindCSS
+  - Jotai
+  - GSAP
+  - Lenis
+
+  Sekian dari Saya, Terima Kasih 🙏
+
+<br>
+<br>
