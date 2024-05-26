@@ -2767,3 +2767,258 @@
 
 <br>
 <br>
+
+### 26 Mei 2024
+
+1. [https://virtualtech.vercel.app/]  
+   **Zernox**
+
+  Halooo, semuanya! Perkenalkan nama saya Riecky, mahasiswa di Binus jurusan Creativepreneurship. Kali ini saya akan share project web saya.
+
+  Jadi, project ini awalnya dibuat untuk bisnis pribadi saya. Niatnya sih pengen bikin sesuatu yang unik, tapi pas udah jadi... hmmm, kok kurang ya? Akhirnya, aku putuskan untuk menggunakan template dari internet dan akhirnya project ini ga aku pake WKWKWK
+
+  Project ini aku beri nama VirtualTech, yaitu web yang menampilkan portofolio fotografi drone. Desainnya dari mana? nyontek dari Internet! Kenapa aku pilih desain ini? Karena simpel tapi keren, cocok banget dengan selera aku, dan  Jujur, saya gak bisa design samsek, jadi ya... contek sana-sini lah (cloning design) 😂. Btw sorry design aslinya udah lupa dimana karena udah lama ini projectnya.
+
+  Oh iya, web ini dibangun dengan arsitektur client-server. Karena aku penasaran aja sih pengen belajar pake client-server gmn, makanya aku pilih itu.
+
+  Untuk teknologi dan bahasa yang dipakai di project ini:
+  •    Di sisi client: React.js, Tailwindcss, dan Framer Motion
+  •    Di sisi server: Express.js
+
+  Nah, buat yang mau cek langsung webnya atau mau lihat kodenya, bisa klik link di bawah ini: 
+  Website: https://virtualtech.vercel.app/
+  Repo: https://github.com/rieckypoerwadiredja/virtualtech
+
+  Mohon kritik dan sarannya Terimakasih 🙏
+
+<br>
+
+
+2. [https://foresia.vercel.app/]  
+   **kagchi**
+
+  Halo temen temen, kali ini aku mau share project lagi. jadi uas di semester aku ini ada project untuk buat web komunitas. nah aku  kepikiran untuk coba clone Reddit. web nya sih sederhana dan simpel 😁. 
+
+  Tech Stacks:
+  - NextJS (TypeScript)
+  - DrizzleORM
+  - S3 Storage
+
+
+  Ini untuk hasil nya. terim kasih 😁
+  https://foresia.vercel.app/
+
+  Source code nya:
+  https://github.com/KagChi/foresia
+
+  Note: kalo pas create post/community kena 404, ctrl shift + r. karena cache dari vercel nya itu
+
+<br>
+
+
+3. [https://rasyidarazak.github.io/portfolio/]  
+   **Rain**
+
+  Assalamulaikum, halo Pak Dhika dan temen" semua, saya Rasyid, izin share web portfolio minimalis dari template dengan sedikit modifikasi. Apa perlu saya import webnya ke ReactJS? Minta saran juga untuk kekurangannya, terimakasih.
+
+  Tech:
+  - HTML
+  - CSS + Bootstrap
+  - Vanilla JS
+
+  Source Code: https://github.com/rasyidarazak/portfolio
+  Website: https://rasyidarazak.github.io/portfolio/
+
+<br>
+
+
+4. [https://kolektan.com]  
+   **michael.id**
+  
+  Selamat malam Pak Dhika dan teman-teman WPU. Ini adalah showcase kedua saya setelah showcase pertama satu setengah tahun lalu. Web ini terinspirasi oleh konten YouTube WPU yang mencoba membuat web dengan meminta bantuan chatGPT. Tentunya ada sedikit penyuntingan manual dari saya. 
+
+  Latar belakang pembuatan web ini adalah untuk menghemat kertas dalam kegiatan pertemuan di Gereja. Dalam pertemuan ini biasanya selain membaca kitab suci dan berdoa, kami juga menyanyikan beberapa lagu rohani. 
+
+  Awalnya kami selalu mencetak teks lirik lagu tiap pekan (karena pilihan lagu kami usahakan berbeda). Lama-kelamaan untuk menghemat kertas, petugas yang memimpin pertemuan hanya diminta membagikan screenshot lagu via WhatsApp Group komunitas setiap pekan. Nah tujuan web ini supaya mempermudah karena hasilnya langsung berupa file PDF. Tampilan langsung via web tidak dipilih agar anggota yang mengikuti pertemuan tersebut dapat lebih fokus pada acara pertemuan.
+
+  Teknologi yang digunakan:
+  PHP, CSS, JavaScript, MySQL, FPDF
+
+  Web: https://kolektan.com
+  Source code: https://github.com/karyawati/kolektan
+  Untuk librari FPDF tidak saya unggah ke github, bisa diunduh langsung di fpdf.org
+
+  Untuk memilih judul lagu klik di area sekitar judul lagu, bukan di judul lagu. Tombol Unduh PDF ada di akhir daftar lagu.
+
+  Catatan: Teks lagu dan File MP3 belum semuanya diunggah. Beberapa ISP juga memblokir layanan berbagi tautan yang disediakan oleh pcloud. Contoh ISP yang memblokir adalah Tri, sementara yang tidak memblokir adalah Biznet.
+
+  Saran untuk pengembangan dan perbaikan berikutnya selalu saya dan ChatGPT tunggu :).
+
+<br>
+
+
+5. [https://lib-music.vercel.app]  
+   **Yui**
+
+  Hallo teman-teman WPU dan Sandhika 先生 Saya Yui kali ini saya ingin showcase project ke-3 saya yaitu Library Music🐤, karena saya suka membuat lagu dan musik random oleh sebab itu saya ingin membuat album musik saya sendiri😁, website ini adalah library musik kecil-kecilan dan simple🦀 
+
+  Feature : Donwload music dan Create music
+
+  Untuk fitur create music bersifat manual bukan otomatis ter create hehe😁 pada feature download dan create saya memamfaatkan bot telegram untuk notifikasi saja
+
+  Tech site : Tailwind UI, Javascript, API Telegram Bot
+
+  Site link : https://lib-music.vercel.app
+  Repo : https://github.com/Yu1chiro/lib-music
+
+  Mohon maaf jika codingan sedikit berantakan, kurang responsive dan mungkin terdapat bug, saya hanya memaksimalkan di device mobile hehe😁seperti biasa mohon kritik dan saran nya teman-teman dan Sandhika先生 Thankyou 🦀コメントをいただいてありがとう
+
+<br>
+
+
+6. [https://indoquran.my.id]  
+   **by**
+
+  Assalamualaikum, selamat malam Pak Dhika dan teman" semua. Perkenalkan saya **Akbar **izin showcase project yang ke 3 dan ini adalah website Al-Quran yang saya update dari showcase pertama. Untuk perbandingan dengan versi pertama bisa cek di repository. Dengan keterbatasan ilmu yang saya miliki saya terbuka dalam kritik dan sarannya . Terimakasih atas kesempatannya.
+
+  `Tech Stacks :`
+  - Nextjs
+  - Typescript
+  - Redux Toolkit
+  - Tailwind CSS
+
+  `Features :`
+  - Alquran dan Terjemah
+  - Tafsir Perayat
+  - Audio Perayat 5 Jenis Qori
+  - Share Media Sosial
+  - Jadwal Sholat
+  - Adzan Pengingat Sholat (Audio)
+  - Hadits 9 Riwayat
+  - Doa - Doa
+  - Multiple Bookmark
+  - Share Ayat From Image
+  - Dynamic Open Graph
+
+  `Links :`
+  - Repo : https://github.com/Akbaroke/indoquran.my.id
+  - Web : https://indoquran.my.id
+
+<br>
+
+
+7. [https://lansicare-health.vercel.app/]  
+   **! Naufalnr**
+
+  Assalamualaikum Pak Dhika dan Teman Teman, selamat malam, perkenalkan nama saya Naufal Nabil Ramadhan dari SMK Telkom Malang, untuk kesempatan kali ini saya akan showcase project yang dikerjakan oleh tim saya 4 orang, nama projectnya adalah LansiCare  Health, terimakasih atas kesempatanya. 
+
+  Tech Stacks : 
+  - Nextjs
+  - NextAuth
+  - Typescript
+  - TailwindCSS
+  - Flowbite React
+  - Mongodb
+  - Mongoose 
+
+  Features : 
+  => Untuk Pasien
+  - Register dan Login untuk Authentikasi Pengguna/pasien
+  - Registrasi & CheckUp Kesehatan
+  - Track Kesehatan berupa Riwayat Penyakit dan Riwayat CheckUp pada halaman Profil
+  - Komentar yang dapat diisi sebagai feedback
+  => Untuk Dokter
+  - Login untuk Authentikasi dokter
+  - Dashboard untuk monitoring pengguna/pasien
+  - View, Edit, dan Delete data pengguna/pasien
+  - Form CheckUp kesehatan di halaman Edit Profile
+  - Profil Dokter
+
+  Login dokter: 
+  - email: naufal_nabil_32rpl@student.smktelkom-mlg.sch.id 
+  - password: 12345678
+
+  Links: 
+  - Repo : https://github.com/naufalnrsmitter20/lansicare-health 
+  - Link : https://lansicare-health.vercel.app/
+  - Halaman dokter : https://lansicare-health.vercel.app/administration
+
+<br>
+
+
+8. [https://wsu.natunakode.com/]  
+   **Triandi**
+
+  Assalamualaikum, selamat malam Pak Dhika dan teman" semua. Perkenalkan saya **Triandi **saya mahasiswa di Universitas Maritim Raja Ali Haji (UMRAH) Jurusan Teknik Informatika, Izin showcase project yang pertama dan ini adalah website untuk memendekkan link yang saya beri nama **Web Shorten URL**.  Berikut penjelesan singkat:
+
+  `Tech Stacks :`
+  - React
+  - Tailwind CSS
+  - Supabase
+
+  `Features :`
+  - Pick Expiration Date 
+  - Delete After Redirection
+
+  `Links :`
+  - Web : https://wsu.natunakode.com/
+  - Hasil Shorten : https://wsus.me/Random-or-Custom
+
+  Catatan: Terkait halaman **Contact & ReportLink**, juga sudah berfungsi dengan baik. Jika teman-teman ingin mencoba, silakan pada saat mengisi e-mail, pastikan e-mail tersebut aktif sebab akan ada salinannya.
+
+  Dengan keterbatasan ilmu yang saya miliki, saya terbuka dalam kritik dan saran. Terima kasih atas kesempatannya.
+
+<br>
+
+
+9. [https://drive.google.com/file/d/1ABUw02G1Kt9uAVJAEyf7w3AHFSWU1LMd/view?usp=sharing]  
+   **mardiansyah**
+
+  Assalamualaikum, selamat malam Pak Dhika dan pasukan Titik Koma.
+
+  Nazar saya, jika suatu hari saya dapat memiliki laptop yang lancar untuk ngoding mobile app, saya akan membuat aplikasi yang bermanfaat bagi umat Muslim dan akan saya publish ke Play Store. Aplikasi ini akan tanpa iklan dan gratis karena saya tidak ingin mendapatkan uang dari aplikasi ini.
+
+  Sebelumnya maaf kalau aplikasinya sangat sederhana dan ga bagus karena ini aplikasi mobile pertama.
+
+  Aplikasi ini bernama Ibadahku yang baru memiliki fitur:
+
+  Al-Qur'an
+  Membaca Al-Qur'an
+  Memutar suara ayat tertentu
+  Menyimpan ayat terakhir yang dibaca
+  Dapat langsung menuju ke surah dan ayat terakhir yang dibaca
+  Jadwal Sholat
+  Waktu hitung mundur ke waktu sholat selanjutnya
+  Notifikasi jadwal sholat
+  Saya sangat membutuhkan kritik dan saran dari Pak Dhika dan teman-teman, serta masukan mengenai fitur yang ingin ditambahkan karena masih sedikit banget fiturnya.
+
+  Tech stacks: 
+  Flutter
+
+  Aplikasi dapat download di google drive :
+  https://drive.google.com/file/d/1ABUw02G1Kt9uAVJAEyf7w3AHFSWU1LMd/view?usp=sharing
+  atau bisa akses di Play Store di link berikut karena saya sudah menambahkan email sandhikagalih@unpas.ac.id sebagai penguji : https://play.google.com/apps/testing/com.ibadahku_mardiancode
+
+  Oh iya sekarang sudah masuk tahap pengujian tertutup saya butuh 20 penguji agar bisa masuk tahap pengujian terbuka Barang kali temen - temen ada yang mau, boleh minta emailnya bantu saya supaya bisa rilis ke production
+
+<br>
+
+
+10. [https://levianthproject.github.io/flowers-gift-for-you/]  
+   **L . V**
+
+  Helloooo guysss, untuk kalian yang ingin ngasih web lucu ke doi atau crush disaat mereka sedang badmoood atau lagi ngambekk niii coba kasih web ini ke mereka yaaaa, dan semoga mereka sukaaa <a:loveletter:720534267150598145> 
+
+  Made with vanilla only ❤️‍🔥 
+
+  CSS Vanila Forever!!! 🫶 
+
+  Link website : 
+  https://levianthproject.github.io/flowers-gift-for-you/
+
+  Link Repo : 
+  https://github.com/LevianthProject/flowers-gift-for-you
+
+<br>
+<br>
+
