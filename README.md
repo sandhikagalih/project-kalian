@@ -3022,3 +3022,296 @@
 <br>
 <br>
 
+### 1 Juni 2024
+
+1. [https://avendash.pages.dev/]  
+   **Asta**
+
+  Hallo Pak Dhika dan teman teman semua, perkenalkan saya Ararya Arka saat ini saya baru lulus SMA dan sedang berharap untuk lulus UTBK, nah karena nunggu hasil UTBK menurut saya terlalu lama dan gak ngapa ngapain dirumah alhasil saya bikin project yang cukup sederhana yaitu Dashboard IoT dengan menggunakan MQTT
+
+  Project ini masih banyak bug yaitu data yang kadang tidak terkirim, namun bug tersebut dapat dikurangi dengan membuka websitenya terlebih dahulu lalu menjalanakan wokwi/esp32 yang aslinya, project ini juga memiliki AI dari groq API yang bisa kena limit untuk itu selain link yang sudah saya sediakan saya juga memberikan tutorial untuk clone project di readme GitHub
+
+
+  Tech Stacks:
+  - React + Vite
+  - Typescript
+  - MqttJs
+  - TailwindCSS
+  - DaisyUI
+  - sedikit GSAP
+
+  Features:
+  - menerima data dari sensor maupun topics mqtt
+  - mengirim data menuju mqtt ( dapat dicek menggunakan mqttx, atau dapat di cek dengan mengisi topics: aven/relay, untuk message: 0 untuk matikan relay dan 1 untuk menghidupkan )
+  - AI untuk meminta saran tentang IoT
+  - banyak Tema agar tidak bosan dari DaisyUI
+
+  Link Website:
+
+  https://avendash.pages.dev/
+
+  Link Repo:
+
+  https://github.com/Araryarch/Avendash
+
+  Link Wokwi untuk simulasi perangkat IoT:
+
+  https://wokwi.com/projects/398586316793952257
+
+  mohon maaf jika masih banyak bug dan UI yang tidak terlalu bagus, mohon untuk kritik dan sarannya teman teman semua, terimakasih 😁
+
+<br>
+
+2. [https://github.com/DemuraAIdev/ARGA/]  
+   **DemuraAI**
+
+  Halo semuanya, perkenalkan saya Vahry dari SMK 1 Kota Bengkulu, Kali ini saya akan share project saya bernama ARGA, ARGA adalah sebuah game engine berbasis text yang di program dalam bahasa Javascript dan file game hanya berupa file JSON.
+
+  Tech Stack :
+  - NodeJS
+
+  Fitur :
+  - Buat game hanya berbasis JSON
+  - Fitur yang banyak
+  - Ringan
+
+  https://github.com/DemuraAIdev/ARGA/
+
+<br>
+
+3. [https://penghitung-garis-regresi.vercel.app/]  
+   **UBJ**
+
+  Halloooo pak sandika, hallo juga untuk temen temen 
+  Perkenalkan nama saya Riko fernanda saputra biasa di panggil Riko saya kelas 11 tkj dari SMK Darma Siswa 1, Sidoarjo. Izin spill sedikit waktu pak sandika di event Surabaya Dev saya ikut loh temen temen hehe, menurut saya itu sebuah kebanggan banget wkwk, okey next ini pertama kali saya show case, mau share PII #2 (Projek Iseng-Iseng), PII #1 ada di yt saya (riko fernanda saputra) ya temen hehe jangan lupa nonton, sekarang saya mau pamerin yang PII #2 ini website tentang penghitung garis regresi, website ini sangat simple dan semoga bermanfaat
+
+  Tech stack;
+  HTML
+  CSS
+  Js
+
+  Link Vercel :
+  https://penghitung-garis-regresi.vercel.app/
+
+  Link GitHub :
+  https://github.com/RIKO-FERNANDA-S
+
+<br>
+
+4. [https://genztopup.web.id]  
+   **XecionFire**
+
+  hi Fellas, hallo pak Dhika,
+  oh iya, izinkan saya memperkenalkan diri terlebih dahulu karena pepatah mengatakan "tak kenal maka tak sayang", nama saya Raphaell Brilliansyah P, aku siswa SMA MUHAMMADIYAH 2 Surabaya.
+
+  oke jadi aku dapet pesanan website third party topup games, orangnya udah izinin aku buat masukin ke showcase ini. BTW  website nya work ya, bukan prototype.
+
+  ini link website nya : https://genztopup.web.id
+
+  program yang ku pakai cuman
+  - NodeJs, js (back end)
+  - PHP, html, css, js(front end)
+
+  ***DETAILS NYA***
+
+  **BACK END (packages / thirdParty)**
+  - cors (npm)
+  - crypto  (npm)
+  - express  (npm)
+  - ejs  (npm)
+  - morgan  (npm)
+  - node-fetch  (npm)
+  - (7 more) ga seberapa penting 
+
+  **FRONT END DETAILS**
+  - PHP (vanilla routing and basic Oauth)
+  - TailwindCss
+  - DaisyUI
+  - SwiperJs
+  - Boxicon
+  - Jquery [include ajax]
+  - colorThief
+
+  salam
+  - raphaell.b.p
+
+<br>
+
+5. [https://darkterminal.mintlify.app/dark-extensions/introduction]  
+   **⚡ darkterminal - S.F.E**
+
+  ### 🚨 LibSQL Driver Laravel - Out Now 🚨
+
+  Hello Punk! I am **Software Freestyle Engineer**. This is a Beta Preview of the ***LibSQL Driver Laravel*** that I made for you guys. Please try and provide a review in the [discussion thread](https://github.com/darkterminal/libsql-driver-laravel/discussions) on GitHub or [Turso Channel](https://discord.com/channels/933071162680958986/1199651333523898368) they have PHP channel that dedicated for my Libraries and Extensions also for PHP Support.
+
+  Turso is a distributed database built on **[libSQL](https://github.com/tursodatabase/libsql/)**, a fork of SQLite. It’s optimized for low query latency, making it suitable for global applications.
+
+  Postgres and MySQL have long vied for SQL dominance, while SQLite remains a favored choice due to its simplicity and reliability, often dubbed the “hello world” of databases.
+
+  libSQL is a fork of SQLite that aims to be a modern database, with a focus on low query latency and high availability. It’s designed to be a drop-in replacement for SQLite, and scales globally with Turso over HTTP.
+
+  LibSQL Extension: **[Documentation](https://darkterminal.mintlify.app/dark-extensions/introduction)**
+  Repository: **[LibSQL Driver Laravel](https://github.com/darkterminal/libsql-driver-laravel)**
+  LibSQL Driver Laravel: **[Documentation](https://darkterminal.mintlify.app/dark-packages/libsql-driver-laravel/readme)**
+
+  **LibSQL Driver Laravel** Ingredients:
+  - Laravel Spatie Package Skeleton
+  - LibSQL Extension PHP
+
+  **LibSQL Extension/Driver/Whatever** Ingredients:
+  - Rust Programming Language
+  - ext-php-rs (crate for Building new PHP Extension using Rust)
+
+  I am also have bunch of other **LibSQL** for **PHP**
+
+<br>
+
+6. [https://bshopp.vercel.app/]  
+   **Iqbal Muthahhary**
+
+  Assalamualaikum, Hallo Pa Dhika, dan juga teman" WPU, pertama-tama perkenalkan saya Iqbal Muthahhary biasa di panggil iqbal atau bal saya mahasiswa semester 2 dari Universitas Pamulang yang di tangerang jurusan Teknik Informatika, ini merupakan showcase pertama saya di WPU dan juga project Next Js pertama saya dan nama project saya adalah **BShopp**. BShopp merupakan sebuah web sederhana dan simple dimana kita bisa melakukan pemebelian sebuah product,
+
+  Di web cuman ada dua role doang yaitu : member/user dan admin. 
+
+  Feature : 
+  User : 
+  - Auth (Login & Register)
+  - Edit Profile
+  - Cart
+  - Favorite Products
+  - Comments
+  - Checkout Product
+
+  Techstack : 
+  - Next Js 14 (Pages Router)
+  - TypeScript
+  - NextAuth
+  - Firebase
+  - Framer-motion
+  - ChartJs
+  - Tailwindcss
+
+  Ini link web nya : https://bshopp.vercel.app/
+  Ini untuk source code nya: https://github.com/Ibaliqbal/bshopp
+  Dan ini untuk simulator payment nya : https://simulator.sandbox.midtrans.com/
+
+  Maaf pak untuk warna di web nya terlalu kaku cuman warna hitam-putih doang, soalnya bingung untuk refrensi warna web nya. Dan mohon untuk saran dan kritik nya pak dhika dan teman" sekalian. Oh iya untuk akses login admin nya saya akan dm ig bapak dengan username ig : muthahhary_iqbal
+
+<br>
+
+7. [https://sersow.com]  
+   **Asada**
+
+  Halo Pak Dhika dan teman², perkenalkan nama saya Mikail, saya izin share project buatan saya dan teman² saya, aplikasi bernama __Sersow__.
+
+  __# Sersow__
+  Sersow adalah sebuah platform yang dirancang untuk Project Showcase. User dapat menggunggah dan Showcase Project mereka dengan detail seperti deskripsi, kategori proyek, logo, gambar, video thumbnail, dll. User dapat berinteraksi dengan project lain seperti memberikan like, komentar, dan berbagi. Sersow juga menyediakan fitur-fitur seperti mencari proyek, trends peoject, dan menampilkan proyek dalam berbagai kategori seperti Website, Aplikasi Mobile, Karya Seni, Paper, AI, dll. Untuk saat ini Sersow diperuntukan mahasiswa atau seluruh entitas Universitas Pendidikan Indonesia yang memiliki email .upi.edu.
+
+  **Sersow**: https://sersow.com
+  _saat ini hanya support desktop only_
+
+  Karna ini masih internal UPI, Pak Dhika bisa pakai akun ini untuk coba:
+  username: asada
+  password: loreM@123
+  _mohon teman² disini jangan spam project karena banyak user aktif ya 🙏_
+
+  Catatan: Kedepanya Sersow ini bukan hanya di pakai mahasiswa UPI saja, tapi seluruh orang dapat akses. Sersow juga kedepanya bertujuan untuk membangun ekosistem yang lebih massive lagi.
+
+  ## __Tech Stack__
+  Sersow menggunakan architecture Microservices.
+
+  **Front-end**:
+  > • NextJS 13
+  > • TailwindCSS
+
+  **Back-end**:
+  > • ExpressJS
+  > • Sequelize
+  > • MySQL
+
+  **Server Architecture**:
+  > • Ubuntu
+  > • Cloudflare
+  > • Nginx
+  > • PM2
+  > • Google Search
+
+
+  ## __Repository & Documentation__
+  > • Web Repository: https://github.com/Asadaaaaa/sersow-view
+  > • Back-end Repository: https://github.com/Asadaaaaa/sersow-controller
+  > • API Documentation: https://documenter.getpostman.com/view/23736615/2s93XsX6GE
+  > • Design System: https://www.figma.com/community/file/1226144847810765063
+  > • Information Architecture: https://www.figma.com/community/file/1225399452746793090/sersow-information-architecture-v1-2
+
+<br>
+
+8. [https://keystro.app/]  
+   **Listening to Dev Podcast**
+
+  Assalamualaikum Pak Dhika dan kawan-kawan semua.
+  Kenalin Saya Arif mahasiswa D3 insyAllah bentar lagi lulus, sekarang lagi magang dan bulan depan pendaftaran sidang. Saya mau share aplikasi desktop buatan saya dan temen saya. Saya bagian teknikal atau fitur-fitur utamanya, kalau temen bagian desain/UInya.
+
+  Aplikasinya untuk sekarang baru release di Windows dan macOS, belum ada rencana untuk Linux. Link download bisa diliat di https://keystro.app/ atau bisa search Keystro di [Microsoft Store](https://apps.microsoft.com/detail/9n9p8jlx5kmq?hl=id-id&gl=ID) kalau di Windows. Kalau di MacOS bisa juga download versi yang terbaru di [github](https://github.com/Keystroapp/keystro-releases/releases)
+
+  Teknologi yang dipakai:
+  - Flutter
+  Udah itu aja :v Paling ada beberapa plugin Flutter native, diubah sesuai kebutuhan karena plugin yang ada sekarang itu butuh beberapa fitur yang belum ada.
+
+  Fitur:
+  - Visualisasi Keystroke / Shortcut Keyboard, basically keylogger lah tapi lokal dan bukan buat ngehack orang wkw
+  - Highlight Cursor
+  - Simulasi suara neken tombol keyboard mekanik
+
+  Untuk sekarang masih masih awal-awal rilis jadi mungkin belum banyak banget fitur tambahan dan mungkin ada beberapa bug yang ga ketahuan.
+  Boleh kirim kirim review/feedbacknya disini ya ges atau kalau mau ada yang ditanyain
+
+  Tengkyu
+
+<br>
+
+9. [https://frontendaese.de/]  
+   **As**
+
+  Hallo Pak Dhika, dan juga teman" WPU dan sepuh" WPU, saya Raihan biasa dipanggil nengok "hehe", saya hanya lulusan SMA saya ingin share simple web portofolio saya, ini merupakan showcase pertama saya di WPU showcase-project. Nama project ini adalah frontendaese, frontendaese merupakan sebuah web portofolio sederhana dan simple yang terinspirasi dari VSCode.
+
+  Tech Stack:
+  - React/Typescript
+  - TailwindCSS
+  - Framer Motion
+
+  Fitur:
+  - Ingin meniru VSCode, ada terminal, ada open/close file/tab, untuk saat ini baru itu aja pak, masih dikit dan simple.
+
+  Link:
+  - Live: https://frontendaese.de/
+  - Github: https://github.com/rhnas110/frontendaese-v2
+  - LinkedIn: https://www.linkedin.com/in/raihanas/ (follback LinkedIn saya pak jikalau boleh, terimakasih pak)
+
+  Note: Untuk fiturnya masih sedikit Pak, dan dimohon buka di Desktop atau >1024px, karena kalau di Mobile belum ada apa-apa. Terakhir mohon untuk saran dan kritik nya Pak Dhika, dan teman", seperti tambah fitur apa.
+
+<br>
+
+10. [https://ui-tokopedia.vercel.app]  
+   **EJA</>**
+
+Halo semua, saya Afriza panggil aja Eza ingin memperkenalkan project Tokopedia Clone untuk langkah tutorial buat nya ada di tiktok saya 
+@ahmadafriza25, untuk saat ini tampilan web hanya mobile saja Masih progres bagian PC atau desktop nya saran pakai  mobile simulator chrome download di extension.
+
+Note: Klo ingin post Product harus buat akun dan buat toko, cara buat nya ada di Profile bar, Klik Buka toko gratis lalu masukan nama toko nya,jika sudah maka masuk ke halaman selanjutnya dan klik teks tambah product
+
+Note2: jika tombol registrasi tidak muncul maka tulis ulang email nya
+
+Techstack:
+1.React.js
+2.Express.js
+3.Prisma ORM
+4.jwt auth
+5.cloudnary
+6.multer library express 
+7.midtrans payment gateway 
+ 
+Link: https://ui-tokopedia.vercel.app
+
+<br>
+<br>
