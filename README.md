@@ -3544,3 +3544,18 @@ Link: https://ui-tokopedia.vercel.app
 
 <br>
 <br>
+
+11. [https://teungku-zulkifli.github.io/]
+   **TEUNGKU ZULKIFLI 👨‍💻**
+
+     Assalamun alaikum wr.wb. pak , semuanya . jadi gini saya cuma pengen diriview ama revisi tentang website saya pak. walaupun lihat-lihat poject kalian hebat-hebat banget. BTW pak ini HTML ama CSS doang 😂.
+padahal agak minder sih project kek-kek gini di preview. itu aja sih pak . jangan lupa makan pak sehat-sehat terus.
+
+    Teknologi yang di pakai :
+
+    - Vs code
+    - codingan chat GPT 80%
+
+    ropository : https://github.com/TEUNGKU-ZULKIFLI/TEUNGKU-ZULKIFLI.github.io
+
+<br>
