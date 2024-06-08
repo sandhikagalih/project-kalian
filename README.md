@@ -3315,3 +3315,232 @@ Link: https://ui-tokopedia.vercel.app
 
 <br>
 <br>
+
+### 8 Juni 2024
+
+1. [https://buka.sh]  
+   **Sony**
+
+  Hello, saya Sony, mau juga iseng2 memperkenalkan project saya, namanya Buka, ini juga project yg dibuat di waktu luang. Isinya sebenarnya campur2, bisa nonton TV, dengerin radio, baca quick news dan lain lain. Ini juga masih work in progress. Terima kasih jika ada feedback. Techstack yg dipakai Next.js dan kawan-kawannya.
+
+  Link: https://buka.sh   
+
+<br>
+
+2. [https://github.com/oystr29/qrip]  
+   **oystr**
+
+  Hallo, perkenalkan nama saya Oktavian, disini saya mau share _cli tool_ simple yang saya buat. Namanya adalah `qrip`
+
+  **qrip** adalah _command line interface_ buat nampilkan qrcode url ip address dari network yang sedang terkoneksi
+
+  **## Kenapa buat ini?**
+  Saya pengen coba responsive layout dan touch screen web di hp, tapi kita harus terkoneksi di jaringan yang sama kalau mau buka web local di hp.
+
+  Dan saya mager untuk ngecek ip address nya di setting 😅 
+  Dan juga karena most of the time saya pakai terminal (neovim user btw), jadi kenapa gak langsung dapatin ip address nya di terminal, terus tinggal scan dari hp.
+  Maka jadilah **qrip**
+
+  **## Cara Install**
+  - Install [node](https://nodejs.org/en)
+  - Install secara global `npm i -g qrip-cli`
+  - Tinggal jalankan `qrip`  🎉
+
+  **Teknologi yang dipakai: **
+  - typescript 
+
+  > hati-hati dalam pemakaian (terutama saat streaming) karena ip address kalian bakal terlihat dari qr code nya
+
+  Untuk reponya ada di [github.com/oystr29/qrip](https://github.com/oystr29/qrip)
+  Dan npm packages nya ada di [npmjs.com/package/qrip-cli](https://www.npmjs.com/package/qrip-cli)
+
+
+  Itu aja dulu, sekian dan terimakasih (◍•ᴗ•◍)   
+
+<br>
+
+3. [https://www.iqbalfaris.my.id/]  
+   **Flexy**
+
+  Assalamu'alaikum Wr Wb. 
+
+  Halo pak Dhika dan Teman-teman semua, perkenalkan nama saya Iqbal Faris Akbar bisa dipanggil Iqbal, Faris atau Akbar :). Ini showcase project pertama kali saya yaitu project portofolio dengan admin panel page, jadi maaf kalo biasa aja projectnya 🙏,Pritttt 😂.
+
+  Project ini dibangun menggunakan **ReactJs **dan **Laravel **yang saya hubungkan menggunakan **API**. Project ini saya buat untuk memperdalam pemahaman saya tentang **ReactJs**, **Tailwind**, **API **dan **Laravel**
+
+  cara menjalankan:
+  `php artisan serve`
+  di terminal terpisah: `cd frontEnd` lalu  `npm run dev`
+
+  Library & Tech yang saya gunakan:
+  Vite X ReactJs: https://react.dev/
+  Laravel: https://laravel.com/docs/10.x
+  Tailwind: https://tailwindcss.com/
+  Swiper: https://swiperjs.com/
+  react-tooltip: https://www.npmjs.com/package/react-tooltip
+  Recaptcha: https://www.npmjs.com/package/react-google-recaptcha
+  Sweet Alert (Admin Page): https://sweetalert2.github.io/
+
+  Website: https://www.iqbalfaris.my.id/
+  Repo: https://github.com/iqbalfaris24/Portfolio-V.3
+
+  Terimakasih pak Dhika dan Teman-teman semua semoga sehat selalu... Oh ya jangan lupa cek email jika mencoba fitur contact 🙂
+
+<br>
+
+4. [https://lemme-guess-your-bday.netlify.app]  
+   **Aufa Rijal**
+
+  Halo semua
+
+  perkenalkan kembali, aku Aufa, kali ini aku mau share mini trivial game sulap yang simpel sekalian belajar framer motion, game nya tentang tebak tanggal lahir, nama game nya adalah Lemme Guess Your Bday. Sebenarnya permainan ini adalah permainan masa SD yang dikasih tau sama temen, karena game nya menarik kek ada magic2nya tpi logic behind nya udah fix, aku coba buat versi web game.
+
+  Cara main nya super simpel, kalian tinggal pilih dipikiran kalian sebuah angka dari 1 sampe 31, 
+  terus klik play lalu jawab masing masing card apakah nomer yang kalian pilih ada atau tidak di setiap card nya,
+  klik yes kalau iya dan klik no kalau nomer yang kalian pilih tidak ada di kartu itu
+  setelah kartu kelima, klik tombol Guess my number, nanti game nya akan menebak nomer yang kalian pilih.
+
+  Stack:
+  - React Vite
+  - Framer Motion
+  - Daisy UI
+
+  Game: https://lemme-guess-your-bday.netlify.app
+  Repo: https://github.com/aufarijaal/lemme-guess-your-bday
+  Referensi: https://ifkarsyah.blogspot.com/2016/12/sulap-zaman-sd-menebak-tanggal-ultah.html
+
+  Terimakasihhh
+
+<br>
+
+5. [https://dedekurnn.my.id]  
+   **kawaiineko**
+
+  Halo semua,
+
+  kenalin saya Dede, ini pertama kalinya ikutan showcase, dan mau showcase project portofolio aja tipis tipis pake nextjs monolith.
+
+  Tech stack yang dipake:
+  Neon Postgres
+  Drizzle ORM
+  Typescript
+  Next.js App Router
+  Framer Motion
+  i18n buat fitur ganti bahasa
+  Tailwind
+  Nodemailer
+
+  Link:
+  Live: https://dedekurnn.my.id
+  Repo: https://github.com/DedeKurnn/portfolio-v2
+
+  Inspirasi desainnya dari Brittany Chiang https://brittanychiang.com
+
+  Kritik dan sarannya sangat dinantikan. Makasihh
+
+<br>
+
+6. [https://ridloghifary.github.io/ridlos-portofolio/]  
+   **Ridloghfryy**
+
+  Halo semuanya!!
+
+  Saya Ridlo achmad ghifary ingin memperkenalkan proyek portofolio pribadi, contentnya masi sangat minimal dan saya masi butuh banyak saran dan masukan dari teman teman, ini adalah showcase pertama saya, saya juga tertarik di programming sejak lulus sekolah terus belajar dari youtube dan course gratis lainnya...
+
+  NB: beberapa animasi saya aplikasikan diawal jadi bisa direfresh ulang for better experience...👐🏻 
+
+  Stack yang saya pake:
+  - `React Vite`
+  - `Typescript`
+  - `Aos animation`
+  - `TailwindCss`
+  - `TailwindCSS BG Patterns`
+  - `Github Pages`
+  - `GSAP`
+  - `i18n`
+
+  Live: https://ridloghifary.github.io/ridlos-portofolio/
+  Repo: https://github.com/RidloGhifary/ridlos-portofolio
+
+  Sangat menerima kritik saran masukan hujatan...Makasi semuanyaa👋🏻
+
+<br>
+
+7. [https://porfoliov6.vercel.app]  
+   **EJA</>**
+
+  Halo semua, saya Afriza panggil aja Eza ingin memperkenalkan project  Portofolio saya, Di dalam nya ada AI
+  Chat, untuk toturial Membuat AI nya ada di tiktok @ahmadafriza25 
+
+  Techstack : Next.js, Flask(Python) , Groq AI Api, Vercel(deploy), Shancn UI library , Typescript 
+
+  Link Project :
+  https://porfoliov6.vercel.app
+
+
+  Link repo AI :
+  https://github.com/Sanjaee/Flask-AI.git
+
+<br>
+
+8. [https://dianwicaksono.site]  
+   **BaseleusNara**
+
+  Halo semuanya perkenalkan saya Dian, seorang pemula dalam pemrograman website dan juga UI/UX Design. Kali ini izinkan saya untuk memperkenalkan portfolio saya kepada kalian, saya sangat terbuka untuk feedback dan juga beberapa saran jadi tidak usah ragu ya.
+
+  Techstach yang digunakan : HTML, CSS, Bootstrap.
+
+  Link Portfolio: https://dianwicaksono.site
+  Repo : https://github.com/DianKartiko/Helios
+
+  Terima kasih semuanya.
+
+<br>
+
+9. [https://gr.mahpardigital.com/]  
+   **galih_roswandi654**
+
+  Hallo semuanya, perkenalkan nama saya Galih Roswandi saya berasal dari kota Tasikmalaya, Saat ini saya sedang bekerja di salah satu perusahaan yang ada di Yogyakarta berposisi sebagai seorang Frontend Developer. Ini pertama kali saya ikut showcase project WPU, Website yang saya buat yaitu personal portfolio yang menggunakan teknologi sebagai berikut:
+
+  - NextJS
+  - Tailwindcss
+  - Bot telegram
+  - Particle JS
+  - Framer motion
+  - Axios
+  - React toastify
+  - Nginx
+  - Cloudflare
+
+  Demo: https://gr.mahpardigital.com/
+  Repo: https://github.com/galihroswandi/Personal-Portfolio
+
+  Terima kasih banyak pak dhika dan teman teman semoga website nya menginspirasi mohon maaf jika domainnya belum seuai karena masih kurang dana, mohon kritik dan sarannya atau boleh juga mengirimkan feedback melalui form contact di websitenya.
+
+<br>
+
+10. [https://bocil-js-demo.vercel.app/]  
+   **Nanda Learning**
+
+  Halo perkenalkan nama saya Ananda Lukman Ramadhan kalian bisa panggil saya nanda,saya seorang solo devloper untuk sejauh ini masih untuk hobby aja ngoding hehe selain itu saya juga suka mengupload kontent tutorial dan seru seruan aja ngoding di tiktok ini nama akun saya @nandahobbyngoding.
+
+  Jadi saya perkenalkan sebuah project yang saya buat yaitu Bocil JS nama nya agak lucu karna saya terinspirasi saat lagi nonton windah basudara 😁 .Ok lanjut saya jelaskan fungsi nya sebagai started template untuk menginstall React Js,Express Js dan Express TS dengan waktu yang sangat cepat ⚡
+
+  Jika ingin memodifikasi nya saya izin kan karena saya berniat menjadikan extension ini sebagai project open source yang bisa di pakai oleh siapa pun 👌
+
+
+  Teknologi yang di gunakan : 
+
+  - Javascript 
+  - Node JS
+  - Extension Generator Framework
+
+  Demo Tampilan : https://bocil-js-demo.vercel.app/
+
+  Repository : https://github.com/NandaLearning/BocilJS-Extension
+
+
+  Trimakasih Pak Dika mau memberi kesempatan untuk saya membantu sesama programmer dengan karya karya project saya.
+
+<br>
+<br>
