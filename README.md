@@ -3544,3 +3544,21 @@ Link: https://ui-tokopedia.vercel.app
 
 <br>
 <br>
+
+11. [https://bxntang.vercel.app/]
+    **bxntang**
+    Assalamualaikum semuanya,
+
+Perkenalkan, nama saya Bintang. Saat ini, saya adalah mahasiswa semester 4 di Depok dan juga tinggal di Depok. Pada kesempatan kali ini, saya ingin mempersembahkan portofolio pribadi saya. Ini adalah pertama kalinya saya ikut showcase project WPU. Project ini adalah project pertama sekaligus portofolio pribadi saya saat saya baru belajar React. Beberapa ilmu saya dapatkan dari video/playlist YouTube ReactJs oleh Pak Sandhika.
+
+Stack yang digunakan:
+
+- ReactJs
+- TailwindCSS
+- AOS Library Animation
+Memang stack yang saya gunakan tidak banyak, tetapi saya masih proses belajar dan sangat membutuhkan kritik dan saran dari kalian untuk portofolio saya yang berikutnya (dengan Next.js).
+
+Demo: https://bxntang.vercel.app/
+Repo: https://github.com/nbintang/Portofolio-React-Tw
+
+Terima kasih juga kepada Pak Sandhika Sensei yang telah memberikan ilmu yang sangat bermanfaat bagi saya dan semua orang yang sedang belajar coding. Saya tidak akan melewatkan iklan YouTube jika videonya dari bapak. #akuCintaJavascript
