@@ -3544,3 +3544,239 @@ Link: https://ui-tokopedia.vercel.app
 
 <br>
 <br>
+
+### 15 Juni 2024
+
+1. [https://ngetik-ngebut.vercel.app/]  
+   **hibrizii**
+
+  Assalamualaikum, perkenalkan nama saya Hibrizii, mahasiswa sastra tapi sangat hobi ngoding hehe..
+  Sebelumnya saya terima kasih ke Pak Dhika atas semua ilmu yang telah dibagikan, ga hanya koding tapi juga pelajaran2 hidup yang saya petik (😭😭😭)
+
+  Meskipun ini pertama kali saya ikut showcase, tapi ini adalah project kedua yang saya kerjakan dengan niat.
+
+  Project ini namanya: NGETIKNGEBUT (website untuk ngetest kecepatan ngetik), untuk logika programnya saya pake JS vanilla jaya jaya jaya (mohon maaf kodingannya masih berantakan 🙏)
+
+  techstack:
+  - html
+  - sass
+  - JS
+  - nodeJs
+
+  demo: https://ngetik-ngebut.vercel.app/
+  repo: https://github.com/hibrizii/ngetik-ngebut
+
+  Mohon kritik dan sarannya , terima kasih🙏
+
+<br>
+
+2. [https://nimue-web.vercel.app/]  
+   **leonurium**
+
+  ### Introduction
+  halo semua nya, saya Leo warga depok, ini pertama kali saya ikut showcase, walaupun sudah join wpu sudah cukup lama. hehe.
+
+  Kali ini saya akan showcase project sederhana bernama Netijen Curhat, sebuah social media app, sebetulnya project ini di mulai pengerjaan nya 5 bulan lalu, lalu di hold sementara karena ada urusan lain yang lebih urgent, dan baru beberapa minggu ini baru bisa di lanjut lagi.
+
+  ### Background
+  Netijen Curhat adalah social network anonymously, berasal dari keresahan dan kegelisahan pribadi yang tidak bisa bercerita uneg-uneg ke siapapun, atau bisa di bilang lebih nyaman cerita ke stranger tanpa judgment, toh gak kenal. hehe
+  Akhirnya terbentuk lah Netijen Curhat ini yang mungkin memiliki masalah yang sama seperti saya bisa menuangkan isi hati nya di platform ini.
+
+  ### TechStack
+  - Nuxt 3
+  - Typescript
+  - Socket.io
+  - Supabase
+  - Redis
+  - Cloudinary
+
+  Saya membagi nya menjadi beberapa services :
+  - Web Frontend yang akan di showcase kan sekarang
+  - Backend menggunakan PHP-SLIM (repo nya belum bisa di publikasi)
+  - Socket Server : untuk socket.io, redis dan supabase (repo nya belum bisa di publikasi)
+
+  Feature nya :
+  - Buat Post
+  - Komentar
+  - Chat
+
+  demo : https://nimue-web.vercel.app/
+  repo : https://github.com/leonurium/nimue-web
+
+  Mohon kritik dan saran nya, terima kasih 🙏
+
+<br>
+
+3. [https://sitara.tapera.nojin.site/]  
+   **Nojin**
+
+  Assalamualaikum, hallo all. Perkenalkan saya Nojin, pelajar smk rpl. Kali ini saya ingin showcase projek yang bernama recreate sitara.tapera.go.id karna merasa cukup risih dengan tampilannya. 
+
+  Btw ini pertama kali saya ikut showcase, maaf kalo masih belepotan ya huhu🙏🏻
+
+  Projek ini bernama re-create sitara.tapera, saya hanya mencoba untuk membuat ulang website sitara.tapera.go.id dengan ilmu yang saya punya
+
+  Techstack
+  - html
+  - css tailwind
+  - js
+
+  Demo : https://sitara.tapera.nojin.site/
+  Repo : https://github.com/NojinNojs/recreate-tapera
+
+  Mohon kritik dan sarannya ya, aeigatouuu 🙏🏻
+
+<br>
+
+4. [https://color-matching-five.vercel.app/]  
+   **bima4924**
+
+  Assalamualaikum semua perkenalkan nama saya Bima. Izin share game berbasis web namanya Color Matching Game.
+
+  Inspirasi dari video tiktok dan youtube short
+  - link video tiktok: https://www.tiktok.com/@phillips_fambam/video/7319191689447427358
+  - link youtube short: https://www.youtube.com/shorts/HRObSDTHG18
+
+  Techstack:
+  - NextJS
+  - React
+  - TailwindCSS
+  - ReactDnD (buat drag and drop)
+  - React Conffeti (Biar kalau menang muncul conffeti 🤣 )
+
+  Demo: https://color-matching-five.vercel.app/
+  Repo: https://github.com/BimaAdi/color-matching
+
+  Mohon kritik dan saranya terutama dibagian UI dan UX nya. Masih belajar desain soalnya 🙏 .
+
+  Kalau teman-teman nemu bug, mau fix bug atau nambah fitur silahkan pull request saja. 
+
+  Thank You
+
+<br>
+
+5. [https://aidea-2d-surya-adityas-projects.vercel.app]  
+   **Suryaaditya**
+
+  Halo semua, saya ingin share mengenai explorasi “Full” THREE.js 3D experience untuk sebuah project kantor yg sedang saya kerjakan. Website ini memiliki slicing component on scroll yg tidak biasa karna diagonal ada pada page Home dan sebuah experiment slider yg ada di page expertise. 
+
+  Untuk menemukan cara membuat website seperti ini saya membutuhkan waktu sekita 1 bulan full untuk menguilik hingga jadi seperti di link dibawah (Hanya 2 page). Website ini HTML dan CSS nya hampir tidak terpakai jadi hanya untuk inisialisasi masing-masing section supaya bisa di render ke THREE.js nya. 
+
+  Semua asset 3D logo dan object ditengah itu masih buatan saya dan untuk testing, saya yakin nanti akan diganti.
+  Link: https://aidea-2d-surya-adityas-projects.vercel.app
+
+<br>
+
+6. [https://drive.google.com/file/d/1VEBRILPKayC9IE730ci136uUqC_T5AAf/view?usp=sharing]  
+   **mardiansyah**
+
+  Assalamualaikum warahmatullahi wabarakatuh pak dhika dan teman - teman perkenalkan saya Muhammad Mardiansyah,  izin share aplikasi mobile saya yaitu aplikasi kesehatan gizi,  salah satu fitur dari aplikasi saya adalah hasil inspirasi dari waktu saya mengikuti event GDG bandung
+
+  berikut fiturnya
+  1. Analisa kandungan gizi dari gambar menggunakan API Gemini
+  2. Melihat kandungan gizi dari ribuan data makanan di indonesia (tahan card saat pencarian jika ingin memilih lebih dari satu food)
+  3. Rencana sehat pengguna dapat mengelola rencana makanan perhari (geser jika ingin menghapus)
+  4. artikel
+
+
+  tech stack : 
+  Flutter
+  Express.js
+  Typescript
+  Supabase
+
+  berikut link download apk nya :
+  https://drive.google.com/file/d/1VEBRILPKayC9IE730ci136uUqC_T5AAf/view?usp=sharing
+  Link repo : https://github.com/mardiansyah17/nutrition2
+
+<br>
+
+7. [https://github.com/myudak/Vision-Label]  
+   **myudak**
+
+  Hi everyone! I've just launched a new project that helps you easily describe, rename, and organize your images using the free Gemini API.
+
+  If you’re like me and have thousands of images and memes scattered in a download folder with random filenames, this tool will be a lifesaver. While there are paid apps available, I decided to create an open-source solution for everyone to use for free. Check it out and simplify your image management!
+
+  Tech Stack : 
+  Python
+  Gemini API
+
+  Link ke project: https://github.com/myudak/Vision-Label
+
+<br>
+
+8. [https://futami.my.id]  
+   **双海Yarn**
+
+  Hai pak, saya futami kembali memberikan showcase sebuah web linktree like dengan banyak fitur
+
+  - Random trivia setiap refresh beranda
+  - Flexbox (karena grid tidak bisa center item ganjil)
+  - Dark mode (cuma backgroundnya saja)
+  - Dynamic favicon (terinspirasi astro js) dan bisa ikutin dark/light mode juga saat tidak fokus
+  - RSS youtube (karena lebih hemat dibanding api)
+
+  Techstack:
+  - Sveltekit
+  - Tailwind CSS
+  - rss-parser
+  - firebase (hosting saja)
+
+  https://futami.my.id
+  Repo: https://github.com/futamiyarn/futami-landing
+  Dynamic favicon code: https://github.com/futamiyarn/futami-landing/blob/main/src/routes/%2Blayout.svelte
+
+<br>
+
+9. [https://naelyo.github.io/Portfolio/]  
+   **Naell**
+
+  Halo Pak Dhika dan Kawan-kawan semua 😁. Perkenalkan saya Nathanael Christian Siboro (Nael), pada kesempatan kali ini saya mau share showcase project pertama saya yaitu sebuah website portfolio. Untuk responsive tablet belum saya buat🙏
+
+  Tech stack : 
+  1. HTML
+  2. CSS
+  3. JavaScript
+  4. Jquery
+  4. AOS
+  5. Animated CSS
+
+  Alasan kenapa saya buat website ini : karna ingin menantang diri saya untuk membuat website main portfolio, tanpa menggunakan framework yang terkenal seperti tailwind, bootstrap, framework js, DLL
+
+  jika ada masukkan dan kriktikan dari Pak Dhika maupun kawan-kawan, saya sangat menghargainya, terimakasih.
+
+  Github : https://github.com/NaelYo
+  Repo : https://github.com/NaelYo/Portfolio
+  Live : https://naelyo.github.io/Portfolio/
+
+<br>
+
+10. [https://yusufs.me]  
+   **panggilajasyris**
+
+  Halo pak dosen kita semua,perkenalkan saya Muhammad yusuf saputra (yusuf),izin share showcase project punya bang andre yang saya ubah sedikit🙏(sudah izin) .
+
+  github bang andre : https://github.com/ndrvndr
+
+  yang saya ubah:
+  - spotify activity ke discord activity
+  - blog sanity saya ubah menjadi certificate (ga bisa buka sanity studionya😭)
+  - add lib music
+
+  techstack:
+  - next
+  - tailwind
+  - ts
+  - cloudinary
+  - lanyard 
+  - giscuss dll
+
+  demo: https://yusufs.me
+  repo: https://github.com/VernSG/yusufporto.git
+
+  kalau mau nambah fitur atau yang lain silahkan pr's saja terimakasih🙏🏻
+
+<br>
+<br>
+
