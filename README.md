@@ -3780,3 +3780,266 @@ Link: https://ui-tokopedia.vercel.app
 <br>
 <br>
 
+
+### 23 Juni 2024
+
+1. [https://posin-amibeias-projects.vercel.app/]  
+   **Amibeia**
+
+  ## Halo Pak Dhika dan Kakak Kakak 👋
+
+  Perkenalkan saya Mibei, Engineer yang sedang melalui patah hatinya dengan membangun proyek sampingan di malam hari, saya berharap hal ini dapat membantu saya untuk tidak memikirkannya dan dapat tertidur dengan nyenyak 😅. Proyek pertama saya di fase ini adalah _POS System_ untuk toko bahan bangunan milik Uwa saya.
+
+  ### Tahap Pembuatan
+
+  Awalnya saya datang ke toko untuk melihat proses apa saja yang dapat dikembangkan menjadi produk digital, lalu saya bertanya kepada Uwa dan karyawannya terkait hal hal apa saja yang menjadi kendala dalam proses melayani konsumen atau pengelolaan produk. Lalu saya memperoleh 3 bagian utama yang sering menyebabkan adanya _human error_:
+
+  1. Pencatatan pesanan yang berisi data nama produk, harga, nama konsumen, dan lainnya
+  2. Pembuatan surat pengiriman barang
+  3. Manajemen ketersediaan produk
+
+  Setelahnya saya mulai mencari inspirasi _design_ untuk setiap komponen UI yang akan dibutuhkan dan langsung ke implementasi hehehe, saya agak malas untuk bagian membuat Diagram UML, dan _Modelling_ lainnya 🙏🏻
+
+  ### Fitur Utama
+
+  - Membuat pesanan dan menambahkan atribut pesanan seperti nama konsumen, alamat pengiriman, metode pengiriman, dan metode pembayaran
+  - Menambahkan produk ke dalam stok jika ketersediannya sudah menipis
+  - Menambahkan produk ke dalam daftar yang sudah tersedia
+  - Mencari dan filtrasi produk berdasarkan nama atau ketegori
+  - Filtrasi pesanan berdasarkan kategori produk, metode pengiriman, metode pembayaran, dan keterselesaian
+  - Mendownload data produk, pesanan, dan stok ke dalam bentuk XLSX
+  - ...
+
+  #### Tech Stacks
+
+  - Next.js
+  - Zustand
+  - TailwindCSS
+  - Shadcn UI
+
+  #### Links
+
+  - Github: <https://github.com/amibeia>
+  - Repo: <https://github.com/amibeia/posin>
+  - Live: <https://posin-amibeias-projects.vercel.app/>
+
+  Kritik dan saran sangat dibutuhkan untuk proses pengembangan proyek dan pengembangan pribadi saya untuk menjadi lebih baik lagi 😊
+
+<br>
+
+2. [https://gamepad12.000webhostapp.com/]  
+   **Kezmann**
+
+  Assalamualaikum pak dosen kita semua, perkenalkan saya Afriza Kezman Setiawan jurusan Sistem informasi semester 2 dari Ma'soem University, izin share showcase project pembuatan Website hasil saya pak untuk tugas Uas pemograman web di kampus saya pak saya juga pernah dapet projekan dari perusahaan kecil yang minta buatin website juga pak walaupun masih pemula, website ini  berisi tentang  olshop yang berisi crud, mohon koreksinya pak soalnya saya dari Sma bukan Smk pak, saya juga belajar otodidak dari chanel bapak dan Dea Afrizal, mohon koreksinya pak. Btw ini juga lagi ngerjain projek yang ke 7 pak, doain lancar dan terbuka inspirasi nya wkwkwk.
+
+  Tech Stacks
+  HTML
+  PHP
+  CSS
+  JavaScript
+
+
+  https://gamepad12.000webhostapp.com/
+
+<br>
+
+3. [https://zikkk.my.id/]  
+   **Zikkk**
+
+  Halo pak dika.
+  perkanelakan nama saya Zikri fikri, calon mahasiswa.
+
+  Nama Project: **Zosmed**
+  sosmed hasil belajar selama 2 minggu termasuk servernya juga :v
+
+  **TechStacks**
+  PHP 🔥
+  VUE 3
+  INERIA
+  LARAVEL
+  Tailwindcss
+
+  https://zikkk.my.id/
+  ex user
+  **email**: freyapremium4@gmail.com **pw**:admin@123
+
+  github: https://github.com/zikrifikri21
+
+  kalau ada yg mau gabung dev ni aplikasi dm aja https://www.instagram.com/zikrifikri.21/ 😁
+
+  Tolong jangan di spam ya kaka-kaka soalnya masih pemula soal atur server 🙏
+
+<br>
+
+4. [https://diky-without-c.github.io/color-sorter/]  
+   **snayz**
+
+  Halo semuanya, perkenalkan nama saya Diky. Pada kesempatan kali ini saya mau showcase pertama project saya yaitu sebuah game "Color-sorter", saya membuat project ini dalam rangka menchallange diri saya membuat sebuah game dalam 1 hari, dan menurut saya game ini simple dan dapat dibuat dalam 1 hari 😅
+
+  Tech stack:
+  1. React.js
+  2. TailwindCSS
+
+  Links:
+  Repo: https://github.com/Diky-Without-C/color-sorter
+  Demo: https://diky-without-c.github.io/color-sorter/
+
+<br>
+
+5. [https://thecoin.pow.kim]  
+   **broken dreamer**
+
+  Selamat malam Pak Dika dan semuanya, saya kembali untuk ikut meramaikan showcase malam ini. Project kali ini bernama "The Coin", sebuah komunitas **non-profit** yang bertujuan untuk memperkenalkan ekosistem blockchain seperti NFT, cryptocurrency (tolong jangan tanya mekleren saya warna apa), smart contract, DApps, dan lainnya. Tempat ini diharapkan bisa menjadi wadah bagi developer dan trader agar tidak ada lagi _blind people following blind people_. Komunitas ini diinisiasi oleh saya dan seorang teman (bukan developer), jadi untuk webnya saya yang mengerjakannya sendiri.
+
+  Web: https://thecoin.pow.kim
+  Github: https://github.com/thecoin-id (repository tidak dibagikan)
+
+  Saat ini, website ini hanya memiliki dua fitur utama, yaitu artikel dan kursus, akan terus dikembangkan agar lebih interaktif dan lebih lengkap untuk orang mencari informasi dan belajar. Jumlah artikel dan kursus masih terbatas karena website ini baru saja diluncurkan dan kami masih mencari *Champion* yang bersedia membantu mengisi materi. Bagi teman-teman yang ingin berbagi pengetahuan, kami sangat terbuka untuk kontribusi.
+
+  **Teknologi yang digunakan:**
+  - Main stack: Tailwind CSS, AlpineJs, Laravel, Livewire
+  - Library lainnya: Tiptap Editor, Sentry, Blade Icons, etc
+  - Database: PostgreSQL
+  - Deployment: Biznet Gio Neo Lite (kalau lemot salahkan mereka bukan salah PHP :v)
+
+  Websitenya masih terlihat sederhana karena kebanyakan fitur hanya digunakan oleh admin/champion/helper. Untuk pengerjaannya memakan waktu seminggu. Credentials akun untuk Pak Dika nanti saya kirim lewat DM (kalau tidak lupa, hehe). Btw, untuk Tall Stack, terakhir kali saya pakai dua tahun lalu di Laravel 8 dan Livewire 2, ternyata sekarang banyak fitur baru yang keren.
+
+  Bagi yang tertarik, silakan ikut meramaikan komunitasnya. Sekian dan terima masukan.
+
+<br>
+
+6. [https://www.sanity.io/projects/awd-portofolio]  
+   **Agus W**
+
+  Selamat malam semuanya dan Pak Dika, saya Agus Wahyu Dupayana (Awd) akan project showcase portofolio yang saya sudah buat sebelumnya. Perbedaan dari project portofolio ini yaitu terdapat CMS didalamnya dengan menggunakan Sanity CMS. Sanity CMS ini merupakan headless CMS yang berbasis cloud. Jadi, keselurahan konten web ini dapat diubah secara dinamis dengan Sanity Studio.
+
+  TechStack yang digunakan : 
+  * Sanity CMS
+  * Next JS
+  * Tailwind CSS
+
+  Link Portofolio : https://awd.my.id
+  Link Github : https://github.com/putuwahyu29/awd
+  Sanity Showcase Project : https://www.sanity.io/projects/awd-portofolio
+
+<br>
+
+7. [https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v2/Poly%20Landhep%20v2.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+
+Bismillaahirrahmaanirrahiim
+Assalaamu'alaykum Wr wb.
+
+Project shocase kali ini adalah Poly Landhep v2 - Differential Gear ⚙️⚙️⚙️.
+wow⚙️ℹ️🆖 akhirnya punya gear di dalam web.
+Di Blender, aku bikin shader node berisi beberapa fungsi matematika yang bisa dizoom sampai kecil, tidak pakai image texture. Blender supports, untuk generate data extra sebelum export menggunakan file glTF.
+
+Differential Gear ⚙️ sering dijumpai di kendaraan roda >= 3, menampilkan cara kerja gear saat kendaraan berbelok.
+Intel Corona adalah objek yang muncul tidak aku duga saat mengedit shader. Karena penampakan yang WoW💥💥, sekalian aku kasih control agar bisa dizoom. Objek ini sangat kecil dan langka, jadi IT WORK DONT TOUCH ‼️‼️.
+Sementara, texture disusun tidak karuan sebagai math art 🎨🖼️.
+
+Editor:
+- Blender 3.4.1
+- Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+- Notepad++
+
+library:
+- wgpu-matrix https://wgpu-matrix.org/docs/
+
+Repo: https://github.com/AngkasaMuhammad/Poly-Landhep
+Web: https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v2/Poly%20Landhep%20v2.html
+
+Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+Kita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉.
+Kita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, & banter.
+Maturnuwun.
+
+
+<br>
+
+8. [https://spacewyverndev.itch.io/novae-01]  
+   **aethxrn**
+
+## Halo Semuanya 👋
+Perkenalkan aku Abieza, aku baru saja lulus sebagai siswa rekayasa perangkat lunak dan kali ini aku ingin membagikan proyek perangkat lunak pertama yang kubuat untuk mengisi waktu luangku dirumah saat pandemi Covid-19 tahun 2020 lalu. Sebuah game sederhana dan singkat berkategori *shmup (shoot 'em up)* yang belum aku lanjutkan lagi sejak lama hehe.
+
+### Tahap Pembuatan
+- Analisis fungsi dan fitur-fitur dasar (Movement, HUD, dll.).
+- Membuat dan mengumpulkan aset (Sprite, UI, BGM, Sound Effect, dll.).
+- Pemrograman dimulai 🧑‍💻  : (Mulai meng-kode dan merealisasikan fungsi dan fitur yang sudah di rencakan di awal).
+- Tes fungsi dan fitur sebelum publish. 
+
+### Fitur-Fitur
+- 2D Retro Pixel Artstyle
+- 8-Directional Movement
+- Score System
+- 8 Lives
+- Random Enemy Bullet Speed
+- Invincibility Cooldown
+- Background Music
+- Infinite Enemies
+
+### Teknologi yang Digunakan
+- Godot
+- GDScript
+- Aseprite
+ 
+### Tautan
+Github: https://github.com/aethxrn
+Repo: https://github.com/aethxrn/novae-01
+Live: https://spacewyverndev.itch.io/novae-01
+
+Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tiba-tiba 💀), jadi aku segera memperbaiki dan menambahkan sedikit bagian di sini dan sana. Akan tetapi, game ini masih belum selesai dan aku sudah meninggalkannya berdebu di github setelah 1 tahun lebih. Kritik, saran, dan masukan sangat dipersilahkan hehe, dan mungkin aku akan menambahkan lagi fitur pada game ini nanti dan melanjutkan pengembangannya. Terima kasih!
+
+<br>
+
+9. [https://zenfresh-proto.netlify.app/]  
+   **Umar Jihad**
+
+  Halo semuanya.
+
+  Saya Umar dari Jogja. Sudah lama gak showcase 😁. Kali ini saya mau showcase project fullstack website pemesanan laundry. Ini upgrade dari showcase Saya sebelumnya. Kebetulan, project ini juga Saya jadikan bahan tugas mata kuliah MPPL (Metode Pengembangan Perangkat Lunak)
+
+  Demo: https://zenfresh-proto.netlify.app/
+  Repo: https://github.com/jihadable/zenfresh/tree/tugas_mppl
+
+  Tech Stack: MERN + daisyUI(tailwindcss) + Midtrans
+
+  Terdapat 2 role yaitu cutomer dan admin. Untuk customer, Pak Dhika bisa registrasi aja, untuk admin, nanti Saya kirim email sama password nya lewat DM discord Pak Dhika. 
+
+  Website ini juga dilengkapi payment gateway menggunakan midtrans. Hasil nonton tutor dari Pak Dhika dan Kang Dea.
+
+  Mekanisme pemesanan laundry
+  1. Pelanggan memesan laundry melalui halaman order
+  2. Admin mengonfirmasi pemesanan
+  3. Kurir menjemput pakaian yang ingin dilaundry
+  4. Admin memperbarui data pesanan seperti status
+  5. Kurir mengantar pakaian yang sudah dilaundry
+  6. Pelanggan melakukan pembayaran
+
+  Karena pembayaran melalui midtrans masih dalam mode sandbox, jadi untuk memudahkan pembayaran, Pak Dhika bisa menggunaan midtrans simulator
+  https://simulator.sandbox.midtrans.com/
+
+  Untuk pengembangan selanjutnya, Saya ingin menambahkan fitur lupa password, fitur chat serta fitur memasukkan alamat dengan memilih lewat Google Maps. Mungkin teman-teman memiliki saran atau masukan tentang fitur-fitur tersebut. tersebut.
+
+<br>
+
+10. [https://farrellid.xyz]  
+   **parreelll**
+
+  Hallo  Pak Sandhika dan Teman' semuanya,
+  Perkenalkan Nama Saya Farrell Athar R, Sebelumnya saya belum pernah mengikuti showcase project dan kali ini saya ingin membagikan Website Portfolio Saya yang sedang saya kembangkan. Website ini saya design dengan konsep modern minimalist.
+
+  Berikut Teknologi yang Saya Pakai :
+  HTML
+  CSS
+  JavaScript
+
+  🔗 Link Website: https://farrellid.xyz
+  Kritik & Saran? https://forms.gle/hsM64iJb3KMQ9XQx9
+
+  Terima kasih Pak Sandhika dan Teman-teman semuanya.
+
+<br>
+<br>
+
