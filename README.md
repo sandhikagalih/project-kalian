@@ -4043,3 +4043,296 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 <br>
 <br>
 
+### 30 Juni 2024
+
+1. [https://angka-bom.kid.my.id/]  
+   **Eris Sulistina**
+
+  Selamat malam pak Dhika dan mahasiswa WPU semuanya. Saya Eris Sulistina masih setia dengan AlpineJS.
+
+  Kali ini saya membawa projek sederhana bernama **Angka-Bom**. Projek ini terinspirasi dari video tiktok. Konsepnya pertama-tama akan disiapkan angka bom (angka random dari 1 sampai 100). Pemain diharuskan menebak angka dari 1 sampai 100. Jika tebakan sama dengan angka bom, maka permainan berakhir dan pemain yang menebak angka bom akan dijatuhi hukuman. Jika tebakan tidak sama dengan angka bom, maka kisaran angka tebakan akan dipersempit sesuai dengan tebakan pemain sebelumnya.
+
+  Teknologi yang saya gunakan:
+  - AlpineJS
+  - Tailwindcss
+  - SweetAlert2
+
+  Repo: https://github.com/sejutaimpian/angka-bom  
+  Demo: https://angka-bom.kid.my.id/
+
+  Terima kasih atas perhatian dan bintangnya 🙏
+
+  Tambahan: tekan `escape` untuk menampilkan angka bom.
+
+<br>
+
+2. [https://github.com/SurroundCoder/laravel-starter-kit]  
+   **Ceater**
+
+  Mungkin ada temen2 yang sering coba2 atau ingin membuat website Laravel tapi males untuk setup Laravel + Admin panelnya, belum lagi bersih2 untuk membuat templatenya.
+
+  Sekarang teman-teman gk perlu repot lagi untuk setup laravel dan menambahkan admin panelnya. Perkenalkan laravel-starter-kit, yang memiliki fitur berikut ini
+
+  Laravel 11
+  AdminLTE
+  Template layout ready
+
+  Github: https://github.com/SurroundCoder/laravel-starter-kit
+
+  Jadi teman-teman tinggal download dan tambahkan view kalian sendiri, tanpa perlu repot-repot membuat dari 0. Jika teman-teman memiliki feedback atau menemukan bug, silahkan langsung open issue ya. Terima Kasih. 
+  GitHub
+
+<br>
+
+3. [https://hutaoai.vercel.app/]  
+   **Asta**
+
+  Selamat Malam Pak Sandhika dan teman teman, Saya Ararya yang kemaren nungguin UTBK tapi sekarang belum diterima, Jadi disini saya mau showcase project lagi yang dimana saya buat project ini setelah saya ditolak UTBK, Project ini adalah chatbot yang cukup sederhana dan karena saya bingung kasih nama apa jadi saya berikan nama HuTao AI, jadi project ini terinspirasi dari character ai atau c.ai namun project ini menggunakan API dari Groq AI.
+
+  Tech Stack:
+  - React + Vite
+  - TailwindCSS
+  - DaisyUI
+  - GROQ API ( models: mixtral-8x7b-32768 )
+  - React Speech Recognition
+
+  Kekurangan:
+  - AI kadang ngelanjur ( karena saya beri prompt bahwa dia character dari genshin impact bernama HuTao  )
+  - Informasi kadang tidak valid
+
+  Link Project/Website:
+
+  https://hutaoai.vercel.app/
+
+  Mohon maaf jika projectnya banyak kurangnya, terimakasih Pak Sandhika dan teman teman mohon kritik dan sarannya.
+
+<br>
+
+4. [https://cek-username.vercel.app/]  
+   **sebutsajailham**
+
+  Assalamualaikum semuanya, izinkan saya share project saya 
+
+  Judul: **API Cek Username Game, PLN, Ewallet, Bank**
+
+  Sebuah layanan API untuk memvalidasikan username game, pengguna pln, ewallet, dan bank. Biasanya dipakai pada website PPOB dan sejenisnya
+
+  Untuk proyek Client/untuk testing kami open source kan
+  https://github.com/ilhamjaya08/cek-username
+
+  Adapun untuk layanan API gratis (belum ada wacana mau dibuat api key system) tapi source code nya tidak
+
+  Game tersedia yang bisa dicek: 
+  Free Fire, MLBB, PUBG M, CODM, Genshin Impact, Honkai Star Rail, Honkai Impact, Sausage Man, EA FC Mobile, Garena Arena Of Valor, LOL Wild Rift, Clash Royale
+
+  Note: Cek Ewallet & Bank belum tersedia sementara waktu
+  Apabila menemukan Bug baik dari API maupun website Client nya bisa laporkan ke saya 
+  URL : 
+  https://cek-username.vercel.app/ (Web Client + Informasi)
+  https://cek-username.onrender.com/ (API)
+
+  Tech stack:
+  Frontend: SvelteKit, Vite, Tailwind CSS, Flowbite-svelte
+  Backend: HonoJS, Bun, Typescript
+
+<br>
+
+5. []  
+   **Frans Jesky**
+
+
+<br>
+
+6. [https://jesky.dev]  
+   ****
+
+  Selamat malam pak Sandhika dan teman-teman semuanya, perkenalkan nama saya Jesky. Sudah lama saya mengetahui chanel WPU ini sebenarnya, tetapi baru belakangan ini saya pantengin hampir tiap hari karena baru notice ada content seru yaitu showcase review hampir di tiap live stream dan hampir semua live stream WPU 2 tahun kebelakang saya tonton semua karena sangat menarik melihat project showcase teman-teman.
+
+  Kalau orang-orang biasanya marathon movie, saya marathon live stream nya pak Sandhika hehe
+
+  Di kesempatan ini, saya juga ingin berpartisipasi dengan nge share portfolio website sederhana saya yang bahkan tidak ada fitur light/dark mode. Harapannya bisa mendapatkan feedback atau mungkin bisa menginspirasi teman-teman yang lain.
+
+  Tech Stack:
+  - NextJS
+  - Material UI
+  - Redux
+  - Typescript
+
+  Anyway, portfolio website ini merupakan salah satu faktor yang membantu saya mendapatkan kerja di jepang dengan visa sponsorship di awal bulan Juni (walau proses recruitmentnya panjang banget dan udh dari awal tahun 2024 hehe)
+
+  Live demo:
+  https://jesky.dev
+
+  Mohon maaf tapi repo source code tidak saya open source. Jika ada feedback dari pak Sandhika atau teman-teman, bisa lnsng sampaikan ke saya via discord ya. Terima kasih
+
+<br>
+
+7. [https://arifcode.dev/]  
+   **Arif Budiman Arrosyid**
+
+  Selamat malam semuanya, perkenalkan nama saya Arif Budiman.
+  Kebetulan kemaren nonton live youtube pak dika banyak yang tanya tentang livewire, maka..
+  Saya mau showcase laravel project dengan TALL Stack :
+  - Tailwind
+  - Alpine Js
+  - Laravel
+  - Livewire
+
+  **ArifCode **- A platform for developers to learn, share knowledge, and build their careers.
+
+  Project masih WIP
+  Production - https://arifcode.dev/
+  Maaf saya belum bisa share repo projectnya, tapi saya bisa share Laravel Starter Kit yang saya pake. (link ada di bawah)
+
+  **Implemented**
+  - Blog Systems
+  Semua user bisa buat article, tp butuh aproval dr admin kecuali akun yang ter verifikasi bisa tanpa approval.
+  - Comment Systems
+  Semua user bisa comment, bisa juga komen sebagai anonim.
+  - Personal Page
+  Kalo profile dilengkapi, fitur ini bisa diaktifkan.
+  Contoh: https://arifcode.dev/arifbudimanarrosyid
+  - Spatie Permission
+  - Laravel Pulse
+  - OAuth - Github
+  - Translation - EN, ID
+  - Spotlight
+
+  **WIP**
+  - Forum
+  - Screencast
+  - Email Notification
+
+  **Planned**
+  - API
+
+  Composer package yang dipakai:
+  - cjmellor/browser-sessions
+  - spatie/laravel-permission
+  - laravel/socialite
+  - laravel/pulse
+  - cviebrock/eloquent-sluggable
+  - danharrin/livewire-rate-limiting
+  - masmerise/livewire-toaster
+
+  Node package yang dipakai:
+  - trix
+  - @tiptap/core
+  - @tiptap/starter-kit
+  - @tailwindcss/forms
+  - @tailwindcss/typography
+
+  Service yang dipakai:
+  Server Management - Ploi
+  Server - Vultr
+  Domain - Cloudflare
+
+  **TALL **- A TALL Stack boilerplate with minimalist design, ready to boost your web app development journey.
+
+  Project ini sebetulnya adalah project LALI PRO yang berbayar, tapi saya hilangkan fitur laravel permission
+  dan saya jadikan ini Open Source karena saya tau kalian suka yang gratis. 😁
+  Semoga bermanfaat, dan jangan lupa star nya di repo ya.. ✌️✌️✌️
+
+  Repo - https://github.com/arifbudimanar/tall
+  Demo - https://tall.arifcode.dev/
+
+  Instalasi - https://arifcode.dev/articles/introducing-tall-laravel-starter-kit
+
+  Sekian, Terimakasih.
+
+<br>
+
+8. [https://teachtube.vercel.app]  
+   **Agus azra**
+
+  Assalamualaikum pak dhika dan teman-teman semuanya,
+  perkenalkan saya Agus trihanton,
+  Saya lagi buat open source namanya Teachtube.
+
+
+  Website: https://teachtube.vercel.app
+  GitHub: https://github.com/Agustrihanton/teach-tube
+
+  Tech stack
+
+  Next js 
+  Tailwindcss
+  Shadcn UI
+  typescript
+  zustand
+  JSON data
+
+
+  sangat senang apabila teman teman bersedia untuk berkontribusi dan memberikan saran untuk project ini kedepannya.
+
+  Rencananya akan terus saya update tiap weekend sampai minimal dapet 100 data.
+
+
+  Terima kasih banyak pak dika dan teman teman semuanya.
+
+<br>
+
+9. [https://khodam-cek.vercel.app/]  
+   **Uhuyy**
+
+  Assalamualaikum pak dhika dan teman-teman semuanya,
+
+  Perkenalkan saya Redho Arifin
+  Saya lagi buat Project suka-suka
+
+  Website: https://khodam-cek.vercel.app/
+  Repo: https://github.com/redhocode/react-cek-khodam
+
+  Teach Stack:
+  Vite + React
+  Javascript
+  Bun
+  Tailwindcss
+  Deasy UI
+
+  Saya berencana membuat Project suka-suka lainya dengan tema yang berbeda-beda kedepanya. 
+  Saya juga senang bila teman-teman mau berkontribusi
+  Terima-kasih
+
+<br>
+
+10. [https://apps.apple.com/us/app/netijen-curhat-chat-anonymous/id1479345323]  
+   **leonurium**
+
+  ### Introduction
+  halo semua nya, saya Leo. ini kedua kali saya ikut showcase. ketagihan. hehe.
+
+  Kali ini saya akan showcase project prequel dari project Ini (https://discord.com/channels/722002048643497994/758600947692732436/1248442903198437406), Netijen Curhat social media app, sebetulnya project ini sudah live di appstore iOS sejak 2019 dan saya tinggalkan karena niat nya iseng, setelah saya lihat kembali ternyata user nya lumayan “ada”, dan beberapa postingan (yang sekarang db nya sudah di arsipkan) keliahatan nya banyak yang terbantu, yang paling amaze ada yang tidak jadi melakukan suicide karena beliau curhat/buat postingan di aplikasi dan kebetulan banyak yang komentar supportive. Akhirnya saya memutuskan untuk merefactor legacy code nya dan membuat versi web nya juga, untuk android mungkin soon.
+
+  ### Fact
+  Untuk showcase pertama, sayang sekali saya tidak bisa menonton langsung karena berhalangan,  terima kasih Pak Dika dan juga teman-teman yang sudah membantu review dan testing, terutama bug spam. saat ini masih melakukan research terkait security nya.
+
+  Dan di live minggu lalu juga ada yang bertanya darimana saya mendapatkan nama user nya, sesimple taruh di dalam array, kemudian buat fungsi  get random name dari array tersebut. karena ada waktu luang saya jadikan API (ngarani-api), barangkali teman-teman ada yang mau pake juga.
+
+  ### TechStack
+  - Swift (UIKit)
+  - VIPER
+  - Firebase (Analytics, Crashlytics, Messaging, Distribution)
+  - Socket.io
+  - Sisa nya pake library pod yang umum2 aja.
+
+  ### Feature
+  masih sama seperti versi web nya
+  - buat post
+  - komentar
+  - chatting
+  - Notification pas Chat (cross platform)
+
+  Link Appstore : https://apps.apple.com/us/app/netijen-curhat-chat-anonymous/id1479345323
+
+  repo : Mohon maaf belum bisa di publikasikan.
+
+  Versi Web Showcase Pertama : https://nimue-web.vercel.app
+
+  API nama user : https://ngarani-api.vercel.app/api/get-name
+  repo ngarani : https://github.com/leonurium/ngarani-api
+
+  Mohon kritik dan saran nya, terima kasih 🙏
+
+<br>
+<br>
