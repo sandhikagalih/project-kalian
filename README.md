@@ -4137,14 +4137,9 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-5. []  
+
+5. [https://jesky.dev]  
    **Frans Jesky**
-
-
-<br>
-
-6. [https://jesky.dev]  
-   ****
 
   Selamat malam pak Sandhika dan teman-teman semuanya, perkenalkan nama saya Jesky. Sudah lama saya mengetahui chanel WPU ini sebenarnya, tetapi baru belakangan ini saya pantengin hampir tiap hari karena baru notice ada content seru yaitu showcase review hampir di tiap live stream dan hampir semua live stream WPU 2 tahun kebelakang saya tonton semua karena sangat menarik melihat project showcase teman-teman.
 
@@ -4167,7 +4162,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-7. [https://arifcode.dev/]  
+6. [https://arifcode.dev/]  
    **Arif Budiman Arrosyid**
 
   Selamat malam semuanya, perkenalkan nama saya Arif Budiman.
@@ -4242,7 +4237,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-8. [https://teachtube.vercel.app]  
+7. [https://teachtube.vercel.app]  
    **Agus azra**
 
   Assalamualaikum pak dhika dan teman-teman semuanya,
@@ -4272,8 +4267,8 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-9. [https://khodam-cek.vercel.app/]  
-   **Uhuyy**
+8. [https://khodam-cek.vercel.app/]  
+   **Redho A.**
 
   Assalamualaikum pak dhika dan teman-teman semuanya,
 
@@ -4296,7 +4291,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-10. [https://apps.apple.com/us/app/netijen-curhat-chat-anonymous/id1479345323]  
+9. [https://apps.apple.com/us/app/netijen-curhat-chat-anonymous/id1479345323]  
    **leonurium**
 
   ### Introduction
@@ -4333,6 +4328,26 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
   repo ngarani : https://github.com/leonurium/ngarani-api
 
   Mohon kritik dan saran nya, terima kasih 🙏
+
+<br>
+
+10. [https://patokstore.vercel.app]  
+   **Moa**
+
+  Assalamualaikum Pak Dhika, Dan kawan - kawan semuanya,
+
+  Perkenalkan saya bagas pamadya
+  Saya membuat project pertama saya yaitu toko (sebagai dropshipper) untuk menjual produk kopi dan alat alat kopi mungkin nanti bisa saya tambahkan produk yang lain, Saya masih belajar coding dasar dasar saja tidak sampai mendalami sekali, Meskipun menjadi seorang programmer bukan keinginan saya,  Saya mengisi waktu untuk belajar coding karena kadang gabut jika hari kerja saya libur / sudah selsai,  Saya membuat website toko saya untuk sampingan saya saja Terima Kasih.
+
+  Website : https://patokstore.vercel.app
+  Repo : https://github.com/bagaspatok0/patokstoreonline
+
+  Teach Stack:
+  Html
+  Java Script
+  Bootstrap
+
+  Terima kasih Pak!
 
 <br>
 <br>
