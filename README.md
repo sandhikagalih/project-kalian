@@ -4351,3 +4351,295 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 6 Juli 2024
+
+1. [https://muhammadsufyan.my.id]  
+   **App.jsx**
+
+  Assalamualaikum Pak Sandhika dan teman-teman semuanya 🙏 
+
+  Perkenalkan nama saya Muhammad Sufyan, Seorang mahasiswa semester 2 jurusan Sistem Informasi yang senang mempelajari hal baru serta bercita cita untuk dapat menciptakan sebuah inovasi di bidang Teknologi dan Informasi 😁 
+
+  Pada kesempatan kali ini, saya ingin menunjukkan website portofolio saya (Website Personal Profile) dengan detail seperti berikut :
+
+  Tech Stack yang digunakan :
+
+  - Next.JS (Main Framework)
+  - TypeScript (Main Programming Language)
+  - Chakra UI (UI Library)
+  - Framer Motion (Animation Library)
+  - Formik (Form Builder Library)
+  - Swiper JS (Slider Library)
+  - Yup (Form Validation Library)
+
+  Adapun untuk link menuju website dan repositori github saya cantumkan dibawah :
+
+  - Link Github Repositories : https://github.com/Muhammad-Sufyan-901/personal-portfolio-with-chakra-ui
+  - Link to Website : https://muhammadsufyan.my.id
+
+  Bagi teman teman yang sudah melihat website saya dan memiliki kritik, saran maupun pertanyaaan, dapat menghubungi saya melalui kontak Whatsapp, Email, Sosmed (Instagram, Tiktok, Facebook) maupun melalui section contact yang ada pada website saya (Saya terbuka dengan kritik dan saran yang masuk kepada saya) 😁 
+
+  Atas kesempatan yang diberikan, saya ucapkan terimakasih yang sebesar besarnya 😁 🙏
+
+<br>
+
+2. [http://rifkicode.site]  
+   **theawonnn**
+
+  Halo Pak Sandhika dan teman-teman yang lain!👋 
+
+  Salam kenal dari saya! Saya Rifki Maulana, seorang lulusan SMA yang memiliki antusiasme besar terhadap teknologi, khususnya dalam pengembangan web. Sebenarnya, saya lebih dominan di backend, tapi sekarang lagi semangat belajar frontend. Saat ini, saya tengah menggarap proyek portofolio web yang support beberapa bahasa (Inggris, bahasa Indonesia, bahasa sunda (Aksara dan Latin). 
+
+  Ide ini muncul pas ujian praktek bahasa Sunda sih, saya diminta untuk membuat produk yang melibatkan aksara Sunda. Karena bingung, yaudah akhirnya saya putuskan untuk buat web portofolio ini saja. 
+
+  Fitur :
+  - Dukungan multibahasa: Bahasa Inggris, bahasa Indonesia, bahasa Sunda, dan aksara Sunda.
+  - Search project berdasarkan judul dan tech stack
+  - Blog (undercontruction)
+
+  Tech stack yang digunakan:
+  - React JS dengan Vite sebagai bundler.
+  - Tailwind CSS untuk styling.
+  - Framer Motion untuk sedikit animasi
+  - i18next untuk lokalisasi bahasa
+
+  Webiste demo : http://rifkicode.site
+  Repo : https://github.com/Kiisanz/personal-website-portfolio
+
+  Oiya web ini belum sepenuhnya selesai masih ada beberapa bug, kedepannya bakal ada perbaikan dan penambahan seperti animasi dan fitur lainnya. Saya selalu terbuka untuk masukan, saran, atau kritik dari Anda semua! Terima kasih banyak atas dukungan dan semangatnya! 🚀
+
+<br>
+
+3. [https://github.com/kayabaakihiko13/SimpleCalculatorWin32/releases/tag/APK]  
+   **qadir**
+
+  Hallo Pak Sandhika dan Teman' semuanya ,
+  Perkenalkan Nama Iqbal Ramadhan Anniswa (mungkin teman-teman udahh pernah lihat), Sebelumnya saya belum pernah mengikuti showcase project dan kali ini saya ingin membagikan simple Calcultor dengan menggunakan winAPI 32  yang sedang saya kembangkan karena lagi gabut dan males dengan Python . Aplikasi ini sangat sederhana,baik tampilan maunpun fungsi nya.
+  kelebihan apk ini adalah bisa di jalankan di windows 11 maupun window jadul 
+  link repo https://github.com/kayabaakihiko13/SimpleCalculatorWin32
+  APK : https://github.com/kayabaakihiko13/SimpleCalculatorWin32/releases/tag/APK
+  Terima kasih atas perhatian bapak dan kawan- kawan
+
+<br>
+
+4. [https://blogqu.my.id]  
+   **Aufa Rijal**
+
+  Hello my gorgeous friend on the internet.. perkenalkan kembali aku Aufa. di showcase kali ini aku mau share project sejuta umat, yaitu blogging website. daripada pake wordpress, mending bikin sendiri awikwok. Sebenernya ini project udah bikin lama cuma baru aku hosting baru2 ini, nah pas itu aku belum belajar frontend framework jdi ini full laravel + blade.
+
+  Stack:
+  - Laravel 9
+  - Trix Editor
+
+  kalo ada saran dan masukan monggo
+
+  Github: https://github.com/aufarijaal/BlogQu
+  Website: https://blogqu.my.id
+
+<br>
+
+5. [https://hotelkhenjy.com]  
+   **khenjyx**
+
+  Perkenalkan, saya Khenjy Johnelson. Kali ini saya ingin showcase projek pertama saya yang saya sudah kembangin selama 6 bulan lebih. Website ini dapat digunakan untuk memesan hotel serta memiliki beberapa fitur Content Management System jika login sebagai admin. Selain itu website ini juga bisa digunakan sebagai framework yang mirip sb-admin jika sudah mengerti cara kerjanya.
+
+  Jika ingin akses sebagai admin bisa DM saya untuk demo.
+
+  Untuk tech stack saya tetap keep yang lama saja soalnya saya ingin lebih fokus kepada fitur dan algoritma daripada Tech Stack.
+
+  Tech Stack:
+  1. Codeigniter 3
+  2. Bootstrap 4.6
+
+  Fitur yang dimiliki website:
+  1. Booking hotel, Transaction (Bukan transaksi benaran), Operasional Hotel (Login sbg resepsionis)
+  2. Notification System
+  3. Booking & Transaction History
+  4. Content Management System
+  5. Dynamic Content (Semua isi konten website dapat diubah sebagai admin)
+  6. Dynamic Field (Database yang digunakan website dapat diubah dengan mudah dan cepat di kodingan)
+  7. Switch antara tampilan cards atau tabel
+  8. Multilingual (Untuk konten website belum)
+
+  Website: https://hotelkhenjy.com
+  Link github: https://github.com/khenjyjohnelson/hotelhebat
+
+  Kalau ada saran dan masukan silahkan
+
+  Terima kasih
+
+<br>
+
+6. [https://www.eazyui.com]  
+   **DIP**
+
+  Assalamualaikum Pak Sandhika, saya Dip ingin memperkenalkan project open source kedua kami bernama EazyUI, yang kami kerjakan bersama teman saya, Adi dan Ifnu. EazyUI adalah sebuah koleksi komponen native yang dapat digunakan langsung oleh pemula sekalipun karena hanya menggunakan:
+
+  Teknologi yang kami gunakan:
+
+  ReactJS
+  Docusaurus
+
+  Boost Your Creativity with Our UI Collection Without Third Party Required
+
+  Dengan EazyUI, Anda dapat dengan mudah mengintegrasikan komponen-komponen HTML, CSS, dan JavaScript ke dalam proyek Anda tanpa memerlukan pihak ketiga.
+
+  Link Demo: https://www.eazyui.com/
+
+  Repository: https://github.com/Eazylabs/EazyUI
+
+  Kami berharap Pak Sandhika dan teman-teman tertarik untuk membantu mengembangkan aplikasi ini. Silakan kunjungi GitHub kami untuk informasi lebih lanjut.
+
+  dan jika teman teman ingin mencari tema vscode bisa mencoba tema buatan <@991671442951393321> 
+  https://marketplace.visualstudio.com/items?itemName=TehMatcha.roselia-theme#review-details
+
+  Wassalamualaikum Wr. Wb.
+
+<br>
+
+7. [http://lsp.apps.smkn2-kng.sch.id/]  
+   **Gaimon**
+
+  Assalamu'alaikum Pak Sandhika dan teman-teman semua,
+
+  Perkenalkan, saya Haikal Jibran Al-Ghiffarry. Saya ingin memperkenalkan proyek website yang saya kerjakan selama 3 minggu untuk Lembaga Sertifikasi Profesi di sekolah saya, yaitu SMK Negeri 2 Kuningan. Proyek ini bernama "LSP SCADA APP".
+
+  Aplikasi berbasis website ini dirancang untuk mengelola dan melakukan pendaftaran sertifikasi uji kompetensi LSP - P1 SMK Negeri 2 Kuningan. Berikut fitur-fitur utamanya:
+  - Pendaftaran Uji Kompetensi
+  - Asesmen Mandiri
+  - Ekspor PDF
+  - Tanda Tangan Digital
+  - Pengelolaan Asesmen
+  - Pengelolaan User (Admin & Asesor)
+  - Pengelolaan Kompetensi
+  - Pengelolaan Pendaftaran
+  - Pengelolaan Asesmen Mandiri
+  - Verifikasi Data Diri
+  - Validasi Asesmen Mandiri
+  - Notifikasi Email
+
+  Library yang digunakan:
+  - Myth/Auth
+  - Google reCAPTCHA
+  - Endroid QRcode
+  - TCPDF
+
+  Template:
+  - Stisla
+  - Play Bootstrap
+
+  Framework:
+  - CodeIgniter 4
+
+  Untuk akses admin, silakan hubungi saya melalui DM.
+
+  Link Website: http://lsp.apps.smkn2-kng.sch.id/
+
+  Mohon masukan dan saran untuk pengembangan selanjutnya.
+
+  Terima kasih.
+
+  Wassalamu'alaikum.
+
+<br>
+
+8. [https://chatfusion-y57w.onrender.com]  
+   **wirayuda**
+
+  **Halo semuanya,**
+
+  Perkenalkan, saya Wira dari Bali. Nah, kali ini saya ingin berbagi tentang project terbaru saya! Sebelum masuk ke situ, saya mau cerita sedikit tentang project pertama saya dulu, yaitu Instafam. Jadi, Instafam ini adalah kloningan dari Instagram yang saya buat khusus untuk belajar NextJs. Meskipun begitu, saya masih merasa ada yang kurang, terutama di fitur chat-nya.
+
+  Jadi, saya pikir kenapa nggak bikin sesuatu yang lebih fokus ke chat saja? Selain itu, saya juga ingin menantang diri sendiri dengan mempelajari teknologi baru yang belum pernah saya coba sebelumnya. Akhirnya, lahirlah project kedua ini yang bernama **ChatFuzion** dengan menggunakan WebSocket, NestJS, dan PostgreSQL.
+
+  Project ini masih dalam tahap pengembangan, jadi harap maklum kalau masih ada bug atau fitur yang belum lengkap. Kalau kalian menemukan bug, langsung aja reply pesan ini.
+
+  **Tech Stack**
+
+  **Frontend**
+  - **Next.js 14**
+  - **SWR**
+  - **TypeScript**:
+  - **TailwindCSS**
+  - **ShadCN/UI**
+  - **Clerk**
+  - **Zustand**
+
+  **Backend**
+  - **NestJS**
+  - **Socket.io**
+  - **PostgreSQL**
+  - **Cloudinary**
+
+  **Features**
+  - **Messages**: Send text or images, edit and delete messages, react with emojis, create threads, pin messages.
+  - **Server Management**: Create, update, join, leave, delete servers, manage settings.
+  - **Role Management**: Create, update, delete roles, assign roles to members.
+  - **Channel Management**: Create, update, delete channels.
+  - **Threads Management**: Create, update, delete threads.
+  - **Server Profile**: View or edit server profile settings.
+  - **Voice Channels**: Create and join voice channels (coming soon).
+  - **Friend Requests**: Send, view, accept friend requests.
+
+  **Demo**
+  https://chatfusion-y57w.onrender.com
+  **Note** -> Kalau loadingnya lama tunggu aja, soalnya saya pakai free plan dari Render.com dan kalau service ga aktif bakal di matiin gtu service nya, jd kalau ada yang buka web nya bakal ke delay 50s atau lebih
+  
+
+  Terima kasih
+
+<br>
+
+9. [https://ryznox.my.id/]  
+   **reza**
+
+  Assalamu'alaikum Warahmatullahi Wabarakatuh,
+  Pak Dhika dan rekan-rekan programmer seperjuangan,
+
+  Dengan penuh semangat, saya kembali mengikuti Showcase Project untuk kedua kalinya. Kali ini, saya ingin memamerkan hasil karya saya: sebuah Personal Website Sederhana.
+
+  Meskipun terbilang sederhana, saya merasa puas dengan pencapaian ini dan berkomitmen untuk terus mengembangkannya di masa depan. Perlu diketahui bahwa project ini masih dalam tahap pengembangan.
+
+  Teknologi yang saya gunakan:
+
+  Next.js
+  Tailwind CSS
+  Framer Motion
+
+  Saya menyadari bahwa masih banyak kekurangan yang perlu diperbaiki. Namun, saya yakin dengan mengikuti Showcase Project ini, saya dapat terus belajar dan berkembang menjadi programmer yang lebih baik di masa depan.
+
+  Cita-cita saya adalah menjadi seorang Full-Stack Developer dan berkontribusi di bidang IT. Saya yakin dengan tekad dan kerja keras, saya dapat mencapai cita-cita tersebut.
+
+  Silahkan kunjungi link demo project saya untuk melihat lebih detail:
+
+  https://ryznox.my.id/
+
+  Terima kasih atas perhatiannya.
+
+  Wassalamu'alaikum Warahmatullahi Wabarakatuh.
+
+  NB: ini sudah pernah di review oleh Pak Sandhika , dan ini adalah  versi yang sudah sedikit diupdate dari versi sebelumnya
+
+<br>
+
+10. [https://game.dwirz.my.id]  
+   **Hendra Bangun**
+
+  Assalamualaikum Hendra, dan kawan-kawan semuanya,
+
+  Perkenalkan, saya Hendra. Saya membuat proyek pertama saya yaitu kumpulan file game yang bisa diakses secara online. Ini adalah upaya saya untuk belajar dan berbagi karya dengan komunitas. 
+
+  Website: https://game.dwirz.my.id/
+
+  Tech Stack:
+  - HTML
+  - CSS
+  - JavaScript
+
+  Terima kasih!
+
+  Hendra
+
+<br>
+<br>
