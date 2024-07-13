@@ -4643,3 +4643,262 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 13 Juli 2024
+
+1. [http://sibarang.chitos.site/public/]  
+   **CHITOS**
+
+  Halo pak Sandhika  dan rekan-rekan semua, 
+  saya I Kadek Naryasa (Chitos) izin untuk mengikuti showcase project, dimana ini adalah showcase pertama saya. 
+
+  project yang saya buat adalah sebuah website sederhana dengan nama SIBARANG (Sistem Informasi Pencatatan Peminjaman Barang) yang sistemnya mirip dengan aplikasi kasir.  
+
+  Sistem ini digunakan untuk mencatat data peminjaman barang yang dilakukan (dalam hal ini saya asumsikan di dalam sebuah perusahaan). sistem ini saya buat karena terinspirasi dari permasalahan salah satu teman saya di sebuah perusahaan IT, yang dimana untuk peminjaman barang (alat teknis) masih secara manual dan sering kali ada barang yang tidak tercatat. 
+  sistem ini akan terus saya kembangkan agar bisa mengatasi permasalahan tersebut.
+
+  TechStack :
+  1. Codeigniter 4
+  2. Boostrap 5
+  3. SweetAlert2
+
+  untuk websitenya bisa di akses di link : http://sibarang.chitos.site/public/
+  untuk github : https://github.com/zeynaryasa/SIBARANG_SHOW
+
+  ID dan Password untuk login akan kirimkan via cht discoed ke pak <@376337405185097728>  di hari sabtu saat sebelum live showcase project
+
+  untuk tampilannnya masih sangat simpel dan agak berantakan karena saya bukan FE , untuk itu saya ingin memminta saran dan masukan dari pak dhika dan rekan-rekan dari segi tampilan dan dari segi fitur yang mungkin bisa saya tambahkan kedepannya
+
+  noted :
+  halaman perlu di refresh jika ngeblank karena saya menggunakan hosting gratis 🙂
+
+  belum suport untuk mobile 🙂
+
+  terimakasih..!!
+
+<br>
+
+2. [https://farxdemo.vercel.app/]  
+   **parreelll**
+
+  Hallo  Pak Sandhika dan Teman' semuanya,
+  Perkenalkan Nama Saya Farrell Athar R <:iwak_hehe:1083991043155951646>, Sebelumnya saya sudah pernah mengikuti showcase project dan kali ini saya ingin showcase lagi yaitu Website Community Discord yang sedang saya Kembangkan. Website ini saya design dengan konsep modern minimalist sama seperti Website Portfolio Saya Pribadi yang telah di Showcase pada 23 Juni Lalu.
+
+  Berikut Teknologi yang Saya Pakai :
+  HTML
+  CSS
+  JavaScript
+
+  🔗 Link Website: https://y6rey.vercel.app
+  :worryadios: Kritik & Saran? https://forms.gle/hsM64iJb3KMQ9XQx9
+
+  (edited 09 juli 2024)
+  dan adapun Saya Membuat Website Portfolio Baru untuk Menggantikan Website Portfolio Lama saya dikarenakan Hosting Website Lama saya yang Berisikan Seluruh Script Portfolio lama Tidak bisa Diakses Kembali. dan Seluruh Database Script Web lama yang ada di File Manager tidak terbackup di Folder Pilihan (agar tidak terkena AutoClear)  maka seluruhnya terhapus karna AutoClear IOBit ( Software Pembersih ).
+
+  Teknologi: Sama, hanya ada tambahan di Contact Me menggunakan:
+  https://formsubmit.co 
+
+  Berikut Demo Web Portfolio Baru:
+  https://farxdemo.vercel.app/
+
+  Berikut Web Portfolio Lama saya:
+  https://farrellid.xyz
+
+
+  Terima kasih Pak Sandhika dan Teman-teman semuanya. :dinojoget:
+
+<br>
+
+3. [https://advierifaldy.vercel.app/]  
+   **Vi**
+
+  Halo semuanya
+
+  Perkenalkan saya M Advie Rifaldy dari Bandung, mahasiswa semester 6
+  Pada kesempatan kali ini saya mau share website portfolio sederhana saya yang baru saya update buat persiapan magang nanti di semester 7. dengan tech stack yang digunakan yaitu:
+
+  - NextJS
+  - Aceternity UI
+  - Tailwind CSS
+
+  Link website : https://advierifaldy.vercel.app/
+  Link repo : https://github.com/madvier83/portfolio-2024
+
+  Bila ada saran atau pertanyaan boleh chat melalui kontak yang ada pada website saya <:rock_approved:980409751869485057> 
+
+  Terima Kasih
+
+<br>
+
+4. [https://superdafis.github.io/portofolio/]  
+   **Superman**
+
+  Assalamualaikum warahmatullahi wabarakatuh.
+  Perkenalkan nama saya Danish. Izin share web portfolio saya.
+
+  Teknologi :
+  -HTML
+  -CSS
+  -Bootstrap
+
+  Demo : https://superdafis.github.io/portofolio/
+  Repo : https://github.com/superdafis/portofolio
+
+  Mohon kritik dan sarannya
+
+  Terimakasih
+
+<br>
+
+5. [https://crates.io/crates/mini-config]  
+   **DankenDonet**
+
+  Halo gaes,
+
+  perkenalkan saya Dharmawangsa (dikenal sebagai `zonblade`), mau share project open-source menggunakan bahasa Rust yang saya namai `mini-config`. Project ini ditujukan untuk menjadi solusi dari salah satu masalah yang ada.
+
+  Problem :
+  > pada saat saya membuat package ini, tidak ada config-package yang dapat melakukan perubahan pada runtime. Dan jika dibuat sendiri sebenarnya bisa (toh ini saya bikin sendiri juga), berhubung program yang sedang saya kerjakan bukan mono-repo maka, library dynamic config yang dapat berubah saat runtime diperlukan.
+
+  Solusi :
+  > se-simple membuat variable yang disimpan pada memory, menggunakan ENUM untuk menjadi perantara. Dan dengan adanya libraray ini, tidak perlu mengoding ulang pada setiap project lainnya, dan jika ada update tinggal set ke versi terbaru.
+
+  Teknologi :
+  Rust
+
+  Library tambahan:
+  `syn`
+  `quote`
+
+  Crates : https://crates.io/crates/mini-config
+  Repository (github) : https://github.com/zonblade/mini-config-rs
+
+  yang mau contribute sangat dipersilahkan 🔥
+
+  Terimakasih
+
+<br>
+
+6. [https://jurnalkoding.com/]  
+   **Raf**
+
+  Assalamualaikum teman-teman,
+
+  Perkenalkan saya Rafi izin untuk mengikuti showcase project, dimana project ini adalah showcase pertama saya. 
+
+  Saya ingin memperkenalkan sebuah project pribadi saya, sebuah platform Learning Management System (LMS) yang saya beri nama Jurnalkoding.com. Saat ini, website masih dalam tahap pengembangan. Melalui project ini, saya berharap dapat memperdalam pengetahuan tentang SEO dan manajemen website secara efektif.
+
+  Di Jurnalkoding.com, saya telah menyediakan berbagai artikel dan seri pembelajaran yang dapat diakses secara gratis oleh teman-teman semua. Jika teman-teman tertarik untuk belajar bersama atau sekadar melihat-lihat, saya mengundang teman - teman untuk mengunjungi website ini.
+
+  Techstack :
+  - Laravel
+  - Tailwindcss
+  - Javascript
+  - Alpinejs
+
+  Template : 
+  Template yang saya gunakan merupakan buatan saya sendiri, jika teman - teman tertarik bisa kunjungi di repository (github) : https://github.com/Raf-Taufiqurrahman/RILT-Starter [catatan : beda project dengan yang saya showcase].
+
+  Link Website : https://jurnalkoding.com/
+
+  Mohon masukan dan saran untuk pengembangan selanjutnya.
+
+  Terimakasih.
+
+<br>
+
+7. [https://redhoarifin.vercel.app]  
+   **Redho A.**
+
+  Assalamu'alaikum 
+  Selamat Siang kawan kawan saya Redho Arifin. 
+
+  Saya ingin memperkanal project portofolio diri saya. saya masih belajar dan terus mengupgrade diri. project akan terus saya kembangkan. kiranya saya akan berterima kasih apabila teman - teman memberikan saran.
+
+  Tech Stack:
+  - Next Js
+  - Shdcn UI
+  - Aceternity UI
+
+
+  Repo: https://github.com/redhocode/redhocode-portofolio-2024
+  Preview: https://redhoarifin.vercel.app
+
+  Note: untuk bahasa inggris masih kacau.
+
+  Terima Kasih
+
+<br>
+
+8. [https://mrdrfilm.site/]  
+   **Morderrr**
+
+  Assalamualaikum, 
+  Selamat Malam semuanya, perkenalkan saya Bernie Aryandhi
+
+  Saya ingin memperkenalkan Website hasil pembelajaran di youtube Web Programming Unpas, website itu merupakan website streaming & download film atau tv series, entah boleh atau engga, kalau boleh Alhamdulillah, kalau tidak, tidak apa apa. Saya hanya ingin memperkenalkan website saya di showcase-project pertama saya ini dan ini menjadi bukti nyata kalau konten WPU sangat sangat bermanfaat buat saya yang dari 0 ingin menjadi programmer hingga ini project terbesar saya walaupun masih sederhana, tolong saran nya untuk saya agar menjadi lebih baik kedepannya.
+
+  Tech Stack:
+  - Laravel
+  - Vite
+  - Tailwindcss
+  - Flowbite
+
+  API:
+  - The Movie Database
+  - Vidsrc
+
+  Preview : https://mrdrfilm.site/
+
+  Note : Maaf kalau isi footer nya ngasal
+
+  Terimakasih, Sukses semuanya🔥
+
+<br>
+
+9. [https://alfaridzahamdani.github.io/Portofolio2024/]  
+   **Alfa**
+
+  Assalamualaikum,
+  Selamat Siang semuanya perkenalkan saya Alfaridza
+
+  Saya ingin memperkenalkan website portofolio saya, saya masih belajar tentang frontend dan terus upgrade diri. Projects ini belum sepenuhnya jadi, masih akan terus saya kembangkan, mohon sarannya dari teman teman apabila ada yang perlu diperbaiki. 
+
+  Text Stack
+  -  NextJs
+  - Framer Motion
+  - GSAP
+  - SASS
+
+  GitHub Repository: https://github.com/AlfaridzaHamdani/Portofolio2024
+  Live Demo: https://alfaridzahamdani.github.io/Portofolio2024/ 
+
+  Terimakasih semuanya
+
+<br>
+
+10. [https://bizzcode.site/]  
+   **BimaBizz**
+
+  punten pak dika dan teman-teman mau ikut nampilin project sederhana 
+
+  ceritanya ini website ini dibuat karena sudah ingin migrasi dari reactjs ke Nextjs karena emang fitur yang ditawarkan oleh nextjs lebih wow dari pada react, salah satunya yang membuat saya ngebet banget pengen migrasi dari reactjs adalah pengelolaan SEO yang lumayan sederhana, dan bahkan bisa diterapkan menggunakan **Cockpit CMS**
+
+  **Penjelasan**
+
+  FYI: website sudah di crawl google dan ditempatkan di halaman pertama pencarian dengan keyword **bizzcode & bimabizz** (walau belum sempurna)
+
+  project ini dibuat dengan nextjs dan dengan tailwindcss serta ada fitur untuk melakukan filter block untuk badword (hanya ditampilkan diweb tidak di panel cms), serta fitur form yang akan langsung masuk ke email SMTP server saya yang memungkin saya langsung membalas email dari pengirim, untuk database saya menggunakan API yang disediakan oleh **Cockpit CMS** 
+
+  Github
+  https://github.com/BimaBizz/bizzcode
+
+  Demo Website
+  -> https://bizzcode.site/ (frontend)
+  -> https://admin.bizzcode.site/ (headless cms)
+
+  **email password saya kirim lewat DM dengan nama akun akuubimaa_ (untuk pak dika)**
+
+<br>
+<br>
+
