@@ -4902,3 +4902,263 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 <br>
 <br>
 
+
+### 20 Juli 2024
+
+1. [https://gachakodam.vercel.app/]  
+   **sakaskuy**
+
+  Assalamualaikum
+  Pak Dika dan teman-teman sekalian, perkenalkan nama saya Hamdan 
+
+  Saya ingin menunjukkan hasil website yang sedang ramai belakangan ini tenang khodam, jadi ini adalah projek iseng yang saya buat namanya gacha kodam, datasetnya di dapat dari GPT dan asset gambar dari google, mungkin banyak kurangnya.
+
+  Deskripsi : jadi kita memasukan nama setelah itu akan merandome khodam yang tersedia 25 khodam dengan tinggkat rarerty yang berbeda-beda 
+
+  Tack stack:
+  -Next js
+  -React Spring
+  -Tailwindcss
+  -Html to image
+
+  Repo :
+  https://github.com/sakatimuna7/gachakodam
+  Demo :
+  https://gachakodam.vercel.app/
+
+  Terimakasih semuanya.
+
+<br>
+
+2. [https://anwarachilles.my.id]  
+   **Anwar Achilles**
+
+  Assalamuallaikum. 
+
+  Punten Pak Dika dan teman-teman, ini pertama kali saya ikut showcase project ini.
+
+  Saya telah membuat website profil pribadi yang sederhana. Mungkin masih kurang dalam hal konten yang ingin saya sampaikan di website ini. Saat ini, saya masih memperbaiki dan mengembangkannya. Akan sangat membantu jika ada saran untuk meningkatkan kesalahan baik itu dalam tata letak, tipografi, konten, dan lainnya.
+
+  Untuk Tech Stack yang digunakan:
+  HTML, CSS, JS, PHP
+
+  Berikut adalah website saya:
+  https://anwarachilles.my.id
+
+  Untuk tambahan informasi, akan saya kirim DM ke Pak Dika.
+
+  Terima kasih semuanya 🙏.
+
+<br>
+
+3. [https://chic-licorice-a6212b.netlify.app/]  
+   **dihpan**
+
+  Haii teman-teman assalamualaikum wr wb, nama saya Aji Mustofa, kali ini saya mau showcase game yang bernama "Timbersaw". kalau teman-teman main dota 2 pasti tau hero ini ya, dimana kita sebagai player akan menghindari ranting dengan cara memotong pohon
+
+  Demo:  https://chic-licorice-a6212b.netlify.app/
+
+  Control: 
+  Panah kanan dan kiri
+
+
+  Github Repo: https://github.com/pepega90/timbersaw
+
+
+  Teknologi yang digunakan:
+
+  C++
+  raylib (https://www.raylib.com/)
+  emscripten (https://emscripten.org/)
+
+  Kurang lebihnya mohon maaf, terima kasih.
+
+<br>
+
+4. [https://nichommerce.com]  
+   **Nicholas Chandra**
+
+  Selamat Malam semuanya, perkenalkan saya Nicholas Chandra.
+
+  Saya ingin memperkenalkan website hasil karya saya, yaitu Nichommerce. Website ini merupakan platform e-commerce yang fokus menjual produk digital seperti laptop, PC, smartphone, dan elektronik lainnya. 
+
+  Sebelumnya, saya menggunakan MERN stack, namun setelah melihat banyak konten di feed Instagram dan YouTube tentang Laravel, saya memutuskan untuk belajar Laravel sekitar satu bulan yang lalu. Mohon saran dan kritikannya agar saya bisa terus berkembang.
+
+  Untuk teknologinya masih pake dasar-dasar di laravel,
+  untuk rolenya ada 2 yaitu admin dan user. Defaut: user
+
+  untuk admin bisa manage product,  manage category product, manage article, dan manage category article.
+
+  Tech Stack:
+
+  Laravel Blade
+  MySQL
+  Tailwind CSS
+
+  Preview: https://nichommerce.com
+
+  Note: Mohon maaf jika ada kekurangan pada beberapa bagian website.
+
+  Terima kasih, sukses selalu untuk kita semua! 🔥
+
+<br>
+
+5. [https://www.tokokeramik.com]  
+   **sarrahman**
+
+  Halo semuanya,
+
+  Saya Rahman. Saya bukan programmer profesional dan tidak pernah kuliah di bidang IT, jadi mohon maaf jika aplikasi saya kurang sempurna di mata para ahli di sini.
+
+  Saya mencoba menyelesaikan masalah yang sering dihadapi oleh toko keramik yang tidak memahami teknologi tetapi ingin membuat katalog keramik online dengan mudah dan cepat. Ide ini muncul karena saya juga bekerja sebagai sales di toko keramik.
+
+  Konsepnya sederhana: pemilik toko dapat mendaftar dan membuat toko online mereka sendiri. Mereka kemudian dapat menambahkan barang yang sudah saya sediakan, yang berasal dari berbagai merek yang ada di Indonesia. Dengan begitu, pemilik toko tidak perlu menginput barang mereka sendiri, karena saya telah melakukan scraping dari semua situs pemasok publik dan menambahkannya ke sistem saya dengan cepat.
+
+  Saya sadar aplikasi ini memiliki banyak kekurangan dan masih jauh dari sempurna, tetapi saya terus memperbaikinya di tengah kesibukan saya di luar coding.
+
+  Teknologi yang digunakan:
+
+  Frontend : Typescript - Nextjs
+  Backend : Rust - Actix web
+  UI : tailwindcss
+
+  ini aplikasinya : https://www.tokokeramik.com
+
+  kurang lebih mohon maaf dan terima kasih banyak pak dika atas semua ilmunya.
+
+<br>
+
+6. [https://connect-verse-seven.vercel.app/]  
+   **Ilham Rangga Kurniawan**
+
+  Halo semuanya
+
+  saya Ilham Rangga Kurniawan saya baru saja naik kelas 1 smk, pada kesempatan kali ini saya ingin showcase project saya beberapa minggu ini yaitu ig clone yang saya namakan Connect Verse, project ini bertujuan untuk belajar dan mengembangkan portofolio, apabila pak dhika mau coba fitur ainya bisa hubungi saya, supaya bisa diberikan akses 
+
+  teknologi yang digunakan antara lain
+
+  Next.js 14 (app router & server action)
+  Tailwind CSS
+  Shadcn UI
+  Pusher (untuk real time chat nya)
+  Prisma ORM
+  Postgre SQL
+  Zustand
+  Docker (walaupun masih error)
+
+  Source code: https://github.com/IlhamRanggaKurniawan/ConnectVerse
+  Demo:https://connect-verse-seven.vercel.app/
+
+  web ini akan saya terus kembangkan,  terimakasih semuanya
+
+<br>
+
+7. [https://yukitanya.my.id]  
+   **Taufik Hidayat**
+
+  Assalamu'alaikum wr. wb.
+
+  Halo semuanya, nama saya Taufik Hidayat. Saya ingin memperkenalkan project yang telah saya buat yaitu Yukitanya. 
+
+  Yukitanya adalah platform yang menghubungkan banyak siswa ke dalam sebuah forum diskusi untuk menyelesaikan tugas sekolah secara bersama. Referensinya dari Brainly tapi dengan user interface seperti Twitter.
+
+  Tech Stack yang digunakan adalah:
+  - TypeScript
+  - Next.js
+  - Node.js
+  - PostgreSQL
+  - Drizzle ORM
+  - Typesense
+  - Shadcn UI
+  - Tailwind CSS
+
+  Demo: https://yukitanya.my.id
+  Source Code: https://github.com/tfkhdyt/yukitanya
+
+  Ngomong-ngomong, project ini adalah Capstone Project yang kelompok saya buat selama MSIB 5 di mitra Forest Interactive di tahun 2023. Dan alhamdulillah capstone project kami menjadi juara pertama saat itu. Dan saat ini saya sedang menulis skripsi dengan menjadikan project ini menjadi topik skripsi saya.
+
+  Mungkin cukup sekian dari saya, saya ucapkan terima kasih untuk semuanya.
+
+  Wassalamu'alaikum wr. wb.
+
+<br>
+
+8. [https://mrxnunu.com/]  
+   **mrxnuu('name');**
+
+  Hallo semuanya,
+
+  perkenalkan nama saya ibnu, saya hanya Coder & Manusia Biasa. Disini saya ingin membagikan karya saya yaitu website
+  top up games yang dimana ini merpuakan tugas akhir kuliah saya lalu saya publish dan digunakan untuk bisinis walapun
+  sedang belajar bisnis digital
+  Saya sadar aplikasi ini memiliki banyak kekurangan dan masih jauh dari sempurna, tetapi saya terus memperbaikinya di tengah kesibukan saya di luar coding.
+
+  Teknologi yang digunakan :
+  Laravel MVC, MYSQL, nginx dan Bootsrap CSS
+
+  Fitur :
+  Cek Validasi Akun game
+  Terintegrasi payment gateway
+  Demo : https://mrxnunu.com/
+
+  Mungkin cukup sekian dari saya, saya ucapkan terima kasih untuk semuanya.
+
+  Wassalamu'alaikum wr. wb.
+
+<br>
+
+9. [https://slowy-portofolio-website.vercel.app/]  
+   **Xaviera de Rune**
+
+  wello pak dhika
+
+  kembali lagi, saya ingin showcase project sederhana, cman kali ini sangat sederhana karena saya tidak showcase ai, tpi hanya sekedar showcase web portofolio saya yang paling sederhana, untuk project-project sederhana cuma saya tampilkan beberapa pak dhika, untuk selebihnya saya private untuk kebutuhan lain pak, web sederhana ini menggunakan
+
+  - reactjs (sederhana)
+  - emailjs (sederhana )
+  - tailwind (sederhana)
+  - typwritter (sederhana)
+  - frammer motion
+
+  untuk webn sederhananya bisa pak dhika cek dsini
+  https://slowy-portofolio-website.vercel.app/
+
+  untuk repo web sederhananya bisa diliat disini pak dhika
+  https://github.com/slowy07/slowy07.github.io
+
+  terima kasih pak dhika sederhana, sederhana, sederhana, sederhana, sederhana, sederhana, sederhana, sederhana
+
+<br>
+
+10. [https://tokusatsu-heroes-agency.vercel.app/]  
+   **crocodille0476**
+
+  Assalamualaikum wr.wb
+
+  Selamat pagi/siang/sore/malam pak dhika dan rekan2x sekalian. Perkenalkan nama saya Akbar dan ini adalah pertama kalinya saya mengikuti showcase project WPU. saya belajar ilmu2x frontend developer baru hampir sekitar setahun yang lalu dengan mengikuti bootcamp frontend sekitar kurang lebih selama 4 bulan, tapi sampai sekarang belajarnya masih saya lanjutkan sendiri.  besar harapan saya dengan belajar frontend saya bisa switch career menjadi  seorang frontend developer. btw usia saya sudah kepala 3 hehe lumayan was2x juga saya sebenarnya pak nekat coba switch career di usia segini hehe (maaf malah saya jadi curhat).
+
+  Project yang saya buat ini adalah landing page sederhana dengan tema biro jasa tokusatsu (superhero jepang) karena kebetulan saya suka japanese culture & tokusatsu. Saya membuat website ini untuk mempelajari menggunakan Next JS dan belajar menggunakan animation.
+  Jadi ini fungsi websitenya kita bisa menyewa heroes yang kita pilih buat nolong kita kalau lagi dalam bahaya gitu pak hehehe ibarat kayak 911.
+    
+  teknologi:
+  - Next JS
+  - Tailwind
+  - Flowbite
+  - AOS
+  - Javascript
+  - Sweetalert
+
+  demo: https://tokusatsu-heroes-agency.vercel.app/
+  code: https://github.com/akbaradiw/Tokusatsu-Heroes-Agency
+
+  note: 
+  - animation pada halaman home bagian section kedua mode desktop kadang2x tidak jalan (harus refresh ulang).
+  - animation pada halaman portoflio bagian bawah juga kadang2x tidak jalan (harus refresh ulang).
+
+  Mohon maaf jika masih ada yang kurang 🙏 
+  Saya sangat mengharapkan kritik dan saran dari pak dhika & rekan sekalian. 
+
+  Wassalamualaikum wr.wb
+
+<br>
+<br>
