@@ -5162,3 +5162,265 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+
+### 25 Juli 2024
+
+1. [https://danfolio.vercel.app]  
+   **dnm17_**
+
+  Assalamualaikum wr. wb.
+
+  Selamat malam pak Dhika dan teman2 semua, perkenalkan nama saya Dani. Udah lama banget nih gak share projek di WPU soalnya belum ada semangat buat bikin projek baru heheh. Kali ini saya ingin share projek portfolio pribadi dan ini adalah showcase projek saya yg ke 8.
+
+  Disclaimer dulu sebelumnya projek ini tidak saya buat dari 0 melainkan hasil modifikasi dari projek orang lain yg berlisensi MIT dan ada beberapa bagian yang Saya modifikasi sesuai selera saya. Tentunya credit dari pembuat aslinya sudah saya cantumkan di footer.
+
+  Tech Stack yg digunakan adalah:
+  - TypeScript
+  - NextJS
+  - TailwindCSS
+
+  Demo: https://danfolio.vercel.app
+  Source Code: https://github.com/dfsdanimaulana/danfolio_2
+
+  Mohon kritik dan sarannya untuk projek ini supaya bisa dikembangkan lebih baik lagi, untuk waktu dan kesempatan nya saya ucapkan terimakasih 🙏
+
+<br>
+
+2. [https://porto-rzkir.vercel.app]  
+   **rineta**
+
+  Assalamualaikum wr.wb
+
+  Selamat malam pak dhika dan rekan2x sekalian. Perkenalkan nama saya Rizki dan ini adalah pertama kalinya saya mengikuti showcase project WPU.
+
+  Saya lulusan SMK PANDU BOGOR pada tahun 2021 dan saya belajar web developer secara otodidak dan pasti dengan bimbingan guru" yt contohnya Pak Dika.
+
+  Project yang saya buat ini adalah portofolio sederghana yang dibuat dari nol
+
+  teknologi  :
+
+  Next JS (typescript)
+  SASS
+  React-particles
+  React FAST Marquee
+  react-awesome-reveal
+
+  demo: https://porto-rzkir.vercel.app/
+
+  Mohon maaf jika masih ada yang kurang 🙏 
+  Saya sangat mengharapkan kritik dan saran dari pak dhika & rekan sekalian. 
+
+  Wassalamualaikum wr.wb
+
+<br>
+
+3. [https://aafrzl.my.id]  
+   **MrFluxy**
+
+  Assalamualaikum, Halo semuanya.
+
+  Perkenalkan, nama saya Afrizal Mufriz Fouji. Saya seorang frontend developer yang masih terus belajar, khususnya dalam bidang web development.
+
+  Ini adalah showcase pertama saya dan disini saya ingin memperkenalkan website portfolio. Project ini awalnya dibuat tahun lalu saat saya masih dalam tahap pembelajaran web development. Namun, saya telah menambahkan beberapa fitur baru, terutama fitur AI Chat.
+
+  Fitur AI Chat ini terintegrasi dengan AI SDK dari Vercel, dan untuk model LLM-nya, saya menggunakan GROQ. Fitur AI ini mampu menjawab semua pertanyaan tentang detail diri saya dan juga informasi yang ada pada website portfolio saya tapi kadang suka ngaco hehe.
+
+  Tech stack yang digunakan:
+
+  - Next.js
+  - TailwindCSS
+  - Framer Motion & GSAP (untuk animasi)
+  - ThreeJS (Render Asset 3D)
+  - Headless CMS Sanity (untuk dynamic content)
+  - AI SDK dengan model LLM GROQ
+
+  Link website : https://aafrzl.my.id
+
+  Saya sangat mengharapkan kritik dan saran dari temen-temen semua agar saya bisa terus berkembang dan menjadi lebih baik ke depannya.
+
+  Terima kasih 🙏🏻
+
+<br>
+
+4. [https://movie-astro.vercel.app]  
+   **Balsss**
+
+  Asslamualaikum, 
+
+  Selamat malam Pa Dika dan teman" semua nya, pada kali ini izinkan saya untuk melakukan showcase ketiga saya. Karena saya cukup bosan untuk menjalankan liburan semester yang cukup panjang jadi saya ber inisiatif untuk membuat sebuah web Movie dan Tv Show yang cukup simple saja ga ter lalu bagus banget
+
+  Techstack : 
+  - Astro Js
+  - React Js
+  - TypeScript
+  - Supabase
+  - AuthJs (auth-astro)
+  - TailwindCSS
+
+  Demo : https://movie-astro.vercel.app/
+  Source code : https://github.com/Ibaliqbal/movie-astro
+
+  Saya sangat menerima atas semua masukan dari Pa Dhika maupun teman" WPU
+
+  Terima kasih
+
+<br>
+
+5. [https://hollands-code.vercel.app]  
+   **M1917Enfield**
+
+  Assalamualaikum.
+
+  Halo pak Sandhika dan teman-teman semua, izin share projek yang sudah kami (@cadutX @syauqialzaa dan saya) kerjakan untuk challenge dicoding "IDCamp 2023 Challenge: Transformasi Teknologi Pendidikan Indonesia Emas 2045" dan Alhamdulillah atas rahmat dari Tuhan Yang Maha Pengasih (Allah) telah masuk winning apps:
+
+  Hollands Code:
+  https://hollands-code.vercel.app/
+
+  Ini merupakan sebuah tes untuk menentukan bakat dan kepribadian siswa yang didasarkan dari tes holland oleh john holland. Pada akhir test, siswa akan mendapatkan summary rekomendasi berdasarkan skor tes oleh AI.
+
+  Tech stack
+
+  Front-end:
+  - TypeScript (Programming Language)
+  - NextJS 14 (Framework)
+  - NextUI (UI library)
+  - TailwindCSS (CSS Framework)
+
+  Back-end:
+  - JavaScript (Programming Language)
+  - HapiJS (Framework)
+  - Prisma w/Postgresql (ORM & DB)
+  - HapiJWT (Authentication)
+  - Groq SDK (AI Summarization)
+
+  Karena projek masih berupa MVP kedepan nya fitur-fitur baru akan ditambahkan, oleh karena itu kritik maupun saran dari teman-teman semua akan sangat bermanfaat bagi kami.
+
+<br>
+
+6. [https://lokachips.netlify.app]  
+   **Zumaku**
+
+  Assalamualaikum👋.
+
+  Halo Pak Sandhika, mau berbagi nih salah satu projekan gratis yang saya buat untuk tambah-tambah portfolio.
+
+  Nama websitenya **Lokachip**. Sa buat ini website buat teman saya untuk membantu mempromosikan produk keripiknya. Karena websitenya cuma sebagai sistem informasi, jadi ngak pake backend.
+
+  Live demo
+  https://lokachips.netlify.app/
+
+  Documentation📑
+  https://github.com/zumaku/loka_chips
+
+  Frontend Tech 🛠️
+  => ReactJS
+  => Tailwind
+  => GSAP
+
+
+  Terima kasih 🙏
+
+<br>
+
+7. [https://fakhri112.github.io/space-tourism-website]  
+   **schrodingers9166**
+
+  Assalamualaikum 👐 
+
+  Halo semuanya, saya Fakhri mau berbagi hasil project.
+
+  Ini adalah project web yang berjudul Space Tourism Website atau landing page Space Tourism. Project ini sebenarnya challenge dari dari website frontendmentor.io. Semua asset dan desain UI sudah tersedia, saya tinggal implementasi aja sesuai challenge. Mohon saran dan kritiknya. 😁 
+
+
+  Tech: Vue 3, Vue Router, TailwindCSS
+  Repo: https://github.com/Fakhri112/space-tourism-website
+  Web: https://fakhri112.github.io/space-tourism-website
+
+  Ngomong-ngomong saya sudah pernah mengirimkan project di discord showcase-project pada bulan mei sebelumnya tetapi sampai sekarang belum pernah dipamerkan. Saya berharap project saya yang sebelumnya bisa dipamerkan kapan-kapan. 🙏 
+
+  Terimakasih
+
+<br>
+
+8. [https://vicalls.vercel.app]  
+   **Vi**
+
+  Halo semuanya
+
+  Perkenalkan saya Advie Rifaldy dari Bandung, mahasiswa semester 6
+  kali ini saya mau share sebuah aplikasi website PWA meeting sederhana seperti zoom/gmeet yang saya beri nama Vicalls, project ini saya buat dengan beberapa third party service, project ini sudah support PWA dan bisa di install di berbagai platform. Tech stack yang digunakan yaitu:
+
+  - NextJS
+  - Typescript
+  - Shadcn UI
+  - Tailwind CSS
+  - Next-PWA
+
+  - stream https://getstream.io
+  - clerk https://clerk.com
+
+  Website ini saya hosting menggunakan vercel:
+  https://vicalls.vercel.app
+
+  Repository project:
+  https://github.com/madvier83/vicalls
+
+  Dengan mengikuti tutorial, dari project ini saya belajar typescript, membuat custom hook, server action dan sistem layouting di nextjs 14.
+  Service yang saya gunakan yaitu clerk untuk auth dan stream untuk penyedia meeting, semua service dan hosting yang dipakai gratisan awokawok
+
+  Bila ada saran dan pertanyaan boleh chat lewat discord 
+  Terima Kasih .
+
+<br>
+
+9. [https://lazora.vercel.app]  
+   **scw.**
+
+  Assalamualaikum pak dika dan teman-teman semua. 
+
+  Perkenalakan nama saya Soni, seorang lulusan SMA yang belajar programming secara otodidak. Pada showcase pertama ini, saya ingin memperkenalkan sebuah project open-source yang telah saya kembangkan selama 3 bulan yaitu Lazora. Apa sih itu lazora? Lazora adalah sebuah e-commerce app yang dirancang untuk memfasilitasi penjualan berbagai jenis produk.
+
+  feature yang sudah saya kerjakan:
+  login multi role(RBAC), favourite, search & filter product, REST API, CRUD product, CRUD banner product, dashboard, infinite scroll, dll.
+
+  tech stack yang saya gunakan:
+  Next.Js(app router), redux toolkit, tailwind css, next auth, prisma ORM, mongodb, tanstack query, uploadthing, tiptap js, redis upstash.
+
+  akun untuk akses dashboard(readonly):
+    email: viewer@gmail.com,
+    password: JKH^#$dd7%6Hdh,
+
+  live demo: 
+  https://lazora.vercel.app/
+  Repository:
+  https://github.com/soni-canra-wiguna/lazora/
+
+  > *untuk saat ini app-nya belum responsive.*
+
+  jika ada kritik, saran, request feature ataupun pertanyaan, kalian bisa reply pesan ini atau chat saya di https://wa.me/083822462241
+  Terimakasih.
+
+<br>
+
+10. [https://kalsong.vercel.app]  
+   **kalin**
+
+  Assalamualaikum pak dika dan teman-teman semua. 
+
+  Perkenalkan nama saya Haikal, seorang mahasiswa di Bandung. Project ini merupakan project pertama saya dalam persiapan mata kuliah WBD pada semester depan. Project ini dinamakan Kalsong, project ini menampilkan lagu yang paling sering saya dengar menggunakan Spotify API. Projek ini memakan waktu sekitar satu minggu
+
+  Tech stack yang saya gunakan:
+  ReactJS, Tailwind, dan ExpressJS
+
+  Link website:
+  https://kalsong.vercel.app/
+
+  Link repository:
+  https://github.com/Haikalin/FE_Kalsong
+
+  jika ada kritik, saran, ataupun pertanyaan, bisa chat ke discord saya
+  Terimakasih.
+
+<br>
+<br>
