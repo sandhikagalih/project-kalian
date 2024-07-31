@@ -5424,3 +5424,253 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 1 Agustus 2024
+
+1. [https://journee-eight.vercel.app]  
+   **Raihanmd**
+
+  Assalamualaikum semuanya,
+
+  Nama saya Muhammad Raihan Firdaus dari Ciamis, pada kesempatan kali saya ini ingin berbagi hasil project yang tentunya 0 user side project. Jadi pada web yang saya buat kali ini cuma landing page biasa, simple, overrated, tapi gatau knp saya suka, jadi temanya ini adalah sebuah landing page Travel agent yang saya kasih nama Journee.
+
+  Tech stack yang saya pakai:
+
+  - NextJS TS
+  - Shadcn tailwind
+  - Swiper
+  - Framer motion
+  - Vercel
+
+  Berikut web nya yang saya hosting di vercel
+  https://journee-eight.vercel.app/
+
+  Repository
+  https://github.com/raihanmd/journee
+
+  Terimakasih pak
+
+<br>
+
+2. [https://quranmurojaah.aqwamhm.com]  
+   **AHizMuh**
+
+  Assalamu'alaikum Pak Dhika dan teman-teman WPU semuanya,
+
+  Perkenalkan, nama saya Aqwam. Pada kesempatan ini, saya ingin memperkenalkan proyek saya yang bernama QuranMuroja'ah. 
+
+  Proyek ini adalah sebuah aplikasi Al-Qur'an berbasis web yang dirancang untuk membantu para penghafal Al-Qur'an dalam menghafal ayat-ayat yang mirip satu sama lain, atau yang dikenal sebagai ayat-ayat mutasyabihat. Dengan bantuan aplikasi ini, diharapkan para penghafal tidak akan tertukar ketika menghafal atau mengulang ayat-ayat tersebut. Teman-teman bisa cek halaman landing page aplikasi ini untuk melihat fitur-fitur dan cara kerjanya.
+
+  Teknologi yang digunakan dalam pengembangan aplikasi ini: Nuxt JS, Vuetify, PWA dan Codeigniter.
+
+  Berikut adalah link untuk mengakses aplikasi QuranMuroja'ah: https://quranmurojaah.aqwamhm.com
+
+  InsyaAllah, saya akan terus berupaya untuk mengembangkan proyek ini agar dapat bermanfaat untuk saya pribadi dan para penghafal Al-Qur'an yang lainnya. Segala kritik dan saran sangat saya harapkan untuk penyempurnaan aplikasi ini di masa mendatang.
+
+  Kurang lebihnya mohon maaf. Wassalamu'alaikum warahmatullahi wabarakatuh.
+
+<br>
+
+3. [https://g-raph.netlify.app]  
+   **noosabaktee**
+
+  Halo pak dhika dan teman-teman👋 
+
+  Saya Rama Nusa Bakti ingin showcase project saya. Kali ini saya membuat game matematika bernama G-raph🦒
+  G-raph adalah game matematika yang menantang kalian membuat grafik untuk menembak target🎯
+  Point akan bertambah jika semua target dalam satu level berhasil ditembak🏅
+
+  Teknologi: 
+  HTML, CSS, Javascript
+
+  Link: 
+  https://g-raph.netlify.app
+
+  GitHub:
+  https://github.com/noosabaktee/graph-game
+
+<br>
+
+4. [https://angkasamuhammad.github.io/TanahSyam/v0/TanahSyam.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Project shocase kali ini adalah TanahSyam.
+  Kita harus tetap ingat saudara/saudari kita di Palestine dengan donasi, boikot, & sebar berita Palestina
+
+  Simulasi kota Gaza meluncurkan roket ke kota Tel eFFeFFF.
+  ini cuma :
+  1. utakatik sinar matahari
+  2. frame speed ( settimeout() )
+  3. getar on/off
+  4. timespeed
+
+  Editor:
+  - Blender 3.4.1
+  - Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+  - Notepad++
+
+  Javascript library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/TanahSyam
+  Web: https://angkasamuhammad.github.io/TanahSyam/v0/TanahSyam.html
+
+  Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+  Kita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉.
+  Kita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, & banter.
+  Maturnuwun.
+
+<br>
+
+5. [https://mntn-ten.vercel.app]  
+   **Iqbal**
+
+  Asslamualaikum Wr. Wb
+
+  Selamat pagi/siang/sore/malam, teman teman semuanya dan pak Sandhika Galih.
+
+  Perkenalkan nama saya Iqbal. Disini saya akan berbagi projek showcase saya untuk yang kedua kalinya, saya disini akan berbagi projek website landing page saya yang sangat sederhana ini. Projek ini berjudul MNTN yang berisi tentang mendaki gunung yang saya convert dari design UI dan UX Figma. Website yang saya buat menjadi harcode ini tidak sepenuhnya sesuai dengan Design UI/UX dari figma tapi saya menambahkan sedikit optimisasi agar animasi bisa berjalan lebih baik
+
+  Tech Stack : 
+  - Next.js
+  - GSAP
+  - TailwindCSS
+  - Lenis
+
+  Website : https://mntn-ten.vercel.app
+  Figma Design : https://www.figma.com/community/file/788675347108478517/mntn-landing-page
+  Repo : https://github.com/MuhammadIqbalAlghifari/mntn
+
+
+
+  Jika ada kritik, saran ataupun pertanyaan bisa comment atau chat ke discord saya
+  Terima kasih, Wassalamualailum Wr. Wb
+
+<br>
+
+6. [https://ridloghifary.github.io/snake-game]  
+   **Ridloghfryy**
+
+  Hallo semuanya @everyone dan pak Sandhika Galih
+
+  Saya Ridoo, terima kasih sudah dikasih kesempatan untuk showcase kedua saya, di showcase kali ini saya ingin membagikan project game ular kecil saya yang bernama Snake game (_game ular > snake game cuma dibahasa inggrisin aja wkwk_) featurenya masih sangat sedikit dan burik, setiap telur yg dimakan akan menambah 10 point dan game akan semakin cepat kalau point yg diperoleh semakin banyak...saya juga menambahkan sedikit background music agar tidak datar
+
+  Featurenya hanya ada:
+  - Ganti tema
+  - Start game
+  - Pause game
+  - Restart game
+  - Jalan naik, kiri, bawah, kanan (WASD | Arrow keys).
+  - Randomize lokasi telur
+  - Score tracking.
+  - Highest score
+
+  Tech stack yang saya pakai:
+
+  - HTML5
+  - Javascript
+  - CSS3
+
+  Live preview (github pages):
+  - https://ridloghifary.github.io/snake-game
+
+  Repository (github):
+  - https://github.com/RidloGhifary/snake-game
+
+  teman teman klo mau ngasi saran atau kritik, saya akan sangat menerima, thanks teman teman👐🏻
+  **(jaman sekarang udah ada ai, saya masih bikin game uler)** `#tetapngoding`
+
+<br>
+
+7. [https://riyandarmawan.github.io/list-of-lit]  
+   **Riyan**
+
+  Halo semuanya👋
+
+  Nama saya Riyan Darmawan, ini merupakan showcase pertama saya. Pada showcase kali saya akan mengirimkan project yang bernama List of LIt. Pada website ini kita dapat mencari sebuah buku menggunakan API dari google.
+
+  note: Untuk tampilannya sendiri bisa dibilang copas dari salah satu video di playlist laravel dari channel <@376337405185097728> tentang [component](https://youtu.be/-9Z9a91vTLc?si=LVfyLndiXdJwzLoc)😅
+
+  Tech Stack:
+  - React JS
+  - Tailwind CSS
+
+  API:
+  - [Google Books API](https://developers.google.com/books)
+
+  Fitur:
+  - Dapat mencari berdasarkan judul buku
+  - Dapat juga mencari buku berdarkan author buku tersebut dengan format (_Judul Buku_ by _Nama Author_)
+
+  Github Repository:
+  https://github.com/riyandarmawan/list-of-lit
+
+  Live Demo:
+  https://riyandarmawan.github.io/list-of-lit/
+
+  Teman-teman juga bisa memberikan saran kepada saya, agar di showcase selanjutnya bisa lebih baik lagi. 
+  Terima kasih teman teman
+
+<br>
+
+8. [https://porto-iqbal.vercel.app/]  
+   **Balsss**
+
+  Assalamualaikum Wr. Wb
+
+  Halo Pa Dhika dan semua teman WPU, karena saya merasa cukup bosan untuk menjalankan liburan semester kali ini dan kebetulan ga punya kegiatan yang cukup banyak untuk mengisi ke bosanan saya ini <:senyumin_aja:980830376547217419> , maka dengan  kesempatan ini izinkan saya untuk melakukan showcase sebuah project personal web/portofolio saya yang cukup sederhana dan simple saja<:hehehe:972470914488885288><:hehehe:972470914488885288>  , 
+
+  Techstack : 
+  - Astro Js
+  - React Js
+  - Sedikit GSAP dan Framer motion
+  - TailwindCSS
+
+  Demo : https://porto-iqbal.vercel.app/
+  Source code : https://github.com/Ibaliqbal/astro-porto
+
+  Mohon maaf jika ada animasi yang tidak terlalu bagus ataupun yang tidak sinkron karena saya baru pertama kali bikin web yang ada animasinya yang lumayan kompleks, saya sangat menerima atas semua masukan dari Pa Dhika maupun teman" WPU. 
+
+  Sekian dari saya Terimakasih 🙏
+
+<br>
+
+9. [https://bimapn.vercel.app/]  
+   **Richard**
+
+  Halo kawan-kawan👋 
+
+  Perkenalkan nama saya Bima Putra, dan pada kesempatan kali ini saya ingin showcase project portfolio website yang sudah saya buat menggunakan tech stack berikut:
+
+  - React
+  - NextJS
+  - Three JS
+  - TailwindCSS
+  - Framer Motion
+
+  **Link website:** 
+  https://bimapn.vercel.app/
+
+  **Github Repository:**
+  https://github.com/BimaPn/portfolio
+
+  Bila ada kritik dan saran silahkan untuk menghubungi saya via dm.
+  Sekian dari saya, terimakasih...
+
+<br>
+
+10. [https://stevanandreas.my.id/]  
+   **covilyn**
+
+  Halo pak, izin showcase web beneran sederhana aja kok,,
+
+  karna personal web saya yang kemarin rasanya sudah jadul, jadi pengen ganti dengan tema yang baru..
+
+  link: https://stevanandreas.my.id/
+  github: https://github.com/stpndrs
+
+<br>
+<br>
