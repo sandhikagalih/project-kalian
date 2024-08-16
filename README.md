@@ -5674,3 +5674,208 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+
+### 16 Agustus 2024
+
+1. [https://stockwise-2110.netlify.app/]  
+   **Umar Jihad**
+
+  Halo semua
+
+  Saya Umar dari Jogja. Kali ini mau showcase versi upgrade dari project sebelum nya lagi hehe. Project IMS (Inventory Management System) yang sebelum nya hanya terdiri dari frontend saja, sekarang udah full stack.
+
+  Tech Stack:
+  ReactJS (Typescript), Vanilla CSS, Laravel, MySQL
+
+  Demo: https://stockwise-2110.netlify.app/
+  Repo: https://github.com/jihadable/stockwise
+
+<br>
+
+2. [https://zach-me.vercel.app/]  
+   **Zaxxch**
+
+  Halo semuanya
+
+  Saya Rizky Zaki Zulkarnaen (Zach) dari Purwakarta yang sedang rantau ke bandung, saya seorang software engineer di suatu perusahaan sekaligus mahasiswa otw semeset 3 di Telkom University. Kali ini mau showcase personal website saya yang "sederhana"
+
+  Tech Stack:
+  NextJS, Tailwind, ShadCN, Aceternity, Resend
+
+  Web: https://zach-me.vercel.app/
+  Repo: https://github.com/RizkyZaki/my
+
+<br>
+
+3. [https://play.google.com/store/apps/details?id=com.potadev.literatur]  
+   **SiBagood**
+
+  Halo semuanaya,  karena saya gak sabar nunggu terjemahan LN official/yang bagus, jadi bikin aplikasi buat baca epub LN raw dengan fitur terjemahan yang bisa disimpan, mesin terjemahnya bisa pakai google translate, deepl, llama (groq) dan gemini.
+
+  tech : flutter, isar, epubx
+
+  link repo : https://github.com/bagusindrayana/literatur-flutter
+  link playstore : https://play.google.com/store/apps/details?id=com.potadev.literatur
+  kalau mau download manual : https://github.com/bagusindrayana/literatur-flutter/releases/tag/literatur-release-1.0.8-9-fix-build
+
+  oya karena saya pake api yang gratis jadi bisa kena limit, kalau kena limit silahkan build sendiri dengan api key masing2. terjemahannya bisa per chapter, karena kalau LN/buku yang teksnya panjang bakal lama dan rawan gagal kalau terjemahin semuanya langsung.
+
+<br>
+
+4. [https://github.com/amalhanaja/codebleu]  
+   **amalhanaja**
+
+  Halo semua, 
+
+  Saya Alfian Akmal Hanantio dari Tangerang Selatan. Saya seorang Android Developer di suatu perusahaan dan juga Mahasiswa Semester 8 di Universitas Terbuka. Mohon doanya untuk dinyatakan lulus di semester ini. 
+
+  Di kesempatan kali ini saya ingin share tentang project akhir pekan saya yang berjudul codeblue yang berbasis CLI untuk melakukan review pull request / merge request menggunakan Gemini AI dari Google.
+
+  Nama codebleu sendiri diambil dari influencer review makanan yang pernah viral beberapa saat lalu.
+
+  Tech stack: Go, Gemini API, Github API, Bitbucket API
+  Fitur: 
+  - Review Pull Request
+  - Support Bitbucket Pull Request
+  - Support Github Pull Request
+  - Custom Prompt
+
+  Link Repository: https://github.com/amalhanaja/codebleu
+
+  Harapannya dengan codebleu dapat memberi insight tambahan untuk pull request. karena sering saya alami kalau source code di tim saya patternnya sudah kebentuk review di dalam pull request sudah mulai berkurang. Dan menurut saya juga membantu saya dalam mempelajari teknologi baru dan bahasa baru
+
+  Terima kasih
+
+<br>
+
+5. [https://gilang-nugroho.github.io/gilangnugroho.github.io/]  
+   **SirLancelot**
+
+  Halo Pak Dika dan teman-teman, 
+
+  Perkenalkan nama saya Gilang Nugroho. Pada kesempatan kali ini saya ingin showcase project portfolio website  sederhana yang sudah saya buat menggunakan tech stack berikut:
+
+  HTML
+  CSS
+  Bootstrap
+  Javascript
+
+
+  Link website: 
+  https://gilang-nugroho.github.io/gilangnugroho.github.io/
+
+  Github Repository:
+  https://github.com/Gilang-Nugroho/gilangnugroho.github.io
+
+  Kritik dan saran saya harapkan sebagai pembelajaran bagi saya🙏
+  Sekian dari saya, terimakasih...
+
+<br>
+
+6. [https://hjcodintech.site/]  
+   **HJ Codin Tech**
+
+  Halo pak Dika dan teman - teman
+
+  Perkenalkan nama saya Hansen Jonatan . Saya adalah seorang mahasiswa Semester 5 di Universitas Internasional Batam . Pada kesempatan kali ini saya ingin showcase project landing page dari startup yang saya kembangkan dengan tech stack 
+
+  Next JS
+  React
+  Tailwindcss
+
+  Link website : 
+
+  https://hjcodintech.site/
+
+  Note: isi dari blog , saya konsumsi dan jadikan konten di Tiktok <@649579627416780811> 
+
+  Kritik dan saran saya harapkan sebagai pembelajaran dari saya 🙏.
+  Sekian dari saya , terimakasih teman - teman dan pak Dhika
+
+<br>
+
+7. [https://www.nekosukuriputo.dev/]  
+   **bossque**
+
+  Halo selamat malam Pak Dhika dan teman-teman semua. 😊
+
+  Perkenalkan nama saya Abdul Rahmat. Pada kesempatan kali ini saya mau ikut partisipasi dalam showcase project.
+  Project ini adalah web portofolio saya, saya mendapatkan inspirasi ketika saya menemukan link seorang developer luar negeri dari linkedIn. Saya berkeiginan memuat web yang serupa akan tetapi karena teknologi dan tools yang digunakan baru bagi saya, maka disela kesibukan saya bekerja saya mempelajari teknologi yang dipakai.
+  Web ini masih dalam pengembangan dan saya kira baru 20% dari ekspetasi saya. Jadi harap maklum jika teman-teman mendapatkan bug atau tampilan yang tidak sesuai dari web ini.
+
+  Tech stack:
+  Typescript
+  Vue 3 + Vite
+  Pinia
+  Phaser 3
+
+  berikut link nya : https://www.nekosukuriputo.dev/
+
+  Sekian dari saya, terimakasih Pak Dhika dan teman-teman. 🙏
+
+<br>
+
+8. [https://terminal-portofolio.vercel.app/]  
+   **sycle**
+
+  Halo selamat malam Pak Dhika dan teman-teman semua.
+
+  Perkenalkan nama saya Rivaldo Tandoko. Pada kesempatan kali ini saya ingin ikut showcase project terminal-portofolio. Project ini merupakan versi live demo dari project CLI Based Portofolio yang dibangun dengan Node.js. Project ini saya buat berdasarkan inspirasi dari project salah satu youtuber luar negeri yaitu ForrestKnight. 
+
+  Tech Stack:
+  TailwindCss
+  ReactJs
+
+  Link:
+  https://terminal-portofolio.vercel.app/
+
+  Repo:
+  https://github.com/rtrivaldo/terminal-portofolio-react
+
+  Kritik dan saran sangat saya harapkan sebagai pembelajaran bagi saya.
+  Sekian dari saya, terimakasih Pak Dhika dan teman-teman.
+
+<br>
+
+9. [https://diomaulana.com]  
+   **Dio Maulana**
+
+  Selamat malam semuanya, 
+  Perkenalkan nama saya Dio Maulana, pertama kali submit showcase.
+
+  izin share pengalaman pertama bikin full frontend web code (Biasanya backend / mobile) tapi nyontek juga dari learningnya pak dika tentang website porftofolio (cuman ngubah techstacknya)
+
+  Tech Stack: 
+  - Tailwind
+  - Svelte
+  - Elysia JS(Gaya-gayaan aja, cuman buat ngirim form ke telegram)
+  
+  Runtime bun.sh
+
+  Github: https://github.com/maulanadiooo/portofolio
+  Website: https://diomaulana.com
+
+  Terimakasih
+
+<br>
+
+10. [https://artiwancara.vercel.app/]  
+   **Habi**
+
+  Selamat malam semuanya, 
+  Perkenalkan nama saya Ahmad Rizky Nusantara Habibi
+
+  Izin share project yang bernama Artiwancara. Project ini adalah platform untuk latihan wawancara dengan AI.
+
+  Tech Stack:
+  Sveltekit
+  TailwindCSS
+
+  Github: https://github.com/ahmadhabibi14/artiwancara
+  Website: https://artiwancara.vercel.app/
+
+  Terimakasih
+
+<br>
+<br>
