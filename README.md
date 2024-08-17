@@ -5676,7 +5676,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 <br>
 
 
-### 16 Agustus 2024
+### 17 Agustus 2024
 
 1. [https://stockwise-2110.netlify.app/]  
    **Umar Jihad**
