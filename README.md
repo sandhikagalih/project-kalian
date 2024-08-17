@@ -5879,3 +5879,23 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+<br>
+<br>
+
+11. [https://benglevillage.site/]
+    **Bonaventura Octavito Cahyawan**
+    Selamat malam semuanyaa,
+    Perkenalkan saya Venven mahasiswa informatika Atma Jaya Yogyakarta
+
+    Izin share hasil program kerja saya kemarin saat kkn sebuah website desa
+
+    Tech Stack:
+    NextJS
+    Sanity
+
+    Website: https://benglevillage.site/
+
+    Izin masukannya teman teman agar website ini bisa lebih baik lagi
+    Terima Kasih!
+    
