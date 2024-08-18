@@ -5879,3 +5879,276 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+
+### 18 Agustus 2024
+
+1. [https://json.web.id]  
+   **daniwebdev**
+
+  Halo semuanya,
+
+  Izin share update project yang dulu pernah di pamerkan disini juga, tapi ada perubahan techstack yang saya gunakan. hehe
+
+  backend : Go (GoFiber+sqlite)
+  frontend : Nextjs + Tailwind + SwaggerUI
+
+  json.web.id adalah layanan gratis dan open source yang menyediakan API untuk melakukan operasi CRUD. Saya terinspirasi untuk membuat proyek ini ketika sedang belajar Flutter. Saat ingin mencoba operasi CRUD, saya harus membuat API terlebih dahulu, meskipun sederhana. Hal ini cukup merepotkan karena saya harus membuat backend terlebih dahulu. Meskipun saya memiliki latar belakang yang kuat di backend, saya berpikir, bagaimana jika ada orang yang belajar frontend tetapi pengetahuannya tentang backend kurang? Mereka mungkin akan mencoba menggunakan Firebase atau Firestore, yang juga memerlukan pengetahuan tentang setup di Firebase.
+
+  Apa saja yang dapat dilakukan dengan json.web.id?
+
+  Saya membuat json.web.id sefleksibel mungkin, sehingga kita bisa membuat berbagai use case dengan respons JSON yang kita tentukan. Ada beberapa hal yang bisa kita lakukan untuk membuat "resource" atau data yang unik untuk setiap request.
+
+  Kita bisa menggunakan `apiKey` atau `resourceName`, atau kombinasi keduanya. Misalnya, kita ingin membuat aplikasi **daftar kontak** dan **todo list**. Kita bisa mengisi dengan `apiKey="project-saya"` dan `resourceName=contacts` atau `resourceName=todo`, sehingga data todo list kita tidak tercampur dengan inputan orang lain. Semoga bisa dipahami, ya
+
+  Terimakasih,
+  website: https://json.web.id
+  Github: https://github.com/daniwebdev/json.web.id (terimakasih bintangnya 😁 )
+
+<br>
+
+2. [https://uitopia.xyz]  
+   **smithereens**
+
+  Halo semua,
+
+  Perkenalkan, nama saya Cahya Wibawa.
+
+  izin share project ui/topia sebuah ui component library terinspirasi dari Magic UI dan Aceternity. Ide bikin project ini karena lagi suka eksperiment UI dengan Framer Motion.
+
+  Tech Stack:
+  Next.js
+  TailwindCSS
+  shadcn/ui
+  Framer Motion
+
+  Tautan:
+  GitHub: https://git.new/ui/topia
+  Website: https://uitopia.xyz
+  Blog: https://cahyawibawa.dev/projects/ui-topia
+
+  Saat ini, showcase components masih dikit, jadi saya sangat mengapresiasi kontribusi dari teman-teman yang ingin menambahkan lebih banyak lagi UI components.
+
+  Terima kasih!
+
+<br>
+
+3. [https://links.mgkusumaputra.me/Linktion]  
+   **MGKPs**
+
+  Halo selamat pagi, siang, sore, malam semuanya
+  Sudah lama rasanya tidak ikutan showcase project, dan akhirnya kali ini bisa ikutan lagi showcase project simple hasil speedrun selama kurang lebih 20 jam+
+
+  Project kali ini adalah **Linktion** 
+  Apa itu linktion? Jadi Linktion adalah self-hosted Link-in-bio yang menggunakan notion sebagai CMSnya.
+  Untuk saat ini fiturnya masih basic seperti linktree pada umumnya. Karena sekalian project belajar github action, husky, dan kawan-kawan
+
+  Project ini bisa digunakan semua orang tanpa perlu hardcode, cukup custom semuanya melalui notion database.
+
+  Tech stack untuk project ini:
+  - Next.js 14 app dir
+  - Tailwind
+  - Notion SDK
+
+  bagi kawan-kawan yang memiliki ide saran untuk update fitur selanjutnya bisa mengisi form ini <:hehehe:972470914488885288> https://tally.so/r/w4jyOo
+  Link Repository dan Demo:
+  - Repo: https://github.com/Mgkusumaputra/linktion
+  - Demo: https://links.mgkusumaputra.me/Linktion
+  Installation Guide: https://mgkusumaputra.my.id/linktion/guide 
+
+  Terima kasih atas waktunya kawan-kawan dan pak dhika, project ini masih sangat basic sekali jadi boleh berikan kritik dan saran untuk update project ini kedepannya
+
+<br>
+
+4. [https://art.razaofficial.cloud/]  
+   **Revenant S.KOM**
+
+  Hallo semua
+  Hallo Pak Dika
+
+  Perkenalkan saya Rahman atau bisa di panggil Kibieptr / Omann. Saya lulusan SMK tahun 2024. 
+
+  Mohon izin share project Artikel/Blog yang saya buat dari bulan kemarin dengan nama ****Raza Art****
+
+  ****Raza Art**** adalah situs artikel yang menyediakan platform bagi pengguna untuk membaca dan berbagi artikel tentang teknologi pengembang.
+
+  *****Tech Stack:*****
+
+  - ****Frontend & Backend****:
+    - Next.js
+    - React.js
+  - ****Database****:
+    - Supabase
+  - ****Style****:
+    - Tailwind CSS
+  - ****Content SDK****:
+    - Content Layer
+  - ****Slugger****:
+    - Github Slugger
+
+  Tautan:
+  Repo : https://github.com/kibieptr/raza-art
+  Website :  https://art.razaofficial.cloud/ atau https://razaart.vercel.app/
+
+  Support Me Jangan lupa di follow :
+  Instagram : https://instagram.com/kibieptr_
+  Linkedin : https://www.linkedin.com/in/kibieptr/
+  Saweria : https://saweria.co/razaid
+  Trakteer : https://trakteer.id/razaid
+
+
+  Terimakasih puh :u
+  Minta Kritik dan saran 
+  Sekian terima gaji :u
+
+<br>
+
+5. [https://ahmadammar.vercel.app]  
+   **musyaffaaa**
+
+  Assalamualaikum, Selamat pagi Pa Dhika dan teman-teman, perkenalkan saya Ammar ingin mengikuti project showcase nya WPU
+
+  Disini saya membuat website portfolio pribadi saya dan merupakan project pertama saya menggunakan NextJs dengan Typescript. Dalam website saya ini juga dilengkapi dengan fitur dark mode untuk user interface nya, ya mungkin project saya ini masih sangat terlihat sederhana oleh karena itu melalui project showcase ini saya ingin memperoleh masukan dari Pa Dhika dan teman-teman WPU semua.
+
+  Tech Stack :
+  - NextJs 14
+  - Tailwind CSS
+  - Shadcn UI
+
+  Link GitHub : 
+  https://github.com/ahmadammarm/ammar-nextjs
+
+  Link Website : 
+  https://ahmadammar.vercel.app
+
+  Terima kasih sudah mereview project sederhana saya ini semoga kedepannya bisa mengembangkan dengan lebih baik lagi😃
+
+<br>
+
+6. [https://disbyte.vercel.app/]  
+   **Yudistira Putra**
+
+  Halo semuanya Perkenalkan saya Yudis mau coba ikut project showcase
+
+  Disini saya bikin website umkm jual beli produk digital yang login nya pakai wallet metamask dan transaksi menggunakan token Matic di jaringan polygon .
+
+  Tech Stack :
+  React 
+  Bootstrap
+
+  Tautan
+  Repo : https://github.com/Yudis-bit/web3commerce.git
+  Website : https://disbyte.vercel.app/
+
+  Terimakasih banyak, mohon maaf bila ada salah kata baru pertama soalnya ikut showcase 🙏
+
+<br>
+
+7. [https://jcwd031001.purwadhikabootcamp.com/]  
+   **mcnugget**
+
+  Halo semuanya perkenalkan saya Rezza mau coba ikut project showcase
+
+  Disini saya dan teman-teman saya (3 orang termasuk saya) membuat website multi warehouse grocery app sederhana menggunakan typescript. Maaf sebelumnya kalau website ini masih banyak kekurangan dari segi kerapihan codingan maupun UI. Saya sangat terbuka dengan masukan untuk pengembangan website maupun diri saya sendiri sebagai web developer pemula🙏 
+
+  Tech Stack:
+  - Frontend:
+  > Next.js
+  > TailwindCSS
+  > shadcn/ui
+  > Redux Toolkit
+  - Backend:
+  > Node.js
+  > Express.js
+  > Midtrans
+  > Prisma
+  > MySQL
+
+  Tautan:
+  > Repo: https://github.com/rezzadtyp/belanja.in-app
+  > Website: https://jcwd031001.purwadhikabootcamp.com/
+  > Portfolio: https://rezza-portfolio.vercel.app/
+
+  Terimakasih banyak, mohon maaf bila ada salah kata pak🙏
+
+<br>
+
+8. [https://salmoon.vercel.app]  
+   **mon**
+
+  Selamat pagi semuanya! 
+
+  Perkenalkan lagi, saya Salman dan kali ini mau showcase portfolio saya yang baru untuk showcase selanjutnya.
+
+  Website ini dibuat dengan fungsi rangkap sebagai sarana showcase skill programming saya dan juga sebagai sarana eksperimen dengan komponen-komponen kecil yang bisa teman-teman gunakan. Untuk detail seperti stack, sitemap, dan fitur akan saya jelaskan di bawah ini:
+
+  Stack:
+  - Next.js (Typescript)
+  - TailwindCSS
+  - framer-motion
+  - supabase
+  - hygraph-gql
+  - shadcn-ui
+
+  Featured url:
+  - /guestbook // fitur leave a trace, inspired by leerob.io
+  - /lab // fitur eksperimen komponen dan animasi, inspired by ibelick.com dan kbo.sk
+  - /blog // sarana menulis saya, menggunakan hygraph + gql
+  - /archive // sarana showcase product serta projek yang pernah saya buat
+
+  Live: https://salmoon.vercel.app
+  Repo: https://github.com/msafdev/salmoon/stargazers (janlup dikasih ⭐️ hehe)
+
+  Sekian projek saya minggu ini, terimakasih semuanya!
+
+<br>
+
+9. [http://8.215.7.36/]  
+   **NF37**
+
+  Halo semuanya perkenalkan saya Fatiq mau coba ikut project showcase
+
+  Disini saya membuat aplikasi chat real-time dengan fullstack javascript. Maaf sebelumnya kalau website ini masih banyak kekurangan. Saya sangat terbuka dengan masukan untuk pengembangan website maupun diri saya sendiri sebagai web developer pemula🙏 
+
+  Tech Stack:
+  - Mobile :
+  > React-native 
+  > Github repo: https://github.com/Anomali99/pischat-mobile-react-native
+  > Download apk: https://drive.google.com/drive/folders/1fYQEOYMYOwRrbAZst2-xcWponxzYDpw4
+
+  - Frontend:
+  > React JS
+  > TailwindCSS
+  > Github repo: https://github.com/Anomali99/pischat-web-react-js
+  > Demo project: http://8.215.7.36/
+
+  - Backend:
+  > Express.js
+  > Websocket 
+  > MariaDB
+  > Github repo: https://github.com/Anomali99/pischat-server-express-js
+
+
+  Terimakasih banyak, mohon maaf bila ada salah kata pak🙏
+
+<br>
+
+10. [https://kumanime.fun/]  
+   **Xierra**
+
+  Halo semuanya perkenalkan saya Nasywan mau coba ikut project showcase
+
+  Disini saya membuat website streaming anime sederhana menggunakan reactjs dengan nama **Kumanime**. Dalam website ini saya menggunakan API unofficial otakudesu untuk mendapatkan detail dari anime-animenya. Jika ada kritik maupun saran itu bakal membantu saya kedepannya. 
+
+  > Tech Stack:
+  > - React JS
+  > - TailwindCSS
+  > 
+  > Tautan:
+  > Repo: https://github.com/MastayY/kumanime (star nya kawan)
+  > Website: https://kumanime.fun/
+
+  Terimakasih banyak, mohon maaf bila ada salah kata
+
+<br>
+<br>
