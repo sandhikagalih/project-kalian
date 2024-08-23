@@ -6152,3 +6152,224 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 23 Agustus 2024
+
+1. [https://infvckmatika-class.vercel.app/]  
+   **hanzuldan**
+
+  Assalamualaikum pa dika dan teman teman👋 
+
+  Perkenalkan saya Ilhan HJ Mahasiswa semester 4 dari STMIK Jabar. Saya ingin showcase project saya yang ketiga. Setelah sebelumnya saya mengirimkan project portfolio dan kuisioner kebahagiaan. Project yang kali ini saya kirimkan merupakan project infvckmatika-class yang merupakan website showcase project-project kelas kami, kata fvck disini tidak bermaksud kasar tapi merupakan kependekan dari Fostering Virtuosity Creativity and Knowledge yang berarti "Tempat Membina Keahlian, Kreativitas, dan Pengetahuan". Project ini kami buat rame rame di sela waktu kuliah, prosesnya dimulai dari design di figma sampai fullstack menggunakan laravel, tapi yang saya kirimkan merupakan versi front-end nya.
+
+  Tech :
+  HTML
+  CSS
+  JS
+  TAILWINDCSS
+  GSAP
+  AOS
+  CONFETTI.JS
+
+
+  Github : https://github.com/Ilhanhj/infvckmatika-class
+  Website : https://infvckmatika-class.vercel.app/
+
+<br>
+
+2. [https://cryptarithms-solver.vercel.app]  
+   **Vufi**
+
+  **Cryptarithms Solver**
+  Halo semua,
+
+  Perkenalkan nama saya **Dais** dan ini kali pertama saya ikut showcase. Saya sangat excited memamerkan project yang saya buat sendiri. Project ini saya beri nama Cryptarithms Solver. Seperti namanya, project ini bertujuan untuk memecahkan puzzle-puzzle atau teka-teki Cryptarithm. Ini terinspirasi dari proyek bang **Fajrul fx**: https://fajrul.com/cryptarithm/
+
+  Saya tertarik dengan puzzle Cryptarithm dari **Clash Of Champions** dan akhirnya mendownload aplikasi puzzle Cryptarithm di HP. Saat stuck dengan salah satu soal, saya cari jawabannya di Google dan ketemu proyek Cryptarithm solver oleh Fajrul fx. Solver itu cuma bisa menjumlahkan dua susunan angka. Bang Fajrul juga menjelaskan metodenya di situ, dan saya jadi tertarik buat bikin versi yang lebih fleksibel
+
+  > Tech Stack:
+  > - Next.js 14 (App Router)
+  > - TailwindCss
+  > - Shadcn/ui
+  > - Magic UI
+  > 
+  > Akun Github: https://github.com/favolia
+  > Website: https://cryptarithms-solver.vercel.app
+
+  Saya merasa kalo project saya belum sempurna, bila ada yang menemukan bug atau ada saran bisa sampein ke saya aja, buat yang lahir 2005 ayo kita berteman:)
+
+<br>
+
+3. [https://angga7togk.vercel.app/]  
+   **Angga7Togk**
+
+  Halo semuanya, perkenalkan saya Angga. Saya ingin memperkenalkan portofolio saya.
+
+  Disini saya membuat website portofolio sederhana menggunakan ReactJS dan NextJS dengan nama angga7togk. Dalam website ini, saya menampilkan proyek-proyek yang telah saya kerjakan, pengalaman kerja, dan keterampilan yang saya miliki. Jika ada kritik maupun saran, itu akan sangat membantu saya untuk berkembang kedepannya.
+
+  Tech Stack:
+
+  ReactJS
+  NextJS
+  TailwindCSS
+  Tautan:
+
+  Repo: https://github.com/angga7togk/angga7togk-nextjs (beri bintang ya)
+  Website: https://angga7togk.vercel.app/
+  Kalo website di atas gabisa pake: https://angga7togk.animaku.my,id
+
+  Note untuk mobile:
+  harus memakai mode landscape
+
+  Terimakasih banyak, mohon maaf bila ada salah kata.
+
+  tolong di lirik sedikit saja 🙂
+
+<br>
+
+4. [https://cryptarithm.netlify.app]  
+   **Kotomono**
+
+  Halo semuanya, perkenalkan saya Mono. Saya ingin showcase pertama kalinya di sini dan ini merupakan project sederhana terbaru saya.
+
+  Cryptarithm Bahasa Indonesia
+
+  Iya, isinya kumpulan soal kuis Cryptarithm yang bisa kalian kerjakan, namun saya selipkan soal-soal karangan saya sendiri dalam bahasa Indonesia.
+
+  Tech stack nya pakai Next JS tailwind.
+
+  Link : https://cryptarithm.netlify.app
+
+  Project sederhana ini masih jauh dari kata sempurna, mohon untuk memberi kritik dan saran terhadap project saya ini. Terima kasih.
+
+<br>
+
+5. [https://daffasam.github.io/portfolio/]  
+   **Daffasam**
+
+  Assalamualaikum Pak Dika dan teman teman semuanya.
+
+  Perkenalkan nama saya Daffa Sacofi. Disini saya membuat website portofolio sederhana menggunakan html,css, dan javascript sedikit. di portfolio berisi about, experience, dan project. Masih belajar untuk menjadi frontend web developer. jika ada kritik dan sarannya, itu membantu saya untuk berkembang lebih baik lagi.
+
+  Github: https://daffasam.github.io/portfolio/
+
+  Terimakasih banyak, mohon maaf bila ada salah kata. happy coding.
+
+<br>
+
+6. [https://monday-cafe.online/]  
+   **shinein.**
+
+  Assalmualaikum Pak Dika dan teman teman semuanya.
+
+  perkenalkan nama saya alief wafiq ramadhan.Saya ingin showcase project laravel sederhana saya bersama teman teman saya. Jadi nama project nya adalah MondayCafe, isi nya ya kayak menu menu cafe gitu. mungkin untuk fitur masih banyak kurang nya karna ini sebenarnya tugas akhir bootcamp gitu dan udah keburu deadline
+
+  TechStack : laravel
+
+  Link : https://monday-cafe.online/
+  Github : https://github.com/alief123d/monday-cafe
+
+  mungkin kalau ada saran dan kritik boleh disampaikan, terimakasih dan happy coding.
+
+<br>
+
+7. [https://www.karismatenda.my.id]  
+   **Bellawan Kusuma Aji**
+
+  **Website Persewaan Tenda**
+
+  Selamat Malam Pak Sandhika dan Para Rebahanners semua, izin showcase Project Sederhana 🚀 dalam rangka bantu calon mertua. Project ini berupa frontend website persewaan tenda, yang melayani sewa tenda, panggung dan berbagai kebutuhannya untuk acara nikahan dll. Ini showcase ketiga saya dan project react pertama saya, shout out untuk kang Avip buat tutor reactnya!
+
+  **Secara singkat skema project ini:**
+  1. User melakukan pemesanan manual melalui page contact, atau bisa langsung checkout produk.
+  2. Kirim notifikasi email ringkasan pemesanan ke user dan admin.
+  3. Admin akan memproses pesanan dengan membuat quotation/penawaran 
+  4. Penawaran digenerate dengan Laravel Livewire dan DOMPdf (Point of Sales, beda project)
+  5. Admin akan mengirimkan estimasi harga final di penawaran lewat email/whatsapp
+
+  **Fitur:**
+  1. Showcase produk dan acara serta beberapa dokumentasi
+  2. Checkout produk
+
+  **Dalam pengembangan:**
+  1. Login untuk menyimpan riwayat pesanan
+  2. Fitur Pencarian
+  3. Dokumentasi dan konten masih sangat terbatas, karena baru mulai aktif dokumentasi foto dan ingin improve ke bisnis model baru (pelayanan online)
+
+  **Tech Stack:**
+  1. NextJS App Router
+  2. MongoDB
+  3. Redis
+  4. TailwindCSS
+
+  Link : Karisma Tenda (https://www.karismatenda.my.id)
+
+  Sayang sekali project ini belum bisa saya open source codenya. Jika tertarik, ada project open source yang sudah saya publish di showcase sebelumnya https://github.com/belankus/BKBlog
+
+  Terima kasih, hatur nuhun.
+
+<br>
+
+8. [https://anshoria.github.io/]  
+   **martabak coklat**
+
+  Assalmualaikum Pak Dika dan teman teman semuanya👋.
+
+  Perkenalkan saya ansori. Disini saya ingin showcase projek sederhana untuk pertama kali mengenai website portofolio. Seperti pada umumnya terdapat informasi mengenai saya dan projek-projek yang  telah saya buat. 
+  Juga terdapat fitur star yang terinspirasi dari github. Jangan lupa bintangnya pak Dika dan temen2😁.
+
+  Tech Stack:
+  -Bootstrap
+  -HTML
+  -CSS
+  -Javascript
+
+  Link: https://anshoria.github.io/
+  Github: https://github.com/anshoria/anshoria.github.io
+
+  Terima kasih semuanya🙌.
+
+<br>
+
+9. [https://colab.research.google.com/drive/1GeIUioUCnMsA1P8LREsjKpTiW6mpAByy?usp=sharing]  
+   **Arfy Slowy**
+
+  wello pak dhika kembali lagi dengan project sederhana
+
+  disini saya ingin showcase project bareng pak professor [quisheng wu](https://www.linkedin.com/in/giswqs/) (GDE earth engine dan associate professor University of Tennessee, US 🇺🇸  ). project ini dibidang tentang Geographic information system (GIS) 🌍 , jadi ini adalah sistem pemetaan dengan teknologi komputer. disini packagenya bernama `leafmap`. `leafmap` ini adalah sebuah package kembangan dari `geemap` (google earth engine) map, sebelumnya saya juga maintainer dari `geemap` yang kemudian saya jadi salah satu owner and maintainer dari project baru ini yaitu `leafmap` dan organisasi open source yang membuat package-package yang berhubungan dengan GIS ini pak dhika yaitu `open geospatial solution (opengeos)`.  jadi disini saya membuat sebuah visualiasi bangunan 3d dan juga pemetaan lahan di kota jakarta dengan package `leafmap` ini pak dhika.
+
+  yang digunakan dalam `leafmap` ini antara lain:
+
+  - geojson
+  - ipyleaflet
+  - numpy
+  - pandas
+  - matplotlib
+  - folium
+
+  demo project : https://colab.research.google.com/drive/1GeIUioUCnMsA1P8LREsjKpTiW6mpAByy?usp=sharing
+  github project: https://github.com/opengeos/leafmap
+
+  terima kasih pak [quisheng](https://www.linkedin.com/in/giswqs/) sudah memberikan ilmu tentang GIS dan thank you pak dhika, lupakan titik koma <:mantab:972471617923993600>
+
+<br>
+
+10. [https://farrellid.xyz]  
+   **parreelll**
+
+  Hallo  Pak Sandhika dan Teman' semuanya,
+  Perkenalkan Nama Saya Farrell Athar R, Sebelumnya saya sudah pernah mengikuti showcase project dan kali ini saya ingin membagikan lagi Website Portfolio Saya yang sedang saya kembangkan. Website ini saya design dengan konsep modern minimalist.
+
+  Berikut Teknologi yang Saya Pakai :
+  HTML
+  CSS
+  JavaScript
+
+  🔗 Link Website: https://farrellid.xyz
+  Kritik & Saran? https://forms.gle/hsM64iJb3KMQ9XQx9
+
+  Terima kasih Pak Sandhika dan Teman-teman semuanya.
+
+<br>
+<br>
+
