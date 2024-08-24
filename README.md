@@ -6373,3 +6373,219 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 <br>
 <br>
 
+
+### 24 Agustus 2024
+
+1. [https://ariqfrhan.vercel.app/]  
+   **hysteria**
+
+  Halo teman-teman semuanya!
+
+  Perkenalkan saya Muhammad Ariq Farhan. Pada kesempatan kali ini saya mau showcase personal portfolio website saya yang sederhana dengan beberapa tech stack yang digunakan yaitu : 
+
+  ⦁ NextJs
+  ⦁ TailwindCSS
+  ⦁ Aceternity UI
+  ⦁ Framer motion
+
+  Web : https://ariqfrhan.vercel.app/
+  Repo : https://github.com/ariqfrhan/my-portfolio-next
+
+  Bila ada saran atau pertanyaan terkait website atau portfolio videografi yang ada di website (especially color grading) boleh banget chat melalui kontak yang ada di website saya. <:rock_approved:980409751869485057> 
+
+  Terima kasih.
+
+<br>
+
+2. [https://zzz-newspaper.potadev.com]  
+   **SiBagood**
+
+  selamat malam semuanya, saya mau share desain web sederhana yang terinspirasi dari UI newspaper di dalam game Zenless Zone Zero. karena simpel aja webnya jadi dibuat dengan HTML,CSS dan JS saja, webnya juga masih kurang responsif jadi mungkin masih berantakan di ukuran layar tertentu.
+  web : https://zzz-newspaper.potadev.com
+  repo : https://github.com/bagusindrayana/zzz-newspaper
+
+<br>
+
+3. [https://hbd-kizu.vercel.app/]  
+   **Kaede Mitsuki**
+
+  Halo pak Sandhika dan teman-teman semuanya!
+
+  Perkenalkan nama saya Muhammad Rizki, saya ingin showcase project sederhana saya dengan style RPG-like anime bertema Blue Archive, project ini dibikin untuk ucapan ulang tahun saya pada 1 Juli kemarin.
+  ## Tech Stack
+  - SvelteKit
+  - TailwindCSS
+  ## Site Support
+  - Google Translate (untuk translate ke bahasa Jepang)
+  - Hugging Face (untuk generate AI VITS model)
+
+  Demo: https://hbd-kizu.vercel.app/
+  Repo: https://github.com/rushkii/hbd-kizu
+
+  oh ya, ini webnya lebih bagus di desktop screen only ya!
+
+  Kalau ada kritik dan saran silahkan komen, terima kasih pak Shandika dan teman-teman semuanya.
+
+<br>
+
+4. [https://podomoro-timer-kappa.vercel.app/]  
+   **Fikri Taufiqurrahman**
+
+  Hallo Pak Dika!
+
+  Perkenalkan nama saya Fikri Taufiqurrahman, saya ingin showcase project pertama saya. Saya membuat web pomodoro timer sederhana untuk menambah produktivitas temen-temen.
+
+  Tech stack nya:
+  - ReactJS - Vite
+  - Tailwind CSS
+  - @hello-pangea/dnd (Drag and Drop)
+
+  Fitur:
+  - Timer
+  - Add and Delete Task
+  - Drag and Drop 
+  - Notification
+  - Notes
+  - Local Storage (ketika di refresh data task dan note tetep ada)
+
+
+  Web: https://podomoro-timer-kappa.vercel.app/
+  Github: https://github.com/fikri-taufiqurrahman/podomoro-timer
+
+  Kalau ada saran atau pertanyaan bisa ke https://forms.gle/xsqNJjD4QiuyDsbF9
+
+  terimakasih semuanya ✨
+
+<br>
+
+5. [https://askyui-anything.vercel.app/]  
+   **Yui**
+
+  Hallo temen temen dan sandhika sensei
+  Udah lama saya tenggelam dan ga showcase project😶‍🌫, saya Yui mahasiswa Sasjep kali ini saya ingin showcase project sederhana, yg saya berikan nama 内諸メッセージ (naisho messeji) project ini mirip dengan aplikasi NGLINK yaitu kita dapat mengirimkan secret message, untuk sistemnya disini yaitu CRUD sederhana. 
+  Untuk responsivenya saya khususkan untuk Mobile device saja. Project ini juga menjadi pondasi awal saya dalam belajar data base khsusnya konfigurasi firebase. 
+
+  Fitur : 
+  Panel admin untuk melihat respon user yg terkirim dan logo icon instagram yg memiliki fungsi untuk men-capture gambar dan  melakukan redirecting ke instagram. 
+
+  Github : https://github.com/Yu1chiro/Ask-me-anything/
+
+  Website : https://askyui-anything.vercel.app/
+
+  Admin : https://askyui-anything.vercel.app/admin/Sign.html
+
+  Email : Yui123@gmail.com Pw : Yui123
+
+  Tech : HTML, CSS, Tailwind, Vanila JS, Flowbite, Firebase, Sweet Alert. 
+
+  Mohon maaf jika design masih kurang dari sisi UI/UX nya seperti biasa saran, kritik dan komentar temen-temen WPU dan sandhika sensei sangat saya butuhkan untuk mengembangkan project saya menjadi lebih baik😇. 
+
+  Saya juga ingin mengucapkan banyak" terimakasih sama pak dhika khususnya dari playlist tailwind css, mata kuliah Sakubun (menulis karangan dalam bahasa jepang) saya dapet A pak hehe. Kebetulan UAS projectnya membuat website blog😁😁 Terimakasih semuanya dan jangan lupa titik koma✨, Menyala wii 🔥🔥
+
+<br>
+
+6. [https://jcode-2110.netlify.app/]  
+   **Umar Jihad**
+
+  Assalamu'alaikum Semua.
+
+  Saya Umar dari Jogja.
+
+  Kali ini mau showcase versi upgrade dari project sebelum nya lagi 😁, yang sebelum nya hanya dari sisi frontend, sekarang sudah fullstack. 
+
+  Project nya bernama Jcode, semacam platform kursus online programming. Selain itu, terdapat juga fitur Codex (Coding Exercise) di mana user bisa melatih skill programming dengan menyelesaikan soal cerita (mirip seperti Leetcode dan Codewars). Pada fitur Codex ini, hanya terdapat dua bahasa pemrogramman yang bisa digunakan yaitu javascript dan python. Semoga kedepannya bahasa nya bisa Saya tambah 😁.
+
+  Semoga Pak Dhika dan kawan-kawan mencoba semua soal yang ada lalu bisa memberikan feedback.
+
+  Tech Stack: 
+  Vanilla CSS, ReactJS, NodeJS, ExpressJS, MySQL.
+
+  Demo: https://jcode-2110.netlify.app/
+  Repo: https://github.com/jihadable/jcode
+
+<br>
+
+7. [https://nelshenyong.github.io/wedding-invitation-responsive/]  
+   **Nelshen Yong**
+
+  Halo Semua.
+
+  Perkenalkan Nelshen Yong, saya ingin showcase tugas sekolah saya yaitu Web Undangan. 
+
+  Fitur:
+  - Dark Mode
+  - Dark Mode Remember (Local Storage)
+  - Animation
+  - Responsive 
+
+  Link Github Pages: https://nelshenyong.github.io/wedding-invitation-responsive/
+  Link Repo: https://github.com/nelshenyong/wedding-invitation-responsive
+
+<br>
+
+8. [https://imagically.net/]  
+   **Wahyu**
+
+  Assalamualaikum semua.
+
+  Saya Wahyu dari Bekasi. Mohon izin mau show case project saya yang bernama Imagically, sebuah CDN gambar untuk konversi dan resize gambar secara real time di cloud, project ini terinspirasi dari statically dan optimole.
+
+  Tech stack:
+  - Go
+  - Libvips
+  - Redis
+  - Tailwind
+  - Hugo
+
+  Repo: https://github.com/wahyuief/imagically
+  Web: https://imagically.net/
+
+  Mohon maaf untuk backendnya close source. Terima kasih.
+
+<br>
+
+9. [https://www.wimba.store/]  
+   **Lozra**
+
+  Assalamualaikum semua.
+
+  Saya Fadlan dari Depok, mohon izin mau show project simple saya. ini usaha bisnis Madu yang dimana ini adalah client kedua saya beliau meminta saya untuk membuat Landing Page.
+
+  Tech stack:
+  HTML
+  CSS
+  JS
+  SWIPER
+  LEAFLET
+
+  Web: https://www.wimba.store/
+
+  Minta saran tambahin apalagi agar lebih bagus lagi, karena ini projectnya masih berlanjut hehe. Terima kasih.
+
+<br>
+
+10. [https://itsolusi.my.id/]  
+   **Nafal Mumtaz Fuadi**
+
+  ***Haloo Sahabatku***
+  assalamualaikum guys perkenalkan nama saya adalah nafal 
+  sebut sajah nafdi 
+  disini saya ingin showcase pertama kalinyah. 
+  project ini dibuat pada bulan kemarin saya menyelesaikan KKP (Kuliah Kerja Pratek) di SMKN 1 Cikarang Utara yang dimana  saya sendiri selama 3 bulan disana ditemukan ide masalah agar pemilihan osis menjadi efesien  lalu saya membuat website e-voting (elektronik pemilihan) dengan berjudul Sistem pemilihan Ketua osis di SMKN 1 Cikarang Utara berbasis website 
+
+  ****FITUR :****
+  -  Keamanan 
+  - Efesien 
+  - Sistem Monitoring 
+  - Menu cetak kartu pemilihan 
+  - Menu menambahkan kandidat 
+  - Menu seeting pemilih = panitia ( Guru ) & siswa 
+  - Responsive 
+
+  **link website : https://itsolusi.my.id/**
+
+  **Link cek kartu pemilih : **
+  https://itsolusi.my.id/printt
+
+<br>
+<br>
