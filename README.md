@@ -6731,18 +6731,18 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
   Website sosial media gaya ala twitter. Fiturnya belum selengkap twitter, tapi inspirasi memang dari sana.
 
   **Fitur basic:**
-  ```1. Post Status & attachment
+  1. Post Status & attachment
   2. Profile Pengguna
   3. Feed for-you & following
   4. Notification
   5. Follow, Like & Comment
-  6. Pesan DM```
+  6. Pesan DM
 
   **Tech Stack :**
-  ```1. NextJS
+  1. NextJS
   2. React Query
   3. PostgreSQL
-  4. Lucia Auth```
+  4. Lucia Auth
   dan beberapa library pendukung lainnya.
 
   Sekian dari saya, kurang lebihnya mohon maaf. Terima kasih, hatur nuhun.
