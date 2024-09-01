@@ -6589,3 +6589,288 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 1 September 2024
+
+1. [https://iegmood.vercel.app]  
+   **eL .**
+
+  assalamualaikum pak dika dan teman-teman semuanya.
+
+  perkenalkan saya elgibran. saya ingin showcase project webapps untuk pelacakan depresi yang membantu psikiater memantau kesehatan mental. setelah mengisi tes kesehatan mental, akan secara otomatis menerima solusi, konsultasi, atau umpan balik yang dipersonalisasi melalui model ai. jadi saya beri nama project-nya adalah iegmood. untuk fiturnya seperti menggunakan tes phq-9, feedback dari model ai gemini, pemantauan psikiater, dan peringatan kondisi kritis.
+
+  **tech stack**:
+  - **next.js 14 (app route)**
+  - **typescript**
+  - **tailwind css**
+  - **postgresql (db)**
+  - **prisma (orm)**
+  - **docker**
+  - **shadcn-ui**
+  - **clerk (auth)**
+
+  demo: https://iegmood.vercel.app
+  repo: https://github.com/ibrahimelgibran/iegcode-psikiater
+
+  mungkin kalau ada saran dan kritik boleh disampaikan, terima kasih.
+
+<br>
+
+2. [https://pamerajadulu.com]  
+   **depa**
+
+  halo semuanya, salam kenal.
+  perkenalkan saya depa. izin ikutan showcase project yg saya bikin 👨‍💻
+
+  project kali ini terinspirasi dari hashtag yg rame di twitter #PamerAjaDulu (https://twitter.com/hashtag/PamerAjaDulu)
+  jadi saya coba bikin web untuk tempat temen-temen semua me-"mamerkan" project yang temen-temen pernah buat agar tidak hilang begitu saja
+
+  untuk web nya sendiri bisa di akses di : https://pamerajadulu.com
+  untuk repository nya bisa dilihat disini : https://github.com/depapp/PamerAjaDulu (barangkali ada yang mau bantu-bantu buat kontribusi hehe)
+
+  tech-stack yg dipake:
+  - `nextjs` as frontend
+  - `emotion css` as styling
+  - `firebase` as database
+  - `playwright` as ui end2end testing tool
+
+  untuk fitur-fiturnya sendiri diantaranya:
+  - register & login (bisa menggunakan Google)
+  - submit project
+  - vote project
+
+  ayo temen-temen semua buat submit semua project yang pernah dibikin biar bisa diliat sama yang lain 🚀
+
+  *project ini bisa dibilang sebagai clone dari ProductHunt dengan kearifan lokal hehehe
+
+  makasih semuanya, semoga bisa bermanfaat.. 🙇‍♂️
+
+<br>
+
+3. [https://projectwebsites.vercel.app/]  
+   **Giri Diwa Adam**
+
+  Assalamu'alaikum wr, wb
+
+  Selamat Siang Pak Dhika dan Teman-Teman programmer sekalian, Di kesempatan kali ini saya Kembali Memamerkan Hasil Karya saya yang masih berupa **"Portofolio"**, Tidak seperti sebelumnya portofolio ini saya poles dengan menggunakan animasi dari beberapa UI terkini  seperti **Acternity UI ** dan juga **Radix UI**, walau cuma sebuah portofolio sederhana tetapi saya sudah senang dapat memamerkan hasil karya saya
+  di sini.
+
+  Techstack Yang saya Gunakan :
+  **
+  - Next JS 14 (Typescript)
+  - Tailwind CSS
+  - Acternity UI, Framer Motion
+  - Radix UI
+  - Vercel (CI/CD)
+  **
+  Link Show     : https://projectwebsites.vercel.app/
+  GitHub Repo    : https://github.com/Giridiwa319/giri_portofolio
+
+  Mudah-mudahan bisa menjadi inspirasi design website bagi teman-teman 
+  yang ingin membuat website Portfolio.
+
+  Sekian dan  Terimakasih 🙂
+
+  Assalamu'alaikum wr, wb
+
+<br>
+
+4. [https://lulagi-memeworld.vercel.app/]  
+   **trent_handoko**
+
+  Selamat pagi Pak Dhika dan teman-teman,
+
+  Perkenalkan saya Satia, kali in saya ingin memamerkan web MEME saya yang simple, minimalis, sederhana dan apaadanya, bernama "lulagi".  Sekilas tentang web saya adalah teman-teman bisa share meme setelah login dan memberikan komen pada postingan orang lain. Serta melihat postingan yg terbaru atau yg sedang trending. 
+
+  Tech Stack:
+  - Next JS + typescript
+  - Kinde (auth)
+  - Tailwind, ShadcnUI, MagicUI 
+  - Prisma + Neon (database)
+  - TanStack Query
+
+  Link Demo         : https://lulagi-memeworld.vercel.app/
+  GitHub Repo Project    :  https://github.com/Trenttrevor/lulagi-meme
+
+  Untuk catatan, fitur post meme berupa video saya nonaktifkan karena limit database gratisan :). Tapi untuk image masih sangat bisa digunakan. Saya sadar bahwa web saya masih banyak kekurangan, maka dari itu saran dan kritik sangat saya harapkan. Terimakasih!
+
+<br>
+
+5. [https://roastgithub.vercel.app]  
+   **SiBagood**
+
+  Halo semuanya, ijin share projek iseng aja 😁, yaitu web untuk roasting profile githubmu 😁
+
+  Stack :
+  Svelte
+  Express + Gemini AI API
+
+  Web : https://roastgithub.vercel.app
+  Frontend : https://github.com/bagusindrayana/roastgithub
+  Backend : https://github.com/bagusindrayana/roastgithub-api
+
+  Edit :
+  Requestnya saya batasin,
+  saya tambahin model llama dari groq AI,
+  Serta ada inputan untuk masukan api key sendiri
+
+  Soalnya sehari aja langsung rame yang make dan tagihan GCP Gemini ai saya tembus 1jt
+
+<br>
+
+6. [https://www.spillspoil.my.id]  
+   **Bellawan Kusuma Aji**
+
+  Selamat malam Pak Dhika dan para rebahanners di manapun kalian berada.
+
+  Kali ini saya mau share project sederhana ke 4 saya, sembari nunggu antrian project showcase ke 3 saya direview.
+
+  Walaupun ini project setengah matang, submit aja dulu buat booking antrian, daripada antriannya tambah panjang 😃
+
+  **SpillSpoil**
+  Website sosial media gaya ala twitter. Fiturnya belum selengkap twitter, tapi inspirasi memang dari sana.
+
+  **Fitur basic:**
+  ```1. Post Status & attachment
+  2. Profile Pengguna
+  3. Feed for-you & following
+  4. Notification
+  5. Follow, Like & Comment
+  6. Pesan DM```
+
+  **Tech Stack :**
+  ```1. NextJS
+  2. React Query
+  3. PostgreSQL
+  4. Lucia Auth```
+  dan beberapa library pendukung lainnya.
+
+  Sekian dari saya, kurang lebihnya mohon maaf. Terima kasih, hatur nuhun.
+
+  **SpillSpoil** 
+  https://www.spillspoil.my.id
+
+<br>
+
+7. [https://balmed-v2.vercel.app/home]  
+   **Balsss**
+
+  Assalamualaikum wr wb
+
+  Halo Pak Dhika dan semua teman WPU. Karena saya ingin kena semprit sama pak dhika, maka izinkan saya sebagai pemula untuk memamerkan project saya yang sederhana saja. Project ini merupakan sebuah sosial media yang sederhana saja yang saya berikan nama nya yaitu **BALMED**, untuk segi UI nya saya copas dikit dari twitter atau X
+
+  Fitur: 
+  - Authentikasi
+  - Post for-you dan by following
+  - Post by hastag
+  - Create, Like, Comment, Repost, dan Mark Post
+  - Update profile
+  - Follow user 
+  - InfiniteScroll
+  - Search Post
+  - Notification
+  - Download file/media post
+
+  Techstack:
+  - NextJs 14
+  - TypeScript
+  - Supabase
+  - React Query
+  - NextAuth
+  - Tailwind CSS
+
+
+  Sekian dari saya, mohon maaf apabila ada kekurangan dari project saya yang sederhana ini, bila ada sebuah kritik dan saran saya sangat menerima. Terima kasih  🙏🙏
+
+  **Note** :
+  Ada beberapa fitur yang masih dalam tahap pengembangan dan web nya masih belum saya responsive kan, tapi insyaallah ketika project ini di pamerkan semua fitur dan responsive sudah terselesaikan
+
+  Demo :
+  https://balmed-v2.vercel.app/home
+
+  Repo :
+  https://github.com/Ibaliqbal/balmed-v2
+
+<br>
+
+8. [https://texter-id.glitch.me/]  
+   **Doma**
+
+  Halooo semuanyaaa
+  Saya Fathin dari Bengkulu, Kali ini saya mau showcase Twitter remake saya (dulu pernah, tapi kali ini saya bikin ulang dengan berbagai penyesuaian agar lebih seperti twitter dan semacamnya) + menggunakan sistem akun
+
+  untuk frontend menggunakan Bootstrap dan backend menggunakan bunJS (typescript), express, mongodb tidak lupa dengan
+
+  saya berencana membuat frontendnya menggunakan React, tapi mengingat server yang digunakan masih gratisan jadi saya masih mengurung niat saya
+
+  Tech Stack: MongoDB, Express, BunJS, Bootstrap
+
+  edit: eh iya lupa bahas fitur nih
+  Fitur
+  Post
+  Repost
+  Requote
+  Share
+  Embed
+  Infinite Scroll
+  Like
+  Update Profile
+  Follow User
+  Search Post
+  Post by Hashtag
+  Notification
+  Search User
+  LIGHT MODE 🔥 
+  Following tab
+
+  Demo: https://texter-id.glitch.me/
+  Repo: https://github.com/MFathinHalim/Texter
+
+<br>
+
+9. [https://new.pow.kim]  
+   **envil**
+
+  Selamat malam Pak Dika dan teman-teman.
+
+  Perkenankan saya berbagi mengenai proyek sederhana saya, yaitu website portfolio sederhana. Website sederhana ini bertujuan untuk menampilkan portofolio proyek sederhana saya dan pengalaman kerja yang telah saya lakukan.
+
+  Saya buat website sederhana ini sekitar beberapa bulan lalu, dan setelah menerima beberapa masukan dari teman-teman tentang portfolio lama saya, saya memutuskan untuk membuat versi baru dari website sederhana ini, karena katanya di versi 1 kurang *readable* untuk recruiter dan awam, makanya di versi 2 saya buat lebih sederhana meskipun tidak terlalu jauh perbedannya. Jadi saya minta feedback dari Pak Dika dan teman-teman tentang kedua versi ini hehe. Kedua versi tersebut dapat diakses melalui link berikut:
+
+  https://www.pow.kim (versi 1)
+  https://new.pow.kim (versi 2)
+
+  Untuk kode sumbernya, dapat dilihat di repositori GitHub berikut:
+
+  https://github.com/kimmyxpow/www.pow.kim
+  https://github.com/kimmyxpow/pow
+
+  Sekitar 96% animasi scroll sederhana dari website portfolio sederhana versi 2 ini saya rancang dengan menggunakan CSS murni sebagai basis utama, terinspirasi dari materi yang disampaikan Pak Dika pada acara Google IO Bogor. Jika teman-teman tidak merasa ada animasi saat scroll, kemungkinan teman-teman mengaktifkan reduce motion atau browser yang digunakan belum support. Meskipun demikian, saya masih menggunakan sedikit Framer Motion dan Animate.css untuk beberapa animasi sederhana lain (karena malas convert ke css :v).
+
+  Berikut adalah teknologi yang digunakan pada masing-masing versi:
+
+  Versi 1: SvelteKit, MDsveX, Tailwind CSS, Lenis Scroll, GSAP
+  Versi 2: Next.js, Pocketbase, Tailwind CSS, Lenis Scroll, sedikit Framer Motion dan Animate.css
+
+  Terima kasih semua, tolong maklum masih sederhana karena saya masih pemula.
+
+<br>
+
+10. [https://testflight.apple.com/join/afqRhd8c]  
+   **listeningtodevpodcast**
+
+  Assalamualaikum Pak Dhika dan kawan-kawan semua.
+  Saya Arif. Alhamdulillah sudah lulus sidang dan sekarang insyAllah nunggu wisuda.
+
+  Mau showcase lagi ni, kali ini aplikasinya Open Source khusus MacOS, terinspirasi dari aplikasi [Dropover](https://dropoverapp.com/).
+  Intinya dia aplikasi untuk nyimpen file dengan cara men-drag file, cursor di-shake, nanti akan muncul aplikasi overlaynya, terus files bisa disimpen di overlay tersebut.
+
+  Tech Stack:
+  - Flutter
+  - Swift (buat plugin, sedikit modifikasi)
+
+  Repo: https://github.com/foamify/shakepin
+  TestFlight: https://testflight.apple.com/join/afqRhd8c
+
+<br>
+<br>
