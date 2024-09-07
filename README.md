@@ -6874,3 +6874,263 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 7 September 2024
+
+1. [https://hansenjonatan.tech]  
+   **HJ Codin Tech**
+
+  Halo semua,
+
+  Saya Hansen Jonatan dari Batam . Mohon izin mau show case project saya yang berupa personal portfolio. 
+
+  Website ini mengambil data dari cms yang saya buat dengan teknologi NextJS 
+
+  Tech stack :
+  - NextJS 
+  - TailwindCSS 
+  - Prisma ( ORM )
+  - neondb ( database )
+  -  Framer Motion
+
+  Link website : https://hansenjonatan.tech
+
+<br>
+
+2. [https://oliku.vercel.app]  
+   **wildanm**
+
+  Assalamu'alaikum, Halo semua.
+
+  Perkenalkan nama saya Wildan Maolana saya ingin berbagi Web Aplikasi saya yang bernama **Oliku**, Ini adalah aplikasi untuk menyimpan informasi ganti oli buat kendaraan (Jumlah liter oli, merek oli, km maksimal, dll), Saya membuat aplikasi ini bertujuan untuk mengingatkan informasi oli untuk kendaraan, karena mungkin beberapa orang (termasuk saya) sering lupa kapan terakhir kali ganti oli, dan km nya berapa, dll. Saya pikir mungkin aplikasi ini akan berguna buat pemilik rental mobil, atau orang kaya yang mempunyai banyak kendaraan.
+
+
+  #### Teknologi yang digunakan
+
+  **Front-end**
+  -  Nextjs 14
+  - Shadcn/UI
+  - Tailwind
+
+  **Back-end**
+  - PostgreSQL
+  - Prisma
+  - Auth.js
+
+  #### DEMO
+
+  **URL**
+  https://oliku.vercel.app
+
+  **Repo**
+  https://github.com/Sisableng/oliku
+
+  Mohon kritik dan saranya, Terimakasih.
+
+<br>
+
+3. [https://profil-joan.vercel.app/]  
+   **jaon**
+
+  halo semua saya joan, udah 6 bulan ga ngoding buat tes kedinasan, saya mulai ngoding lagi di project pertama saya ini setelah 6 bulan. kali ini di showcase ke 7, saya cuma buat website profil 1 page aja karena ini cuma pemanasan doang
+
+  tech stack : React, Tailwind, Flowbite, Gsap
+
+  web : https://profil-joan.vercel.app/
+  repo : https://github.com/joanpurbaa/profil
+
+<br>
+
+4. [https://elearning1.fazalhakim.my.id/]  
+   **faza**
+
+  Assalamualaikum wr wb Pak Dhika dan teman2 semua
+
+  Saya ingin showcase project saya berupa e-learning web app sederhana, masih terdapat banyak kekurangan 🙂  mohon masukannya. Beberapa kekurangan tersebut diantaranya adalah 1. design UI masih seadanya, 2. material sangat terbatas.
+
+  Selain kekurangan web app ini juga memiliki beberapa fitur yaitu:
+  1. User dapat sign up atau login menggunakan akun dummy
+  2. Terdapat progress bar pada menu Chapter dan Sub-Chapter 
+  3. checklist material yang telah diselesaikan, dalam hal ini contoh nya jika telah selesai menonton video YT maka akan otomstis terceklist dan otomatis menambah progress bar di Chapter dan subChapter.    
+
+  Mungkin itu saja Pak Dhika dan teman2 semua. Mohon masukannya 😁 
+
+  Tech stack:
+  - React.js
+  - Node.js
+  - Express.js
+  - Sequelize ORM
+  - MySQL Database
+
+  Demo: https://elearning1.fazalhakim.my.id/
+  Akun Dummy:
+  1. johndoe@example.com, qwerty123
+  2. user2@example.com, User123!
+
+  Note: Konten hanya tersedia di  Grade 1 => Thematic Learning => Natural Science => Plant => Plant Anatomy 😁
+
+<br>
+
+5. [http://qviu.github.io]  
+   **michael.id**
+
+  Halo Pak Dhika dan mahasiswa WPU.
+
+  Kali ini saya ingin showcase project saya yang ketiga. Proyek ini dibuat untuk mengatasi kendala yang dihadapi orang tua yang kesulitan mengecek perubahan harga barang yang kini tidak lagi dikirim dalam bentuk hardcopy, tetapi dalam bentuk file Excel.
+
+  Web: http://qviu.github.io
+  GitHub: http://www.github.com/qviu/qviu.github.io
+
+  (Username GitHub sudah diganti dari karyawati menjadi qviu karena lebih singkat)
+
+  Teknologi yang digunakan: HTML, JavaScript, Bulma
+  Dibantu oleh ChatGPT
+
+  Untuk tampilan dari web ini sementara tidak dipentingkan karena mengejar fungsionalitasnya. Saran dari Pak Dhika dan rekan-rekan tetap dinanti untuk pengembangan web ini.
+
+<br>
+
+6. []  
+   **darkterminal | panggilmeiam**
+
+  ### Turso PHP SDK
+
+  Assalamualikum mazeh, semoga tidak muntah-muntah melihat ini. Sehat-sehat dan panjang-panjang orang baik. Untuk demo plug and play nya biar ga ribet pakai `turso-docker-php` atau `turso-http-laravel` untuk project Laravel biar ga penisirin, saya siapkan di bawah 😄 
+
+  #### Turso Client HTTP
+
+  **GitHub Repository & Documentation**
+  - Repository: https://github.com/darkterminal/turso-client-http
+
+  #### Turso API Client PHP
+
+  **GitHub Repository & Documentation**
+  - Repository: https://github.com/darkterminal/turso-api-client-php
+  - Documentation: https://github.com/darkterminal/turso-api-client-php/tree/main/docs
+
+  #### Turso for Laravel Ecosystem
+
+  - [Turso HTTP Laravel](https://github.com/darkterminal/turso-http-laravel) (Ga pake ribet ini mah)
+  - [Turso Driver Laravel](https://github.com/tursodatabase/turso-driver-laravel)
+  - [Turso Laravel Tenancy](https://github.com/darkterminal/turso-laravel-tenancy)
+  - [Turso Laravel Breeze](https://github.com/darkterminal/turso-laravel-breeze)
+  - [Turso Laravel Jetstream](https://github.com/darkterminal/turso-laravel-jetstream)
+
+  #### Turso Client PHP (libSQL Native Extension for PHP)
+
+  Now **libSQL Native Extension for PHP** is support **Vector Search**.
+
+  **GitHub Repository**
+  Repository: https://github.com/tursodatabase/turso-client-php
+  Documentation: https://turso.tech/php
+
+  #### Turso PHP Installer
+
+  Turso/libSQL Extension for PHP Installer Script
+
+  **GitHub Repository**
+  Repository: https://github.com/darkterminal/turso-php-installer
+
+  #### Turso Docker PHP
+
+  Starter Template (VSCode Devcontainer Ready) to start using Turso Database in Native PHP!
+
+  **GitHub Repository**
+  Repository: https://github.com/darkterminal/turso-docker-php
+
+  #### Turso Database Token Generator for PHP
+
+  Token Generator for libSQL Server (Local Development) in PHP base on this [gen_jwt.py](https://github.com/tursodatabase/libsql/blob/main/libsql-server/scripts/gen_jwt.py): https://gist.github.com/darkterminal/c272bf2a572bc5d7378f31cf4aea5f19
+
+<br>
+
+7. [https://play.google.com/store/apps/details?id=com.bercamilan.siluettempur]  
+   **SAMBUYYA - bercamilan.com**
+
+  Halo semuanya,
+  Dan selamat malam Pak Dika
+
+  Saya mau showcase aplikasi android saya berupa game idle strategi bernama Siluet Tempur.
+
+  Di game ini kalian bisa membeli dan memilih siluet untuk melawan siluet musuh pada tahapan tahapan tertentu dan menontonnya hingga kemenangan.
+
+  Cara bermain:
+  Tekan menu bermain untuk memulai, beli siluet yang diinginkan, kembali dari toko siluet, lalu tekan kembali bermain, pilih tahapan yang ingin dimenangkan dan pilih siluet yang dimiliki dan tersedia oleh tahapan dan terakhir mulai permainan.
+
+  Teknologi yang digunakan:
+  - Kotlin dan SDK android
+  - Javascript
+  - HTML
+  - CSS
+
+  Link play store:
+  https://play.google.com/store/apps/details?id=com.bercamilan.siluettempur
+
+  Terima kasih dan selamat malam
+
+<br>
+
+8. [https://cinetrack-coral.vercel.app/]  
+   **sycle**
+
+  Selamat malam Pak Dika dan teman-teman.
+
+  Pada kesempatan kali ini, saya ingin mengshowcase project sederhana yang saya buat selama kurang lebih 2 minggu. Fitur utama dari website ini adalah untuk mencari dan melihat details film dan tv shows. Website ini dibangun berdasarkan referensi yang saya dapatkan dari dribble, behance, dan awwwards. Website ini saya buat dengan teknologi NextJs dan TailwindCSS. Semua data diambil dari API TMDb.
+
+  Live demo: https://cinetrack-coral.vercel.app/
+  Repo: https://github.com/rtrivaldo/cinetrack
+
+  Sekian showcase dari project saya di minggu ini, terimakasih semuanya!
+
+<br>
+
+9. [https://radifa.my.id/]  
+   **DIP**
+
+  Selamat Malam Pak Dika Dan teman Teman.
+
+  Perkenalkan Saya DIP .  Ini Merupakan Project Showcase Ke 3 Yang mana ini adalah website sederhana portofolio pribadi. 
+
+  Teknologi yang digunakan yaitu :
+  Next JS
+  Framer
+  TailwindsCss
+  ExpressJS
+  MongoDB
+
+  Demo : https://radifa.my.id/
+  Repo : https://github.com/MuhammadRadifa/portfolio-v2
+
+  Mungkin Itu Saja Pak Dhika dan teman semua. Mohon Untuk Saran Dan Masukkan Nya Website Sederhana Saya agar kedepan saya bisa terus berkembang.
+
+  sekian terima kasih
+
+  note : screen responsive belum support 2k
+
+<br>
+
+10. [https://portofolio.rizrmdhn.com/]  
+   **AzE**
+
+  Selamat malam pak dika dan teman teman.
+
+  Perkenalkan saya rizki. Ini merupakan project showcase pertama saya yang dimana ini adalah website sederhana portofolio pribadi milik saya. 
+
+  Teknologi yang digunakan yaitu :
+  T3App (https://create.t3.gg/)
+  Lucia (Authentication)
+  Drizzle (ORM)
+
+
+  Demo : https://portofolio.rizrmdhn.com/
+  Repo : https://github.com/rizrmdhn/portofolio-webpage-v4
+
+  mungkin itu saja pak dika dan teman semua. Mohon untuk saran dan masukkannya untuk website sederhana saya agar kedepannya saya bisa terus berkembang.
+
+  note:
+  untuk dashboardnya tidak bisa diakses dikarenakan private
+
+  sekian terima kasih
+
+<br>
+<br>
