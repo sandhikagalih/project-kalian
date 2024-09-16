@@ -7163,14 +7163,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-2. []  
-   ****
-
-
-
-<br>
-
-3. [https://niketin.vercel.app/]  
+2. [https://niketin.vercel.app/]  
    **Nicholas Chandra**
 
   Halo selamat pagi/siang/sore/malam teman teman semuanya dan pak Dhika,
@@ -7199,7 +7192,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-4. [https://naelyo.github.io/Portfolio]  
+3. [https://naelyo.github.io/Portfolio]  
    **Naell**
 
   Halo Pak Dhika dan Kawan-kawan semua 😁. Perkenalkan saya Nathanael (Nael), pada kesempatan kali ini saya mau share showcase kedua saya dengan project yang sama yaitu sebuah website portfolio
@@ -7220,7 +7213,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-5. [https://angkasamuhammad.github.io/Matrix-Percepatan-Gaya-Gesek/BengkelGear/CaraMatrix0/CaraMatrix0.html]  
+4. [https://angkasamuhammad.github.io/Matrix-Percepatan-Gaya-Gesek/BengkelGear/CaraMatrix0/CaraMatrix0.html]  
    ****
 
   Bismillaahirrahmaanirrahiim
@@ -7266,7 +7259,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-6. [https://nextjs15-instagram.vercel.app]  
+5. [https://nextjs15-instagram.vercel.app]  
    **wei**
 
   Assalamualaikum Pak Dhika.
@@ -7287,7 +7280,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-7. [https://www.fathin.my.id]  
+6. [https://www.fathin.my.id]  
    **Doma**
 
   Haloo teman teman semua
@@ -7309,7 +7302,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-8. [https://www.arsiptemplate.app]  
+7. [https://www.arsiptemplate.app]  
    **icikiwir**
 
   Halo salam kenal guys, gue mau kenalin project gue
@@ -7336,7 +7329,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-9. [https://ariefrizkie.github.io/fotongraphia]  
+8. [https://ariefrizkie.github.io/fotongraphia]  
    **arief_rizkie**
 
   Hai teman-teman dan juga pak dhika perkenalkan saya Arif Rizki dari banjarmasin saya sekarang ingin menampilkan projek sederhana saya yaitu web katalog untuk toko percetakan saya sendiri sambil kerja sebagai desain grafis di percetakan lain hehe.
@@ -7351,7 +7344,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 
-10. [https://kasirku.atakana.com/showcase/project.html]  
+9. [https://kasirku.atakana.com/showcase/project.html]  
    **Arnadi WebDev**
 
   Assalamu'alaikum Warahmatullahi Wabarakatuh.
@@ -7372,5 +7365,30 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
   { Terima Kasih | Salam Koding }
 
+<br>
+
+10. [https://admin.bizzcode.site/:builderweb/]  
+   **BimaBizz**
+
+  ### CockpitNest
+  
+  Punten Pak dika dan teman-teman mau ikut showcase project yang tidak kalah **SEDERHANA** dari punya teman teman yang lain, ceritanya saya lagi gabut ditengah liburan dan mengunggu wisuda, akhirnya saya buatlah template web builder dan saya beri nama **CockpitNest**
+  
+  > Tech Documentation
+  - Docusaurus
+  
+  > Tech CockpitNest
+  - Nextjs
+  - TailwindCSS
+  
+  > Github
+  - CockpitNest Documentation -> https://github.com/BimaBizz/dock-cockpitnest
+  - CockpitNest -> https://github.com/BimaBizz/cockpitnest
+  
+  untuk documentasi bisa baca disini -> https://dock-cockpitnest.vercel.app/
+  untuk pak dika bisa gunakan cockpit cms yang sudah saya sediakan ini -> https://admin.bizzcode.site/:builderweb/, login user dan password masih sama dengan yang pernah saya kirim di DM IG pak dika dengan username akuubimaa_
+  
+  Note : untuk teman-teman bisa menggunakan **COCKPIT PRO** dengan trial tidak masalah karena lebih baik pakai trial dari pada membajak
+   
 <br>
 <br>
