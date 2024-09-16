@@ -7134,3 +7134,243 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
 
 <br>
 <br>
+
+### 16 September 2024
+
+1. [https://colorscape.vercel.app/]  
+   **Bagaskoro**
+
+  Assalamualaikum buat pak dika dan rekan-rekan semua.
+
+  Perkenalkan saya Bagas, ijinkan saya membagikan project saya yang merupakan cloningan dari coolors.co website favorit saya dengan UI dan UX yang sangat bagus menurut saya, ini merupakan percobaan kedua saya melakukan cloning coolors.co sebelumnya saya sudah pernah cloning coolors.co namun code nya sangat tidak maintainable dan membuat sakit kepala, maka dari itu saya mengulang cloning coolors.co dengan struktur code yang lebih rapi dan maintainable dengan saya tambahkan sedikit bumbu shadcn UI.
+
+  Beberapa teknologi yang saya gunakan:
+  - Typescript
+  - Next.JS
+  - Tailwind CSS
+  - Radix UI
+  - Chroma.JS
+  - Prisma ORM
+  - Zustand
+  - Lucia Auth
+  - Zod
+  - DLL
+
+  Web dapat diakses melalui link berikut:
+  https://colorscape.vercel.app/
+
+  Sekian, harapan saya website ini bisa berguna paling tidak buat saya sendiri, syukur bisa jadi SaaS
+
+<br>
+
+2. []  
+   ****
+
+
+
+<br>
+
+3. [https://niketin.vercel.app/]  
+   **Nicholas Chandra**
+
+  Halo selamat pagi/siang/sore/malam teman teman semuanya dan pak Dhika,
+
+  Perkenalkan saya Nicholas Chandra, saya baru saja lulus kuliah tapi belum wisuda, baru dapet skl saja. Jurusan saya Sistem Informasi di UMN (2020). Kali ini saya ingin membagikan projek showcase kedua saya. Projek ini merupakan platform online untuk user yang ingin membeli tiket konser. Untuk data-data konsernya sendiri sebenarnya masih sedikit, sekitar 16 saja dikarenakan cukup memakan waktu, akan untuk kedepannya akan saya tambahkan.
+
+  Projek ini masih sangat jauh dari kata sempurna, jadi mohon maaf kalau masih banyak kurangnya.
+
+  **Teknologi yang digunakan**
+
+  Backend:
+  - Express JS
+  - MongoDB / Mongoose
+
+  CMS:
+  - React JS
+  - Redux
+
+  Landing Page:
+  - Next JS
+
+  **Link Website:**
+  https://niketin.vercel.app/
+
+  Terima kasih banyak semuanya.
+
+<br>
+
+4. [https://naelyo.github.io/Portfolio]  
+   **Naell**
+
+  Halo Pak Dhika dan Kawan-kawan semua 😁. Perkenalkan saya Nathanael (Nael), pada kesempatan kali ini saya mau share showcase kedua saya dengan project yang sama yaitu sebuah website portfolio
+
+  Tech stack : 
+  HTML
+  TailwindCSS
+  JavaScript
+  Jquery
+  AOS
+  Animated CSS
+
+  jika ada masukkan dan kriktikan dari Pak Dhika maupun kawan-kawan, saya sangat menghargainya, terimakasih.
+
+  Github : https://github.com/NaelYo
+  Repo : https://github.com/NaelYo/Portfolio
+  Live : https://naelyo.github.io/Portfolio/
+
+<br>
+
+5. [https://angkasamuhammad.github.io/Matrix-Percepatan-Gaya-Gesek/BengkelGear/CaraMatrix0/CaraMatrix0.html]  
+   ****
+
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Project shocase kali ini adalah Matrix Percepatan Gaya Gesek.
+  Animasi Tutorial singkat `menggunakan Augmented Matrix mencari Percepatan & Gayagesek`
+  Silakan tekan ▶️ di pojok kiri bawah
+  Animasi ga pake editorapapun, aku bikin langsung di dalam script, pake if esle. Salah satu statementnya:
+  ```js
+  if(
+      81 < t &&
+      t < 83
+  ){
+  cx2d.save()
+      cx2d.drawImage(imgsalam,222,222,222,221,)
+  cx2d.restore()
+  }
+  //terimakasih, salam penutup    --
+  ```
+  Sedia: Play, Pause, Time bar vertikal
+
+  Diharap sistem penyelesaian rasio percepatan ini bisa diterapkan di dunia nyata untuk lebih mudah membuat susunan transmisi yang lebih irit bbm.
+
+  Aku pernah lihat CVT di youtube, sekarang ga tau channelnya hilang kemana, roda bisa berhenti, mesin masih berputar, tanpa kopling.
+  Aku jadi kepikiran transmisi ini bisa dipake `nanjak waktu macet` tanpa main kopling ,misal : dari berhenti lalu bergerak (0 km/jam lalu 1 km/jam).
+
+  Editor:
+  - Blender 3.4.1
+  - Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+  - Notepad++
+
+  javascript library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/Matrix-Percepatan-Gaya-Gesek
+  Web: https://angkasamuhammad.github.io/Matrix-Percepatan-Gaya-Gesek/BengkelGear/CaraMatrix0/CaraMatrix0.html
+
+  Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+  Kita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉.
+  Kita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, & banter.
+  Maturnuwun.
+
+<br>
+
+6. [https://nextjs15-instagram.vercel.app]  
+   **wei**
+
+  Assalamualaikum Pak Dhika.
+
+  Saya dengan senang hati ingin mempersembahkan proyek terbaru saya yang berfokus pada slicing UI Instagram versi terbaru (2024) dengan menggunakan teknologi terkini. Proyek ini dibangun dengan NEXT.js dan Tailwind CSS untuk menghadirkan pengalaman pengguna yang modern dan responsif.
+
+  Teknologi yang Digunakan:
+  - NEXT.js
+  - Tailwind CSS
+
+  Fitur Utama:
+  - Desain Instagram 2024: Menerapkan slicing desain UI Instagram terbaru dengan detail yang akurat, menampilkan elemen antarmuka yang sesuai dengan tampilan terbaru.
+  - Responsif Penuh: Menjamin bahwa antarmuka pengguna berfungsi dengan baik di berbagai perangkat, termasuk desktop, tablet, dan smartphone.
+
+  Akses dan Kode:
+  Preview/Site: https://nextjs15-instagram.vercel.app/
+  Repositori: https://github.com/weiwei2694/nextjs15-instagram
+
+<br>
+
+7. [https://www.fathin.my.id]  
+   **Doma**
+
+  Haloo teman teman semua
+  Saya Fathin dan kesempatan kali ini saya mau share showcase saya selanjutnya yaitu web portofolio sederhana saya hehe
+
+  Tech:
+  React
+  TailwindCSS
+  Javascript (ya kan react ya haha)
+  AOS
+  Font Awesome
+
+  Inspirasinya banyak ngambil dari web dan redesign orang hehe, jadi jika ada masukan dan kritikan saya akan sangat menghargai. Sekian terimakasih!
+
+  Demo: 
+  https://www.fathin.my.id/
+  Github Repository:
+  https://github.com/MFathinHalim/mfathinhalim.github.io
+
+<br>
+
+8. [https://www.arsiptemplate.app]  
+   **icikiwir**
+
+  Halo salam kenal guys, gue mau kenalin project gue
+
+  Judul Project: arsip-template
+
+  Belakangan ini template atau copy-pasta lagi sering banget ditemui diplatform sosmed seperti di facebook ataupun twtter, jadi gue buat arsip-template yang mainly purposesnya untuk "ngearsipin" berbagai template copy-pasta yang sering dipakai sama netizen Indonesia.
+
+  Tech Stack: t3 (next, tailwind, trpc, prisma, postgres)
+
+  Beberapa fitur saat ini:
+
+  - **Kelola Konten**: Kamu bisa bikin dan edit template (role Admin) dengan mudah
+  - **Pencarian Konten**: Berdasarkan tag, search, dan user yang submit
+  - **Profil Pengguna**: Setiap user punya halaman profil untuk melihat konten template mana yang telah disapprove dan masih menunggu, lengkap dengan avatar dan kustomisasi nama.
+  - **Sistem Rank & Leaderboard**: Dapatkan rank keren berdasarkan kontribusi. Cek juga leaderboard buat lihat siapa yang paling aktif "ngearsipin".
+  - **Login Sosial**: Daftar dan login makin gampang dengan berbagai pilihan login sosial seperti Twitter, Google, dan Discord.
+  - **SEO & Analytics**: Sudah support Google Analytics dan meta tag yang udah dioptimalkan, biar template lebih gampang ketemu di Google
+  - **Tema**: Mode dark & light atau sesuai dengan sistem
+
+  Kalah ada masukan boleh banget yah, atau pun mau ikut kontribusi bisa ngehubungin gue
+
+  Demo: https://www.arsiptemplate.app
+
+<br>
+
+9. [https://ariefrizkie.github.io/fotongraphia]  
+   **arief_rizkie**
+
+  Hai teman-teman dan juga pak dhika perkenalkan saya Arif Rizki dari banjarmasin saya sekarang ingin menampilkan projek sederhana saya yaitu web katalog untuk toko percetakan saya sendiri sambil kerja sebagai desain grafis di percetakan lain hehe.
+
+  website ini sementara hanya menampilkan produk apa saja yg dijual, kategori produk, cara pemesanan produk, dan sosial media untuk menghubungi penjual. kedepannya jika ada kesempatan akan saya kembakan lagi agar bisa melakukan pemesanan langsung seperti toko online dan fitur lainnya. untuk teknologi yg di gunakan adalah Tailwind css, AOS dan vanilla javascript, dan kalua ada kesempatan juga akan di buat lagi menggunakan React JS.
+
+  silahkan berikan kritik dan sarannya untuk projek showcase pertama saya di sini, terimaksih
+
+  link Github Pages: https://ariefrizkie.github.io/fotongraphia/
+
+  link Repo GitHub : https://github.com/ariefrizkie/fotongraphia.git
+
+<br>
+
+10. [https://kasirku.atakana.com/showcase/project.html]  
+   **Arnadi WebDev**
+
+  Assalamu'alaikum Warahmatullahi Wabarakatuh.
+
+  Hai pak Dika dan teman-teman, apa kabarnya kalian semua. Kali ini saya coba ikut pamerin sebuah project yang cukup sederhana, ini yang kesekian kalinya.
+
+  Masih dilingkaran yang sama penerapan sistem CRUD, yang dimana kali ini saya terapkan pada aplikasi kasir berbasis Web PWA yang dapat diinstal langsung pada perangkat pengguna.
+
+  Web PWA bernama App KasirKu.
+  Untuk menggunakan aplikasi App KasirKu ini, pengguna diwajibkan untuk instal aplikasinya terlebih dahulu dan ini tentunya gratis.
+
+  NB: Siapkan smartphone Android untuk instal dan mengoperasikan App KasirKu (Browser Google Chrome).
+
+  Selengkapnya di:
+  https://kasirku.atakana.com/showcase/project.html
+
+  Untuk detail loginnya silakan cek pesan yang saya kirimkan ke FB bapak.
+
+  { Terima Kasih | Salam Koding }
+
+<br>
+<br>
