@@ -7392,3 +7392,236 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
    
 <br>
 <br>
+
+### 21 September 2024
+
+1. [https://speakfest.vercel.app/]  
+   **rolandowebdev**
+
+  Halo Pak Dika dan warga WPU, setelah jeda beberapa bulan gak showcase dan udh lama banget juga gak nyentuh coding lagi, disini saya mau showcase project hasil submission class Dicoding React Expert yang sebenernya udh dari beberapa bulan lalu juga selesai wkwk..
+
+  Tech stack yang digunakan :
+  NextJS
+  Typescript
+  Shadcn UI
+  Storybook
+  Jest
+  Cypress
+  Vercel
+
+  lebih lengkapnya bisa liat di repository..
+
+  Feature  :
+  📘️ Create threads
+  👤 Authentication & Registration User
+  💬 Interaction with everyone in Speakfest
+  🏆 Leaderboard list
+  🌓 Dark & Light mode
+  🎯 Filter threads by category
+
+  Link Github : https://github.com/rolandowebdev/speak-fest
+  Link Preview : https://speakfest.vercel.app/
+
+<br>
+
+
+2. [https://ridho-alfandi.vercel.app/]  
+   **Koplak Z**
+
+  Assalamualaikum Pak Dika, dan teman teman WPU. Izin untuk show case website portfolio yang saya buat. 
+
+  Tech stack yang digunakan :
+  React Js
+  Typescript
+  Shadcn UI
+
+  Ini showcase pertama saya setelah sekian lama jadi member di discord WPU. Saya juga berterimakasih kepada teman teman WPU yang sering membantu saya mengatasi problem dalam pemograman. Mohon kritik dan saran mengenai website  portfolio saya. Terimakasih pak dika dan teman teman wpu.
+
+  Link portfolio : https://ridho-alfandi.vercel.app/
+
+<br>
+
+
+3. [https://generative-trivia.vercel.app]  
+   **bloody**
+
+  Yooo Assalamualaikum Pak Dika  dan semuanya, udah lama nih engga muncul di sini. Ingin menjadi programmer handal tapi malas ngoding <:hadeh:972855614818631681> 
+
+  ini adalah sekilas project gabut saya semalem, lagi bengong tiba-tiba dapet inspirasi langsung eksekusi sebelum mulai masuk kuliah.
+
+  kurang lebih ini adalah website untuk ngerjain trivia atau quiz singkat gitu nah tapi soalnya yang buat adalah AI, penasaran? gas langsung praktek
+
+  Tech Stack:
+  - Nextjs
+  - TailwindCSS
+  - Shadcn UI
+  - Firebase
+  - Gemini 
+
+  link preview : https://generative-trivia.vercel.app/
+  link github  : https://github.com/Alvalens/generative-trivia
+
+<br>
+
+
+4. [https://kyora.vercel.app]  
+   **A**
+
+  Hallo Pak Dika, hehe :u. Izinkan sya Kyora a.k.a Kyo untuk showcase project per-porto portofolioan. Kali ini beda dengan sebelumya yang dimana yang [versi 1](https://namra.pages.dev) hanya sebatas Tailwind CSS + HTML saja dan itupun tidak bagus hehehe, makanya saya ganti biar kerenan dikit :u. Kali ini portofolionya sedikit berbeda pak ( walaupun dapet inspirasi dari yutuber sebelah :u), tapi semua section , konsep, terkecuali home page itu murni dari ide brilliant saya ketika lagi ke warung pak mul hehheeh. Gausah lama-lama jadi kurang lebih kaya gini pak:
+
+    Tech Stack:
+    - Next JS
+    - Acernity UI
+
+    Untuk link previewnya ini: https://kyora.vercel.app
+    Link github: https://github.com/rulanugrh/oberion
+
+<br>
+
+
+5. [https://kerjakan.rechouse.my.id/]  
+   **Buku dibaca Kutu**
+
+  halo semuanya, perkenalkan nama saya hanif ramadhani. kali ini saya ingin membagikan web hasil coba iseng-iseng pake laravel + react. kenapa pengen coba laravel + react? nggak tau pingin coba aja sekalian pengen coba shadcn. web yang saya bikin ada web to do list sederhana (projek para pemula) yang saya namakan kerjakan. tech stacknya
+  - react
+  - laravel 11
+  - inertia js
+  - tailwindcss + shadcn
+  - mysql
+  berikut link webnya https://kerjakan.rechouse.my.id/
+  jika pada saat dishow case tidak bisa dibuka harap dijalankan di lokal. repo dapat dilihat di https://github.com/haniframadhani/kerjakan
+  hostingnya akan habis ditanggal 29 september 2024 dan tidak ada rencana perpanjangan. hostingnya kemarin dipakai untuk tugas kuliah
+
+  Note: untuk akun buat saja akun baru dengan email sembarang dan **jangan gunakan email asli** kalian. Jangan pertaruhkan data pribadi kalian pada web tidak jelas seperti web ini
+
+<br>
+
+
+6. [https://github.com/jefyokta/chat]  
+   **Oktaa**
+
+Halo semuanya, perkenalkan saya jefy okta. di kali pertama ini, saya mau berbagi sebuah project realtime chatapp berbasis web sederhana hasil belajar websocket dan openswoole saya.
+
+Tech Stack:
+- php native + openswoole
+- taildwindcss
+- vanilla javascript
+
+link repo : https://github.com/jefyokta/chat
+
+
+Terima kasih!
+
+<br>
+
+
+7. [https://zentrahealth.vercel.app/]  
+   **Ya Sudahlah**
+
+  Halo Semuanya 👋 
+  Halo Pak Dhika 👋
+
+  Perkenalkan nama saya Al Sakha, sebagai perwakilan dari tim saya. Mohon izin untuk mengikuti showcase-project. Ini adalah website hasil dari mengikuti lomba di sekolah saya pada bulan Agustus 2024, website ini bernama ZentraHealth dan  bertema tentang kesehatan.
+  (sayangnya kami nt)
+
+  Tech Stack : 
+  React Js (Javascript)
+  Tailwindcss
+  Three js
+  Acternity-ui
+  Shadcn-ui
+
+  ini link website nya : https://zentrahealth.vercel.app/
+
+  Terimakasih banyak, mohon maaf apabila ada kesalahan kata. <:mantab:972471617923993600>
+
+<br>
+
+
+8. [https://ishort.my.id/]  
+   **Irvan Shandika**
+
+  Assalamu'alaikum Pak Dika dan temen2 WPU lainnya. Perkenalkan nama saya Muhammad Irvan Shandika asal dari Pontianak, Kalimantan Barat. Dan saat ini saya sedang kuliah di Universitas AMIKOM Yogyakarta, salam dari kampus berdasi. Ini adalah showcase pertama saya.
+
+  Disini saya ingin melakukan showcase projek tentang short url dengan nama "iShort URLs". Disini saya terinspirasi dari bit.ly dan ungu.in, dan projek ini dibuat untuk mengisi waktu libur semester 7 dan sembari nyari judul untuk skripsi hehehe. Minta doanya kepada Pak Dika dan semua sobat WPU untuk kemudahan dan kelancaran saya dalam pembuatan skripsi sampai sidang🙂
+
+  Tech stack:
+  - Nextjs
+  - Typescript
+  - Tailwindcss
+  - Shadcn
+  - Next UI
+  - Firebase (Untuk database no sql)
+  - Dan masih banyak lainnya hehehe
+
+  Github: https://github.com/irvanshandika/ishort-urls
+  Live: https://ishort.my.id/
+
+  Jika ada masih ada bug itu adalah fitur  yang muncul tanpa diinginkan
+
+  Jangan lupa untuk kritik dan saran diisikan di halaman https://ishort.my.id/contact, kritikan dan saran kalian membuatku belajar lebih giat lagi. Terima kasih banyak semuanya udh memperbolehkan ikut showcase mohon maaf kalo ada kekurangan dalam projek ini
+
+<br>
+
+
+9. [https://cristinagomezruiz.com]  
+   **Suryaaditya**
+
+  Halo semua, saya mau share lagi project client freelance berikut adalah photographer portfolio yg di build dengan stack yg masih native berikut:
+
+  - Express
+  - HTML
+  - SCSS
+  - Prismic 
+  - Native WebGL dan Javascript
+
+  Website ini mempunyai konsep design minimal gallery yg clean, simple dan img heavy berkolaborasi dengan designer asal Kazakhstan bernama Alex Tkachev (https://alextkachev.com/) dan selain sebagai developer saya juga ambil bagian pada motion/animasi yg digunakan.
+
+  Secara teknis dibuat tanpa menggunakan framework dan tanpa library frontend. Untuk metode SPA, WebGL renderer, split text, virtual scroll dan animation engine itu homemade untuk memastikan hanya menggunakan function yg diperlukan sehingga memiki size bundle sekecil mungkin (terakhir cek 22.4kB js size untuk keseluruhan project). 
+
+  WebGL-nya sendiri itu digunakan untuk render seluruh gambar yg ada pada website ini yg langsung terkoneksi dengan dom virtual scroll yg saya buat.
+
+  Untuk SPA yg saya buat bisa handle motion kapan dimana seperti apa masing2 route bereaksi ketika transisi dan page mana yg perlu saya preload di awal dan page mana yg sebaiknya tidak di load di awal untuk mengurangi LCP.
+
+  Virtual scroll dibuat untuk scroll section yg seharusnya akan muncul ke viewport. Jadi di inspect akan liat element secara berurutan translate alih2 translate sekaligus. 
+
+  Mobile version saya selalu simplify semua motion sehingga user tidak pusing dgn segala motionnya, bisa di akses dengan inspect element browser saja karna detect device maxtouch.
+
+  Live site: https://cristinagomezruiz.com
+
+  Website ini mendapatkan penghargaan di beberapa platform:
+
+  - Site of the Day dan Developer Award di Awwwards pada tanggal 01 September 2024 (https://www.awwwards.com/sites/cristina-gomez)
+  - Site of the Day di CSS Design Awards pada tanggal 20 July 2024 (https://www.cssdesignawards.com/sites/cristina-gomez/45949/)
+  - Site of the Day di CSS Winner pada tanggal 15 July 2024 (https://www.csswinner.com/details/cristina-gmez/18152)
+
+<br>
+
+
+10. [https://bryanbradley.github.io/]  
+   **Bryan Bradley**
+
+  Halo Pak Dhika dan teman-teman WPU semua. Perkenalkan nama saya Bryan Bradley dari Makassar. Senang sekali akhirnya bisa bergabung untuk pertama kalinya mengikuti showcase project. Project saya ini berupa Website Portfolio yang cukup sederhana.
+
+  Tech Stack :
+  - HTML
+  - CSS
+  - JavaScript
+  - AOS
+  - Google Sheets
+
+  Fitur :
+  - Dark Mode
+  - Contact Form to Google Sheets
+
+  Project ini terinspirasi dari beberapa project dari teman-teman WPU serta video-video youtube dari Pak Dhika. Saya memiliki beberapa kendala dalam membuat project ini, terutama di bagian styling dan responsivitas untuk layoutnya. Oleh karena itu saya juga memanfaatkan bantuan dari AI untuk mengatasi kendala tersebut. Melalui project ini, kedepannya saya ingin terus membuat project-project lain yang tidak kalah bagus dengan teman-teman WPU semua.
+
+  Jika ada yang ingin memberikan kritik dan saran, dapat melalui Contact Form yang ada di project ini. Terima kasih sudah meluangkan waktu untuk melihat project saya!
+
+  Link Repo : https://github.com/BryanBradley/bryanbradley.github.io
+  Link Demo : https://bryanbradley.github.io/
+
+<br>
+<br>
+
+
