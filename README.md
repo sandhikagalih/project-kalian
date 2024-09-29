@@ -7625,3 +7625,225 @@ Terima kasih!
 <br>
 
 
+### 30 September 2024
+
+1. [https://ryzalleolife.vercel.app/]  
+   **rnyaz**
+
+  Halo Pak Dhika dan teman-teman WPU semua. Perkenalkan nama saya Fahrizal ini pertama kalinya untuk mengikuti showcase project. Sempat belajar otodidak html css di awal perkuliahan tetapi sudah gak minat lagi dengan segala hal pemrograman jadi rehat Sampe semester 4, hehe <:hehehe:972470914488885288>  . Jadi tahun ini saya mau fokus belajar pemrograman karena mau semester 5 tapi gak bisa apa". Project saya ini berupa Website Portfolio yang cukup sederhana.
+
+  Tech Stack :
+  - REACT JS dan GSAP
+  - Tailwind CSS
+  - Email.js
+
+  Project ini merupakan refrensi dari berbagai sumber design webflow portfolio orang luar tapi ada juga dari komunitas GSAP nya. Projects nya cuman ditampilkan sebagian yang lainnya pada private masih belum layak di public.dan sayang nya portfolio project ini hanya max-width 1400px.
+
+  Jika ada yang ingin memberikan kritik dan saran, dapat melalui Contact Form yang ada di project ini. Terima kasih sudah meluangkan waktu untuk melihat project saya!
+
+
+  Live Site : https://ryzalleolife.vercel.app/
+
+  Github bisa dikunjungi dari portfolio terimakasih 🙏🏻
+
+<br>
+
+2. [https://rb.gy/ugcu2p]  
+   **NATH**
+
+  Selamat malam, Pak Dhika dan teman-teman semua.
+
+  Perkenalkan, saya Nathan. Pada kesempatan kali ini, saya ingin memperkenalkan project ketiga saya. Dalam showcase ini, saya akan membagikan Project UI/UX - Prototype Aplikasi Mobile yang saya beri nama Flora Scan.
+
+  Aplikasi Flora Scan ini saya rancang sebagai bagian dari tugas kuliah saya, dengan tujuan utama untuk membantu pengguna mencari tahu lebih detail mengenai berbagai jenis tanaman secara mudah dan cepat. Aplikasi ini didesain untuk memberikan informasi yang mendalam dan berguna bagi para penggemar botani, pelajar, dan siapa saja yang ingin belajar lebih banyak tentang flora di sekitar kita.
+
+  Meskipun begitu, saya menyadari bahwa prototype aplikasi ini masih memiliki beberapa kekurangan. Misalnya, fitur Favorit belum sepenuhnya berfungsi sehingga pengguna belum bisa menambahkan tanaman ke dalam halaman favorit. Selain itu, fitur Edit Lokasi Pengguna juga belum berjalan sesuai yang diharapkan. Halaman dalam aplikasi ini cukup banyak, mungkin masih ada beberapa aspek lain yang perlu ditingkatkan.
+
+  Tautan Prototype aplikasi: https://rb.gy/ugcu2p
+
+  Saya sangat menghargai kritik dan saran dari Pak Dhika dan teman-teman semua agar saya bisa terus memperbaiki dan menyempurnakan aplikasi ini. Terima kasih banyak atas perhatian dan waktu yang telah diberikan. 🙏🙏
+
+<br>
+
+3. [https://m-class.vercel.app/]  
+   **Balsss**
+
+  Assalamualaikum wr wb
+
+  Halo Pa Dhika dan semua teman WPU,  Pada kesempatan kali izinkan saya untuk showcase project sederhana saya ini, project sederhana saya merupakan sebuah web yang bisa di bilang web LMS (Learning Management System), untuk segi ui nya saya copas dari google classroom ya bisa di bilang ini merupakan project clone google classroom walaupun ga terlalu mirip banget. "Kenapa ui nya ngambil dari google classroom bang ?", Karena saya ingin mengenang kembali masa lalu pada tahun covid di mana pada tahun tersebut bisa di bilang saya seorang pemalas untuk mengerjakan sebuah tugas, tapi sekarang alhamdulillah sudah mulai konsisten untuk mempelajari hal yang berbasis web berkat dari pa dhika dan juga bang dea.
+
+  Untuk fitur dan tech stack bisa langsung saja kesini : https://github.com/Ibaliqbal/mclass#readme
+  Repo : https://github.com/Ibaliqbal/mclass
+  Demo : https://m-class.vercel.app/
+
+  Sekian dari saya apabila ada salah ucap/ketikan mohon di maafkan, dan apabila ada saran dan kritik mengenai project saya yang sederhana ini saya sangat menerima nya ,  Terima kasih  🙏🙏
+
+<br>
+
+4. [https://yadh.vercel.app/]  
+   **yadh**
+
+  Selamat Pagi/Siang/Malam, Pak Dhika dan Teman-Teman WPU Sekalian. Ini akan jadi kali pertama saya melakukan showcase untuk projek saya disini, projek yang ingin saya kenalkan kali ini adalah website portfolio ~~sederhana~~ minimalis.
+
+  Adapun Tech Stack yang saya gunakan kali ini adalah:
+
+  - Typescript
+  - NextJS
+  - TailwindCSS
+  - ShadcnUI
+  - AceternityUI (Untuk Floating Dock)
+
+  **Web:** https://yadh.vercel.app/
+  **Repo:** https://github.com/yadhst/yadhst
+
+<br>
+
+5. [https://jlpt-analyze.vercel.app/]  
+   **Yui**
+
+  Hallo Selamat Malam Sandhika sensei dan teman teman WPU aku Yui🙇🏻🙇🏻, mengingat Ujian JLPT (Japanese Language Proficiency Test) semakin dekat, kali ini Yui mau showcase project sederhana, ya karena memang sederhana hehe, yaitu JLPT Try Out Analyze website ini membantu dalam memberikan motivasi beserta feedback seperti saran dan rekomendasi belajar buat persiapan JLPT (Japanese Language Proficiency Test) 
+
+  Mungkin masih terdapat beberapa ketidaksesuaian dari ouput yg diberikan oleh gemini karena saya hanya menggunakan yg gratisan hehe 😄
+
+  Jadi cara isi form nya cukup sederhana, untuk pengisian input nilai biasanya memakai patokan dari sertifikat Try Out JLPT pada umumnya 
+
+  Cocok buat temen temen yg ingin motivasi, rekomendasi dan saran belajar yg tepat sebelum Ujian JLPT resmi/offline🙇🏻🙇🏻
+
+  Link : https://jlpt-analyze.vercel.app/
+  Github : https://github.com/Yu1chiro/jlpt-analyze
+
+  Tech :
+  Tailwinds CSS, Vanila Javascript, Sweet Alert, Gemini API, Flowbite dan beberapa prompting khusus untuk memberikan gemini role dan intruksi
+
+  Seperti biasa kritik dan saran sangat dibutuhkan untuk mengembangkan project menjadi lebih baik terimakasih sandhika sensei dan teman-teman WPU 🙇🏻🙇🏻jangan lupa ;
+
+<br>
+
+6. [https://gen-p.kid.my.id/]  
+   **Eris Sulistina**
+
+  Selamat malam pak Dhika dan teman-teman WPU semuanya. Saya Eris Sulistina masih setia dengan AlpineJS.
+
+  Kali ini saya membawa projek sederhana bernama gen-p, singkatan dari Generator Password. Berawal dari nyari-nyari ide projek untuk melatih skill membangun website yang interactive, akhirnya saya menemukan sebuah blog yang berjudul `100-days-100-projects` yang salah satunya ada projek membuat password generator. BTW, tulisannya sudah tidak bisa diakses.
+
+  Teknologi yang saya gunakan ya seperti biasa <:hehehe:972470914488885288>
+  - Alpine js
+  - Tailwindcss
+  - SweetAlert2
+
+  Repo: https://github.com/sejutaimpian/gen-p  
+  Demo: https://gen-p.kid.my.id/
+
+  Terima kasih atas perhatian dan bintangnya 🙏
+
+  BTW, ada fitur keyboard shortcut buat kalian yang keyboard warrior <:maaf:999282884034711643>
+  ```mdx
+  | Keyboard Shortcut |             Action            |
+  |:-----------------:|:------------------------------|
+  |    Ctrl + Space   | Toggle Theme: Dark/Light Mode |
+  | Ctrl + G          | Generate Password             |
+  | Ctrl + C          | Copy Password                 |
+  |      Ctrl + L     | Toggle Option: Lowercase      |
+  |      Ctrl + U     | Toggle Option: Uppercase      |
+  | Ctrl + Num Lock   | Toggle Option: Number         |
+  | Ctrl + S          | Toggle Option: Symbol         |
+  | Escape            | Clear Password                |
+  | ↑                 | Increment: Character Length   |
+  | ↓                 | Decrement: Character Length   |
+  | Page Up           | Increment: Character Length   |
+  | Page Down         | Decrement: Character Length   |
+  ```
+
+<br>
+
+7. [https://sushi-restauran.netlify.app/]  
+   **iwaksamping**
+
+  Halo Pak Dhika dan teman-teman semua.
+  saya Milan, setelah sekian lama gak showcase akhirnya showcase lagi 😁
+
+  project kali ini adalah sebuah website sederhana yang saya buat karena gabut.
+  website ini adalah sebuah website jualan/toko, yang karena belum tau mau di isi apa, jadinya di isi sushi dulu.
+
+  Teknologi yang digunakan:
+  > html css js
+  > Scroll Reveal
+
+  Github: https://github.com/milanlizriadi/sushi-res
+  Demo: https://sushi-restauran.netlify.app/
+
+  mohon saran dan kritiknya.
+  udah itu aja makasih
+
+<br>
+
+8. [https://play.google.com/store/apps/details?id=com.vebtoo.herdopos&pcampaignid=web_share]  
+   **kadal bunting**
+
+  assalamualaikum pak Dhika. saya izin ikutan showcase project iseng saya. ini project berupa aplikasi android yang bersifat offline. nama aplikasinya Herdopos. ini aplikasi kasir offline scan yang saya buat berdasarkan review keluhan di kolom komentar playstore salah satu aplikasi kasir ternama. Keluhan dari user tersebut adalah tentang scanner barcode pada aplikasi kasir yang harus dipencet tombol barcode satu per satu untuk scanning barcode barang, hal ini memperlambat proses transaksi.  Jadi saya tergerak untuk membuat aplikasi untuk solusi problem ini. 
+
+  Aplikasi Herdopos memiliki display scanner yang selalu terbuka sehingga user hanya tinggal scan dan scan untuk memasukkan barang ke list barang yang akan dibeli kostumer. hal ini juga terlihat seperti kasir di indomart/alfamart  yg menggunakan device tambahan seperti scanner infrared. display scanner di aplikasi herdopos dapat menggantikan scanner infrared tersebut. Setiap barang yang dimasukkan ke dalam aplikasi akan memiliki QRcode masing2 yang tergenerate secara  otomatis dan dapat didownload untuk di bubuhkan pada stiker barang user.
+
+  Aplikasi kasir sederhana ini saya buat menggunakan android studio dengan bahasa kotlin.
+
+  Aplikasi dapat di coba gratis dengen mendownload di playstore. 
+  link herdopos :  https://play.google.com/store/apps/details?id=com.vebtoo.herdopos&pcampaignid=web_share
+
+  jika ada saran dan kritikan atau menemukan masalah seperti bug, dll saat mencoba aplikasi saya sangat menerima dengan senang hati sebagai pembelajaran. Aplikasi ini akan terus dikembangkan  untuk membantuk teman2 yg memiliki bisnis kecil.
+
+  terima kasih
+
+<br>
+
+9. [https://main.d2r6y1tdnkmc69.amplifyapp.com/]  
+   **sarrahman_dev**
+
+  Halo semua, saya Rahman.
+
+  Saya membuat web pribadi yang tidak menarik dari segi desain, tetapi saya buat sebagai awal perjalanan saya untuk menjadi programmer.
+
+  Selama setahun terakhir, saya berbisnis, namun sayangnya keberuntungan belum berpihak ke saya hehe. Sekarang, saya ingin mencoba berkarier sebagai programmer.
+
+  Saya menyadari bahwa persaingan di industri IT saat ini cukup ketat. sementara saya hanya lulusan SMA. 
+
+  Meski begitu, saya sudah mulai koding selama 4 tahun yang mungkin membantu saya beradaptasi untuk memulai posisi Junior Programmer.
+
+  Dengan showcase ini, saya berharap bisa menunjukkan kemampuan saya dan mendapatkan kesempatan untuk bekerja sebagai programmer.
+
+  barang kali ada yang kantor nya butuh programmer tambahan saya siap.
+
+  Tech stack yang saya gunakan:
+      •    TypeScript
+      •    Next.js
+      •    TailwindCSS
+
+  Repo: https://github.com/sarrahman-me/personal-website/
+  Website: https://main.d2r6y1tdnkmc69.amplifyapp.com/
+
+  Saya menambahkan fun project khusus untuk showcase ini (setelah showcase saya hapus) karena saya penasaran bahasa pemrograman apa yang kalian sukai.
+
+<br>
+
+10. [https://wayisapp.vercel.app/]  
+   **alwayis26**
+
+  #### Halo Teman Teman Semuanya😁
+
+  Di showcase project pertama saya ini saya ingin share project website portfolio saya. Website portfolio ini memuat beragam konten seperti identitas saya, keahlian/spesialisasi, link terkait seperti sosial media dan project simple lainnya. 
+
+  Teknologi yang saya gunakan diantaranya:
+  - html
+  - css
+  - javascript
+  - lenissmoothscroll
+  - gsap
+  - aos
+
+  link repo: https://github.com/alwayis26/WayisPortfolio
+  link website: https://wayisapp.vercel.app/
+
+  -# demikian dan saya ucapkan terima kasih😁
+
+<br>
+<br>
+
