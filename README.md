@@ -7625,7 +7625,7 @@ Terima kasih!
 <br>
 
 
-### 30 September 2024
+### 6 Oktober 2024
 
 1. [https://ryzalleolife.vercel.app/]  
    **rnyaz**
