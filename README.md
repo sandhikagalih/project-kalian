@@ -7847,3 +7847,256 @@ Terima kasih!
 <br>
 <br>
 
+### 12 Oktober 2024
+
+1. [https://live-md.kid.my.id/]  
+   **Eris Sulistina**
+
+  Selamat malam pak Dhika dan teman-teman WPU semuanya. Saya Eris Sulistina masih setia dengan Alpine.js.
+
+  Kali ini saya membawa projek tidak sederhana bernama live-md, berupa *online markdown editor*. Berawal dari sering aktif di Discord, sering bikin postingan-postingan di server WPU sehingga memaksa saya untuk mencari website online markdown editor agar bisa melihat preview dari format markdown yang akan saya posting di Discord. Dalam pencarian itu, saya menemukan https://markdownlivepreview.com/ yang memberikan fitur preview tulisan markdown.
+
+  Seiring berjalannya waktu, karena sering menggunakan markdownlivepreview, akhirnya saya kepikiran untuk membuat online markdown editor versi saya sendiri. Selain untuk ngetes ~kesaktian~ keahlian, hadirnya live-md juga menambal kekurangan-kekurangan yang dimiliki markdownlivepreview, diantaranya:
+  1. Responsive
+  2. Dark Mode
+  3. Keyboard Shortcut
+  4. Auto Scroll
+  5. Alert
+
+  Proses pembangunan fitur utama (markdown preview) terbilang mudah karena hanya menghabiskan waktu satu hari. Fitur yang paling sulit adalah fitur shortcut untuk memberikan formatting pada tulisan yang menghabiskan waktu satu minggu, ini pun masih ada kekurangan pada mobile yang tidak bisa saya atasi, yaitu hilang fokus saat memberikan format karena ketutupan tampilan keyboard di mobile. 
+
+  FYI: Desain hint keyboard shortcut, saya tiru dari hint keyboard shortcut milik Discord web.
+
+  Teknologi yang saya gunakan ya seperti biasa <:hehehe:972470914488885288>
+  - Alpinejs
+  - Persist: plugin Alpinejs untuk bekerja dengan localStorage
+  - Tailwindcss
+  - Typography: plugin Tailwindcss untuk typography
+  - SweetAlert2
+  - icons8.com, heroicon, dan remixicon
+  - [markedjs](https://marked.js.org/)
+
+  Repo: https://github.com/sejutaimpian/live-md  
+  Demo: https://live-md.kid.my.id/
+
+  Terima kasih atas perhatian dan bintangnya 🙏
+
+<br>
+
+2. [https://git-knights.potadev.com]  
+   **SiBagood**
+
+  Halo lagi semua, lagi belajar buat game turn based sederhana, dimana stats playernya itu berasal dari aktifitas github kita seperti jumlah repo, total commit, star, follower dll serta item dan skillnya berasal dari bahasa pemograman yang kita pakai direpo kita.
+
+  Stack : sveltekit, tailwind, mongo db, lottie-web, chart js
+  tampilan mungkin kurang responsive untuk di mobile jadi disarankan buka dari desktop
+
+  Web : https://git-knights.potadev.com
+  Repo : https://github.com/bagusindrayana/git-knights
+
+<br>
+
+3. [https://www.shortpath.site/]  
+   **sycle**
+
+  Selamat malam Pak Dhika dan teman-teman.
+
+  Perkenalkan nama saya Rivaldo Tandoko, saya merupakan seorang mahasiswa Tel-U semester 3. Pada sesi showcase yang ke-3 ini saya akan men-showcase project  URL shortener saya, yaitu "ShortPath". Project ini saya buat guna meningkatkan kemampuan saya dalam menggunakan framework NextJs.
+
+  Tech Stack:
+  - NextJs
+  - TailwindCSS
+  - PostgreSQL
+  - Prsima
+  - Shadcn UI
+  - React-icons
+
+  Repo: https://github.com/rtrivaldo/shortpath
+  Live Demo: https://www.shortpath.site/
+
+  Sekian Terima Kasih dan jangan lupa bintang 1 nya.
+
+<br>
+
+4. [https://curhatify.vercel.app/]  
+   **z**
+
+  Selamat pagi, siang ,sore, dan malam pak Sandhika Galih dan teman teman, 
+
+  kali ini saya akan menshowcase proyek "sederhana" yang benar benar sederhana , proyek ini bernama "Curhatify" ,sebuah web untuk menyampaikan curhatan dan mendapatkan respon atau komentar dari orang lain , proyek ini saya bangun untuk menjadi bahan belajar Database relations,API, TypeScript, dan auth . Sayangnya, Proyek yang saya buat kali ini belum mempunyai fitur anonim , jadinya harus login
+
+  tech_stack = {
+  "Next.js",
+  "'TailwindCSS",
+  "Prisma",
+  "Supabase",
+  "TypeScript",
+  "NextAuth",
+  }
+
+  Demo: https://curhatify.vercel.app/
+  Repo: https://github.com/ryznoxy/curhat-app
+
+  note: bisa kali di follow github saya dan  di star repo saya hehe, ini bukan termasuk proyek sihh
+
+  karena ini proyek belajar , mungkin ada sedikit kesalahan saya mohon maaf , terima kasih untuk pak sandhika dan teman teman
+
+<br>
+
+5. [https://travel-app-dusky-nu.vercel.app]  
+   **Iqbal**
+
+  Assalamualaikum Wr. Wb, Selamat malam pak Sandhika galih dan teman teman yang saya banggakan. 
+
+  Perkenalkan saya Iqbal. Pada kesempatan ini saya ingin memperkenalkan project ketiga saya yang bernama TRVLX. 
+
+  TRVLX ini adalah Web yang saya rancang untuk mempermudah siapa saja yang ingin liburan atau healing ke luar kota ataupun luar negeri. 
+
+  Namun mohon maaf masih banyak kekurangan dalam Web TRVLX yang saya buat ini, karena saya baru pertama kali terjun ke dunia fullstack, Untuk admin saya sudah dm ke ig pak Sandhika galih dengan username @iqbaalgifari.
+
+  Tech Stack :
+  - MongoDB
+  - Express.js
+  - Next.js
+  - Node.js
+
+  Fitur :
+  - Sign up
+  - Sign in
+  - Crud
+  - Dll
+
+  Site : https://travel-app-dusky-nu.vercel.app
+
+  Mungkin itu saja dari saya, untuk teman teman mohon keluarkan kritik dan sarannya mengenai UI/UX nya, saya haus kritik dan saran dari teman teman sekalian. Sekian, Wassalamualaikum Wr. Wb
+
+<br>
+
+6. [https://sampleresto.catanism.com]  
+   **.cat**
+
+  Salam sejahtera untuk pak Dhika dan makhluk2 WPU semuanya.
+
+  Kali ini saya mau mengshowcase project hanaseder bertemakan menu digital, karena tiba2 dapet ide iseng pengen bikin menu digital / cashless pas lagi beli makan. 
+  Singkat saja, tech stack yang digunakan :
+  1. Laravel 10
+  2. HTMX + blade
+  3. CSS
+  4. MySQL
+
+
+
+  Demo: https://sampleresto.catanism.com
+
+  Simulasi payment Midtrans :
+  - PC 
+  1. Lakukan pemesanan menu makanan di web https://sampleresto.catanism.com 
+  2. Pilih tipe pembayaran QRIS (Gopay/Shopeepay/Dana)
+  3. Klik kanan pada gambar QR lalu salin link gambar (Copy Link Image)
+  4. Kunjungi halaman simulasi payment ke https://simulator.sandbox.midtrans.com/ 
+  5. Pilih QRIS
+  6. Paste url link gambar yang sudah dicopy tadi
+  7. Kembali ke halaman pembayaran, dan tunggu 10-15 detik (harap maklum kaarena sandbox) atau bisa klik "Check Status"
+  8. Selesai
+
+  -Smartphone 
+  1. Lakukan pemesanan menu makanan di web https://sampleresto.catanism.com 
+  2. Pilih tipe pembayaran QRIS ! *untuk pembayaran via aplikasi masih terbatas di mode sandbox
+  3. Tahan gambar QR hingga muncul pesan "Open image in new tab", kemudian salin URL pada search bar
+  4. Kunjungi halaman simulasi payment ke https://simulator.sandbox.midtrans.com/ 
+  5. Pilih QRIS
+  6. Paste url link gambar yang sudah dicopy tadi
+  7. Kembali ke halaman pembayaran, dan tunggu 10-15 detik (harap maklum kaarena sandbox) atau bisa klik "Check Status"
+  8. Selesai
+
+  Sekian terima gaji. mohon maaf kalo UI/UX nya kurang oke ataupun jika terdapat bug 🙏
+
+<br>
+
+7. [https://jidandev.github.io/portfolio/]  
+   **Dexter**
+
+  Assalamualaikum Warahmatullahi Wabarakatuh.
+
+  Halo pak Dhika dan teman-teman semuanya. Perkenalkan nama saya Jidan, kali ini saya mau coba² ikut pamerin project sederhana saya yaitu project portfolio.
+
+  Tech:
+  Html
+  Css
+  Javascript 
+  AOS
+  Ionicons
+
+  Websitenya gak sebagus yang lainnya soalnya belum terlalu paham mengenai tampilan yang responsif, masih minta bantuan ai  dan gak jago desain.
+
+  Demo:
+  https://jidandev.github.io/portfolio/
+  Github Repository:
+  https://github.com/jidandev/portfolio/
+
+<br>
+
+8. [https://edqe.me]  
+   **Yuka ✧**
+
+  Halo semuanya, sy edqe14 ato bisa dipanggil yuka aja. Sy baru2 join server WPU, jd ini pertama kali sy showcase project. Utk project kali ini yaitu website portfolio sy, bisa di akses di https://edqe.me .
+
+  Repo: https://github.com/Edqe14/website
+
+  📚  Tech stack
+  1. NextJS + Tailwind
+  2. Zustand
+  3. GSAP + MouseFollower
+  4. Contentlayer
+
+  Itu saja dr sy. Terima kasih 🙏
+
+<br>
+
+9. [https://hirakanji-type.vercel.app/]  
+   **Yui**
+
+  Hallo Minna san dan Shandika sensei🙇🏻
+  Aku yui kali ini aku ingin showcase project sederhana ya karena aku suka yg sederhana terlebih lagi techstack nya juga sederhana, projectnya yakni website Hirakanji type, Hirakanji type itu apa sih? Hirakanji type ini adalah salah satu platform latihan mengetik huruf bahasa jepang seperti hiragana, katakana dan kanji yang ter integrasi dengan Gemini AI
+
+  Project ini terinspirasi dari adik kelas saya yg kesulitan dalam menguasai huruf hiragana dan katakana, awalnya saya berpikir ingin membuat flashcard website, namun metode flashcard berbasis website sudah banyak di temukan di website" seperti mazii dan easy japanese, karena menurut saya sendiri membaca dan menghafal lewat teks menurut saya kurang efektif dalam menguasai huruf hiragana dan katakana oleh sebab itu saya membuat Hirakanji type🙇🏻🙇🏻. 
+
+  Cara kerja websitenya cukup sederhana yakni user harus memilih kategori latihan hiragana/kanji dilanjutkan dengan memilih kategori teks dan menklik generate teks, hasil generate teks latihan dihasilkan oleh gemini, jika user memilih kategori hiragana, maka pada form input user harus mengetik dengan huruf hiragana begitupun sebaliknya, dilanjutkan dengan menklik analisis untuk mendapatkan analisis dari gemini. 🙇🏻 untuk cara penggunaanya ada di bagian guide pada website. 
+
+  kendala yg dihadapi ada pada respon atau output analisis gemini yg terkadang kurang sesuai karena saya menggunakan gemini versi gratisan 🙇🏻
+
+
+  Techstack : HTML, Vanila JS, Tailwind CSS, Flowbite, Sweet Alert, Gemini API
+  Dan Beberapa prompting khusus untuk memberikan role pada gemini
+
+  Website : https://hirakanji-type.vercel.app/
+  Repo : https://github.com/Yu1chiro/Hirakanji-Type
+
+  Project ini masih jauh dari kata sempurna oleh sebab itu saya ingin kritik dan saran teman-teman WPU dan Sandhika sensei untuk mengembangkan project ini menjadi lebih baik kedepanya🙇🏻🙇🏻 Terimakasih & arigathanks
+
+<br>
+
+10. [https://water-app-nine.vercel.app/]  
+   **Arifin**
+
+  halo pak dhika dan teman teman semua perkenalkan nama arifin saya dari malang jawa timur.
+
+  ini showcase pertama saya dan saya membuat website cuaca sederhana yang nama nya Weather mengunakan api OpenWeatherMap.
+  namun maaf bila masih banyak kekurangan di websit saya karna saya masi pemulah dan hanya belajar otodidak
+
+  note: login nya masi belum berfungsi cuma pelengkap saja
+
+  Tech Stack :
+  - react js
+  - tailwind css
+  - gsap
+  - leaflet
+
+  demo: https://water-app-nine.vercel.app/
+  repo: https://github.com/Arifin0316/water-app
+
+  mungkin itu saja dari saya jika ada kritik dan saran dari kalian itu sangat membantu untuk saya terima kasi 🙏
+
+<br>
+<br>
+
