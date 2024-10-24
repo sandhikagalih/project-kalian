@@ -8100,3 +8100,230 @@ Terima kasih!
 <br>
 <br>
 
+### 25 Oktober 2024
+
+1. [https://portofolio-react-ts.vercel.app/]  
+   **MLs**
+
+  Assalamualaikum Wr. Wb, Selamat malam guruku Pak Shandika galih dan kepada semua teman-teman yang saya banggakan.
+
+  Perkenalkan, saya Muhamad Luthfi Sadli, seorang mahasiswa semester 5 di Universitas Muhammadiyah Tangerang. Hobi saya adalah ngoding dan terus meningkatkan diri dengan mempelajari bahasa pemrograman lainnya. 
+
+  Saya membuat portofolio ini sebagai langkah untuk mendapatkan pekerjaan. Saya berharap dengan skill yang saya miliki dalam membuat portofolio yang menarik ini, HRD dapat melihat potensi saya. Namun, saya menyadari bahwa tidak semudah itu untuk mencapai tujuan tersebut. Saya percaya usaha saya dalam membuat portofolio ini bisa menjadi nilai tambah, terutama karena saya telah lulus sebagai React Expert dari Dicoding. Saya juga telah mencantumkan semua skill yang saya pelajari dari SMK Jurusan Rekayasa Perangkat Lunak. 
+
+  Saat ini, saya ingin tahu apa yang masih kurang dari diri saya, dan saya sangat membutuhkan arahan untuk memotivasi diri saya lebih lanjut. 
+
+  Inspirasi saya dalam membuat website ini berasal dari https://kulbachny.com/. 
+
+  Teknologi yang saya gunakan dalam pengembangan portofolio ini adalah 
+  - React JS menerapkan pola struktur modular.
+  - TypeScript
+  - Tailwind
+
+  Link website: https://portofolio-react-ts.vercel.app/
+
+  Terima kasih atas perhatiannya. Saya sangat menghargai kritik dan saran yang membangun. 
+  Wassalamualaikum Wr. Wb.
+
+<br>
+
+2. [https://e-invitation-black-and-white.vercel.app/]  
+   **sycle**
+
+  Selamat malam Pak Dhika dan teman-teman.
+
+  Perkenalkan nama saya Rivaldo Tandoko, saya merupakan seorang mahasiswa Tel-U semester 3. Pada sesi showcase yang ke-4 ini saya akan men-showcase project website wedding invitation saya. Project ini merupakan project iseng sekaligus nyoba api google.
+
+  Tech Stack:
+  NextJs
+  TailwindCSS
+  Googleapis
+  React-icons
+  AOS
+  Framer-motion
+
+  Feature:
+  RSVP --> google spreadsheet
+  Countdown
+
+  Live Demo: https://e-invitation-black-and-white.vercel.app/
+
+<br>
+
+3. [https://millahh.github.io/portfolio-2024/]  
+   **charming**
+
+  Halo selamat pagi Pak Dhika dan teman-teman semua,
+
+  Sebelumnya terima kasih banyak kepada Pak Dhika dan forum ini atas kesempatannya untuk saya bisa ikut showcase project kali ini. Saya Millah, pada kesempatan ini saya gunakan untuk memperkenalkan project portofolio pribadi saya.
+
+  Project ini adalah hasil eksplorasi teknologi-teknologi yang baru saya pelajari. Masukan dan kritik sangat saya harapkan sebagai pembelajaran bagi saya. Sekian dari saya, terima kasih Pak Dhika dan teman-teman.
+
+  Tech Stack yang digunakan:
+  TailwindCSS
+  ReactJs
+  ThreeJS
+
+  Link Project:
+  https://millahh.github.io/portfolio-2024/
+
+  Repo:
+  https://github.com/Millahh/portfolio-2024
+
+  Notes:
+  1. Saat ini, desain project belum sepenuhnya responsif untuk tampilan mobile.
+  2. Project ini menggunakan fitur 3D rendering, yang sudah berjalan cukup baik, namun untuk pengalaman terbaik, disarankan menggunakan koneksi internet yang lebih cepat agar proses loading gambar lebih maksimal.
+  3. Saya sangat mengapresiasi jika teman-teman bisa memberikan star di GitHub atau connect dengan saya:)
+
+<br>
+
+4. [https://videobarber.vercel.app]  
+   **SiBagood**
+
+  Selamat malam semua, mau share web app sederhana namanya "VideoBarber ✂️", dimana kita bisa meng-cut atau trim video.
+  Project ini hasil explorasi saya menggunakan ffmpeg wasm dimana versi ffmpeg yang dapat berjalan di browser, jadi proses encoding/renderingnya dibebankan pada client sehingga tidak perlu upload dan proses video di server, untuk itu disarankan menggunakan browser chrome. 
+  Note: saya sendiri masih belum tahu limitasi dari ffmpeg wasm ini (apakah work semua device dan apakah support semua tipe video)  jadi mungkin akan ada proses trim video yang gagal, dan juga karena ini berjalan di proses client kemungkinan akan lag di device2 tertentu.
+
+  web : https://videobarber.vercel.app
+  stack : sveltekit, tailwind, ffmpeg wasm
+
+  repo : https://github.com/bagusindrayana/videobarber
+
+<br>
+
+5. [https://meadityamms.vercel.app]  
+   **Adityamms**
+
+  Halo teman-teman, saya Adityamms. Kali ini, saya ingin berbagi tentang web portofolio sederhana yang saya kembangkan. Web ini dibangun menggunakan teknologi seperti Next.js, Tailwind CSS, Chakra UI, MongoDB, Cloudinary, Upstash, Nodemailer, NextAuth, dan Midtrans.
+
+  Web ini memiliki berbagai fitur seperti verifikasi email, enkripsi data, operasi CRUD, pembatasan jumlah permintaan (rate limiting), upload gambar, login, pembelian produk, dan fitur baru berupa Group Chat.
+
+  Untuk melihat demo aplikasi, silakan kunjungi: 
+  https://meadityamms.vercel.app
+
+  Terima kasih!
+
+<br>
+
+6. [https://chatversal.vercel.app/]  
+   **Dexter**
+
+  Assalamualaikum Warahmatullahi Wabarakatuh.
+
+  Halo pak Dhika dan teman-teman semuanya. 
+  Kali ini saya mau share showcase saya yaitu web real time chat sederhana , feature nya masih dikit dan tampilannya masih jelek.
+
+  Tech:
+  React
+  Tailwind
+  Socket.io
+  Node js
+  Mongodb
+  Ionicons
+
+  Konsep design dari: Discord
+
+
+  Website: https://chatversal.vercel.app/
+  Repository: https://github.com/jidandev/website-chat?tab=readme-ov-file
+
+<br>
+
+7. [https://dotlist.vercel.app/]  
+   **Oodinc**
+
+  Assalamu’alaikum warahmatullahi wabarakatuh, Pak Dhika dan teman-teman WPU semua
+
+  Perkenalkan saya Udin, mahasiswa Informatika semester 5 di Universitas Sebelas Maret. Izin mengirimkan project sederhana saya yang ke-2 di showcase-project ini. Project ini berupa website todo-list dengan nama Dotlist.
+
+  Project ini saya buat untuk mengisi waktu luang saat kuliah, tujuan pembuatan website ini untuk membantu user mengatur tugas/pekerjaan secara efektif.
+
+  Fitur didalamnya: 
+  - penggunaan CRUD untuk tugas
+  - pencarian tugas
+  - pengelompokan tugas 
+
+  Teknologi yang digunakan:
+  Frontend:
+  - Bootstrap
+  - Framework Laravel 10
+
+
+  Link web: https://dotlist.vercel.app/
+  Link repo: https://github.com/oodinc/Dotlist
+
+  Masih terdapat kekurangan mungkin terkait bug atau dari segi UI, maka dari itu minta sarannya dari PaK Dhika dan teman-teman WPU semua.
+
+  Terimakasih.
+  Wassalamu’alaikum warahmatullahi wabarakatuh
+
+<br>
+
+8. [https://belajar-javascript.netlify.app/]  
+   **Naufal**
+
+  Hai kak, perkenalkan nama saya Naufal, saya disini ingin memamerkan web belajar javascript dari basic sampai expert dengan desain yang sangat simple dan minimalist .
+
+  Tech stack:
+  Html
+  Tailwind CSS
+  Daisyui
+  Font awesome 
+  Javascript 
+
+  Sekian dari saya terima kasih 
+
+  Link : https://belajar-javascript.netlify.app/
+
+<br>
+
+9. [https://finance-app-xi-seven.vercel.app/]  
+   **Arifin**
+
+  halo pak dhika dan teman teman perkenalkan nama saya arifin. saya ingin mengikuti showcase projek yang ke 2  kali ini saya membuat website pengelolah keuangan sederhana .
+
+  tech stack:
+  react js
+  tailwind css
+  gsap
+  firebase
+  recharts
+
+  fitur:
+  register
+  login
+  chat
+
+  link: https://finance-app-xi-seven.vercel.app/
+
+  itu saja dari saya jika ada kritik dan saran mohon disampaikan saja karna itu sangat membantu saya makasi
+
+<br>
+
+10. [https://duit-ku.vercel.app]  
+   **Adicss**
+
+  Halo Pak Dhika ini adalah showcase ke 3 saya setelah 3 minggu belajar NuxtJS (Vue) dan ASP.NET Core 8 akhirnya jadi juga project sederhana untuk mencatat pengeluaran dan pemasukan harian yang juga di lengkapi fitur OCR (Optical Character Recognizer) ya walaupun cuma buat ngambil Tanggal dan Total harga dari transaksi nya aja (Niat nya bakal ada update lagi nanti) dan udah bisa langsung tarik laporan dalam bentuk XLSX (Excel File)
+
+  Web app ini juga udah 100% Responsive jadi bisa di pake di device mana aja mau itu laptop, tab, ataupun mobile phone (asalkan punya browser)
+
+  Detail Tech Stack Yang Digunakan :
+  1. Frontend menggunakan NuxtJS (VueJS) ⚡
+  2. Cache query menggunakan Tanstack Query 🚀
+  3. OCR menggunakan library tesseractjs  📸
+  4. Shadcn/UI versi vue (unofficial port dari shadcn/ui) sebeagai UI library nya 😎
+  5. ASP.NET Core 8 sebagai backend service 💻
+  6. EF Core sebagai ORM 💾
+
+  Fitur:
+  1. Multiple Sumber Income (Akun)
+  2. Meng kategori kan pengeluaran dan bisa ada sub kategori nya juga (optional)
+  3. OCR (Ekperimental) bisa input pengeluaran by ss an gopay misal nya klo abis jajan pake QRIS (tapi ini cuma nge capture tanggal dan total harga nya saja)
+  4. Tarik laporan menjadi file excel
+
+  Link Demo nya (https://duit-ku.vercel.app)
+  Link Github repo nya (https://github.com/AdiCahyaSaputra/duitku)
+
+<br>
+<br>
+
