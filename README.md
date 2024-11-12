@@ -6346,6 +6346,7 @@ Proyek sempat digunakan untuk pameran pada acara job fair di sekolah (secara tib
   - pandas
   - matplotlib
   - folium
+  - mantap
 
   demo project : https://colab.research.google.com/drive/1GeIUioUCnMsA1P8LREsjKpTiW6mpAByy?usp=sharing
   github project: https://github.com/opengeos/leafmap
