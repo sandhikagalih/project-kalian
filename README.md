@@ -8100,7 +8100,7 @@ Terima kasih!
 <br>
 <br>
 
-### 30 Oktober 2024
+### 2 Desember 2024
 
 1. [https://portofolio-react-ts.vercel.app/]  
    **MLs**
