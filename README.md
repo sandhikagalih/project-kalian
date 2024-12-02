@@ -8100,7 +8100,7 @@ Terima kasih!
 <br>
 <br>
 
-### 2 Desember 2024
+### 30 Oktober 2024
 
 1. [https://portofolio-react-ts.vercel.app/]  
    **MLs**
@@ -8323,6 +8323,236 @@ Terima kasih!
 
   Link Demo nya (https://duit-ku.vercel.app)
   Link Github repo nya (https://github.com/AdiCahyaSaputra/duitku)
+
+<br>
+<br>
+
+
+### 2 Desember 2024
+
+1. [https://portfolio-v2-milan.vercel.app/]  
+   **IMPHNEN | bWlsYW4u**
+
+  Halo Pak Dhika dan temen2 semua.
+  Saya Milan dan ini adalah sebuah website portfolio saya yang sangat sederhana.
+
+  Untuk sekarang websitenya belum 100% selesai, jadi ini akan saya update terus
+
+  Dibuat dengan:
+  - HTML CSS JS
+  - Tailwind
+  - GSAP
+  - SplitType
+
+  Demo: https://portfolio-v2-milan.vercel.app/
+  Github: https://github.com/milanlizriadi/portfolio-v2
+
+  Silakan di roasting bagi yang mau karena akan sangat membantu saya.
+  Udah itu aja Makasih semuanyaa
+
+<br>
+
+2. [https://rivaldotandoko.vercel.app]  
+   **sycle**
+
+  Selamat malam Pak Dhika dan teman-teman.
+
+  Perkenalkan nama saya Rivaldo Tandoko, saya merupakan seorang mahasiswa Tel-U semester 3. Pada sesi showcase yang ke-5 ini saya akan men-showcase web portfolio sederhana saya. 
+
+  Tech Stack:
+  NextJs
+  TypeScript
+  TailwindCSS
+  Shadcn
+  Aceternity UI
+  React-icons
+  AOS
+  Framer-motion
+  GSAP
+
+  Live Demo: https://rivaldotandoko.vercel.app
+  Repo: https://github.com/rtrivaldo/portfoliov2
+
+  Sekian terimakasih. Jangan lupa bintang satunya
+
+<br>
+
+3. [https://calender-jp.vercel.app]  
+   **Yui**
+
+  Konbanwa Sandhika sensei & temen-temen WPU saya Yui🙇‍♂️, saya ingin showcase project HTML Dasar karena saya juga suka yang dasar-dasar juga projectnya yakni website  "Nihon Karenda" project ini merupakan project iseng dari tugas matakuliah saya yakni Masyarakat & Budaya Jepang.
+  Awalnya tugas ini disuruh dosen untuk mencari arti kanji cara baca kanji dan penjelasan dari perayaan jepang tersebut, karena menurut saya ribet. 
+
+  Maka dari itu Yui buat versi websitenya wkwkw 😄 dari project kalender ini kita juga bisa tahu terkait perayaan" dan hari" penting di jepang berdasarkan tanggal di kalender.
+
+  Cara pakainya gmana? Di setiap bulan pada kalender terdapat tanggal yg berisi keterangan/label kanji yg merupakan hari" Penting dan perayaan user hanya perlu mengklik tanggal yg berisi label tersebut untuk mendapatkan informasi
+
+  Apa aja yg dipake : Node JS, Express, Vanila JS, Unsplash API (dumy image) & API Gemini
+
+  Link : https://calender-jp.vercel.app
+  Repo : https://github.com/Yu1chiro/calender-jp
+  Reference : https://happylilac.net/
+
+  Kekurangan masih belum responsive untuk ukuran device handphone hanya support di mode dekstop🙇‍♂️ dan response gemini yg terkadang kurang sesuai karena API nya gratisan hehe:v
+  Seperti biasa karena saya pemula, saya butuh kritikan dan masukan dari temen-temen WPU dan sandika sensei akhir kata. ; 忘れないでくださいarigathanks🙇‍♂️🙇‍♂️
+
+<br>
+
+4. [https://invezgo.com]  
+   **Ferdi**
+
+  Selamat malam pak Dhika dan teman-teman semuanya.
+
+  Sebelumnya saya sudah pernah showcase web yang berkaitan dengan saham. Dari project sebelumnya saya dapat deal dengan client untuk membuat web yang berkaitan dengan saham juga, selain fee tentu juga dapat banyak pengalaman dan ilmu yang sangat banyak.  Kali ini projectnya tidak jauh beda, tetapi ada perubahan setelah rebranding baik itu nama atau code juga berbeda jauh. Project ini juga masuk ke Inkubasi Bisnis Univ saya. 
+
+  Pengguna web bisa share postingan terkait saham baik itu analisa, diskusi ringan, upload video atau sekedar baca postingan orang lain. Selain itu, ada sistem verified user dimana verified user ini dapat upload video dan membuat sistem membership sendiri. Kurang lebih seperti gabungan twitter dan youtube khusus untuk saham. Maaf masih sangat sederhana pak karena sekarang statusnya masih minimum viable untuk diri sendiri hehe. Di development, saya sudah persiapkan banyak hal termasuk video encoding ke format HLS, AI untuk banyak hal seperti sorting saham, sistem rekomendasi, sistem notifikasi baik melalui Push PWA atau Email. Tetapi karena alasan beban server sehingga kali ini belum bisa ditampilkan di production. Kedepannya saya ingin perbanyak fitur dan kalau bisa buat server sendiri.
+
+  Teknologi yang digunakan:
+  - NextJS 15 Typescript (Frontend)
+  - NestJS + Fastify Typescript (Backend)
+  - Flask Python (Saya gunakan untuk extract dan olah data dari laporan keuangan quartal, laporan kepemilikan saham dan lain lain yang berkaitan dan penting untuk bahan analisa)
+  - BullMQ (Sistem Queue untuk Email, Notifikasi dll)
+  - Redis
+  - PostgreSQL
+  - Min.IO
+  - Grafana + Loki + Pino (Logger dan DevOps stat keseluruhan)
+  - Midtrans
+
+  Website: https://invezgo.com
+  Github: https://github.com/Invezgo/invezgo (Hanya kebutuhan docs saja kedepannya)
+
+  Saya rasa masih banyak kekurangan karena masih sangat sederhana. Feel free untuk comment kalau teman-teman ada masukan. Terimakasih banyak pak
+
+<br>
+
+5. [https://www.npmjs.com/package/@jidan/simplejs]  
+   **Dexter**
+
+  ##### Simple Js
+  Assalamualaikum, mohon izin pak Dhika dan teman² programmer sekalian, saya mau berbagi library js yang baru saya kembangkan.
+
+  Link
+  NPM: https://www.npmjs.com/package/@jidan/simplejs
+  REPO: https://github.com/jidandev/simple-js
+
+  Library nya sederhana cuman buat memperpendek sintaks di javascript doang, mirip kayak jQuery. Mungkin kedepannya bakal ada fitur tambahan, yang bukan cuman memperpendek sintaks doang.
+
+  Library ini open source, jadi silahkan teman² yang mau ikut berkontribusi mengembangkan library ini
+
+<br>
+
+6. [https://new-portofolio-alpha.vercel.app/]  
+   **leoo**
+
+  Assalamualaikum Warahmatullahi Wabarakatuh.
+
+  Halo pak Dhika dan teman-teman semuanya. Sebelumnya perkenalkan nama saya Vickry biasa dipanggil pik. Selebumnya saya belum pernah ikut project showcase. Kali ini saya akan menunjukan project Portofolio simple dan sederhana ini.
+
+  Tech:
+  React
+  Vite .JS
+  GSAP
+  Email JS
+  Lucide React
+
+  Tools Coding:
+  Acode
+  Termux
+
+  Websitenya mungkin tidak se Wah yang lainnya karena ini dibuat menggunakan Android jauh sebelum saya membeli Laptop. Jadi masalah UI dan Responsifnya mungkin agak sedikit kurang. Anyway Terimakasih sudah memberikan waktunya untuk melihat dan membaca Showcase saya! ✌
+
+  Demo:
+  https://new-portofolio-alpha.vercel.app/
+  Github Repository:
+  https://github.com/pikupik/new-portofolio
+
+<br>
+
+7. [http://danchat.run.place]  
+   **n0tr3x**
+
+  Selamat pagi semuanya hai perkenalkan aku adalah XplDan , 0srD4n dll.
+  Aku membuat chat room  bernama danchat
+  Danchat adalah aplikasi chat room berbasis PHP yang dibangun menggunakan hati. Danchat dirancang sebagai solusi komunikasi instan, memungkinkan pengguna berinteraksi secara real-time dalam ruang obrolan yang aman dan sederhana.
+
+  Fitur Utama
+  Danchat menggunakan antarmuka yang minimalis dan user-friendly, menjadikannya mudah diakses baik di desktop maupun perangkat mobile..
+
+  Menggunakan ekstensi PHP seperti `intl`, `gettext`, `pdo`, `pcre`, dan `libsodium`, menjamin stabilitas dan keamanan saat pengguna berinteraksi.
+  Mendukung opsional ekstensi `gd`, `json`, dan `memached` untuk meningkatkan performa dan kustomisasi visual.
+
+  Teknologi yang Digunakan
+  Danchat dijalankan di atas server Infinity hosting.  memanfaatkan PHP sebagai backend, dan mendukung integrasi dengan berbagai ekstensi PHP untuk menambah fitur-fitur penting dalam sistem komunikasi modern.
+
+  Potensi Pengembangan
+  Danchat dirancang agar fleksibel dalam pengembangan lebih lanjut, termasuk peningkatan antarmuka, sistem autentikasi, serta notifikasi untuk pengalaman pengguna yang lebih baik.
+  Fitur paling utama adalah dalam segi keamanan dimana ini menggunakan encryption code yang begitu panjang jadi gak akan ada yang bisa membobol atau membuka atau melakukan edit terhadap chat yang ada.
+  Dengan Danchat, komunikasi lebih mudah, cepat, dan aman.
+  Demo chat : http://danchat.run.place
+  Link Tor http://7ezcvo2wrozkrakhitpnloz2m3l6uqa33st6lyyylpe7ptzdghpsc4yd.onion/
+
+<br>
+
+8. [https://brovi.vercel.app]  
+   **SiBagood**
+
+  selamat malam semua, ijin share project random, sebuah audio visualizer tapi animasi spectrumnya pakai tab window browser, jadi nanti webnya bakal ngebuka banyak tab window baru yang akan dianimasiin (panjang, lebar, ukuran), jadi.... yang speknya kentang jangan dicoba biar gak ngefreeze 😁 resiko ditanggung masing2 😁 (dan hanya work di desktop)
+
+  stack :
+  sveltekit, tailwind, jsmediatags
+
+  web : https://brovi.vercel.app
+  repo : https://github.com/bagusindrayana/brovi
+
+<br>
+
+9. [https://miftahurrahman-portofolio.netlify.app/]  
+   **M. Miftahurrahman**
+
+  Halo semuanya perkenalkan nama saya Muhammad Miftahurrahman atau yang dikenal sebagai Miftah, saya merupakan lulusan dari SMK dengan jurusan Teknik Komputer dan Jaringan, dan sekarang saya berkuliah di Universitas Mercu Buana Jakarta dengan jurusan Teknik Informatika. 
+  Saya ingin memperkenalkan hasil pembuatan website portofolio pribadi saya selama saya masih duduk dibangku Sekolah Menengah Kejuruan .
+
+  Teknologi yang saya gunakan yaitu :
+  Vue JS 3 & Vuex
+
+  link website    : https://miftahurrahman-portofolio.netlify.app/
+  repository    : https://github.com/Miftahurrahman-STEI/portfoliovue2024
+
+  Jika ada saran atau masukan mohon dipersilahkan
+
+<br>
+
+10. [https://github.com/savareyhano/sistem-informasi-inventaris-barang]  
+   **M1917Enfield (Reyhan)**
+
+  Assalamualaikum, halo pak Sandika dan teman-teman WPU. Saya izin showcase projek sederhana saya yaitu "Sistem Informasi Inventaris Barang", ini adalah proyek akhir saya untuk bootcamp WGS NodeJS Batch 4:
+
+  https://github.com/savareyhano/sistem-informasi-inventaris-barang
+
+  Tech stack:
+
+  - NodeJS (Runtime)
+  - Express (Web framework)
+  - PostgreSQL (Database)
+  - EJS (Template engine)
+  - AdminLTE + Bootstrap (Styling)
+  - JQuery
+
+  Yang ada di website:
+
+  - Dasbor (laporan barang masuk barang keluar, pengguna, dst.).
+  - Stok barang, Barang Masuk, Barang Keluar.
+  - Log aplikasi
+  - Kelola pengguna (khusus role admin)
+  - Ganti email dan password
+  - Mode gelap
+
+  Fitur-fitur:
+
+  - QRCode untuk barang yang dapat di atur ukuran nya (lebar x tinggi) dan dapat di print secara massal
+  - Scan QRCode barang dengan menggunakan webcam, atau file upload untuk barang masuk dan barang keluar.
+
+  Tujuan saya ikut showcase ini karena saya ada rencana ingin membuat pengembangan dari aplikasi ini dengan tech stack yang lebih baru, maka dari itu saya sangat menerima saran yang masuk  untuk melengkapi kekurangan dari aplikasi yang dibuat, terimakasih.
 
 <br>
 <br>
