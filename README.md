@@ -8468,7 +8468,7 @@ Terima kasih!
 
 <br>
 
-7. [http://danchat.run.place]  
+7. [http://danchat-tor.work.gd]  
    **n0tr3x**
 
   Selamat pagi semuanya hai perkenalkan aku adalah XplDan , 0srD4n dll.
@@ -8521,7 +8521,7 @@ Terima kasih!
   Saya ingin memperkenalkan hasil pembuatan website portofolio pribadi saya selama saya masih duduk dibangku Sekolah Menengah Kejuruan .
 
   Teknologi yang saya gunakan yaitu :
-  Vue JS 3 & Vuex
+  Vue JS 3 & Vue use motion
 
   link website    : https://miftahurrahman-portofolio.netlify.app/
   repository    : https://github.com/Miftahurrahman-STEI/portfoliovue2024
