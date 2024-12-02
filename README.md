@@ -8472,6 +8472,13 @@ Terima kasih!
    **n0tr3x**
 
   Selamat pagi semuanya hai perkenalkan aku adalah XplDan , 0srD4n dll.
+  Akun untuk review  all fitur 
+  ```
+  Username : wpu
+  Password: gogogo
+  ```
+  Note aja ini pure PHP karena gak tau caranya pakai framework jadi yah gitulah 
+  Untuk fitur admin bisa tag aku kalok mau 
   Aku membuat chat room  bernama danchat
   Danchat adalah aplikasi chat room berbasis PHP yang dibangun menggunakan hati. Danchat dirancang sebagai solusi komunikasi instan, memungkinkan pengguna berinteraksi secara real-time dalam ruang obrolan yang aman dan sederhana.
 
@@ -8488,7 +8495,8 @@ Terima kasih!
   Danchat dirancang agar fleksibel dalam pengembangan lebih lanjut, termasuk peningkatan antarmuka, sistem autentikasi, serta notifikasi untuk pengalaman pengguna yang lebih baik.
   Fitur paling utama adalah dalam segi keamanan dimana ini menggunakan encryption code yang begitu panjang jadi gak akan ada yang bisa membobol atau membuka atau melakukan edit terhadap chat yang ada.
   Dengan Danchat, komunikasi lebih mudah, cepat, dan aman.
-  Demo chat : http://danchat.run.place
+  Repo : https://github.com/0srD4n/Danchat
+  Demo chat : http://danchat-tor.work.gd
   Link Tor http://7ezcvo2wrozkrakhitpnloz2m3l6uqa33st6lyyylpe7ptzdghpsc4yd.onion/
 
 <br>
