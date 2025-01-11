@@ -291,3 +291,246 @@
 <br>
 <br>
 
+### 11 Januari 2024
+
+1. [https://syclestore.com]  
+   **sycle**
+
+  Selamat malam, Pak Dhika dan teman-teman.
+
+  Perkenalkan, nama saya Rivaldo Tandoko, mahasiswa semester 3 di Telkom University. Pada sesi showcase ke-7 ini, saya ingin memperkenalkan sebuah platform untuk top up game termurah dan #GakPakeLama yaitu SycleStore.
+
+  SycleStore dirancang untuk memudahkan para gamer dalam melakukan top-up berbagai game favorit mereka dengan pengalaman pengguna yang sederhana namun fungsional.
+
+  Tech Stack yang digunakan:
+  - Next.js
+  - TailwindCSS
+  - Prisma
+  - React-icons
+  - Shadcn
+
+  Fitur Utama:
+  - Top-up game tanpa memerlukan login.
+  - Riwayat transaksi dengan input nomor telepon atau kode pembayaran (tidak perlu login).
+  - Berbagai metode pembayaran populer
+  - Dark mode
+
+  Live Demo: https://syclestore.com
+
+  Sekian dari saya. Mohon dukungan dan feedbacknya. Terima kasih! 😊
+
+<br>   
+
+2. [https://amanah-fc.site/]  
+   **Kholid Irfangi**
+
+  Assalamu'alaikum Pak Dhika dan semua pasukan ; Ijin share project ke 2 saya, kali ini saya mau share landing page yang biasa saja sih ga ada yng spesial kaya nasi goreng. Landing page ini saya buat untuk tempat kerja saya biar kelihatan keren..wkwk
+  Website ini dibangun menggunakan Vite + React + Tailwindcss. Saran dan masukkannya tentunya saya tunggu.. hehe
+  Link github: https://github.com/kholidirfangi/amanah-fc
+  Live website: https://amanah-fc.site/
+
+<br>   
+
+3. [https://marketplace.visualstudio.com/items?itemName=Yusupsupriyadicom.keep-moving]  
+   **Wingman**
+
+  Hai, Para Developer! 👋
+
+  🚀 Memperkenalkan "𝗞𝗲𝗲𝗽 𝗠𝗼𝘃𝗶𝗻𝗴" - Extension Penunjang kesehatan kamu! 🧘‍♂️💻
+
+  Saya senang bisa memperkenalkan "𝗞𝗲𝗲𝗽 𝗠𝗼𝘃𝗶𝗻𝗴", ekstensi baru buatan saya untuk VSCode yang dirancang untuk membantu kamu tetap sehat saat coding berjam jam. 🏋️‍♀️✨
+
+  🌟 𝗪𝗵𝗮𝘁 𝗱𝗼𝗲𝘀 𝗶𝘁 𝗱𝗼?? "Keep Moving" adalah aplikasi yang mengingatkan kamu untuk berhenti sejenak, berdiri, dan meregangkan tubuh. Setiap interval waktunya bisa disesuaikan sesuai kebutuhan—defaultnya adalah setiap 1 jam sekali, namun kamu bisa memilih durasi yang lebih pendek atau panjang. Fitur sederhana ini sangat efektif untuk menjaga kesehatan, terutama saat kamu fokus bekerja berjam-jam. Hanya dengan bergerak sedikit, kamu bisa membantu menjaga kesehatan fisik dan fokus mentalmu.
+
+  👉 𝗧𝗿𝘆 𝗶𝘁 𝗻𝗼𝘄: Unduh di VS Code Marketplace
+  https://marketplace.visualstudio.com/items?itemName=Yusupsupriyadicom.keep-moving
+
+  💻  **GitHub Repository **
+  https://github.com/yusupsupriyadi/keep-moving-extension
+
+  **Tech & Stack:**
+  - Yeoman (Yo)
+  - Javascript
+  - Tailwind (cdn)
+  - Lottie
+
+  Yuk, mulai lebih peduli dengan kesehatanmu! Luangkan sedikit waktu untuk berdiri dan bergerak dari tempat kerjamu. Langkah kecil ini bisa membuat tubuhmu jauh lebih sehat 💪✨
+
+  💖 Kalau kamu merasa ini berguna, jangan lupa beri ⭐ di repo GitHub dan kasih feedback. Itu sangat berarti buat saya! 🙏
+
+<br>   
+
+4. [https://pathfinding-visualization-app.vercel.app/]  
+   **trent_handoko**
+
+  Selamat pagi Pak Dhika!
+  Perkenalkan nama saya Satia, pada kesempatan kali ini saya ingin menunjukkan projek Visualisasi Pathfinding Algorithm. Projek ini bertujuan untuk membantu memahami algoritma pathfinding secara visual(kedepannya saya akan tambahkan lagi untuk sortir algorithm :))
+
+  Tech Stack:
+  -Javascript
+  -React
+  -Tailwind
+
+  Penjelasan singkat dari projek saya: pertama-tama teman" menentukan titik start dan titik finish dgn cara dragging. Kemudian teman" dapat draw walls atau barrier pada fieldnya atau click create random wall (kedepannya saya tambahkan create labyrinth). Lalu teman" bisa pilih algoritma utk mencari jarak terdekat antara dua titik, mau menggunakan dijkstra atau A-star(kedepannya akan saya tambahkan BFS dan DFS :)). 
+
+  Untuk demonya dan penjelasan dari projek ini, jika berkenan bisa lihat disini: https://www.youtube.com/watch?v=qWWI8y2dq_E&t=2s
+  Github: https://github.com/Trenttrevor/pathfinding-visualization-app
+  Website: https://pathfinding-visualization-app.vercel.app/
+
+<br>   
+
+5. [https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v3/projects/realtime3d/realtime3d.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Project kali ini  adalah Realtime 3D - Damaskus
+  "Antrian kendaraan menuju Damaskus setelah runtuhnya Assad"
+
+  Web ini sedang Work_In_Progress
+
+  Saat ini aku mau tunjukkan:
+  - Perubahan bentuk objek secara realtime
+      Aku edit dari Blender, hasilnya langsung terlihat
+      Supabase sebagai storage kumpulan objek 3d
+
+  Untuk memulai:
+  1. Click Show/Hide data (icon mata)
+  2. Click "Tambah client"
+  3. Data jangan diotak atik, cukup dilihat, atau Click Show/Hide data, biar ga kepejet (belum <:jago:1164582900730179659> bahasa <:postgresql:831843519039537162><:postgresql:831843519039537162>)
+  4. Gerakkan kamera, baca petunjuk
+
+  Next: bikin gerakan armature (pohon goyang, engsel, dll)
+  Tunggu update selanjutnya
+
+  Editor:
+  - Blender 4.3.0
+  - Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+  - Notepad++
+
+  Javascript library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/Poly-Landhep/tree/main/Poly%20Landhep/v3/projects/realtime3d
+  Web: https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v3/projects/realtime3d/realtime3d.html
+
+  Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+  Kita tidak cuma ahli main game, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉
+  Kita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, & banter.
+  #### 🆓🆓 🇵🇸 🇱🇧 +Syria
+  Maturnuwun.
+
+<br>   
+
+6. [https://www.bookarcade.my.id ]  
+   **Cang**
+
+  Halo Pak Dhika! 👋
+
+  Perkenalkan nama saya Mhd. Goncang, saya ingin memperkenalkan web yang saya buat yaitu Book Arcade, sebuah website interaktif untuk para pecinta membaca dan menulis. Di sini, user bisa:
+
+  📖 Membaca berbagai novel dan cerpen yang ditulis sendiri oleh user
+  ✍️ Menulis cerita atau karya sendiri
+  ⭐ Memberikan ulasan dan feedback pada karya orang lain
+
+  Dan untuk fitur arcade nya seperti:
+  🎯 Sistem Misi – Selesaikan misi seperti membaca buku tertentu, menulis cerita, atau memberikan ulasan
+  🏆 Poin Experience & Level – Setiap aktivitas seperti menyelesaikan misi, menulis cerita, atau memberikan ulasan akan memberikan poin experience untuk meningkatkan level user
+  📊 Ranking – Ada sistem peringkat untuk memotivasi user agar lebih aktif dan kompetitif
+
+  Tujuan saya membangun Book Arcade adalah untuk menciptakan komunitas yang lebih aktif, produktif, dan seru di dunia literasi digital. Saya berharap teman-teman bisa mencoba platform ini dan memberikan feedback untuk pengembangan lebih lanjut. 😊
+
+  Teach Stack:
+  1. Next.js
+  2. Mongo DB
+  3. Mongoose
+  4. Tailwind CSS
+  5. Daisy UI
+  6. SWR
+
+  Untuk akun admin, akan saya kirimkan melalui DM Discord ke Pak Dhika
+
+  Silakan kunjungi: https://www.bookarcade.my.id 
+  Github: https://github.com/goncang1512/Book_Hub
+
+<br>   
+
+7. [https://attractors.edqe.me/]  
+   **Yuka ✧**
+
+  Halo semua 👋 
+
+  Kali ini aku mau share salah satu project lamaku, **Attractor Visualizer**. Project ini adalah visualisasi untuk beberapa chaotic attractor (https://en.wikipedia.org/wiki/Attractor).
+
+  > 📚 **Tech stack**
+  1. Next.js
+  2. Tailwind
+  3. Three.js
+  4. Mantine
+
+  > **Website**
+  https://attractors.edqe.me/
+
+  - Github  https://github.com/Edqe14/attractors
+
+<br>   
+
+8. [https://yumemart.vercel.app/]  
+   **Arifin**
+
+  halo semua nya perkenalkan nama saya arifin kali ini saya ingin showcase projek yang ke 3 di showcase kali ini saya membuat websit toko online yang bernama yumemart yang terinspirasi dari bahasa jepang yang artinya toko impian saya membuat websit ini megunakan next js yang saya pelajari kurang lebih 1 bulanan dan ini adalah projek next js pertama saya toloang jika ada kritik dan saran jangan sungkan untuk di sampikan karena kritik dan saran dari teman teman sangat membantu🙏  
+
+  tech stack:
+  .next js
+  .tailwind css
+  .firebase
+  .sweet alert
+  .midtrans
+
+  untuk simulasi pembayaran nya bisa mengunaka midtrans payment simulator
+
+  websit:  https://yumemart.vercel.app/
+  repo:  https://github.com/Arifin0316/website-store
+
+<br>   
+
+9. [https://sunnyhopetogame.itch.io/trying-web-based-game-dragon-runner-platformer]  
+   **Sunny Hope**
+
+  halo pak dhika dan teman teman semua perkenalkan nama Hassan saya dari Bogor tapi aslinya dari luar ngeri (Suriah).
+
+  ini showcase pertama saya dan saya membuat Game Pertama saya dalam itchio dari game download ke Game web yang nama nya Dragon runner Platformer
+  namun maaf bila masih banyak kekurangan di dalam game saya Soalnya saya masih belajar soal buat game 
+
+  note: masih ada bebarapa fitur yang belum lengkap dalam gamenya soalnya masih dalam proses buatan
+
+  Tech Stack:
+  Godot ( Game Engine )
+  Gdscript (bahasa programman kuhsus untuk Game engine Godot)
+  itch.io
+
+  LInk:
+  https://sunnyhopetogame.itch.io/trying-web-based-game-dragon-runner-platformer
+
+  repo: 
+  https://github.com/Code-is-me/game-dragon-runner
+
+<br>   
+
+10. [https://github.com/Yu1chiro/Iscout-free]  
+   **Yui**
+
+  Hallo temen-temen WPU & Pak Shandika Selamat malam🙇🏻🙇🏻, kali ini Yui ingin showcase project kecil"an sekaligus iseng, project ini Yui buat di sela sela UAS yg nge spawn banget, kebetulan juga yui lagi belajar figma dan move belajar desain hehe, project nya yaitu ISCOUT Downloader. 
+
+  Project ini terinspirasi karena yui kesusahan mendownload icon di website icon scout, karena 3D icon nya premium semua😥😥 , jadi yui mutusin buat bikin project ini, agar icon yg premium bisa di download dengan gratis, ya walau aga burem dikit ga ngaruh wkwkwk, project ini belum sepenuhnya yui deploy/hosting karena ga ada waktu juga hehe:v
+
+  使われる物 : Tailwind, Express, Puppeteer. 
+
+  Repo : https://github.com/Yu1chiro/Iscout-free
+
+  Semoga membantu buat temen temen front end dan yang suka design, tidak lupa juga yui minta kritik dan saranya temen temen & pak shandika apakah ini legal atau tidak hehe:D
+  Suksmarigathanks🙇🏻🙇🏻
+
+<br>   
+<br>
