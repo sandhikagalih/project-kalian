@@ -7,7 +7,7 @@
 
 ## Season 5 | 2025 
 
-### 4 Januari 2024
+### 4 Januari 2025
 
 1. [https://jolly.pow.kim]  
    **wand**
@@ -291,7 +291,7 @@
 <br>
 <br>
 
-### 11 Januari 2024
+### 11 Januari 2025
 
 1. [https://syclestore.com]  
    **sycle**
