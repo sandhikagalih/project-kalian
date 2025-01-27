@@ -534,3 +534,339 @@
 
 <br>   
 <br>
+
+### 27 Januari 2025
+
+1. [https://gudang-app.vercel.app/]  
+   **Giri Diwa Adam**
+
+  Hallo Temen-temen Wpu dan Pak Shandika galih, pada kesempatan kali ini, Saya **Giri Diwa Adam** ingin Showcase sebuah **List Gudang** sederhana yang saya buat dengan menggunakan 
+  **Express JS dan React** serta **Neon DB (Postgres)** Untuk Dbnya tidak lupa juga menggunakan **Clerk** Sebagai Authentifikasinya.
+
+  Ide aplikasi Ini sendiri saya dapatkan Ketika saya sedang coba belajar membuat sebuah
+  project Bernama **Comic App** yang saya pelajari Ketika les dulu. dan lahirlah project sederhana ini.
+
+  Mohon maaf apabila ada kekurangan di dalam project ini, di karenakan project ini 
+  masih dalam tahap pengembangan dan akan di kembangkan seiring berjalanya Waktu.
+
+  Tanpa Perlu berlama-lama lagi saya berikan **Techstack** yang saya gunakan untuk membuat project ini :
+
+  -  **EXPRESS (Backend)**
+  -  **React Js (Frontend)**
+  -  **Axios (Http Api)**
+  -  **Neon DB (Postgres) (Database)**
+  -  **Vercel (Hosting)**
+  -  **Chat GPT (Asistant Untuk Membantu Mencari tutorial)**
+  -  **Clerk (Authentifikasi).**
+
+  Kritik dan Saran akan sangat membantu saya untuk mengembangkan Aplikasi Ini Kedepanya (Kalau boleh kasih Star), supaya saya lebih semangat lagi untuk membuat project yang lebih baik kedepanya.
+
+  **Link** : https://gudang-app.vercel.app/
+  **Repo Frontend** : https://github.com/GiriAdam78/gudang-app
+  **Repo Backend**  : https://github.com/GiriAdam78/express-gudang
+
+<br>
+
+
+2. [https://story-book-self.vercel.app/]  
+   **Fathin Nasi Goreng**
+
+  #### Story Book
+  Haloo semuanya 😁 
+
+  saya M.Fathin Halim, seorang pelajar smp kelas 9 (untuk 2024) dan kali ini saya ingin men-showcase web saya yang bernama Story Book 📚 
+
+  jadi web ini adalah web dimana kita bisa nyimpen catatan kita ya kayak buku fisik biasa. Dan catatan tersebut bisa di share dengan link ataupun jika ingin menulis cerpen/novel bisa juga di publish. 
+  selain itu juga, web ini bisa menjadi tempat dimana teman-teman bertanya pertanyaan (Layaknya brainly dan kawan-kawan)
+
+  Fitur:
+  - save notes
+  - publish notes (seperti novel)
+  - questions (bertanya dengan komunitas seperti brainly)
+  - ai generate notes
+
+  Tech Stack:
+  - Next JS
+  - TypeScript
+  - Bootstrap
+  - MongoDB
+  - Font Awesome
+  - Imagekit.io
+  - React Quill (Rich Text)
+  -Light Mode
+  -Ai Write
+  -Ai Summary
+  -Profile
+
+  mohon sarannya dan boleh dipakai ya semoga membantu temen temen juga hehe 😄 
+
+  Link Web: https://story-book-self.vercel.app/
+  Link Repository: https://github.com/MFathinHalim/StoryBook
+
+<br>
+
+
+3. [https://lawrient.xyz]  
+   **Lawrient**
+
+  Selamat malam Pak Dhika, salam kenal semua...
+
+  berikut adalah project pertama saya di showcase project wpu, sekaligus project pertama untuk di porto saya selama belajar ngoding... karna bingung dan gada ide mau buat apa,  saya ikut kata kang Eko PZN  "buat yg udah ad",  jadi project saya cuma nge clone web pinterest hehe..
+
+  untuk fiturnya hanya yang basic saja seperti login/register, upload, save, like, comment, dan follow
+
+  Tech Stack:
+  - NextJS
+  - React
+  - TailwindCSS
+  - Go
+  - PostgreSQL
+
+  Web: https://lawrient.xyz
+  Github : https://github.com/RivLawrient/clone_pinterest
+
+<br>
+
+
+4. [https://vibenet-two.vercel.app/]  
+   **Dexter**
+
+  Halo pak Dhika dan teman², pada kesempatan kali ini Saya ingin showcase sebuah website sosial media/Instagram clone sederhana.
+  Project ini dikerjakan dua orang yaitu saya sama temen saya ( gk mau disebut dia 🗿)
+
+  Tech:
+  - Next js
+  - Tailwind 
+  - Ionicon 
+  - Redux
+  - Axios
+  - Node Js
+  - Socket.io
+  - Mysql
+
+  Lupa apa lagi, keknya segitu doang 🗿
+
+  Link Website:
+  https://vibenet-two.vercel.app/
+
+<br>
+
+
+5. [https://15.pow.kim/]  
+   **PixelLynz**
+
+  **Selamat malam, Padika dan teman-teman semua!**
+
+  Izinkan saya showcase project saya yang ke... entahlah, saya sudah showcase cukup banyak project sampai lupa urutannya :v. Untuk meramaikan malam ini, saya ingin kembali showcase sebuah library yang saya buat. Saya yakin library ini **akan sangat berguna** untuk teman-teman semua, termasuk Padika.
+
+  Namanya? **Silakan buka websitenya**  
+  Fungsinya? **Silakan buka websitenya juga :v**  
+
+  Saya tidak ingin terlalu banyak spoiler di sini, jadi langsung saja buka websitenya dan lihat sendiri :v
+
+  🌐 **Website**: [ini](https://15.pow.kim/)
+  📂 **Repository**: [ini](https://github.com/kimmyxpow/is-it-fifteen) 
+
+  **Tech Stack:**
+  **Library**:  
+  - TypeScript  
+
+  **Web**:  
+  - React  
+  - Vite  
+  - Tailwind CSS  
+  - Motion / Framer Motion
+  - (Sedikit) Threejs
+
+  Terima kasih, dan saya harap project ini bisa bermanfaat serta menghibur teman-teman semua! Selamat menikmati showcase malam ini! 🎉
+
+<br>
+
+
+6. [https://github.com/tursodatabase/turso-driver-laravel]  
+   **darkterminal | panggilmeiam**
+
+  Hi, I am back again!
+
+  Kali ini saya ingin showcase perkembangan Turso libSQL Extension yang sudah bisa digunakan di **Linux / Mac / Windows / WSL** dan bisa juga digunakan di **FrankenPHP** mengingat FrankenPHP membutuhkan **PHP Thread Safe** Build Version, sekarang libSQL PHP Extension memiliki 2 build varian yaitu Thread-Safe (TS) dan Non Thread-Safe.
+
+  Lebih istimewanya lagi, melakukan instalasi libSQL Extension serasa melakukan instalasi Composer Package karena dimudahkan oleh `turso-php-installer` yang sekarang juga include dan tersedia di **Turso Driver Laravel** dan tersedia di `php artisan` command, OhMyPunk!!! 😱 
+
+  This is the showcase:
+  - YouTube Video - Turso Driver Laravel: https://youtu.be/0v-aGwJYw2Q?si=UmQsINkUgWCpg_uW
+  - Dokumentasi libSQL PHP Extension: https://darkstation.mintlify.app/dark-extensions/introduction
+  - Dokumentasi Turso PHP Installer: https://darkstation.mintlify.app/dark-extensions/tools/installer/introduction
+
+  Repository:
+  - Turso Driver Laravel: https://github.com/tursodatabase/turso-driver-laravel
+  - Turso PHP Installer: https://github.com/darkterminal/turso-php-installer
+
+  That's it! Enjoy and have a Wonderful Day ❤️
+
+<br>
+
+
+7. [https://kriptolab.vercel.app/]  
+   **Kusho**
+
+  Halo Pak Sandhika Galih dan warga WPU semuanya, mohon izin untuk showcase project.
+
+  Perkenalkan nama saya Gustut Yoghantara mahasiswa S1 Jurusan Sistem Informasi di Universitas ITB STIKOM Bali. Kali ini saya ingin showcase project Tugas Akhir saya.
+
+  Website yang saya buat berupa Web Simulasi Trading Kripto yang bernama **KriptoLab**. KriptoLab adalah platform simulasi trading kripto yang mengintergrasikan API Publik Indodax untuk data kripto real-time, chart dari TradingView untuk menampilkan grafik harga candlestick, serta React Joyride untuk Interactive Tours Guide.
+
+  Link Website: https://kriptolab.vercel.app/
+  Link Repo: https://github.com/yoghantara08/kriptolab
+
+  **Fitur Utama**
+  1. Simulasi Trading (Jual/Beli Kripto) 
+  2. Indodax Crypto List & Real-time data 
+  3. TradingView Candlestick Chart
+  4. Interactive Tours Guide
+  5. Login/Register (Email & Google)
+  6. Portfolio Management
+  7. Transaction History
+
+  **Frontend Technologies**
+  1. TypeScript
+  2. Next.js
+  3. Tailwindcss
+  4. TradingView Lightweight Charts
+  5. Recharts
+  6. Redux
+  7. SWR
+  8. Headlessui
+  9. React hook form
+  10. Lucide React
+  11. React Joyride
+
+  **Backend Technologies**
+  1. Node.js
+  2. Express.js
+  3. MongoDB
+  4. Mongoose
+  5. Node-cron
+  6. Axios
+  7. JWT
+  8. Passport Google OAuth2
+  9. Nodemailer
+  10. Socket.io
+
+  **Utilities**
+  1. Pinata Web3 (IPFS untuk decentralized storage)
+  2. i18n (Untuk translation)
+
+  Sekian Terimakasih teman2 semuanya, mohon kritik dan sarannya <:wpugege:827100210563776512>
+
+<br>
+
+
+8. [https://github.com/arifbudimanar/zinc-ui]  
+   **Arif Budiman**
+
+  Halo semuanya ...
+  Perkenalkan saya Arif Budiman, pada kali ini saya ingin showcase sebuah laravel package yaitu **Zinc UI**. 
+  Zinc UI merupakan sebuah kumpulan UI komponen yang diperuntukan untuk Livewire dibuat dengan Tailwind dan Alpine Js.
+  Package ini masih dalam tahap **Alpha** dan masih dalam tahap pengembangan.
+
+  > Zinc UI merupakan clone dari Flux UI.
+  > FYI : Flux UI itu Livewire UI library berbayar yang dibuat oleh Caleb Porzio (creator livewire).
+
+  Tech Stack : TALL Stack (Tailwind AlpineJs Laravel Livewire).
+
+  [Github](https://github.com/arifbudimanar/zinc-ui)
+  [Packagist](https://packagist.org/packages/arifbudimanar/zinc-ui)
+  [Dokumentasi](https://zinc.arifcode.dev/)
+
+  Kalo mau berkontibusi tapi blm tau cara setup package development di lokal silahkan PM aja, nnti sya kasih guide nya.
+
+  Beberapa komponen yang sudah tersedia:
+  - Accordion
+  - Badge
+  - Button
+  - Breadcrumbs
+  - Card
+  - Dropdown
+  - Field
+  - Heading
+  - Icon
+  - Input
+  - Navbar
+  - Separator
+  - Textarea
+  - Toaster
+  - Tooltip
+  - dst.
+
+  Untuk mencobanya silahkan kunjungi dokumentasi.
+  Terimakasih.
+
+<br>
+
+
+9. [https://cvroasted.com]  
+   **Wingman**
+
+  Hallo Pak dhika dan para pelamar kejar 🚀
+
+  mau showcase project saya:
+  🌟 https://cvroasted.com 🌟
+
+  Platform inovatif ini dirancang khusus untuk membantu Job Seekers memperbaiki CV nya
+
+  Feature cvroasted.com:
+  ✅ Terintegrasi dengan Gemini AI
+  ✅ Analisis otomatis secara mendalam dan mendiagnosa kelengkapan CV
+  ✅ Memberikan masukan konkret untuk perbaikan
+  ✅ 100% GRATIS! 
+
+  Tech & Stack:
+  - NextJs
+  - Supabase
+  - Gemini Flash 1.5
+  - Tailwind
+  - Antd
+
+  Minta bantuan upvote di product hunt ya temen2
+  https://www.producthunt.com/posts/cvroasted?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-cvroasted
+
+  kali ini repo githubnya di private dulu😅
+
+  Semua proses secara temporer dan data tidak disimpan dalam database.
+  lengkapnya di sini: https://www.cvroasted.com/privacy-policy
+
+<br>
+
+
+10. [https://zect.vercel.app/]  
+   **Ya Sudahlah**
+
+  Halo Semuanya 👋😳
+
+  Halo Pak Sandhika Galih 👋😳
+
+  Perkenalkan nama saya Al Sakha. Saya mohon izin untuk mengikuti showcase project.
+  Saya ingin showcase project website portfolio.
+
+  Tech stack saya ada
+  - Javascript
+  - NextJs
+  - Tailwindcss
+  - Shadcn ui
+
+  Berikut untuk link nya
+  Demo : https://zect.vercel.app/
+
+  Dan jika ingin mengunjungi repo nya
+  Github : https://github.com/IRTIDEATH/Zect
+
+  edit: Sekedar informasi, ini bukan website portfolio utama.
+
+  Jika ada kritik dan saran dipersilahkan.
+  Jadi itu saja dari saya, Terima Kasih banyak, maaf jika ada kesalahan kata.
+
+  👉👈
+
+<br>
+<br>  
+
