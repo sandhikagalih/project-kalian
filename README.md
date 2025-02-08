@@ -870,3 +870,134 @@
 <br>
 <br>  
 
+### 8 Februari 2025
+
+1. [https://github.com/robifr/ledger]  
+   **cold**
+
+  halo semua. ini showcase pertama saya di sini. projeknya terkait aplikasi android untuk mengelola order penjualan. awalnya, projek ini dikembangkan untuk membantu UMKM lokal di area saya, termasuk saya sendiri, dalam menangani pembukuan. 
+
+  permasalahan utama yang sering terjadi pada UMKM biasanya seputar melacak status dari sebuah order, misalnya seperti usaha laundry yang biasanya dikerjakan berhari-hari, atau saat customer ingin booking barang di hari tertentu. seringkali, customer juga memberi uang deposit, atau justru berhutang. 
+
+  seluruh proses ini biasanya harus dikerjakan secara manual, mulai dari pencatatan sampai perhitungan. juga harus akurat, karena menyangkut uang milik customer. dari situ aplikasi ini dikembangkan.
+
+  aplikasinya sendiri open source, dan tersedia di github:
+  https://github.com/robifr/ledger
+  untuk download, ada di bagian release, atau klik di tombol "get it on github". 
+
+  untuk fitur sendiri ada:
+  - dasbor yang bisa menampilkan data penjualan, saldo deposit dan hutang customer, produk, dll.
+  - kalkulasi saldo customer yang dilakukan secara otomatis.
+  - data sorting dan filtering.
+  - fitur pencarian untuk memudahkan mencari data.
+  - full offline, tanpa harus login dan semacamnya.
+  - pembaruan otomatis langsung dari aplikasinya, karena tidak dipublish di play store.
+
+  teknologi: 
+  - kotlin (sebelumnya java kemudian di-rewrite)
+  - javascript
+  - python
+  - room/sqlite
+  - okhttp
+  - hilt
+  - d3.js
+
+  lebih lengkapnya ada di repository-nya, termasuk desain arsitektur juga. silahkan di-share barangkali ada yang membutuhkan, saya ingin aplikasinya bermanfaat, terima kasih.
+
+<br>
+
+
+2. [https://tangled.jauhar.dev/]  
+   **Jauhar Arifin**
+
+  Halo teman semua,
+
+  Nama saya Jauhar. Saya mau showcase project hobby saya yang bernama [DBShark](https://github.com/jauhararifin/dbshark). DBShark adalah embedded key-value database yang saya buat menggunakan Rust. Database ini terinspirasi dari BoltDB. Database ini berbasis BTree, jadi bisa melakukan range query. Secara arsitektur, database ini mirip seperti sqlite: support transaction, ACID, btree-based, dan menggunakan WAL untuk recovery. Yang menarik dari database ini adalah: db ini ditest menggunakan teknik bernama DST (deterministic simulation testing) untuk mengubah semua kode yang concurrent menjadi serial dan kita bisa run berulang2 untuk mencari bug di concurrency. Untuk performance, database ini masih kalah dibanding sqlite. Benchmark terakhir, throughput dari database ini masih sekitar 75% dari throughput MySQL karena masih ada beberapa copy bytes yang bisa diimprove. Untuk mendemokan database ini, saya membuat web tanya-jawab sederhana bernama [tangled](https://tangled.jauhar.dev) yang dibuat 100% menggunakan DBShark.
+  DBShark sendiri sebenarnya masih in progress dan belum bisa melakukan operasi delete, akan tetapi sudah cukup baik untuk bisa digunakan untuk signup, login, session management, submit question, submit answer dan pagination.
+  Untuk demo-nya kemungkinan bakal saya reset tiap hari biar nggak ngabisin storage saya
+
+  Teknologi yang digunakan: 
+  - Actix
+  - DBShark
+
+  Teknologi yang saya pakai untuk membuat dbshark:
+  - Rust
+
+  Link demo: https://tangled.jauhar.dev/
+  Github: https://github.com/jauhararifin/dbshark
+
+<br>
+
+
+3. [https://evan-dev.vercel.app/]  
+   **Mewing**
+
+  Halo pak dhika dan temen temen semuanya semoga sehat sehat ya. Ini merupakan showcase ke – 2 saya. setelah ada masukan dari pak dhika dan temen temen jadi saya mutusin untuk redesign web portfolionya jadi disini saya bikin background nya lebih interactive dari yang sebelumnya .Saya menggunakan framework nextJs dengan bahasa pemogramman utamanya TypeScript untuk tech stack lebih lengkapnya ada dibawah : 
+  1.    NextJS 
+  2.    GSAP
+  3.    TailwindCSS
+  4.    Lenis
+  5.    ParticleJs
+  Jangan lupa like dan saya juga butuh masukan dari pak dhika dan temen temen sekalian apa yang harus di perbaiki di website portfolio ini Sekian terimakasih wassalamualaikum warahmatullahi wabarakatuh,Syalom,Wei De Dong Tian,Om Swastiastu,Namo Buddhaya,Salam Kebajikan. 
+  Github: https://github.com/evanstef/Portofolio-Evan 
+  Website : https://evan-dev.vercel.app/
+
+<br>
+
+
+4. [https://bazario-omega.vercel.app/]  
+   **Arifin**
+
+  halo pak dhika dan teman teman kali ini saya mau ikut showcase lagi.  kali ini saya membuat website toko online lagi tapi dengan fitur yang lebih banyak. saya mengunakan fremework next  js dengan bahasa typescripe.
+
+  tech stack:
+  .prisma 
+  .cloudinary
+  .auth js
+  .next-themes
+  .zod
+  .react-hot-toast
+
+  fitur:
+  .crud prodak 
+  .Keranjang Belanja (Cart)
+  .Sistem Checkout & Pesanan
+  .Sistem Pembayaran
+  .Admin Panel
+  .Pencarian & Filter
+  .dark mode
+
+  itu saja dari saya jika ada kritik dan saran dari pak dhika dan teman teman saya sangat menghargai nya karna itu sagat membantu terimakasi.
+  github: https://github.com/Arifin0316/BAZARIO
+  web     : https://bazario-omega.vercel.app/
+
+<br>
+
+
+5. [https://anonchat-eight.vercel.app/]  
+   **Naufal Rizky**
+
+  Halo Semuanya,
+  Halo Pak Sandhika Galih,
+
+  Perkenalkan, nama saya Naufal Rizky. Saya mohon izin untuk mengikuti showcase project pada kesempatan kali ini.
+  Saya ingin menampilkan project berupa website Chat Anonim.
+
+  Tech Stack yang digunakan:
+
+  ReactJS
+  TypeScript
+  TailwindCSS
+  Supabase
+
+  Berikut adalah linknya:
+  Demo: https://anonchat-eight.vercel.app/
+
+  Saya sangat terbuka untuk masukan, kritik, dan saran agar project ini dapat menjadi lebih baik di masa mendatang.
+
+  Terima kasih banyak atas perhatian dan kesempatannya. Mohon maaf jika terdapat kekurangan atau kesalahan dalam penyampaian ini.
+
+  Demikian dari saya, sekali lagi terima kasih banyak! 😊
+
+<br>
+<br>
