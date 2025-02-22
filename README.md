@@ -1001,3 +1001,146 @@
 
 <br>
 <br>
+
+### 22 Februari 2025
+
+1. [https://haikaldev.my.id/]  
+   **Haikal Mabrur**
+
+  Hai semuanya, Halo pak Dhika 😊 🖐️
+
+  Perkenalkan aku Haikal Mabrur, ini showcase pertama ku. ini adalah Project Website Portofolio ku yang masih dikembangkan agar menjadi lebih baik lagi.
+  teknologi yang dipakai untuk building adalah ViteJS, dan untuk Styling aku menggunakan TailwindCSS, untuk animasi animasi nya aku pake Framer Motion. jadi ketebak kan aku pake apa? yap, kebanyakan ReactJs.
+
+  Berikut Link nya.
+  Deploy: https://haikaldev.my.id/
+  Repo: https://github.com/AnakTentara/Portofolio-2.0
+
+  tolong berikan saya kritik dan saran, dan kalo bisa diajarin juga nih, hehe.
+  soalnya aku masih belajar jadi juga banyak nyari di google / tanya AI. 
+
+  Demikian, Terimakasih!
+
+<br>
+
+2. [https://www.npmjs.com/package/@krozamdev/masked-password]  
+   **Krozam**
+
+  **Assalamu'alaikum**
+
+  Halo semuanya,
+
+  Perkenalkan saya Moh. Ikrom, dan ini adalah showcase pertama saya. Pada kesempatan ini, saya ingin berbagi sebuah package npm yang saya kembangkan karena kegabutan di luar jam kerja, yaitu `masked-password`.
+
+  **Apa itu `masked-password`?**
+  Ini adalah library yang dirancang untuk memaskkan input field seperti password, dengan tujuan utama menghindari password manager bawaan browser.
+  Dengan library ini, kita dapat meningkatkan pengalaman pengguna tanpa khawatir nilai input tersimpan otomatis oleh password manager.
+
+  **Latar Belakang:**
+  Pengembangan library ini berawal dari permintaan seorang teman yang menghadapi masalah besar pada audit pihak ketiga. Aplikasinya gagal lolos karena password manager browser terus menyimpan data yang seharusnya tidak diperlukan.
+  Masalah ini sulit diatasi bertahun-tahun karena perubahan pada browser modern yang semakin ketat terhadap input password. Dengan solusi dari library ini, aplikasinya akhirnya lolos audit. 🎉
+
+  Mengapa menggunakan `masked-password`?
+
+  - **Meningkatkan Keamanan**: Menghindari intervensi password manager pada field yang tidak dimaksudkan untuk menyimpan data sensitif.
+  - **Masking Real-Time**: Input pengguna dapat dimaskkan dengan karakter seperti `*` atau `•`, memberikan pengalaman mirip input password.
+  - **Mudah Diakses**: Nilai asli input tetap dapat diambil kapan pun dibutuhkan.
+  - **Fleksibel**: Dapat diintegrasikan dengan framework frontend apa pun, dan mendukung TypeScript.
+
+  **Tech Stack:**
+  Library ini sepenuhnya berbasis JavaScript/TypeScript, sehingga cocok untuk proyek modern apa pun.
+
+  **Repo dan Dokumentasi**:
+  - [GitHub](https://github.com/krozamdev/masked-password)
+  - [npm](https://www.npmjs.com/package/@krozamdev/masked-password)
+
+  Terima kasih banyak atas perhatiannya, dan semoga `masked-password` bisa menjadi solusi untuk kebutuhan keamanan UI pengguna! 🙏
+
+<br>
+
+3. [https://pastebon.hexaa.lol]  
+   **Hexaa**
+
+  Halo semuanya 👋 
+
+  Seekor pelajar SMP kelas 8 yang ingin membuat project kecil-kecilan 😁
+
+  Website ini digunakan untuk sharing kode programming, error log, dan semacamnya. Sehingga website ini cocok untuk kamu yang ingin membagikan kode yang berukuran besar __secara anonim__ dan __instan__.
+
+  Tech Stack:
+  - Next.js
+  - TypeScript
+  - TailwindCSS
+  -  [`shadcn-ui`](https://ui.shadcn.com/) beserta [`magicui.design`](https://magicui.design/)
+  - Supabase (Database + Storage)
+  - Drizzle-ORM
+  - Fumadocs
+  - Library pendukung
+    - [`easy-peasy`](https://yarnpkg.com/package?name=easy-peasy)
+    - [`lru-cache`](https://yarnpkg.com/package?name=lru-cache)
+    - [`monaco-editor`](https://yarnpkg.com/package?name=monaco-editor)
+    - [`zod`](https://yarnpkg.com/package?name=zod) beserta [`zod-form-data`](https://yarnpkg.com/package?zod-form-data)
+
+  Terima kasih kepada [High Seas](https://highseas.hackclub.com) (closed), karena jika tidak ada campaign tersebut maka project ini tidak akan terealisasi 😁
+
+  URL: https://pastebon.hexaa.lol
+  Github Repo: https://github.com/hexaaagon/pastebon
+
+  Terima kasih!
+
+<br>
+
+4. [https://github.com/bagasdisini/fesnuk]  
+   **Bagas**
+
+  Halo pak Dhika, dan temen" WPU 👋
+
+  Saya mau share mini fun project, yaitu tools untuk buka facebook pakai hotkey. Biar scrolling facebook jadi lebih cepet. 
+
+  Ketika dijalanin toolsnya langsung jalan di background dan bisa dilihat di system tray. 
+  Konfigurasi tools untuk sekarang bisa lewat system tray, atau bisa buka GUI-nya (lewat system tray juga wkwk).
+
+  Tech :
+  - Go
+
+  Repo :
+  https://github.com/bagasdisini/fesnuk
+
+  Untuk sekarang hanya support Windows. Terima kasih!
+
+<br>
+
+5. [https://lokerciayumajakuning.com]  
+   **Muhammad Haikal**
+
+  Halo teman-teman WPU!
+
+  lokerciayumajakuning.com – Portal Loker untuk Ciayumajakuning GRATIS 100%
+
+  Sebelumnya perkenalkan nama saya Haikal dari Indramayu, ini adalah showcase pertama saya, saya ingin membagikan proyek sederhana yang saya kembangkan, yaitu lokerciayumajakuning.com, sebuah job portal yang lahir dari kebutuhan akan solusi ketenagakerjaan di wilayah Cirebon, Indramayu, Majalengka, dan Kuningan (Ciayumajakuning) serta daerah sekitarnya.
+
+  Sebagai kawasan dengan potensi ekonomi yang terus berkembang, masih ada kesenjangan antara pencari kerja dan perusahaan yang mencari talenta berkualitas. Oleh karena itu, platform ini hadir untuk mempermudah akses informasi lowongan kerja yang berkualitas, menghubungkan perusahaan dengan tenaga kerja lokal, serta membantu pertumbuhan ekonomi regional.
+
+  Tech Stack
+  Laravel 11 🚀
+
+  Project Bisa dicek di: https://lokerciayumajakuning.com
+
+  Saya harap bisa memberikan manfaat bagi pencari kerja di Ciayumajakuning.
+  Feedback dan saran sangat saya harapkan. Terima kasih!
+
+  🌟 Terima Kasih WPU
+  Saya mulai belajar coding dari WPU saat masih kuliah, dan dari situlah perjalanan saya di dunia programming dimulai. Dari nol, saya belajar berbagai teknologi web development hingga akhirnya bisa bekerja di salah satu perusahaan BUMN.
+
+  Terima kasih banyak Pak Sandhika Galih atas ilmu yang diberikan melalui WPU, yang benar-benar membuka jalan saya di dunia teknologi!
+
+
+  Untuk Akses Admin saya kirim di dm instagram dan Dsicord pa dhika 
+
+  @haykal_em
+
+  soalnya udah lumayan banyak datanya hehe😁
+
+<br>
+<br>
+
