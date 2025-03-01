@@ -1144,3 +1144,102 @@
 <br>
 <br>
 
+### 1 Maret 2025
+
+1. [http://demo-manajemen-sekolah.42web.io]  
+   **Anno**
+
+  Hallo Pak Dhika,  semuanya👋 
+
+  sebelumnya perkenalkan saya hamzah dan ini showcase pertama saya, jadi ini aplikasi yang digunakan untuk manajemen transaksi SPP sekolah dan masih dikembangkan untuk lebih baik lagi kedepannya.
+
+  tech:
+  - laravel 11
+  - filament 3
+
+  URL: http://demo-manajemen-sekolah.42web.io
+  Repo : https://github.com/AbdillahHamzahAli/Manajemen-Pembayaran-Sekolah
+
+  Test User
+  email: test@example.com
+  pw: password
+
+  Makasih sebelumnya! 🙌
+
+2. [https://kebunmu.vercel.app]  
+   **FauzanHusain**
+
+  Halo teman-teman WPU!
+
+  Saya fauzan husain dan ini showcase project pertama saya, aplikasi yang saya buat saat ini adalah aplikasi yang berkontribusi di bidang pertanian. Aplikasi saya dapat membuat petani agar pertaniannya lebih terdata dan membantu mengetahui berapa banyak bibit yang bisa ditanam di lahan yang petani miliki.
+
+  Teknologi yang saya gunakan:
+  Nextjs, TailwindCss, Expressjs, Firebase
+
+  URL: https://kebunmu.vercel.app
+
+  Saya sangat terbuka atau meminta masukan, kritik, dan saran agar project ini dapat menjadi lebih baik di masa mendatang.
+
+  Makasih sebelumnya! 🙌
+
+3. [https://spill-post.vercel.app/]  
+   **Mewing**
+
+  Halo pak dhika dan temen temen semuanya semoga sehat sehat ya. Showcase lagi nih jadi kali ini saya mau nunjukin project saya yang saya beri nama SpillPost jadi spill post ini mirip seperti Instagram, facebook, twitter dll.jadi, intinya SpillPost tu sosmed lah pokoknya bisa dibilang Instagram clone lah tapi saya kasih nama aj biar beda Namanya doang hehehe 
+
+  Untuk fitur fitur utama ada dibawah sini :
+  1.    Posting,Like Postingan,Lihat Siapa saja yang menglike postingan kita, Comment Postingan, Reply Comment, Bookmark Postingan
+  2.    Cari User
+  3.    Postingan multiple image
+  4.    Postingan dengan Hashtag
+  5.    Follow,Unfollow,Lihat siapa saja follower kita dan siapa saja yang kita follow
+  6.    Notifikasi like postingan, follower baru, comment postingan
+  7.    Menampilkan postingan hanya yang kita follow saja 
+
+  Tech Stack :
+  1.    Laravel 11
+  2.    Laravel Breeze
+  3.    PHP
+  4.    Javascript
+  5.    AlpineJs
+  6.    TailwindCSS
+  7.    ImageKit.io
+  8.    MySQL
+  9.    Entah lah sisa nya lupa lumayan banyak soalnya
+
+  Note : Fitur Link Share belum bisa karna developernya lagi males dan kalau mau upload foto kalau bisa jangan yang terlalu ukuran besar dan jangan banyak banyak karena databasenya gratisan. udh gitu storage nya cuman 10 MB lagi                                                                                                                                                          
+  Note Tambahan : Kalo mau bikin akun gak harus email aktif juga oke kok yang penting ada @gmail.com nya
+  Jangan lupa Bintang nya ya temen temen. Sekian terimakasih wassalamualaikum warahmatullahi wabarakatuh,Syalom,Wei De Dong Tian,Om Swastiastu,Namo Buddhaya,Salam Kebajikan.
+  Github: https://github.com/evanstef/Spill-Post 
+  Website : https://spill-post.vercel.app/
+
+4. [https://byanrkh.my.id]  
+   **bian**
+
+  halo pak dhika dan semuanya
+
+  sebelumnya perkenalkan nama saya Abyan Raditya, saya sudah mengikuti showcase beberapa kali sejak 2021, kalo pak dhika kenal dulu nama saya syloryx dulu website saya [bentukannya kaya gini](http://syloryx.github.io), hari ini saya juga mau bagiin personal website saya
+
+  Tech Stack:
+  - NextJS
+  - TailwindCSS
+  - MDX.JS
+
+  URL: https://byanrkh.my.id
+  GitHub: https://github.com/byanrkh/site
+
+  sekian terimakasih
+
+5. [https://portfolio-huda-2025.vercel.app/]  
+   **mkhoirulhuda**
+
+  Hai hai hai 
+
+  Saya mau berbagi **web portfolio (homebase**) saya, semoga kalian suka dengan tampilan webnya. Pada postingan ini dibuat web saya masih belum responsive untuk tmapilan **mobile**. Tapi semoga ketika showcase sudah kelar semua, heheh. Thanks 🙂
+
+  stack :
+  **React **(library), **Tailwind **(style), **Framer motion** (animasi), **Hugeicons-react** (untuk asset ikon)
+
+  web : https://portfolio-huda-2025.vercel.app/
+  repo : https://github.com/khoirulhudaadev/portfolio
+
