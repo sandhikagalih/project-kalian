@@ -1243,3 +1243,261 @@
   web : https://portfolio-huda-2025.vercel.app/
   repo : https://github.com/khoirulhudaadev/portfolio
 
+<br>
+<br>
+
+### 20 April 2025
+
+1. [https://space.retas.org]  
+   **DankenDonet**
+
+  Haloo 😏 
+
+  Saya mau sharing 3d website yang biasanya dijadikan konten Designer vs Developer. siapa tau mau mempelajari 3d web juga wkwkwk
+
+  stack:
+  Next 15, Threejs RC
+
+  web : https://space.retas.org
+  repo : https://github.com/zonblade/aerosteon
+
+  ATTRIBUTION!
+  - ada di repo web setiap model 3d nya.
+
+<br>
+
+2. [https://store-em.vercel.app/sign-in]  
+   **miilan**
+
+  Halo Pak Dhika dan teman-teman semua.
+  Saya Milan dan ini showcase yang ke-4 atau ke-5 Saya.
+  Di showcase kali ini, saya membuat website sederhana semacam google drive, yang bisa menyimpan file
+  Website ini dibuat sekitar 5 harian atau 1 mingguan
+
+  Teknologi yang digunakan:
+  - NextJS 15
+  - TailwindCSS 3
+  - Appwrite
+  - ShadCN
+
+  Websitenya: https://store-em.vercel.app/sign-in
+
+  Mohon kritik dan sarannya parah sepuh.
+  udah itu aja Terimakasih.
+
+<br>
+
+3. [https://angkasamuhammad.github.io/Realtime-3D/realtime3d.html]  
+   **⚙⚙WowGGGearing⚙⚙**
+
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Project lanjutan dari "Realtime 3D - Damaskus "
+  "Kota Benteng vs tank sirewel armor kalengkaleng rengginang"
+  Cerita pendek (15 detik) tentang tank diguling pake ranjau, sampe jadi bebek guling
+  Tidak ada objek pesawat.
+
+  Saat ini aku mau tunjukkan:
+  - Play Pause Seek Speed
+      Diharapkan suara & animasi bisa synchronized.
+      
+  Mau lihatlihat data lewat browser console,
+  silakan tulis "clmap" setelah click "Mulai"
+
+  Halaman data khusus admin "Show/Hide data"
+
+  Editor:
+  - Blender 4.3.0
+  - Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+  - Notepad++
+
+  <:javascript:723671847027343381> library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+  - supabase https://supabase.com/docs/reference/javascript/initializing
+
+  Repo: https://github.com/AngkasaMuhammad/Realtime-3D
+  Web: https://angkasamuhammad.github.io/Realtime-3D/realtime3d.html
+
+  Aku rencana mau bikin game 3d ramah komputer kentang 💻🥔🥔, jadi harus belajar WebGPU & memilih library yang mengutamakan performa.
+  Kita tidak cuma ahli main game <:hadeh:972855614818631681><:hadeh:972855614818631681>, kita juga ahli 💪💪 bikin game yang berfaedah dan bisa dimainkan di device kentang 💻🥔, ga pake topup gacha 🎲 atau dompet makin slim 💸📉<:melonkcry:994994783145705492>.
+  Kita tidak cuma bisa berkendara 🛵🚙, kita juga bisa 💪💪 bikin kendaraan yang irit, awet, ringan, & banter.
+  # 🆓🆓 🇵🇸 🇱🇧 +Syria
+  Maturnuwun.
+
+<br>
+
+4. [https://pow.kim]  
+   **lowkey**
+
+  hellow everyone dan padika, semoga tidak bosan dengan kehadiran saya. 
+
+  jadi malam ini saya mau share another redesign of my personal web yang entah sudah ke berapa kali. redesign sebelumnya (v2) saya bilang lebih clean dan readable bagi awam dibanding versi sebelumnya lagi (v1), untuk redesign kali ini (v3) saya buat lebih simple, sederhana, dan to the point lagi. saya juga mengurangi animasi-animasi (karena malas aja sebenarnya).
+
+  saya membuatnya menggunakan nextjs & styling menggunakan tailwindcss. content managementnya menggunakan mdx saja. beberapa library lain:
+  - highlight.js 
+  - motion
+  - headlessui
+  - etc lihat di github saja <:hehehe:972470914488885288> 
+
+  link: https://pow.kim
+  github: https://github.com/kimmyxpow/pow
+
+  terimakasih all
+
+<br>
+
+5. [https://gempa-terkini-indonesia.vercel.app]  
+   **nafy**
+
+  Halo semuanya, 
+
+  Project kali ini aku bikin visualisasi dari api data terbuka BMKG dengan UI yang hampir mirip kek `maps.google.com`.
+
+  Fitur:
+  - Memberikan tanda (mark) daerah yang terkena gempa
+  - Bisa ganti jenis tampilan peta (default, satelit, laut, topografi)
+  - Memberikan informasi lengkap ketika mark tersebut di tekan
+
+  Teknologi: Typescript, Next.js, Leaflet, Map Tiler, OpenCage, Zustand, Tailwind(Shadcn), Framer Motion
+
+  Repo: https://github.com/naufal-yafi/gempa-terkini.web
+  Web: https://gempa-terkini-indonesia.vercel.app
+
+  Note: untuk bintang itu skala dari gempanya, bisa liat di https://github.com/naufal-yafi/gempa-terkini.web/blob/main/src/app/_partials/detail-earthquake/components/partials/rate/generate-rate.ts
+
+  ```ts
+  /**
+  * @RATE
+  * magnitude >= 80      : 6.0
+  * magnitude 7.5 - 7.9  : 5.0
+  * magnitude 7.0 - 7.4  : 4.5
+  * magnitude 6.6 - 6.9  : 4.0
+  * magnitude 6.1 - 6.5  : 3.5
+  * magnitude 5.8 - 6.0  : 3.0
+  * magnitude 5.5 - 5.7  : 2.5
+  * magnitude 3.3 - 5.4  : 2.0
+  * magnitude 2.5 - 3.2  : 1.5
+  * magnitude < 2.5      : 1.0
+  * magnitude < 1.25     : 0.5
+  */
+  ```
+
+<br>
+
+6. [https://www.pixly.my.id]  
+   **Arifin**
+
+  Halo pak dhika dan teman teman
+
+  di projek kali ini saya membuat web media sosial yang kurang lebih tampilan dan fitur nya mirip dengan intagram saya membuat nya mengunakan next js dan prisma.
+  dan untuk fitur fitur nya teman teman silakan coba sendiri
+
+  Teknologi: next js, prisma, tailwind css, cloudinary, auth js
+
+  itu saja dari saya dan jika ada kritik dan saran silakan disampaikan makasi semua nya
+
+  Repo: https://github.com/Arifin0316/pixly
+  Web: https://www.pixly.my.id
+
+<br>
+
+7. [https://start-chat.atakana.com/]  
+   **Arnadi WebDev**
+
+  Assalamu'alaikum Warahmatullahi Wabarakatuh.
+
+  Kali ini saya sedang tidak membagikan aplikasi sederhana seperti biasanya, tapi sebuah aplikasi belum jadi yang menurut saya sangat rumit sehingga membuat saya sangat tertantang dalam pengembangan.
+
+  Aplikasi ini mulai saya kembangkan dari September 2024, dan ini adalah aplikasi real time pertama yang saya buat terinspirasi dari WhatsApp, belajar + praktek.
+
+  Aplikasi dan Teknologi yang Digunakan.
+  * Termux
+  * Acode
+  * KSWEB
+  * Vue.Js
+  * Socket.io
+  * Express.Js
+
+  Update: Baru-baru ini sudah saya lengkapi dengan fitur "Fingerprint" yang memudahkan pengguna login otomatis tanpa input email dan password.
+
+  Selengkapnya https://start-chat.atakana.com/submit-project.html#next
+
+  Website
+  https://start-chat.atakana.com/
+
+  Dokumentasi
+  https://start-chat.atakana.com/documentation.html
+
+  Untuk mendapatkan pengalaman yang lebih baik direkomendasikan teman-teman instal Start Chat.
+
+  Masukan, kritik, dan saran teman-teman akan sangat membatu saya, siap terima kritikan keras 😁
+
+  Pengembangannya akan saya lanjut setelah mendapat respon dari teman-teman.
+
+<br>
+
+8. [https://github.com/MuhammadZulhusni/Student-Result-Management-System]  
+   **Zly**
+
+  Assalamu'alaikum Warahmatullahi Wabarakatuh.
+
+  Halo teman-teman! Saya dari Malaysia, kali ini mau share project web app yang lagi saya kembangkan, yaitu Student Result Management System (SRMS). Aplikasi ini dibuat buat ngelola dan nampilin hasil belajar siswa secara lebih gampang, dengan dashboard admin dan portal khusus siswa biar bisa cek nilai sendiri.  😁
+
+  Teknologi yang Dipakai:
+  Laravel 
+  Bootstrap
+  JavaScript
+
+  Buat yang mau cek source code lengkapnya, bisa langsung ke GitHub saya:
+  👉 https://github.com/MuhammadZulhusni/Student-Result-Management-System
+
+  Masukan, kritik, dan saran dari teman-teman bakal sangat membantu saya. Thanks
+
+<br>
+
+9. [https://bryyzxm.github.io/BryanF/]  
+   **Bryan**
+
+  Halo PaDika & teman² semua
+
+  Perkenalkan nama saya Bryan, aku adalah siswa SMP yang baru berumur 13 tahun. Project kali ini adalah portfolio untuk diri aku. Aku juga membuat fitur slideshow editor agar saat presentasi di sekolah tidak tergantung dengan aplikasi slideshow seperti Canva atau Powerpoint. 
+
+  Teknologi yang digunakan:
+  * Bootstrap
+  * Javascript
+  * Google Fonts
+  * Font Awesome
+  * html2canvas
+  * JSZip
+
+  Link repo : https://github.com/Bryyzxm/BryanF
+  Link deploy : https://bryyzxm.github.io/BryanF/
+
+  Ditunggu masukan & sarannya yah teman². Thank youu
+
+<br>
+
+10. [https://raxcode0101.github.io/MyPortfolio_1/]  
+   **Bryan 0101**
+
+  Selamat sore, Hai Pak Sandhika dan semuanya.
+
+  Perkenalkan nama lengkap saya Bryan Phillip Sumarauw, saya adalah mahasiswa yang berumur 20 tahun. Projek ini adalah website portfolio saya. Kebetulan portfolio saya ini masih sederhana dan belum kompleks.
+
+  Teknologi yang digunakan:
+  1. Javascript
+  2. Bootstrap
+  3. Fontawesome
+  4. GSAP
+  5. Google Tag Manager
+  6. Google Font API
+  7. Varnish
+
+  Link Repo: https://github.com/RaxCode0101/MyPortfolio_1
+  Link Deploy: https://raxcode0101.github.io/MyPortfolio_1/
+
+  Mohon kritik & sarannya semuanya. terima kasih.
+
+<br>
+<br>
