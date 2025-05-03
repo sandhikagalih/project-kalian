@@ -1501,3 +1501,281 @@
 
 <br>
 <br>
+
+### 3 Mei 2025
+
+1. [https://cinefy.my.id]  
+   **Alang**
+
+  Halo PaDhika & teman-teman! perkenalkan namaku nizam/alang. Aku ingin membagikan proyek terbaruku yaitu "Cinefy", sebuah website eksplorasi dan list film dan TV series. 
+
+  Adapun fitur fitur dari Cinefy :
+  - Explore film dan TV series terbaru.
+  - Quick Search untuk mencari film dan serial TV dengan cepat dan mudah
+  - Tambah ke Watched untuk menandai tontonan yang sudah selesai +review.
+  - Watchlist untuk menyimpan tontonan yang ingin ditonton nanti.
+  - Favorite untuk menyimpan tontonan favorit.
+  - Forum untuk berbagi tontonan dan ulasan lewat postingan dengan pengguna lain.
+  - Login/out untuk pengalaman yang dipersonalisasi dan sinkronisasi lintas perangkat.
+
+  Tech stack: (vercel hosting)
+  Laravel 11, Alpine.js, Tailwind CSS, TMDB API, Cloudinary, Aiven.io
+
+  Link: https://cinefy.my.id
+  repo: https://github.com/syahrulnizam7/Cinefy
+
+  mohon kritik dan saran nya teman-teman, terimakasih!
+
+<br>
+
+2. [https://irfanks.site]  
+   **Irfan Kurniawan**
+
+  Halo Pak Dhika dan teman-teman semua, perkenalkan namaku irfan kurniawan suthiono, ini pertama kalinya aku membagikan proyek selama masuk ke dalam server ini, yaitu "Pixelfolio", sebuah website portfolio terinspirasi dari game pixel. 
+
+  Teknologi yang digunakan : 
+  1. GSAP
+  2. Framer-motion
+  3. nes.css
+  4. jotai
+  5. lottie-react
+  6. react-github-calendar
+  7. react-photo-view
+  8. Swiper
+  9. axios
+
+
+  Framework yang digunakan :
+  1. NextJS
+
+  Kelebihan : 
+  1. Website terhubung dengan admin panel untuk pengelolaan semua website pribadi sehingga dapat dengan mudah untuk mengubah data yang ada di dalam portfolio
+
+  Link Preview : https://irfanks.site
+
+  Mohon kritik dan sarannya semuanya. terima kasih
+
+<br>
+
+3. [https://kenjirl.github.io]  
+   **Kencong**
+
+  Halo Pak Dhika dan teman" semua,
+
+  Kenalin, saya Kenji, dan ini kali pertama saya mengikuti showcase project, padahal udah ngikutin channel WPU sejak Laravel 8 (udah 3 tahun lalu aja xixi)
+  Kalau berkenan, saya mau membagikan/memamerkan website portofolio saya pakai HTML dan Tailwind, dan dengan senang hati menerima pendapat maupun masukan dari siapapun
+
+  URL : https://kenjirl.github.io
+  GitHub : https://github.com/Kenjirl/Kenjirl.github.io
+
+  Tengkyuu ✨✨
+
+<br>
+
+4. [https://filmpedia-vin.vercel.app]  
+   **Arifin**
+
+  halo pak dhika dan teman" 
+
+  kali ini saya membuat web rekomendasi film yang nama nya filmPedia dan saya mengunakan api imdb dan next js.
+
+  Teknologi yang digunakan:
+  .next js
+  .type script
+  .tailwindcss
+  .framer-motion
+  .lucide-react
+
+  Websitenya: https://filmpedia-vin.vercel.app
+  repo: https://github.com/Arifin0316/MoviePick
+
+  itu saya dari saya dari saya jika ada kritik dan saran tolong disampaikan makasi
+
+<br>
+
+5. [https://github.com/xRiot45/express-cli]  
+   **Albertt**
+
+  Halo Pak Dhika dan teman-teman semua!
+
+  Perkenalkan, saya Thomas. Ini pertama kalinya saya ikut showcase project, dan saya ingin berbagi sedikit tentang proyek yang saya buat beberapa minggu lalu.
+
+  Saya mengembangkan Express JS CLI, sebuah tool yang dirancang untuk membantu developer dalam mengenerate proyek Express JS RESTful API secara otomatis, lengkap dengan struktur folder dan file yang sudah siap pakai.
+
+  Fitur utama:
+
+  - Dukungan Multi-Bahasa – Bisa pilih antara JavaScript atau TypeScript
+  - Dukungan Database – Bisa menggunakan MySQL atau PostgreSQL
+  - ORM Support – Sudah terintegrasi dengan Sequelize ORM
+  - Prettier & ESLint – Otomatis memastikan kode tetap rapi dan konsisten
+  - Commit Linter – Standar commit lebih terjaga dengan Husky & Commitlint
+  - Struktur Proyek Otomatis – Folder dan file template langsung dibuat dan siap pakai
+  - Inisialisasi Git – Repo Git langsung di-setup secara otomatis
+  - Instalasi Cepat – Semua dependency langsung terpasang dalam sekali jalan
+  - Dukungan Testing – Bisa pilih antara Jest & Supertest atau Mocha & Chai
+
+  Teknologi yang digunakan
+  - Node JS
+  - JavaScript
+  - Express JS
+
+  Cek proyeknya di GitHub atau di npmjs.
+
+  Link Github : https://github.com/xRiot45/express-cli
+  Link npmjs : https://www.npmjs.com/package/express-api-cli-tool
+
+  Mohon kritik dan saran nya teman-teman, terimakasih
+
+<br>
+
+6. [https://edustreamr.xyz]  
+   **cvpfus**
+
+  Selamat sore Pak Dhika dan teman-teman. Ini pertama kalinya saya ikut showcase project. Perkenalkan nama saya Yusuf, disini saya ingin showcase project sederhana saya yang bernama EduStreamr. Awal mula pembuatan project ini yaitu saya mengikuti hackathon online yang diadakan oleh EDU Chain (sebuah blockchain berbasis edukasi). Namun sayangnya saya tidak juara hehe. Walaupun tidak juara saya masih bisa berkesempatan mengikuti [incubator](https://x.com/opencampus_xyz/status/1887485019754799342) selama 12 minggu, mohon doanya semoga berjalan lancar :D. Saya ingin share untuk progress project sejauh ini.
+
+  EduStreamr adalah sebuah platform decentralized tipping untuk streamer edukasi (sesuai tema blockchain yaitu berbasis edukasi, namun bisa juga untuk streamer umum karena sifat blockchain yang permissionless / siapapun bisa berpartisipasi). Project saya mirip dengan Saweria, Sociabuzz, dll namun bedanya adalah penggunaan smart contract untuk mengirim tip atau menarik tip secara cepat dan rendah biaya. EduStreamr juga sudah dirancang agar pengguna yang sama sekali belum mengenal Web3 tetap bisa menggunakan platform. Saat ini EduStreamr masih dalam tahap "testnet" sehingga mata uang yang digunakan tidak bernilai.
+
+  **Tech stack yang digunakan:**
+  1. Solidity (bahasa pemrograman untuk smart contract)
+  2. Next.js
+  3. TailwindCSS
+  4. [Neobrutalism](https://www.neobrutalism.dev)
+  5. Thirdweb (untuk fitur login dengan google / email tanpa perlu wallet eksternal)
+  6. Wagmi (kumpulan hooks untuk berinteraksi dengan blockchain)
+  dll
+
+  **Berikut cara penggunaannya:**
+
+  Untuk streamer
+
+  1. Klik https://edustreamr.xyz lalu klik "Launch App".
+  2. Klik tombol "Connect" yang ada di pojok kanan atas, kemudian login dengan google / email.
+  3. Klik "Alert" yang ada di sidebar, kemudian copy dan paste Alert URL ke OBS Browser Source (bisa juga langsung drag and drop ke OBS agar lebih cepat).
+  4. Kembali ke Dashboard, share Tip URL ke penonton agar penonton bisa memberikan tip beserta pesannya.
+  5. (Opsional) Melakukan registrasi username untuk dapat memperpendek URL dengan mengikuti langkah berikut ini:
+    - Klik "Faucet" yang ada di sidebar, kemudian klik "Request". Tahap ini merequest koin "EDU" yang bisa digunakan sebagai fee transaksi untuk melakukan perubahan state di smart contract.
+    - Klik "Settings" yang ada di sidebar, kemudian masukkan username yang ingin digunakan, lalu klik "Register". Jika berhasil maka URL akan menjadi lebih pendek mengikuti username yang di-set.
+  6. Selain memperpendek URL, ada beberapa fitur yang tersedia jika pengguna telah mendaftarkan username:
+    - Ubah durasi alert: Pengguna bisa mengubah durasi alert yang muncul di layar dengan cara klik "Alert" di sidebar, kemudian masukkan durasi yang diinginkan pada bagian "Duration" lalu klik "Save".
+    - Kustomisasi alert: Pengguna bisa melakukan perubahan warna teks dan background pada alert/widget dengan cara klik "Alert" di sidebar, kemudian ganti warna sesuai keinginan pada bagian "Widget colors" lalu klik "Save".
+
+  Untuk viewer
+
+  1. Klik link tip yang dishare oleh streamer.
+  2. Klik tombol "Connect" yang ada di pojok kanan atas, kemudian login dengan google / email.
+  3. Klik tombol "Request 0.01 EDU" yang ada di kanan atas agar bisa mendapatkan koin "EDU" yang nantinya digunakan untuk mengirim tip.
+  4. Isi form tip mulai dari Nama, jumlah koin EDU yang akan dikirim, dan pesan yang akan dikirim.
+  5. Klik "Send Tip" untuk mulai mengirim tip.
+
+  Website
+  https://edustreamr.xyz
+
+  Repo
+  https://github.com/cvpfus/edu-streamr
+
+  Saran dan masukan sangat berarti bagi saya untuk memperbaiki EduStreamr menjadi lebih baik. Adapun saran atau masukan bisa dikirim melalui https://feedback.edustreamr.xyz
+
+<br>
+
+7. [https://github.com/zen-Hikari/Music_Player]  
+   **♪ノバル♪**
+
+  Halo teman-teman! saya Noval Hasmi Wijaya, saya sedang mengembangkan Music Player berbasis Python ini, dan ingin membuatnya lebih keren serta lebih stabil. Kalau kalian menemukan bug di kode atau punya ide untuk memperbaiki tampilan dan fitur, yuk bantu kontribusi! 💡
+
+  Kalian bisa fork repo ini, lalu buat pull request untuk perbaikan bug atau peningkatan fitur. Semua masukan sangat dihargai! 🙌
+
+  🔗 Repo GitHub: https://github.com/zen-Hikari/Music_Player
+
+  Terima kasih buat yang mau bantu! 👌
+
+<br>
+
+8. [https://cardcozy.vercel.app/]  
+   **Fathin**
+
+  Haloooo teman teman! Saya [M.Fathin Halim](https://mfathinhalim.github.io/) (lagi hehe) 😁 
+
+  kali ini saya ingin membagikan project untuk tugas sekolah saya sebenarnya yaitu Card Cozy ❤️ 
+
+  jadi saya terinspirasi dari web web orang yang bucin itu dengan kata kata, saya ingin bikin begitu tapi selain bucin juga, bisa buat selamat ulang tahun, selamat hari raya dan semacamnya. Jadi ai bikinin kata katanya (daripada cuman poster doank kan boring banget ya hehehe) 👀 
+
+  Tech Stack:
+  1. NextJS
+  2. Bootstrap
+  3. AI [api orang karena gak ada modalnya :'( ] 
+
+  fitur:
+  1. generate kata kata
+  2. share link
+  3. preview link
+
+  Semoga tidak bosan ada saya terus hehe 😭 
+
+  Preview: https://cardcozy.vercel.app/
+  Github: https://github.com/MFathinHalim/Project-18/ (saat membuat projectnya saya belum punya nama jaid project 18 hehe)
+
+  Terima Kasihh 🙏
+
+<br>
+
+9. [https://elementis.co/]  
+   **Reksa Andhika**
+
+  Halo, izin share web hasil kerja saya sebagai frontend developer.
+
+  Teknologi
+  - Framework: Vue.js (Nuxt.js).
+  - Styling: SCSS
+  - Animation: GSAP.
+  - CMS: Vold (In house Agency).
+
+  Project ini adalah hasil kerja saya dengan agency dari Bali, Fleava (https://fleava.com/) tahun lalu saat saya masih kerja fulltime, sekarang saya sudah freelance kembali.
+
+  Beberapa awards & recognition untuk website ini
+  - Site of the Day (SOTD) & DEV di awwwards (https://www.awwwards.com/sites/elementis).
+  - GSAP Showcase, Site of the Day (SOTD), Site of the Week (SOTW), dan GSAP Showreel 2024 (https://gsap.com/showcase).
+  - Codedrops Webzibition December 2024 (https://tympanus.net/codrops/webzibition/).
+
+  Sedikit note, page destinations itu page favorit saya, worth to visit.
+
+  Berikut link urlnya
+  https://elementis.co/
+
+<br>
+
+10. [https://portofolio-v2-dun.vercel.app/]  
+   **H I M A N G**
+
+  #### Halo Pak Dhika dan teman-teman! 👋  
+
+  Semoga semuanya sehat dan semangat terus!  
+  Perkenalkan, saya  [HIMANG](http://s.id/himang)  
+
+  Ini pertama kalinya saya ikutan showcase dan jujur, agak deg-degan nih! 😆 Saya masih pemula di HTML+CSS dan baru nyemplung ke PHP, tapi kali ini nekat bikin portfolio pakai **Next.js**. Masih belajar juga, jadi jangan berharap masterpiece ya, yang penting **progress!** 🚀  
+
+  Tech stack & etc yang saya pakai:  
+  🔹 **Next.js v15**  
+  🔹 **Tailwind CSS v4**  
+  🔹 **Framer Motion**  
+  🔹 **React Icons**  
+  🔹 **React Bit**  
+  🔹 **GitHub API**  
+  🔹 **EmailJs**  
+  🔹 **Supabase**   (Update) 23 maret 2025
+
+  Banyak referensi animasi dari berbagai tempat, salah satunya **[v0.dev](https://v0.dev/)**  
+
+  Saya sangat terbuka dengan feedback dari teman-teman semua! Kalau ada saran atau kritik, jangan sungkan, **hajar aja**—biar bisa belajar lebih banyak! 🔥  
+
+  🔗   **Live demo:**   [Portfolio v2](https://portofolio-v2-dun.vercel.app/)  - tidak usah yang ini 
+  💾    **Repo:**   [GitHub](https://github.com/himangmyid/portofolio-v2)   - tidak usah yang ini
+
+
+
+  🔗   **Live demo:**   [Portfolio v2 nextjs](https://portofolio-v2-nextjs.vercel.app/)  - Yang ini yang update (Guestbook)  (Update) 23 maret 2025
+  💾    **Repo:**   [GitHub](https://github.com/himangmyid/portofolio-v2-nextjs)   - yang ini  update (Guestbook)  (Update) 23 maret 2025
+
+  Terima kasih buat yang udah nyempetin lihat & kasih masukan! 😁🔥
+
+<br>
+<br>
