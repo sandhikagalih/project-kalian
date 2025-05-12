@@ -1779,3 +1779,248 @@
 
 <br>
 <br>
+
+### 12 Mei 2025
+
+1. [https://ramadhanchallenge.vercel.app/]  
+   **Naufal Rizky**
+
+  Halo Semuanya,
+  Halo Pak Sandhika Galih,
+
+  Halo, perkenalkan, saya Naufal Rizky. Saya ingin mengikuti showcase project kali ini dan berkesempatan untuk membagikan karya saya.
+
+  Project yang saya kembangkan adalah website Challenge Ramadhan, di mana setiap hari akan ada tantangan baru yang bisa diselesaikan. Tantangan ini dirancang khusus untuk membantu meningkatkan ibadah dan memperdalam makna Ramadhan bagi setiap peserta.
+
+  Saya berharap project ini bisa memberikan manfaat dan pengalaman yang berkesan bagi semua yang menggunakannya. Terima kasih!
+
+  Tech Stack yang digunakan:
+
+  ReactJS + vite
+  TypeScript
+  TailwindCSS
+  Supabase
+  Framer motion
+
+  Berikut adalah linknya:
+  Demo: https://ramadhanchallenge.vercel.app/
+
+  Github : https://github.com/Falzz1010/ramadhanchallenge
+
+  Terima kasih banyak atas perhatian dan kesempatannya. Mohon maaf jika terdapat kekurangan atau kesalahan dalam penyampaian ini.
+
+  Demikian dari saya, sekali lagi terima kasih banyak! 😊
+
+<br>
+
+2. [https://solvedthis.vercel.app/]  
+   **Balsss**
+
+  Assalamualaikum, halo pa dhika dan seluruh warga wpu, Sudah lama saya tidak ikut showcase project mska pada kesempatan kali izin kan saya untuk memamerkan project yang sangat sederhana ini. Project kali ini beranama solvedthis, solvedthis sendiri merupakan sebuah web forum diskusi dimana kita memposting permasalahan kita dan mendiskusikan dengan orang lain. Web ini menyediakan berbagai macam topik untuk diskusikan.
+
+  **Techstack** : 
+  - Nextjs
+  - Tailwind
+  - Shadcn (ui component terfavorite)
+  - Postgresql
+  - Drizzle ORM
+  - Better Auth
+  - Resend
+  - TipTap
+  - Uploadthing
+
+  Oh iya untuk fitur email seperti forgot password dan verifikasi email belum diterapkan. jangan lupa star nya temen" supaya saya semakin semangat membuat project yang lainnya. Untuk teman" misalnya mempunyai inspirasi fitur bisa sampaikan di issue project ini ya. Sekain dari saya mohon maaf bila salah kata terimakasih..
+
+  Website : https://solvedthis.vercel.app/
+  Github : https://github.com/Ibaliqbal/SolvedThis
+
+<br>
+
+3. [https://roastgram.vercel.app/]  
+   **Alang**
+
+  Halo PaDhika & teman-teman! Perkenalkan, namaku Nizam/Alang. Aku ingin membagikan proyek kedua ku dishowcase yaitu "Roastgram", sebuah website yang bisa memberikan roasting sarkastik terhadap profil Instagram berdasarkan username yang diinputkan pengguna. 🔥
+
+  ✨ Fitur utama Roastgram:
+
+  Roasting profil Instagram secara otomatis dengan AI Gemini.
+  Menganalisis username untuk memberikan roasting yang relevan dan lucu.
+  Animasi interaktif menggunakan Framer Motion.
+  UI modern & responsif dengan Tailwind CSS.
+  Scraping data dengan Apify untuk informasi yang akurat.
+  🛠️ Tech stack: (Hosted on Vercel)
+
+  Frontend: Next.js 15, TypeScript, Tailwind CSS, Framer Motion
+  Backend: Next.js AI Gemini, Apify
+  🔗 Cek langsung proyeknya di sini:
+  Website: https://roastgram.vercel.app/
+  Repo: https://github.com/syahrulnizam7/roastgram
+
+<br>
+
+4. [https://snaphive.mgkusumaputra.me/]  
+   **MGKPs**
+
+  Halo semuanya, hampir 1 tahun belum ikut showcase project saatnya ikutan lagi <:hehehe:972470914488885288> 
+
+  Project kali ini adalah **SnapHive** website photobooth online. fiturnya masih cukup simple hanya filter, dan custom frame.
+  Ide project ini muncul ketika kepengen buka photobooth sendiri, karena lumayan ribet dan belum ada investornya. Akhirnya buatlah project ini.
+
+  Yang digunakan dalam project ini, sama seperti project-project saya sebelumnya:
+  - Next.js 15
+  - Tailwind
+  - html2canvas
+  - Cloudinary
+  - Umami
+
+  Bisa langsung dicoba disini https://snaphive.mgkusumaputra.me/ 😎 
+  Buat temen-temen yang punya feedback untuk project ini feel free untuk isi [link ini](https://links.mgkusumaputra.me/snaphive-feedback?utm_source=wpu) yaa 
+
+  Thank you untuk teman-teman dan Pak Dhika yang sudah mencoba project ini <:iwakblush:1148574800659353741>
+
+<br>
+
+5. [https://copypad.vercel.app/]  
+   **Dexter**
+
+  Halo Pak Dhika dan teman-teman! Perkenalkan nama saya Jidan.
+
+  Project kali ini adalah **CopyPad** website buat share teks atau codingan kalian. Websitenya simpel sih tapi perjuangannya cukup berat, karna gua ngoding di hp dan gua ngoding di proot-distro debian dengan menggunakan software vscode, terus kalo barisnya udh agak banyak itu hpnya cepet panas jadi pas ngetik suka berat dan aplikasi termuxnya suka force close, apalagi gua ngodingnya fullstack ( I'm cooked bro 💀 )
+
+  Tech stack:
+  - Next.js 
+  - Tailwind 
+  - Shadcn
+  - Lucide-react icon
+  - Tanstack
+  - nanoid
+  - Express
+  - Ladder orm
+  - socket.io
+
+
+  Preview: https://copypad.vercel.app/
+
+
+  Sekian terimakasih 🙏
+
+<br>
+
+6. [https://github.com/araxnoid-code/rotta]  
+   **araxnoid**
+
+  Halo Pak Dhika dan teman-teman! Perkenalkan nama saya Yzm.
+
+  Project saya bernama Rotta yang berupa framework Deep Learning untuk membuat model AI, mirip seperti pytorch namun saya membuatnya dengan bahasa pemograman rust.
+
+  Project masih versi 0.0.1 dan masih sangatlah sedikit fitur, peforma yang kurang dan belum bisa diandalkan, oleh karena itu saya minta saran untuk pengambangan kedepannya.
+
+  untuk lebih detail bisa dibaca di github
+  https://github.com/araxnoid-code/rotta
+
+  sekian, terimakasih atas perhatiannya
+
+<br>
+
+7. [https://rejangpedia.vercel.app/]  
+   **Fathin**
+
+  Haloo semuanyaa, saya [M. Fathin Halim](https://mfathinhalim.github.io/) lagi hehe
+
+  kali ini saya ingin menshowcase project saya di tahun 2023 sebenarnya, tapi baru saya update dari ExpressJS jadi NextJS. Nama projectnya rejangpedia
+
+  > rejangpedia adalah enksiklopedia online yang dapat digunakan  untuk mencari informasi dan menambah informasi sehingga informasi yang dibagikan akan sangat banyak.
+  > 
+  > Anda dapat menambahkan artikel asalkan sesuai dengan peraturan kami: https://rejangpedia.vercel.app/rules
+
+  (aplikasi ini tersedia di playstore juga, tetapi akun saya kena suspend (saat menulis ini pada tanggal 24 maret 2025, semoga sekarang sudah kembali))
+
+  Tech stack:
+  - NextJS
+  - Bootstrap
+  - Imagekit.io
+  - MongoDB
+  - TypeScript
+  - FontAwesome
+
+  fitur:
+  - Tambah dan Edit article sehingga memungkinkan Kolaborasi bersama
+  (add dan edit article perlu acc admin jadi gak bisa sembarangan hehe)
+  - Read Article
+  - Share Article
+  - AI Search
+  - Search Article
+  - Youtube embed didalam article
+
+  preview: https://rejangpedia.vercel.app/
+  github: https://github.com/MFathinHalim/rejangpedia
+
+  Selamat dicoba, semoga aplikasi ini dapat bermanfaat untuk kita bersama dalam hal belajar ataupun kolaborasi 🙏
+
+<br>
+
+8. [https://protowa.my.id/]  
+   **Oneprocyber**
+
+  Halo Pak Dhika dan teman-teman! Perkenalkan nama saya Kris (Chris juga bisa hehe :v).
+
+  Mau mengenalkan Protowa (Prototype WA) gak tau kalau dah full rilis mau dikasih nama apa wkwkw
+  jadi projek ini adalah UNOFFICIAL API WA dan baru tahap Open Beta Test bagi temen temen temen yang projeknya memerlukan koneksi ke Wa bisa dicoba. Mau pake yang layanan unofficial yang ada tapi ada limit pengiriman pesan, watermark, cuman bisa 1 device nah bisa di coba banget bisa jadi solusi lain hehe😁 
+
+  Tech stack:
+  Rest API
+  Node Js (Express)
+  React js
+  Laravel
+  Postgresql
+
+  Link: https://protowa.my.id/
+
+  Note : Data yang digunakan tidak ada yang penting dan ketika selesai scan qr sepenuh itu komunikasi antara user dan wa, protowa hanya sebagai jembatan dan mengamankan jalur komunikasi dan tidak ada yang disimpan setelah koneksi . serta menjadi penghubung antara aplikasi yang kalian bangun dengan wa 
+
+  Sekian terimakasih 🙏
+
+<br>
+
+9. []  
+   **Mifta**
+
+  Assalamualaikum, halo pak Dhika dan teman teman di server WPU, perkenalin nama saya Mifta, saya hanyalah pelajar SMP biasa yang mempunyai minat di bidang Mechatronic dan juga AI. 
+
+  Jadi disini saya ingin mengenalkan project yang baru baru ini saya kerjakan. Ini adalah Low-Cost Robotic Arm dengan Reinforcement Learning. Saya sangst berusaha untuk memangkas bugdet Robotic Arm ini sehingga prototype nya menggunakan stick saja, dan dana berlebih saya alokasikan kembali untuk hardware nya. Robotic Arm ini bisa di training menggunakan model berbasis Reinforcement Learning, sehingga bisa digunakan untuk keperluan industri (walaupun alatnya masih sampah, tapi kita anggap saja ini sebagai prototype, hehe) saya menggunakan servo yang torsinya bisa sampai 12KG untuk second arm, dan bisa sampai 20KG di base arm. saya menggunakan microcontroller Arduino Uno dan model Reinforcement Learning dijalankan melalui laptop. saya juga sedang membuat paper (belum jadi, LaTeX susah sekali) dan rencananya akan saya publish di satu community. Maaf kalau design nya agak goofy karena saya belum ada foto untuk yang versi terbaru nya, ini foto versi lama jadi bentuknya masih gimana gitu. sekian dari saya, terimakasih..
+
+  ![alt](https://media.discordapp.net/attachments/758600947692732436/1358644535781228586/IMG_20250129_135112.jpg?ex=6822bc53&is=68216ad3&hm=7975ce182f1d18730017a8f030c9b9ef51a9782a7e50308e26f1047d9c46ead8&=&format=webp&width=1560&height=1175)
+
+  ![alt](https://media.discordapp.net/attachments/758600947692732436/1358644536061984935/IMG_20250129_135116.jpg?ex=6822bc53&is=68216ad3&hm=74553a768d6b8532c5ed1e78d8413b00f548c516987a4a6b437f5a78d38a685b&=&format=webp&width=1560&height=1175)
+
+<br>
+
+10. [https://pantau-lagit.vercel.app/]  
+   **kevin**
+
+  Halo Pa Dikha dan teman-teman WPU!
+
+  Perkenalkan, saya Kevin Marpaung, mahasiswa Teknik Informatika semester 8 universitas samudra. Saat ini saya sedang dalam proses mengerjakan skripsi . Sambil jalanin mengerjakan skripsi,saya juga  belajar react js .
+
+  Hari ini saya ingin showcase project pertama saya, yaitu sebuah aplikasi cuaca yang saya beri nama Pantau Langit. 🌦️ yang dimana desain user interface ini saya tiru dari orang india 😂
+
+  Tentang Aplikasinya: Pantau Langit adalah aplikasi cuaca sederhana yang bisa menampilkan informasi cuaca. Tujuan utama saya membuat aplikasi ini adalah untuk belajar dan memahami bagaimana integrasi API eksternal
+
+  Teknologi yang saya gunakan:
+  Tech Stack:React.js,Tailwind CSS,AOS,SwiperJS
+  API: Saya menggunakan OpenWeather API sebagai sumber data cuaca (gatau ada limit atau enggak😂)
+
+  Fitur:
+  Menampilkan cuaca saat ini 
+  Informasi seperti suhu, kondisi langit (cerah, mendung, hujan, dll), kelembaban, dan kecepatan angin,icons, dan Quotes
+
+  Repo:https://github.com/KevinMarpaung/PantauLagit
+
+  Website:https://pantau-lagit.vercel.app/
+
+
+  sekiann yang bisa saya jelaskan jika ada saran dari pa dika atau teman teman lainya sangat membantu saya kedepanya
+  terimakasi
+
+<br>
+<br>
