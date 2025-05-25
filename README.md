@@ -2024,3 +2024,375 @@
 
 <br>
 <br>
+
+### 25 Mei 2025
+
+1. [https://fikrinotes.github.io/eid-blessing-hunter-game/]  
+   **Raizel**
+
+  Halo semuanya! Saya Fikri Mulyana Setiawan, a.k.a Raizel, mahasiswa tingkat akhir jurusan matematika di universitas andalas. saya sekarang sedang mengerjakan tugas akhir, tapi karena sedang lelah dan butuh hiburan, jadi saya mencoba mencari2 hiburan. Berhubung sekarang sedang momen lebaran, saya teringat kebiasaan saya tiap tahun. sejak 2 tahun yang lalu, saya rutin bikin project-project simpel tapi menarik setiap hari lebaran. tahun ini, saya pengen nyoba sesuatu yang lebih menantang, bikin game bertema lebaran idul fitri.
+
+  game ini saya buat dengan menggunakan HTML canvas,  sesuatu yang belum pernah saya sentuh sama sekali sebelumnya. untungnya ada artikel dari W3Schools yang sangat membantu saya selama pengembangan game ini. Game ini saya beri nama "Eid Blessing Hunter" atau pemburu berkah lebaran, karena memang konsep dari game ini adalah mengumpulkan uang (THR) dan cookie sebanyak banyaknya sambil menghindari lalat dan petasan. secara total, game ini saya kerjakan selama seminggu penuh, tapi jika dihitung waktu efektif nya, mungkin sekitar 2-3 hari. 
+
+  **Teknologi dan Tools yang digunakan :**
+  - HTML (dengan HTML canvas)
+  - CSS 
+  - Vanilla JS
+  - VS Code
+  - game icon dari flaticon
+  - game sound dari pixabay
+
+  Ohiya, game ini udah bisa dimainkan di semua perangkat, baik itu PC ataupun perangkat touchscreen seperti smartphone. untuk PC, game ini bisa dikontrol melalui tombol panah pada keyboard. sedangkan untuk perangkat dengan fitur touch screen, game ini juga udah kompatibel dengan fitur layar sentuh, jadi objek pada game ini bisa digerakkan dengan menggunakan sentuhan. 
+
+  **Website : ** https://fikrinotes.github.io/eid-blessing-hunter-game/
+  **Repository : ** https://github.com/fikrinotes/eid-blessing-hunter-game
+
+  kalau ada yang mau diskusi atau nanya2 terkait game development, boleh dm di instagram @fikrimulyana_s ya, bye! 👋
+
+<br>
+
+2. [https://forumgw.vercel.app]  
+   **Adicss**
+
+  Halo! Saya Adi Cahya Saputra, Lulusan SMK tahun 2023 Jurusan RPL. Sekitar 2 minggu lalu saat libur puasa, saya memanfaatkan waktu tersebut untuk mempelajari SvelteKit. Saya melakukan teknik Learning By Project, maka ketika saya belajar SvelteKit saya mencoba untuk rework + redesign aplikasi yang sudah pernah saya buat juga sekitar 1 atau 2 tahun yang lalu menggunakan NextJS yang bernama **forumgw**.  Sebuah aplikasi forum komunitas digital buat diskusi para Genset 😎
+
+  **Teknologi dan Tools yang digunakan :**
+
+  1. SvelteKit
+  2. Shadcn Svelte (UI Component)
+  3. tRPC Svelte
+  4. TanStack Query Variant Svelte
+  5. Drizzle ORM
+  6. Paraglide (Language Switcher / i18n)
+  7. Vercel (Hosting Project nya)
+  8. Supabase (database postgres nya)
+  9. UploadThing (storage untuk simpan gambar)
+
+  **Website **:  https://forumgw.vercel.app
+  **Repository **:  https://github.com/AdiCahyaSaputra/forumgw-v2
+  **Figma**: https://www.figma.com/community/file/1490962127835734938/forumgw
+
+  Project ini saya selesaikan kurang lebih 2 minggu dan saya hanya mengerjakan dan merevisi sebagian fitur yang sudah ada di aplikasi sebelum nya
+
+<br>
+
+3. [http://katalogbuketnue.infinityfreeapp.com/]  
+   **Raewww**
+
+  Halo Saya Randa ! Saya baru saja menyelesaikan proyek Katalog Toko Buket, aplikasi web berbasis PHP procedural untuk mempermudah pengelolaan katalog produk toko online, khususnya untuk toko kecil hingga menengah. Aplikasi ini membantu menampilkan produk, mengelola kategori, subkategori, dan acara (occasion) dengan cara yang sederhana dan efektif.
+
+  Fitur Utama:
+  -Sistem Autentikasi Admin: Login, register, dan logout untuk keamanan akses.
+  -CRUD Lengkap: Menambah, mengubah, menghapus kategori, subkategori, produk, dan occasion (misalnya promo atau event khusus).
+  -Upload Gambar Produk: Memudahkan pengelolaan gambar produk.
+  -Pagination: Navigasi mudah untuk daftar produk.
+  -Struktur Folder Rapi: Mudah untuk dikembangkan.
+  -Frontend & Backend Terpisah: Mempermudah pengelolaan.
+
+  Aplikasi ini sudah dapat digunakan meski ada beberapa hal yang masih bisa dikembangkan, seperti:
+  -Pencarian produk dan filter kategori atau occasion.
+  -Ekspor data ke PDF atau Excel.
+  -Multiple image upload per produk.
+  -Status produk (aktif/tidak aktif).
+
+  Teknologi:
+  -Backend: PHP Procedural
+  -Frontend: HTML, CSS, JavaScript
+  -Database: MySQL
+
+  Demo dan Akses:
+  Katalog Produk (User): http://katalogbuketnue.infinityfreeapp.com/
+  Admin Panel: http://katalogbuketnue.infinityfreeapp.com/admin/index.php?page=login
+  Username: admin123, Password: admin123
+
+  Repository GitHub: https://github.com/siegrin/store
+  Jika ada kritik, saran, atau masukan, saya terbuka untuk diskusi dan siap perbaiki lebih lanjut. Jangan ragu memberi feedback agar proyek ini berkembang! 😊
+
+  Terima kasih sudah melihat proyek ini, semoga bermanfaat!
+
+<br>
+
+4. [https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v4/Poly%20Landhep%20v4.html?resource=3d/pompa/reso.json&encoder=3d/pompa/enco.json&controller=3d/pompa/cont.json]  
+   **⚙⚙WowGGGearing⚙⚙**
+
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  #### 🔉 🔊 kembali bersama WowGGGearing
+  Animasi cara pakai pompa ledeng
+
+  - Play Pause Seek Speed
+      Diharapkan suara & animasi bisa synchronized.
+
+  Editor:
+  - Blender 4.3.0
+  - Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+  - Notepad++
+
+  <:javascript:723671847027343381> library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/Poly-Landhep/tree/main/Poly%20Landhep/v4/3d/pompa
+  Web: https://angkasamuhammad.github.io/Poly-Landhep/Poly%20Landhep/v4/Poly%20Landhep%20v4.html?resource=3d/pompa/reso.json&encoder=3d/pompa/enco.json&controller=3d/pompa/cont.json
+  #### Buka dengan Chrome & Edge
+
+  #### 🆓🆓 🇵🇸 🇱🇧 +Syria
+
+  Maturnuwun.
+
+<br>
+
+5. [https://tebakbaku.vercel.app/]  
+   **reint**
+
+  **Halo teman-teman!**
+  Perkenalkan, saya Reint, siswa SMA kelas 12 yang sedang mempersiapkan diri menghadapi UTBK/SNBT untuk masuk ke Perguruan Tinggi Negeri impian.
+
+  Pada kesempatan ini, saya ingin memperkenalkan project pertama saya:
+
+  **TebakBaku — Website Kuis Interaktif**
+  - TebakBaku adalah kuis interaktif yang dirancang untuk menguji pemahaman pengguna, khususnya peserta UTBK/SNBT, dalam mengenali kata baku dan tidak baku pada subtes PPU dan PBM. Pengguna akan diberikan sebuah kata dan diminta menebak apakah kata tersebut baku atau tidak.
+
+  **Teknologi yang Digunakan**
+  - Next.js + React
+  - Tailwind CSS + shadcn/ui
+  - TypeScript
+  - Radix UI
+  - Canvas animation (confetti)
+  - ESLint & Type Checking
+
+  **Fitur Utama**
+  - Mode Gelap & Terang
+  - Sound effect saat jawaban benar/salah
+  - Tombol Reset untuk mengulang kuis
+  - Streak Mode (menyala apiku!)
+
+  **Repo GitHub: **
+  https://github.com/ReintB/TebakBaku
+
+  **Live Demo:**
+  https://tebakbaku.vercel.app/
+
+  Terima kasih atas perhatian teman-teman. Semoga project ini bisa bermanfaat, terutama bagi yang sedang belajar menghadapi UTBK/SNBT!. Mohon bantuannya untuk star jika berkenan ya hehe
+
+<br>
+
+6. [https://kirim.in]  
+   **KianSantang**
+
+  **kirim.in – Neubrutalism Portfolio Maker**
+
+  Hai semuanya! Aku mau share project **portfolio maker/builder**, atau mungkin lebih tepatnya layanan portofolio ya.
+
+  Namanya: **kirim.in**
+
+  Awalnya project ini aku bikin buat personal aja. Tapi terus mikir, “Kalau bisa dibikin supaya orang lain juga bisa pakai, kenapa enggak?”  
+  Sekalian jadi bentuk self-motivation juga—karena buatku, apresiasi sekecil apa pun bisa nge-boost semangat banget.
+
+  **Kenapa namanya kirim.in?**  
+  Dulu aku pernah dapet domain bagus buat project lain yang nggak jadi, daripada sayang kebuang, akhirnya aku pake buat ini.
+
+  ---
+
+  **Deskripsi singkat:**  
+  *kirim.in* adalah platform untuk bikin portofolio online yang simpel, playful, tapi tetap powerful.  
+  Stylenya neubrutalism, cocok banget buat kreator, dev, atau designer yang mau nunjukin (atau _kirim.in_) karya mereka secara rapi dan profesional.
+
+  ---
+
+  **Tech Stack:**  
+  - Next.js  
+  - TypeScript  
+  - Tailwind CSS  
+  - Vercel (deployment)  
+  - Figma (UI/UX design)
+
+  ---
+
+  **Fitur utama:**  
+  • Edit & kelola profil  
+  • Tambah dan tampilkan proyek  
+  • Halaman "About Me" (support Markdown)  
+  • Share portofolio ke media sosial  
+  • Dynamic OG image based on user profile  
+  • Profile showcase buat lihat portofolio pengguna lain
+
+  ---
+
+  Project ini masih terus aku kembangin, tapi udah bisa banget dipakai.
+
+  **Contoh profilku:**  
+  https://kirim.in/u/Taufik-H
+
+  **Landing page:**  
+  https://kirim.in
+
+  **Desain di Dribbble:**  
+  https://dribbble.com/shots/25909657-Neubrutalism-Portfolio-maker
+
+  Thanks guys, dan makasih juga Pak Dika!  
+  Silakan explore project-nya. Babay!
+
+<br>
+
+7. [https://ridwaanhall.com]  
+   **ridwaanhall**
+
+  **Selamat malam Pak Sandhika Galih dan teman-teman**
+
+  Assalamualaikum. Kenalin aku Ridwan, mahasiswa semester akhir yang lagi bertempur sama skripsweet (skripsi), ini kali pertama aku share project padahal udah join 2-3 tahun lalu.
+
+  **Deskripsi Singkat**
+  Ini adalah website pribadiku (v.3.x.x) yang ngegambarin siapa aku lewat desain simpel. Project ini aku buat 2 bulan lalu (16-03-2025), Semuanya aku bikin dari nol pake Django buat otaknya dan TailwindCSS biar rapi. Di sini ada semua info tentang proyek, kerjaan, sampe cerita tentang aku. Penasaran? Cus intip kodenya serta websitenya dan lihat gimana aku bikin ini semua!
+
+  **Alat Tempur***
+  - **Belakang Layar**: Django
+  - **Tampilan Depan**: TailwindCSS
+  - **Hosting**: Vercel
+  - **Analitik**: Google Analytics & GTM & GSC
+
+  **Apa Aja Sih Isinya?***
+  - **Data JSON**: Konten disusun pake file JSON-Python, gak pake database.
+  - **Tampilan Fleksibel**: Tetep kece di HP, tablet, atau laptop.
+  - **Portofolio**: Pamer proyek-proyek.
+  - **Dashboard Keren**: Statistik dari WakaTime dan GitHub.
+  - **Blog/Artikel**: Tulisan tentang teknologi atau apa aja yang lagi hot.
+  - **CV/Resume**: Riwayat kerja dan keahlian yang aku punya.
+  - **SEO Google dan Bing**: Website ini udah dioptimasi biar gampang ketemu di mesin pencari (robots.txt, sitemap.xml auto generate, dan schema.org).
+
+  _*mungkin fitur dan alat tempur akan bertambah seiring berjalannya waktu dan limit karakter pada pesan discord, biar up-to-date bisa cek repoku_
+
+  **Repo**
+  https://github.com/ridwaanhall/ridwaanhall-com
+
+  **Cek Langsung**
+  https://ridwaanhall.com
+
+  **Makasih Udah Mampir**
+  Terima kasih teman-teman dan Pak Sandhika Galih, udah luangin waktu buat lihat website personalku! Kalau punya ide, saran, masukan, atau pengen kolab bikin sesuatu yang kece, langsung aja hubungi aku (hi@ridwaanhall.com). Feedback kalian bantu banget buat bikin ini lebih oke! Yuk, bikin sesuatu yang bikin orang melongo bareng!
+
+<br>
+
+8. [https://drive.google.com/drive/folders/169sAKtmsAcXuJwTQAo8XtAocj_I8nya_?usp=sharing]  
+   **Luthfi**
+
+  Selamat malam Pak Sandhika Galih dan teman-teman semua,
+
+  Perkenalkan saya Luthfi, mantan mahasiswa yang sekarang jadi freelance developer. Hari ini saya ingin berbagi project hasil penelitian saya bersama dosen (bukan skripsi ya 😄).
+
+  Project ini adalah Klasifikasi Aksara Sunda Menggunakan CNN
+  Tapi nggak berhenti di model machine learning aja — saya kembangkan jadi Aplikasi Media Pembelajaran Aksara Sunda berbasis Android dan ini sudah memiliki HAKI!
+
+  Android Side:
+  - Flutter
+  - Flutter BLoC
+  - Youtube Player Flutter
+  - Clean UI dan responsive design
+
+  Machine Learning Side:
+  - Python
+  - TensorFlow
+  - FastAPI
+
+  Deploy & Testing:
+  - Ngrok buat expose FastAPI ke Flutter
+
+
+  ✨ Fitur-Fitur Keren:
+  📱 Aplikasi Android Interaktif:
+  - Materi pembelajaran aksara
+  - Video integrasi dari YouTube
+  - Fitur klasifikasi aksara langsung (image ke teks)
+  - Fitur belajar menulis Aksara Sunda
+
+  🧠 Model CNN:
+  - Dilatih untuk mengenali huruf-huruf Aksara Sunda
+  - Hasil prediksi bisa langsung ditampilkan di aplikasi
+
+  🌐 Deploy:
+  - FastAPI + Ngrok cukup buat development dan demo
+
+  Repo
+  https://github.com/luthfiadilal/aksara-sunda-app
+
+  Aplikasi
+  https://drive.google.com/drive/folders/169sAKtmsAcXuJwTQAo8XtAocj_I8nya_?usp=sharing
+
+
+  Note : fitur machine learning nya harus dijalankan manual karena berjalan di local , kalau aku inget nanti dijalankan hehehe😅✌🏻
+
+
+  Mohon kritikannya, ini akan bermanfaat bagi saya untuk mengembangkan lagi aplikasi ini.
+
+<br>
+
+9. [https://farhanalfatih.vercel.app/]  
+   **alnaaaaaa**
+
+  halo!saya farhan alfatih, saya mau mempamerkan projek webiste portfolio,
+  webiste ini terinspirasi dari "coding with afrizal" 
+
+
+  Tech stack:
+  react
+  javascript
+  TypeScript
+  tailwind css
+  shadcn ui
+  remixicon
+
+
+  webiste:https://farhanalfatih.vercel.app/
+  repository: saat ini masih private
+  github:https://github.com/farhanalfatih
+
+
+  Silakan berikan kritik dan saran untuk website saya agar bisa terus berkembang dan menjadi lebih baik ke depannya.
+  sekian terimakasih 🙏
+
+<br>
+
+10. [https://nest.bizzcode.tech/]  
+   **BimaBizz**
+
+  Halo teman-teman WPU! 👋
+  Saya Bima Mahendra, ingin memperkenalkan proyek yang sedang saya kembangkan bernama CockpitNest-V3 yang sudah sangat saya perbarui 🚀
+
+  ⚠️ perlu diketahui fitur untuk dashboard user masih dalam tahap pengembangan, dan fitur frontend saya rasa sudah dalam 98% jadi, jika kalian menemukan bug atau error silakan bertahu saya dengan membuat issue di github dan bagi yang ingin berkonstribusi untuk project ini sangat dipersilakan
+
+  🌐 Apa itu CockpitNest?
+  CockpitNest adalah sebuah template web builder berbasis Next.js, Tailwind CSS, dan Cockpit CMS. Tujuan utamanya adalah untuk memudahkan pembuatan website dinamis tanpa perlu coding backend dari nol.
+
+  ⚙️ Fitur Unggulan
+  ✅ Integrasi Cockpit CMS (Headless CMS) sebagai backend
+  ✅ Dinamis: Konten ditarik langsung dari API Cockpit
+  ✅ Styling dengan Tailwind CSS yang clean dan modern
+  ✅ Komponen modular: Mudah dikembangkan & dipelihara
+  ✅ Custom middleware untuk proteksi halaman (misal: lisensi, login)
+
+  💡 Teknologi yang Digunakan
+  Next.js 14 / 15
+  Tailwind CSS
+  Cockpit CMS (Pro)
+  next-intl
+  shadcn
+  daisyUI
+
+  📦 Kenapa Pakai CockpitNest?
+  Karena kadang kita butuh custom website yang:
+  Cepat dikembangkan
+  Mudah diatur isinya oleh non-programmer
+  Tidak perlu backend kompleks
+  Tetap SEO-friendly dan ringan
+
+  Dengan CockpitNest, saya ingin membuat kerangka kerja yang reusable untuk berbagai jenis project freelance maupun pribadi.
+
+  🔗 Link
+  github template : https://github.com/BimaBizz/cockpitnest
+  Contoh Website : https://cockpitnest.vercel.app/
+  CockpitCMS : https://nest.bizzcode.tech/
+
+  untuk teman-teman yang mau otak atik cmsnya silakan DM dirusak pun tidak masalah karena saya ada backupnya😂, untuk pak dika user dan passwordnya saya DM di IG terimakasih
+
+<br>
+<br>
