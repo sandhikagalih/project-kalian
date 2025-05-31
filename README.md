@@ -2396,3 +2396,214 @@
 
 <br>
 <br>
+
+
+### 31 Mei 2025 - SPECIAL SHOWCASE
+
+1. [https://timetable.rmecha.my.id/]  
+   **reacto_mecha! - Helper React**
+
+  Halo semuanya, izinkan saya showcase project saya yang kurang lebih temanya sama seperti yang udah pernah saya showcase sebelumnya. Semoga lancar puasanya yaa.
+
+  Jadi saya alhamdulillah mulai berkuliah September tahun kemarin. Karena maba, saya diajarin buat isi kartu rencana studi (KRS) di sistem akademik atau siakad. Untuk fitur utama siakad kampus buat ngisi KRS itu sebenernya dah cukup, tapi buat ngecek KRS yang udah di isi menurut saya rada kurang, webnya itu mengurutkan berdasarkan mata kuliah, belum tersusun rapih berdasarkan hari dan jamnya. Saya harus login lagi supaya saya bisa lihat keseluruhan matkul karena memang udah begitu sistemnya. Hambatan awalnya itu adalah gimana cara ambil html dari halaman krs di siakad. Ternyata yang basisnya chrome support untuk download file MHTML yang udah packing html beserta style dll. Idenya itu ambil htmlnya terus di scraping local pada perangkat user, kemudian di simpan pada localStorage kalau kriteria file sudah memenuhi. Udah di sebar juga ke temen-temen, ketemu bug skip hari yang bikin error pada saat looping tapi udah di fix.
+
+  Fitur Utama
+  - Offline support (PWA)
+  - Baca file krs, validasi, dan sortir otomatis
+  - Auto scroll sesuai kondisi hari
+  - Data hanya tersimpan pada perangkat pengguna
+
+  Techstack
+  - astro
+  - react
+  - postal-mime
+  - cheerio
+  - tailwind
+  - dan sisanya ada pada package.json
+
+  Untuk contoh filenya dibawah ini ya, klik tombol `Raw` terus `Ctrl + S` aja. Kalau mau liat tampilannya, bisa pake web preview contoh. Reponya udah dijadikan sebagai template, mungkin ada yang memiliki masalah yang sama bisa langsung comot aja. Penjelasan lebih lanjut ada pada file README. Mohon kritik dan sarannya ya, terima kasih.
+
+  Web: https://timetable.rmecha.my.id/
+  Repo: https://github.com/reacto11mecha/unj-timetable
+  File contoh: https://gist.github.com/reacto11mecha/c3db0fec2114affa31eaa55f7b1f92fd
+  Preview contoh: https://kreata.ee/postal-mime/example/
+
+<br>
+
+2. [https://reabook.my.id]  
+   **Yuka ✧ - Helper NodeJS**
+
+  Halo ges, showcase internal time.
+
+  Jd karena aku gabut dan adanya "WPU Membaca" , aku buat web-app `read-a-book` *(sangat original)* utk tracking buku & rating. Projectny masih bare-bones banget, tapi sudah bisa cari buku, menambah buku ke list pribadi (status membaca, halaman, rating, feedback), dan ~~stalking~~ user profile. Integrasi authentication pake Discord langsung & API buku dgn Google Book API. (note 19/5/2025: belum diupdate lagi :v klo mau fork/contrib, silahkan)
+
+  > 📚  **Stack**
+  1. Next.js + HeroUI + Tailwind
+  2. Postgres + Drizzle ORM
+  3. Auth.js Discord
+
+  🌐 https://reabook.my.id
+  https://github.com/Edqe14/read-a-book/
+
+  -# silahakan report bug di github issues jika menemukan (harusny sih banyak ya)
+
+<br>
+
+3. [https://zect-hadirin.vercel.app/]  
+   **Ya Sudahlah - Helper Tailwind**
+
+  Haloo, aku ingin bergabung meramaikan join showcase internal 🥳 🎉🎉🎉
+
+  Jadi ini adalah project hasil kegiatan ujian sertifikasi LSP di sekolah 4 minggu yang lalu, aplikasinya adalah absensi murid sederhana, aku membuat aplikasi ini mengikuti rancangan yang sudah disediakan. Karena tech stack yang digunakan boleh bebas, aku menggunakan Next js. Pada saat sudah selesai ujian, di rumah, aku mengerjakannya kembali (merapihkan) agar nanti bisa ku tampilkan ke publik.
+
+  **Berikut tech stack yang kugunakan**
+  - Typescript
+  - Next js
+  - Tanstack React Query
+  - Tailwindcss + Shadcn UI
+  - Postgresql + Prisma ORM
+  - Better Auth
+
+  Demo : https://zect-hadirin.vercel.app/
+  Github : https://github.com/IRTIDEATH/Absensi-Sederhana
+
+
+  Untuk akun login, sudah ku dm pak dhika di discord
+
+
+  Masih ada beberapa fitur yang nantinya akan kutambahkan lagi <:gud:976023133481996298>  
+  Kritik dan Saran dipersilahkan <:mantab:972471617923993600>
+  Untuk informasi lengkap seperti dokumentasi, ku taruh di github, file README.md
+
+  Sekian dari saya, terima kasih 🥳
+
+<br>
+
+4. [https://patlot.kid.my.id/]  
+   **Elis Sulistiani - Helper HTML/CSS**
+
+  Selamat malam pak Dhika dan teman-teman WPU semuanya. Saya Eris Sulistina masih setia dengan Alpine.js.
+
+  Kali ini saya membawa projek bernama Patlot. Patlot adalah online code editor sederhana yang hanya mendukung html, css, dan js saja. Jadi kegunaan Patlot hanyalah sekadar playground html-css-js. Karena sederhana, Patlot tidak mendukung fitur syntax highlight, emmet, autocomplete, dll jadi jangan harap ngoding di sini senyaman ngoding di vscode <:maaf:999282884034711643>. Nama Patlot terinspirasi dari "codepen" -> pen (bahasa Inggris) -> pulpen (bahasa Indonesia) -> patlot (bahasa Sunda).
+
+  Alasan saya membangun app ini adalah karena saya lemah di CSS Grid. Dulu saya sempat menamatkan playlist CSS Grid di WPU tapi hanya sekadar mengenalnya, tidak sampai paham karena menurutku pakai flex saja sudah cukup. Setelah mengenal tailwind, saya mulai menggunakan CSS grid dengan bantuan tailwind. Baru-baru ini saya tersadar kalau materi CSS Grid di WPU ada yang membahas tentang `grid-template-areas`. Aku mulai bertanya-tanya apakah tailwind punya itu? ternyata tidak punya. Dari situ aku mulai tergugah untuk nonton ulang playlist CSS Grid dan membuat projek memanfaatkan `grid-template-areas` sehinggan menghasilkan Patlot.
+
+  Teknologi yang saya gunakan ya seperti biasa
+  - Alpinejs
+  - Persist: plugin Alpinejs untuk bekerja dengan localStorage
+  - Tailwindcss 4
+
+  Repo: https://github.com/sejutaimpian/patlot  
+  Demo: https://patlot.kid.my.id/
+
+  Terima kasih atas perhatian, semoga bermanfaat 🙏
+
+<br>
+
+5. [https://drive.google.com/file/d/1b9GSfCl-umZ7n0Uo0iNvoGZKeo3i18a_/view?usp=sharing]  
+   **My Wife Kafuu Chino**
+
+  🎮 UNLOCKED – Puzzle Escape Game
+  Dibuat dengan Unreal Engine 5 | Proyek Akhir PKL
+
+  *Masuk ke dalam serangkaian ruangan penuh teka-teki, di mana setiap pintu hanya bisa terbuka jika kamu mampu memecahkan misterinya.*
+
+  Assalamualaikum Pak Dhika dan kawan-kawan helper yang lainnya. Perkenalkan nama saya Reza, Disini saya ingin membawa sebuah hasil dari sebuah project Game Development saya yaitu, UNLOCKED. UNLOCKED adalah sebuah game puzzle escape yang terinspirasi dari game Escape Room, game UNLOCKED ini dikembangkan menggunakan Unreal Engine 5 sebagai bagian dari laporan akhir Praktik Kerja Lapangan (PKL). Dan project ini dibuat oleh 6 orang (termasuk saya) dengan pembagian programmer (ini adalah saya), modelling, storyboard (2 orang), character design, dan environment design. 
+
+  Di game ini, player akan ditempatkan dalam sebuah ruangan tertutup (pada saat ini, baru tersedia 3 ruangan) dan diharuskan untuk mencari cara keluar dari berbagai ruangan tersebut dengan cara memperhatikan sekeliling, observasi, dan interaksi dengan lingkungan untuk keluar dan melanjutkan ke ruangan berikutnya. Setiap level dirancang untuk menguji kreativitas dan kemampuan problem solving player.
+
+  Teknologi yang saya gunakan sebagai berikut :
+  - Unreal Engine 5 (Sebagai base engine)
+  - Blender 3D (Sebagai aplikasi pembuat model 3D)
+  - Unreal Engine Marketplace (Sebagai tambahan dari model 3D) *Sekarang sudah berganti nama jadi Fab
+  - Blueprint (Visual Scripting dari Unreal Engine)
+  - Beberapa C++
+
+  Berikut adalah link download gamenya :
+  https://drive.google.com/file/d/1b9GSfCl-umZ7n0Uo0iNvoGZKeo3i18a_/view?usp=sharing (Size 4GB)
+  Dan langsung bisa jalankan Pekael.exe (Karena ini adalah bekas project untuk PKL, jadi nama Filenya hanya kepikiran ini saat dulu (Belum terpikirkan dengan nama UNLOCKED) 😅 )
+
+  Control :
+  Gerakan Mouse => Menggerakkan Kamera
+  W A S D => Berjalan
+  F => Interaksi
+  Esc => Pause
+  Klik Kiri Mouse => Berinteraksi dengan berbagai tombol (Contoh : Tombol menu, Tombol close, dan Tombol interaksi dengan objek yang ada pada game)
+  *Pada saat di main menu, bisa klik layar dulu 1x, baru klik tombol "Start Game". Dan jika ternyata kursor tidak hilang pada in-game, bisa Klik Kiri terlebih dahulu ke layar (Kedua itu bug karena kepepet saat buat dulu 😂)
+
+  Unreal Engine 5 membantu saya mewujudkan pengalaman visual yang lebih realistis dan mendalam, meskipun game ini dikembangkan dengan tujuan hanya sebagai tugas akhir, namun diharapkan game ini dapat dilanjutkan kembali dan dapat ditingkatkan. Proyek ini merupakan wujud nyata minat saya dalam game development dan menjadi langkah awal saya untuk terus berkembang di bidang Game Development.
+
+  Terima kasih telah meluangkan waktu untuk mencoba game ini. Harap berikan Feedback atau Kritik dan Saran supaya game ini dapat berkembang menuju yang lebih baik lagi!  🙏
+
+<br>
+
+6. [https://honkai-star-rail-guide-by-kulo-akbar.vercel.app/]  
+   **Kulo Akbar - Helper Tailwind**
+
+  Assalamualaikum semua, alo saya Hio Fadlika Akbar biasa dipanggil Akbar, kali ini saya mau share projek yang saya buat yaitu Guide Honkai: Star Rail, saya membuat ini bertujuan untuk memandu kalian yang sekiranya yang baru mulai bermain, penasaran/sedang mencari comp team terbaik untuk menyelesaikan konten konten di game ini.
+
+  ### 🎯 Fungsi
+
+  * Bagaimana cara memaksimalkan potensi karakter
+  * Kombinasi tim yang optimal
+  * Statistik penting dalam proses *building-up*
+
+  Melalui guide ini, saya ingin berbagi pengetahuan dan hasil dari proses theorycrafting yang saya lakukan sendiri. Semua data yang digunakan merupakan hasil eksperimen langsung dan juga referensi dari sumber-sumber tepercaya yang menganalisis statistik karakter. Artinya,  guide ini tidak sembarang/asal dibuat.
+
+  ---
+
+  ### ⚙️ Tech Stack
+
+  Proyek ini dibangun menggunakan:
+
+  * ✅ **Vue.js** — framework utama
+  * 🎨 **TailwindCSS 4** — desain cepat & responsif, bersih dan aestetik 😎 🤙 
+  * 🔀 **Vue Router 4** — navigasi antar halaman
+  * 🧠 **Vue Tippy** — tooltip interaktif untuk detail karakter
+  * ✨ **v-auto-animated** — animasi filter yang smooth
+
+  ---
+
+  ### 🧪 Fitur Utama
+
+  * **Filter berdasarkan Path** (kiri) dan **Elemen** (kanan)
+  * **Statistik karakter** penjelasan terperinci mengenai karakter
+  * **Tooltips** memberikan detail untuk karakter, Relic, Lightcone dll
+  * **Desain responsif dan interaktif** menjaga kenyamanan seluruh user yang menggunakan device berbeda
+
+  ---
+
+  ### 🌐 Demo & Repo
+
+  🔗 **Live Demo**:
+  https://honkai-star-rail-guide-by-kulo-akbar.vercel.app/
+
+  💻 **GitHub Repo**:
+  https://github.com/hiofadlikaakbar/HSR-GUIDE
+
+  ---
+  bisa kasih ⭐ kalau tertarik dengan yang kubuat
+  muga-muga projek dina iki migunani kanggo kanca kanca matur nuwun 🙏
+
+<br>
+
+7. [https://gemini-clone-eight-brown.vercel.app/]  
+   **miilan - Helper HTML/CSS**
+
+  Selamat malam Pak Dhika dan teman-teman semuanya. Saya Milan dan hari ini saya ingin meng-showcase projek sederhana saya.
+
+  Project ini benar-benar sederhana, yaitu adalah Gemini AI Clone.
+  Websitenya udah saya buat semirip mungkin dengan Gemini asli, termasuk ada fitur dark/light mode, serta suggestion untuk memulai chat, cuma belum bisa login aja.
+
+  Ini pake API gratisan, jadi saya juga ga tau kalo bisa habis atw engga.
+
+  Teknologi yang digunakan:
+  - basic aja (html css js) 😹
+
+  Demo: https://gemini-clone-eight-brown.vercel.app/
+  Reponya saya kasih nanti aja
+
+  Mohon saran dan kritikannya, Terimakasih.
+
+<br>
+<br>
