@@ -13993,6 +13993,32 @@ SPONSOR
 
       Kalo ada saran atau tambahan bisa hubungi saya, karena saya juga tau banyak kekurangan dari segi model dan lain lain, terimakasih :D
 
-<br><br>
+<br>
+<br>
+
+11.  [https://github.com/yogasw/beo-echo]  
+     **Beo Echo**
+     Assalamualaikum, pak dhika dan temen2 semua, izin share project saya
+     sebelum nya saya cari-cari mock api seperti [beeceptor](https://beeceptor.com/) atau [mockoon](https://mockoon.com/) tapi yang bisa di self hosting dan bisa di pakai banyak orang sekaligus, tapi setelah di coba beberapa project open source belum nemu yang srek. dan ahir nya buat sendiri di bantu github copilot agent di vscode
+
+     untuk fitur-fitur nya
+     1. multi Workspace
+     2. multi user
+     3. multi project
+     4. untuk mock tools sendiri ada 3 mode, mock, proxy dan forwarder, mock berarti kalau request response nya dari beo echo semua, kalau proxy itu hybrid kalau path nya ada config mock, maka ambil dari mock dan kalau ngak ada akan di teruskan di source asli api yang di proxy kalau proxy nya di aktifin, forwarder ini full forward aja dan untuk mode mock bisa set di path terntu untuk di forward ke api asli dan biasanya ini tak pakai buat memastikan waktu testing hanya path2 tertentu aja yang hit api asli dan yang lain return dari mock system
+     5. auth bisa pakai SSO google dan email
+
+     untuk cara run project ini bisa jalanin perintah docker pull
+    `docker pull ghcr.io/yogasw/beo-echo:latest`
+    nanti secara default dia bakal pakai sqlite untuk database nya dan kalau pengen di host di production atau staging bisa pakai posgresql dengan menambah env `DATABABSE_URL`
+    untuk default account nya email: admin@admin.com dan password admin
+
+  ow iya sebagian besar code ini di generate sama github copilot jadi maaf kalau struktur code nya mungkin ngk konsisten atau ada bug
+
+  link project: https://github.com/yogasw/beo-echo
+
+  Terimakasih 
+
+<br>
 
 
