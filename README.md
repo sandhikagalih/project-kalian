@@ -14003,11 +14003,11 @@ SPONSOR
      sebelum nya saya cari-cari mock api seperti [beeceptor](https://beeceptor.com/) atau [mockoon](https://mockoon.com/) tapi yang bisa di self hosting dan bisa di pakai banyak orang sekaligus, tapi setelah di coba beberapa project open source belum nemu yang srek. dan ahir nya buat sendiri di bantu github copilot agent di vscode
 
      untuk fitur-fitur nya
-     1. multi Workspace
-     2. multi user
-     3. multi project
-     4. untuk mock tools sendiri ada 3 mode, mock, proxy dan forwarder, mock berarti kalau request response nya dari beo echo semua, kalau proxy itu hybrid kalau path nya ada config mock, maka ambil dari mock dan kalau ngak ada akan di teruskan di source asli api yang di proxy kalau proxy nya di aktifin, forwarder ini full forward aja dan untuk mode mock bisa set di path terntu untuk di forward ke api asli dan biasanya ini tak pakai buat memastikan waktu testing hanya path2 tertentu aja yang hit api asli dan yang lain return dari mock system
-     5. auth bisa pakai SSO google dan email
+    - auth bisa pakai SSO google dan email
+    - multi Workspace
+    - multi user
+    - multi project
+    - untuk mock tools sendiri ada 3 mode, mock, proxy dan forwarder, mock berarti kalau request response nya dari beo echo semua, kalau proxy itu hybrid kalau path nya ada config mock, maka ambil dari mock dan kalau ngak ada akan di teruskan di source asli api yang di proxy kalau proxy nya di aktifin, forwarder ini full forward aja dan untuk mode mock bisa set di path terntu untuk di forward ke api asli dan biasanya ini tak pakai buat memastikan waktu testing hanya path2 tertentu aja yang hit api asli dan yang lain return dari mock system
 
      untuk cara run project ini bisa jalanin perintah docker pull
     `docker pull ghcr.io/yogasw/beo-echo:latest`
