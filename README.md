@@ -2607,3 +2607,267 @@
 
 <br>
 <br>
+
+### 14 Juni 2025
+
+1. [https://enfileup.prtcl.icu/]  
+   **Nameraid**
+
+  📄 __**Uploadadanon**__
+
+  Halo semuanya! 👋
+
+  Aku **Nameraid/N3mr1d**, pencipta **Uploadadanon** — platform untuk mengunggah file atau gambar dengan format apapun secara **anonim**, tanpa pencatatan log dan tanpa kebocoran data.
+
+  ✨ __**Fitur Unggulan**__
+  ✅ **Anonim Sepenuhnya**: Tanpa log, tanpa pelacakan pengguna.  
+  🚫 **Tanpa JavaScript**: Platform berjalan tanpa JavaScript untuk privasi lebih baik dan loading lebih cepat.  
+  ⏰ **Penghapusan Otomatis**: File akan terhapus otomatis berdasarkan waktu kedaluwarsa yang ditentukan. File bertipe "never" akan dihapus setelah pergantian tahun baru.  
+  🧹 **Penghapusan Metadata**: Semua file dan gambar yang diunggah akan dibersihkan dari metadata.  
+  🔗 **Akses Berbasis Link**: Hanya orang yang memiliki tautan akses yang bisa melihat file atau gambar.  
+  📝 **Pastebin Anonim**: Uploadadanon menyediakan layanan Pastebin anonim dengan pengaturan kedaluwarsa dan fitur hitung jumlah pengunjung.
+
+  🔒 __**Privasi & Keamanan**__
+  - File dan gambar hanya bisa diakses oleh yang memiliki tautan.
+  - Tanpa tautan, file sepenuhnya tidak dapat ditemukan atau diakses.
+  - Tidak ada pelacakan pengguna, tidak ada cookies, tidak ada JavaScript — benar-benar privasi maksimal.
+  - Semua unggahan aman dan tidak meninggalkan jejak pengguna.
+  ** Sample Website ** : https://enfileup.prtcl.icu/ | ** repo ** : https://github.com/n3mr1d/UploadAnon
+  📈 __**Statistik**__
+  - Menghitung jumlah pengunjung untuk setiap file atau pastebin yang diunggah.
+
+  > ⚡ **Catatan**: Uploadadanon dibuat dengan prioritas utama pada **privasi** dan **anonimitas**.
+
+<br>
+
+
+2. [https://gradientmoment.vercel.app]  
+   **SiBagood**
+
+  Halo semua, mau share lagi project simple, web untuk generate gradient background dari gambar. untuk hasil code css dan download gambar mungkin agak kurang akurat dan bukanya lewat desktop aja ya soalnya gak terlalu responsive.
+
+  Stack :
+  React + Vite
+  Tailwind + shadcn
+  Framer Motion
+
+  web : https://gradientmoment.vercel.app
+  repo : https://github.com/bagusindrayana/my-gradient
+
+<br>
+
+
+3. [https://yogie-aditiya.vercel.app/]  
+   **Yogieee**
+
+  Halo semuanya👋 pak Dhika dan teman-teman WPU, nama saya yogie aditiya dan saya ingin memamerkan projek portofolio saya. Portofolio ini akan terus berkembang dan akan saya perbarui berkala, misal saya punya skill baru atau ingin menambahkan teknologi baru, dan saya juga punya rencana buat nambahin database agar gampang kalau mau menambah atau merubah konten di dalamnya, tapi buat saat ini sudah cukup untuk menjadi versi pertama😉.
+
+  Teknologi yang dipakai:
+  -React + Vite
+  -Tailwind + Shadcn
+  -GSAP
+
+  Website: https://yogie-aditiya.vercel.app/
+  Repository: "Maaf yaa ini projek pribadi saya☺️"
+
+  Silahkan beri masukan, kritikan atau bahkan saran hal yang menarik untuk saya tambahkan.
+
+<br>
+
+
+4. [https://mlbb-stats.ridwaanhall.com/hero-rank/]  
+   **ridwaanhall**
+
+  **Halo teman-teman, selamat malam!  **
+
+  Sebelumnya, saya pernah membagikan proyek sekali (ridwaanhall.com). Namun, melihat potensi proyek kali ini yang mungkin bermanfaat bagi developer lain, saya ingin melakukan **showcase** untuk proyek yang saya beri nama **MLBB Stats**.
+
+  Awalnya, proyek **MLBB Stats** ini hanya saya buat karena iseng saat gabut dan sering bermain *Mobile Legends: Bang Bang (MLBB)*. Saya penasaran dengan statistik hero dan ingin mengakses data dengan lebih mudah bagi saya, jadi saya mulai mengembangkan API sederhana untuk mengambil informasi seperti **win rate, counter, dan lain-lain**. Tidak ada ekspektasi besar karena di website resmi MLBB sudah ada. Tetapi ternyata banyak yang tertarik—repo GitHub-nya mendapatkan banyak **stars**, bahkan ada yang memberikan **sponsorship** untuk pengembangannya.
+
+  **Tech Stack**
+  Proyek ini dikembangkan dengan menggunakan berbagai teknologi berikut:
+  - **Web:** Django + Tailwind CSS
+  - **API:** Django Rest Framework
+  - **Web Dokumentasi:** Dokumentasi template bersifat open source dari orang lain, templatenya ada di Vercel
+
+  **Fitur dalam MLBB Stats**
+  Proyek ini mencakup **API, dokumentasi, dan web demo** dengan berbagai fitur, seperti:
+  - **Hero Rank** (peringkat hero berdasarkan statistik)
+  - **Hero Position** (posisi hero dalam pertandingan)
+  - **Hero Detail** (informasi lengkap tentang hero)
+  - **Hero Skill Combo** (kombinasi skill yang efektif)
+  - **Hero Rate** (rating hero berdasarkan performa)
+  - **Hero Relation** (hubungan antara hero)
+  - **Hero Counter** (hero yang bisa menjadi counter)
+  - **Hero Compatibility** (kecocokan hero dalam tim)
+
+  **Link Penting**
+  **Repo GitHub:** https://github.com/ridwaanhall/api-mobilelegends
+  **Demo Website:** https://mlbb-stats.ridwaanhall.com/hero-rank/
+  **Dokumentasi API:** https://mlbb-stats-docs.ridwaanhall.com
+  **API:** https://mlbb-stats.ridwaanhall.com/api/
+
+<br>
+
+
+5. [https://dhitznswa.vercel.app/]  
+   **dhitznswa**
+
+  Hallo semuanya, perkenalkan saya adhitya ingin ikutan showcase projek, sebenernya dari dulu sih cuman masih ragu ragu malu sama senior senior soalnya hehehe. tapi sekarang memberanikan diri buat ikut showcase project, projek ini adalah website portfolio saya yang sangat simpel sekali, jadi mohon di bantu saran dan kritik nya yaw teman teman😆 .
+
+  Website : https://dhitznswa.vercel.app/
+  Repo : https://github.com/dhitznswa/personal-website-v5
+
+  Tech stack :
+  - NextJS
+  - Tailwind + Shadcn + Magic Ui
+
+  kenapa NextJS? karena kedepan nya saya ingin membuat dashboard untuk management website + buat artikel artikelan buat gabut gabutan, hehehe. makasiii
+
+<br>
+
+
+6. [https://fitsync-ai.vercel.app]  
+   **MrFluxy**
+
+  Halo pak Dhika dan semua temen-temen WPU, Perkenalkan saya Afrizal Mufriz Fouji seorang *Frontend* yang sedang belajar ingin menjadi *Full-stack*. Disini saya mau showcase project gabut yang saya bangun sambil live streaming di salah satu media social. Ide dari project ini saya dapatkan dari real situation karna saya jarang olahraga dan gym juga, Jadi saya memutuskan untuk membuat aplikasi **AI workout and diet planning** yang saya kasih nama **Fitsync AI**.
+
+  **Fitsync AI** ini adalah aplikasi *Next.js full-stack* yang memanfaatkan teknologi *AI Voice Agent* untuk membuat *personalized workout and diet plans*. Pengguna bisa ngobrol secara *Real-time* dan natural dengan *AI Voice Agent* untuk merencanakan *fitness goals* dan menerima *planning* yang disesuaikan berdasarkan kebutuhan dari pengguna. Aplikasi ini juga memiliki *system credits* dimana pengguna baru akan mendapatkan credits secara gratis untuk mencoba fitur utama dari aplikasi ini dan pengguna juga bisa top-up credits melalui *payment gateway* dari *Midtrans*.
+
+  Tech Stack yang digunakan :
+
+  - Next.js 15 + Typescript
+  - Tailwindcss + Shadcn untuk styling dan ui component
+  - Supabase Authentication & Database
+  - Vapi (AI Voice Agent)
+  - Gemini LLM untuk generate workout & diet plan
+  - Midtrans Payment Gateway.
+  - Sedikit animasi menggunakan motion/framer-motion
+
+  Website : https://fitsync-ai.vercel.app
+
+<br>
+
+
+7. [https://kulon.devanka.id]  
+   **devanka**
+
+  Halo, selamat sore, Pak Dhika dan teman-teman WPU. Saya Devanka, ingin share project sederhana hasil belajar saya setelah berjuta-juta kali menonton video tutorial khususnya dari channel WPU.
+
+  Project ini bernama **Kulon**, sebuah Web-based Game Multiplayer dengan tema Survival Puzzle (2D Pixel). Pertama kali mencoba dikerjakan setelah menamatkan Playlist Belajar NodeJS. Dibuatnya project ini adalah untuk sedikit lebih mendalami mengenai NodeJS dan HTML Canvas.
+
+  Sayangnya, untuk saat ini Kulon hanya dapat dimainkan dengan desktop atau mobile dengan layar minimal 720×480.
+  > layar di bawah minimal bisa paksa masuk dengan query tambahan `skipSplash=1`
+  > tampilan dengan layar di bawah minimal mungkin tidak responsive dan beberapa fungsi tidak dapat bekerja dengan normal
+
+  Teknologi yang digunakan:
+  - Express
+  - Express Session (untuk OAuth: GitHub, Discord, Google)
+  - Peer & PeerJS (WebSocket)
+  - Coturn (NAT Traversal untuk WebSocket di VM)
+  - Midtrans Client - CoreAPI (Payment Gateway)
+  - Nodemailer
+  - Webpack
+  - SCSS
+
+  Website: https://kulon.devanka.id
+  Repository: https://github.com/devanka761/kulon
+
+  External Link:
+  Guide Kulon - Stage 1
+  https://devanka.id/x/kulon-strange-distric-guide
+
+  Kritik, saran, dan masukan sangat dibutuhkan untuk perkembangan kedepannya
+
+<br>
+
+
+8. [https://faizadilkhatami.my.id]  
+   **Adil**
+
+  **Halo Pak Dhika dan teman-teman WPU.**
+
+  Perkenalkan nama saya Adil. Ini pertama kalinya saya ikutan showcase project. Kali ini saya ingin share project website portfolio saya sendiri.
+
+  **BTS**
+  Akhir-akhir ini saya ingin mencoba untuk lebih independen. Jadi sekarang sedang berusaha untuk lebih fokus mengarah ke freelance. Hanya saja saya kurang tahu langkah yang harus dilakukan untuk mencari pekerjaan tersebut. Alhasil saya membuat website ini dengan tujuan untuk sebagai showcase terhadap apa yang saya kerjakan. Sebenarnya website ini juga sudah lama live sih tapi belum banyak yang tahu (maklum saya introvert pak skill pamerku sangatlah ciutt wkwk). 
+
+  **Tech/Stack**
+  Next.js
+  GSAP
+  Tailwind CSS
+  Shadcn UI
+  Lenis
+
+  **Website**
+  https://faizadilkhatami.my.id
+
+  Berharap ada kritik dan masukan terhadap website saya. Dengan senang hati akan saya terima. Thank you!
+
+<br>
+
+
+9. [https://pleasecallmechamp.com]  
+   **Suryaaditya**
+
+  Halo semua! Saya mau share salah satu project freelance terbaru untuk Please Call Me Champ, sebuah motion designer studio. Website ini saya bangun full secara native, tanpa framework, dengan stack sebagai berikut:
+  - Language: JavaScript, HTML, CSS (no SCSS/Tailwind/any)
+  - Package: FFmpeg, Bun (as runtime and backend), Esbuild (bundler)
+  - CMS: Prismic
+
+  Technical notes:
+  - Website ini dibuat native tanpa framework (no Nuxt/Next/any). SPA, WebGL, split text, virtual scroll dan animation engine itu dibuat sendiri dengan native javascript.
+  - Compiler saya gunakan esbuild dan buat pluginnya sendiri untuk CSS resolve calc(), px to vw conversion, minifier, dll. Lalu untuk WebGL saya buat obfuscation variable plugin.
+  - FFmpeg digunakan untuk generate thumbnail pada video player “fullscreen”.
+  - Kesulitan pada website ini adalah mempertahankan load speed dan performa dgn jumlah asset yg hampir 2500 (gambar/video)
+
+  🔍 Highlighted features:
+  - Theme: Kalo “⬤ “ Di klik ganti tema
+  - Home: Smooth scroll to top experience, interaksi icon mata yang mengikuti kursor saat elemen “Champ”
+  - Project List: 3 layout alternatif (Grid, List, Preview), tapi pada layout grid punya versi alternatif di pojok kiri bawah, dilengkapi filter navigation per tahun
+  - Project Detail: Inline & fullscreen video player custom + navigasi ke project lain
+  - Play Section: Slider interaktif yang bisa dinavigasi dengan arrow/spasi, tetap non-blocking
+
+  📱 Mobile Notes: 
+  Motion aku simplify. Bisa inspect dgn bawaan browser aja karena detect via maxTouch.
+
+  ⚠️ Catatan:
+  *Beberapa video via Vimeo jadi mungkin tidak bisa dibuka di beberap provider Indonesia, jadi mungkin gabisa dibuka*. Bisa pakai VPN/DNS (Google/Cloudflare). Server di US, jadi mungkin ada delay saat initial load.
+
+  Live Site: https://pleasecallmechamp.com
+  Credits: Dev (surya-aditya.com), Designer (brianstefans.com)
+  Awards:
+  - FWA of The Day (13 May)
+  - CSS Design Awards (22 May)
+  - CSS Winners (24 May )
+  - Awwwards (10 Jun)
+
+<br>
+
+
+10. [https://yuii-playcards.vercel.app]  
+   **Yui**
+
+  Halo teman-teman WPU dan Sandhika Sensei✨✨!
+  Kenalin aku Yuii, mahasiswa Sastra Jepang semester 6. Terakhir showcase project? Duh, udah lupa kapan wkwk. Akhir-akhir ini lumayan sibuk ngajar di LPK, persiapan JLPT di bulan Juli, dan ngerjain proposal juga 😅
+
+  Nah, kali ini Yuii mau sharing project iseng dan gabut yakni : Yuii-Playcards. Website buat bantu belajar bahasa asingkayak hafalan kosakata & kalimat, mirip flashcards di Quizlet/Mazii,
+  Fitur yg yuii buat simple dan sederhana aja seperti : flashcards show, quiz, dan share deck ke teman. Lumayan buat bantu belajar kanji N3/N2 hehehe..
+
+  Stack:
+  Front: Tailwind, Static HTML5, GSAP
+  Back: Node.js, Express, MongoDB, Firebase Auth, Express-session
+
+  📦 Repo: https://github.com/Yu1chiro/yuii-playcards
+  🌐 Live: https://yuii-playcards.vercel.app
+
+  Kalau ada bug, tampilan belum responsive, atau repo agak berantakan, mohon dimaklumi yaa, ini project iseng dan gabut wkwk
+  Masukan & saran temen-temen WPU dan sandhika sensei sangat aku apresiasi banget !
+  お読みいただきありがとうございました ✨！
+
+  (Terimakasih telah membaca ✨ ! )
+  Salam titik koma 🔥
+
+<br>
+<br>
+
