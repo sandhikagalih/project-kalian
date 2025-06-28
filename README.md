@@ -2871,3 +2871,251 @@
 <br>
 <br>
 
+### 28 Juni 2025
+
+1. [https://mutatio.vercel.app/]  
+   **aseppp**
+
+  Hai semua dan Pak Dhika!
+  Saya Akbar Krishnawan, dan ini pertama kalinya saya ikut showcase WPU.
+
+  Saya bikin project ini karena mikir (mungkin) bikin sistem changelog itu ribet kalau harus dari awal. Jadi saya buat website yang bisa nyimpen changelogs dari project user, dan nantinya bisa diakses dalam format JSON untuk dipakai di website mereka.
+
+  Intinya, user tinggal fokus styling UI aja, tanpa harus bikin backend atau database changelog lagi.
+
+  Tech Stack:
+  Next.js 15
+  Prisma & PostgreSQL & Neon Database
+  BetterAuth
+  ShadCN
+
+  Live : https://mutatio.vercel.app/
+  Github Repo : https://github.com/yomjsty/mutatio
+
+  Kritik dan sarannya sangat saya terima ya! Maaf kalau masih banyak bug yang berseliweran atau layout-nya masih berantakan dan belum responsive, wkwk. Project ini dibuat karena iseng dan mengisi waktu luang. Terimakasih semuanya!
+
+<br>
+
+2. [https://www.aksarify.xyz]  
+   **Lafiulin**
+
+  Halo Pak Dhika dan kawan-kawan WPU semua!
+  Kenalin saya **Rizky Rafi**, saya seorang **Front-end Developer** yang sekarang lagi belajar **Full-stack Development** juga. Kali ini saya mau showcase project nih hasil belajar Full-stack Development saya yaitu platform yang diciptain karena keresahan yang bilang bahwa Gen-Z dan Gen Alpha kemampuan membaca dan attention spannya berkurang karena kebanyakan scroll medsos video short seperti Tiktok, Reels, dan YT Shorts. Nah dari situ akhirnya saya terbesit ide untuk membuat platform yang diberi nama** Aksarify** ini.
+
+  Aksarify ini adalah platform untuk menguji kemampuan baca pengguna seperti apa. Untuk saat ini Aksarify memiliki fitur-fitur simpel seperti 3 tingkatan bacaan yaitu **Mudah**, **Menengah**, dan **Sulit**. Lalu ada juga fitur menjawab sebanyak **5 soal** dari bacaan yang kita sudah baca sebelumnya, ini untuk menguji seberapa paham kita membaca bacaan tersebut. Setelah menjawab ke-5 soal tersebut nanti pengguna akan diberi ringkasan dan hasilnya seperti **berapa lama membaca**, **berapa WPM (word per minute)**, **berapa soal yang benar**, dan dimana letak kita mendapat kesalahan.
+
+  Untuk sekarang bacaan di masing-masing tingkatan masih baru 5 saja, namun kedepannya akan ditambah beberapa lagi beserta fitur-fitur baru yang akan datang nantinya.
+
+  Untuk Tech Stack yang digunakan adalah sebagai berikut:
+  - Next JS 15 + Typescript (Frontend)
+  - Tailwind CSS + Shadcn/UI (UI Style dan Components)
+  - Framer Motion (Untuk animasi di Landing Page)
+  - Prisma ORM + tRPC (Backend Penghubung ke Database)
+  - PostgreSQL dari Supabase (Database)
+  - Local Storage (untuk save existing session selama 24 jam)
+
+  URL Website: https://www.aksarify.xyz
+  URL Github: https://github.com/rizkraf/aksarify
+
+  Untuk yang sudah coba boleh ya dishare pengalaman, feedback, ataupun bug yang ada. Terima kasih untuk pak Dhika dan semuanya! **Salam Titik Koma;**
+
+<br>
+
+3. [https://duitly.vercel.app/]  
+   **Rizal Am_in**
+
+  Halo semuanya, salam kenal saya Rizal Amin.
+
+  Disini saya akan membagikan projek open source saya, yang saya kerjakan kurang labih 3 hari untuk mengisi waktu luang. Projek ini bernama DuitLy, sebuat web app yang berguna untuk mencatat pemasukan dan pengeluaran harian. Web app ini menggunakan localStorage sebagai penyimpanannya.
+
+  Sebenarnya ada niatan buat jadikan aplikasi juga, namun laptop saya tidak memadai untuk menjalankan Android Studio 😌.
+
+  Fitur-Fitur Utama di DuitLy:
+      1. Tambah transaksi (pengeluaran / pemasukan)
+      2. Edit & hapus transaksi
+      3. Lihat transaksi terbaru dan lihat semua transaksi 
+      4. Pengeluaran dan pemasukan hari ini
+      5. Total uang sekarang
+      6. Dark mode
+      7. Import dan Export data buat backup manual
+
+  Teknologi yang Digunakan:
+      1. React JS
+      2. Material UI (untuk components)
+      3. Vercel (untuk deploy)
+
+  🤝 Projek ini open source dan sangat terbuka untuk ikut kontribusi atau sekadar kasih saran.
+
+  Cobain Sekarang!
+      - Live: https://duitly.vercel.app/
+      - GitHub: https://github.com/RzlAm/DuitLy/
+
+<br>
+
+4. [https://now-is.online]  
+   **HiddenFoxy**
+
+  Halo Pak Dhika dan Teman-Teman WPU
+  Perkenalkan saya **Ruben Sansidar** dan saya adalah seorang **Full Stack Developer**, Saya baru aja merilis project pribadi **Sederhana** berupa layanan subdomain gratis untuk para developer.
+  Project ini terinspirasi dari **is-a.dev**, tapi saya bangun dari nol dan dikembangkan agar lebih fleksibel untuk komunitas.
+
+  Project ini memberikan subdomain gratis seperti namamu.now-is.online / namamu.is-my.site yang bisa digunakan untuk:
+  - Portfolio
+  - Hosting proyek open-source
+  - API testing / demo
+  - Static website deployment
+
+
+  Fitur:
+  - Subdomain gratis
+  - Konfigurasi DNS fleksibel
+  - HTTPS otomatis melalui Cloudflare
+  - JSON-based request (seperti is-a.dev)
+  - Moderasi Otomatis Dibantu AI untuk mencegah abuse (soon)
+
+  Teknologi yang Digunakan:
+  - Node.js (Express.js) untuk backend
+  - JSON sebagai database request
+  - Cloudflare DNS API untuk domain management
+  - HTML/CSS (Tailwind) basic untuk frontend
+
+  URL Website: https://now-is.online
+  URL Github: https://github.com/rubahilang/SubFree-Project
+
+  Saya mulai project ini karena ingin membantu dev lain yang butuh domain gratis dan stabil, tapi ingin tetap punya kontrol DNS.
+  Prosesnya saya mulai dari setup domain, integrasi Cloudflare API, lalu membuat sistem request
+  Semua dijalankan secara open-source dan bisa dikembangkan bareng-bareng.
+
+<br>
+
+5. []  
+   **Mifta**
+
+Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robotic Arm, kali ini saya akan share project gabut saya wkwk. ini adalah Class D amplifier, menggunakan chipset TPA3116D2. Outputnya Mono 120 Watt RMS (harusnya stereo, cuma ini dijadiin mode bridge). amplifier buatan saya ini sangat mini dan sudah dilengkapi dengan fan sehingga tidak terjadi overheat. saya menggunakan power supply 24V 5A agar kekuatan yang diberikan amplifier tersebut maksimal, 24*5 : 120. sudah saya pakai selama 2 jam tidak overheat sama sekali hehe. dan karena ini cuma project gabut saya, jadi saya hanya menggunakan kardus sebagai case nya
+
+![alt](https://cdn.discordapp.com/attachments/758600947692732436/1375434220540788817/rn_image_picker_lib_temp_6bffca40-327e-40d0-81d1-9bb206af9abd.jpg?ex=686079b0&is=685f2830&hm=32a9f1b044d4ef3225547d290f5b6a4b89de83d904cb9f185068f2ad9503b711&)
+
+![alt](https://cdn.discordapp.com/attachments/758600947692732436/1375434221153288232/6bffca40-327e-40d0-81d1-9bb206af9abd.jpg?ex=686079b0&is=685f2830&hm=56e12a464c74ca6a9a68550b2d69b73b51330b459273df5268fa409684b0aa18&)
+
+<br>
+
+6. [https://hidden.prtcl.icu/]  
+   **Nameraid**
+
+  📎 **PasteLink** — oleh Nameraid / N3mr1d
+
+  👋 Halo! Aku membuat sebuah website sederhana yang memungkinkan pengguna menyimpan dan membagikan link. Pendaftaran hanya butuh email *tanpa verifikasi*, jadi lebih aman dari kebocoran data.
+
+  🔗 Tujuan utama: berbagi link yang bisa dilihat publik, seperti Hidden Wiki atau Pastebin — tapi khusus untuk tautan.
+
+  🛠️ **Dibuat dengan:**
+  - 🐘 PHP Murni (tanpa framework)
+  - 🛢️ MySQL sebagai database utama
+
+  ---
+
+  🎯 **Fitur Utama:**
+  - 🌐 Upload link dari clearnet & hidden services
+  - 📧 Tanpa verifikasi email saat registrasi
+  - 🗃️ Database MySQL
+  - 🔐 Lebih ramah privasi & user-friendly
+  - 🔐 one gate password
+
+  🧪 **Catatan:**
+  Proyek ini masih dalam pengembangan. Masukan & saran sangat diterima! >P>P>
+
+
+  repo: https://github.com/n3mr1d/pastelink
+  demo: https://hidden.prtcl.icu/
+
+<br>
+
+7. [https://webjen.vercel.app/]  
+   **JENFLOW28**
+
+  Halo, saya **JENFLOW**. Di sini saya ingin membagikan salah satu proyek web pribadi saya yang bernama **WebJEN**, sebuah digital library yang berisi kumpulan buku fiksi, nonfiksi, dan novel.
+
+  WebJEN dibangun sebagai perpustakaan digital pribadi tempat saya menyimpan dan membagikan karya-karya literasi, baik berupa cerita fiksi maupun nonfiksi. Website ini dirancang untuk memiliki **tiga role utama**:
+
+  **User**: hanya bisa melihat dan membaca buku yang tersedia.
+  **Author**: dapat mengunggah buku serta menulis dan mengelola episode atau bab buku.
+  **Admin**: memiliki akses penuh untuk mengatur, mengelola, dan memoderasi semua konten di dalam website.
+
+  Berikut adalah teknologi utama yang saya gunakan dalam pengembangan WebJEN:
+
+  * **Next.js** – Framework React untuk membangun frontend dan backend.
+  * **Tailwind CSS** – Utility-first CSS framework untuk styling yang responsif dan efisien.
+  * **PostgreSQL** – Database relasional sebagai tempat menyimpan data buku, pengguna, dan episode.
+  * **Prisma ORM** – Object-Relational Mapping untuk berinteraksi dengan database secara efisien dan terstruktur.
+  * **Vercel** – Platform hosting dan deployment yang terintegrasi dengan Next.js.
+
+  > **Disclaimer**: Website ini awalnya saya buat dengan mengikuti tutorial dari channel **@CodeMediax**, namun telah saya modifikasi menjadi **digital library** yang lebih sesuai dengan kebutuhan pribadi dan tujuan saya.
+
+  link: https://webjen.vercel.app/
+
+<br>
+
+8. [https://play.google.com/store/apps/details?id=com.potadev.film_stock]  
+   **SiBagood**
+
+  Halo semuanya, kali ini saya coba buat aplikasi mobile simple yang bernama "Noir Pic", terinspirasi dari aplikasi AgBr yang ada di ios jadi saya buat versi androidnya.
+  aplikasi ini untuk ngasih efek/filter film black & white dan efek grain ke gambar.
+  aplikasi ini dibuat dengan flutter.
+
+  Note : untuk save gambarnya cukup tarik/pull bagian tengah atas aplikasi
+
+  playstore : https://play.google.com/store/apps/details?id=com.potadev.film_stock
+  repo : https://github.com/bagusindrayana/film_stock
+
+<br>
+
+9. [https://www.trackmeld.com/]  
+   **yogi**
+
+  Hai semua!
+
+  Saya Yogi, mau share project yg aku kembangkan sendiri namanya [**TrackMeld**](https://www.trackmeld.com/), tools untuk **Convert video/playlist YouTube jadi playlist Spotify** secara otomatis. Tinggal paste link, selesai! 🎶  
+
+  💡 Kenapa bikin ini?
+  Sering nemu video YouTube yang udah kayak playlist tapi ribet kalau mau dipindahin ke Spotify. Nyari lagu satu-satu, cocok-cocokin versi, terus bikin playlist dari nol itu nyebelin banget 😩.
+
+  🔹 Cara Kerja
+  1. Paste link video/playlist YouTube.  
+  2. TrackMeld otomatis nyari dan match lagu-lagunya di Spotify 
+  3. Mau edit playlist? Bisa banget sebelum disimpan.
+  4. Simpan langsung ke akun Spotify kamu! 🎧
+
+  🛠️ Teknologi
+  Frontend: VueJs & NuxtJs(Landing page)
+  Backend: Java Spring Boot  
+  API: YouTube Data API, Spotify API  
+  Database: PostgreSQL  
+  Deployment: VPS
+
+  🔗 Link Website: https://www.trackmeld.com/
+
+  ⚠️ Disclaimer: Project ini 100% buatan saya, tidak melanggar hak cipta, dan semua data diambil via API resmi YouTube dan Spotify. Project masih dalam tahap eksperimental, jadi mohon masukan untuk perbaikan  🙂
+
+<br>
+
+10. [https://kaiwa-shiyou.vercel.app]  
+   **Yui**
+
+  🎌 Hallo teman-teman WPU & Sandhika Sensei! 👋 
+  Kembali dengan aku Yui kali ini aku mau showcase project mini dan sederhana yakni 会話しよう (Kaiwa Shiyou). Nama 会話しよう (Kaiwa Shiyou) diambil dari bentuk kalimat 会話をします yang berarti “mengobrol”. Kata 会話 (kaiwa) sendiri berarti “percakapan”, sementara しよう (shiyou) merupakan bentuk ajakan dari pola kalimat dalam Minna no Nihongo II. 🙇 
+
+  Dari gabungan tersebut, terciptalah nama 会話しよう yang bisa diartikan sebagai “Yuk, ngobrol!” sebuah ajakan ringan yang cocok untuk menggambarkan tujuan dari web ini, yaitu memperkenalkan percakapan sederhana dalam bahasa Jepang yang bisa langsung digunakan dalam kehidupan sehari-hari.
+
+  Website ini menyajikan dialog percakapan sederhana untuk situasi sehari-hari di Jepang, seperti : belanja di konbini/toko, makan di restoran, tanya-tanya di stasiun dan reservasi tempat/hotel. 
+
+  Untuk fitur terdapat play text to speech, play scroll, generate dialog, session local storage untuk menyimpan history dialog (kanji  text, romaji text dan arti serta topik untuk situasional dialog) 
+
+  Tech : Express, Gemini Flash 2-5, Tailwind, HTML, Responsive voice, GSAP (auto scroll)
+
+  Link  Project : https://kaiwa-shiyou.vercel.app
+  Repo : https://github.com/Yu1chiro/kaiwa-easy
+
+  Mohon maaf jika audio speechnya ga berfungsi di beberapa device seperti mac dan iphone karena audio speechnya cuman bisa di chrome, maklumin ya temen temen jika terdapat bug dan audio speech yg delay dan Gemini yg kadang suka random mohon dimaklumi, karena saya tier gratisan, semoga  temen temen suka ya sama projectnya, kiritik dan saran sangat yui hargai terimakasih temen-temen dan Sandhika sensei happy coding ✨ 👋
+
+<br>
+<br>
