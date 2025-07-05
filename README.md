@@ -3119,3 +3119,340 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 5 Juli 2025
+
+1. [https://github.com/fatkhurhmn/moneyfikasi]  
+   **yoman**
+
+  🟢 **Assalamualaikum!**  
+
+  Halo semua, saya Rohman. Kali ini saya mau pamerin project gabut saya waktu nggak ada kerjaan xixi 😄.
+
+  📱 **Project Name: Moneyfikasi**  
+
+  Aplikasi android yang simple untuk mencatat pendapatan/pengeluaran sehari-hari biar lebih gampang mengatur keuangan.
+
+  Aplikasi ini saya buat karena terinspirasi dari aplikasi yang sering saya pakai sampai sekarang, yaitu [**DompetKu**](https://play.google.com/store/apps/details?id=henry.dev.mywallet&hl=id).
+
+  Sebenernya udah cukup lama ini terakhir kali nyentuh project ini, karna waktu itu lagi gabut nggk ada kerjaan. Karna bingung mau diapain lagi yaudah dipamerin dulu aja siapa tau ada saran dan kritik dari teman teman.
+
+  ---
+
+  ✨ **Fitur Utama Moneyfikasi:**
+
+  - **Recording Transactions**  
+    Catat semua transaksi keuangan dengan mudah, baik pemasukan maupun pengeluaran.
+  - **Financial Report**  
+    Lihat laporan keuangan berdasarkan periode yang dipilih untuk ringkasan pengeluaran dan pemasukan.
+  - **Analysis Graph**  
+    Tampilkan grafik tren keuangan untuk memahami pola pengeluaran dan pemasukan.
+  - **Multiple Wallet**  
+    Kelola beberapa dompet keuangan secara terpisah.
+  - **Customize Category**  
+    Buat dan atur kategori transaksi sendiri seperti makanan, transportasi, hiburan, dll.
+  - **Backup Restore**  
+    Cadangkan dan pulihkan data kapan saja agar catatan tetap aman.
+
+  ---
+
+  🛠️ **Tech Stack:**
+
+  - **Language**: Kotlin  
+  - **UI**: Jetpack Compose + Material Design 3  
+  - **Architecture**: MVI (Model-View-Intent)  
+  - **DI**: Dagger Hilt  
+  - **Storage**: Room Database + DataStore  
+
+  ---
+
+  🔗 **Repository**: [github.com/fatkhurhmn/moneyfikasi](https://github.com/fatkhurhmn/moneyfikasi)  
+  📦 **APK**: [Moneyfikasi](https://raw.githubusercontent.com/fatkhurhmn/moneyfikasi/refs/heads/main/app/release/moneyfikasi.apk)
+
+  ---
+
+  💬 Sekian pamer project gabut saya. Kalau ada saran atau kritik— **silakan banget!**  
+  **Terima kasih 🙏**
+
+<br>
+
+2. [https://klinikdeliyana.delirwan.com]  
+   **Singgi Mokodompit**
+
+  Assalamu'alaikum Wr. Wb Pak Dhika dan teman2 WPU
+  Saya Singgi Mokodompit, mahasiswa Universitas Negeri Gorontalo & freelance web developer. Kali ini saya ingin showcase project  (sudah lupa project ke berapa) sederhana/gk ya? gk tau deh😂  Etsss gk kena peluit dong wkwk
+
+  project ini berbasis website yang saya buat pada salah satu klinik kesehatan gigi "Klinik Deliyana Dental Care" yg ad di Gorontalo
+
+  🧾 Deskripsi Singkat
+  Project ini adalah aplikasi berbasis website yang bertujuan untuk:
+
+  - Memberikan informasi lengkap seputar klinik
+  - Memudahkan pendaftaran dan konsultasi pasien
+  - Membantu pasien mendapat layanan secara cepat, praktis, dan nyaman
+  - Fitur Tampilan User (Beranda):
+  - Profil Dokter & Karyawan
+  - Profil Klinik
+  - Jenis Pelayanan
+  - Survey Kepuasan Pasien
+  - Kontak Klinik
+  - Buat Janji dengan Dokter (terhubung ke WhatsApp & CMS)
+
+  🛠️ Fitur CMS Admin:
+
+  - Manajemen Data Pasien (BPJS, Umum, InHealth)
+  - Pengelolaan Konten (Banner, Galeri, Layanan, Tim)
+  - Pengaturan Kontak & Tentang Klinik
+  - Pengaturan Akun Admin
+
+  🚧 Dalam Pengembangan (Manajemen Internal Klinik):
+  🔗 Akses: https://sim.ladkes.com/admin
+
+  - Absensi Karyawan (GPS + Fingerprint)
+  - Penggajian Dokter & Karyawan
+  - Rekap Pendapatan Klinik (Harian–Tahunan)
+  - Monitoring & Daftar Pasien
+  - Administrasi Klinik + Tanda Tangan Elektronik
+
+  🌐 Link Aplikasi:
+
+  🌍 Website: https://klinikdeliyana.delirwan.com
+  🔒 Admin Panel: https://klinikdeliyana.delirwan.com/admin
+
+  🧑‍💻 Teknologi yang Digunakan:
+  - CMS: AdminLTE v3 (modifikasi UI)
+  - Frontend: Bootstrap
+  - Backend: PHP Native, MySQLi, Apache
+  - API: WABlas (integrasi WhatsApp)
+
+  Terima kasih sudah mampir lihat project ini pak Dhika dan teman2 WPU 🙏
+  Kalau ada masukan, ide, atau kritik, saya sangat terbuka ya.
+
+  ---------------------------------------------------------------
+  📩 Akses login demo sudah saya kirim ke Pak Dhika via DM.
+  ---------------------------------------------------------------
+
+<br>
+
+3. [https://kuahbanyak.github.io/portofolio/]  
+   **Begal Sepeda**
+
+  Halo Semuanya ,perkenalkan saya alwi Mahasiswa Universitas Terbuka dam BackEnd Develeper. Kali ini saya akan showcase hasil dari belajar Front End beberapa minggu ini dikarenakan saya 2-3 tahun ini tidak pernah masuk ke ranah Front End. Jadi berikut website portofolio sederhana .Jika ada kemiripan atau kesamaan mohon dimaafkan .
+  Features
+  - Responsive design that works on all devices
+  - Modern UI with smooth animations
+  - Project showcase section
+  - About me section with skills and experience
+  - Contact information and social media links
+
+  Technologies Used
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  - Responsive Design
+
+  Live Demo
+  Visit the live website at (https://kuahbanyak.github.io/portofolio/)
+
+  Source Code 
+  https://github.com/kuahbanyak/portofolio
+
+<br>
+
+4. [https://myqrmessage.netlify.app]  
+   **Afgan Alfanany**
+
+  Assalamu'alaikum pak Dhika dan teman² wpu.
+  perkenalkan nama saya Afgan Alfanany, saya masih duduk di bangku SMP, kali ini saya ingin mem-pamerkan project sederhana hasil gabut saya, 
+
+  project ini saya beri nama MYQRMESSAGE, singkatnya website ini bisa mengubah text apapun yg kita input menjadi bentuk QRCode 
+
+  Teknologi yang saya gunakan 
+  • Tailwind 
+  • QRCode.js Library
+
+  website: https://myqrmessage.netlify.app
+
+  dimohon kritik dan saran nya.. Terimakasih,
+
+<br>
+
+5. [https://sempro-gemini.vercel.app]  
+   **Yui**
+
+  Hallo temen"  WPU & Sandhika Sensei! 🙇‍♂️✨
+
+  Kenalin aku Yui 👋✨
+  Disini Yui mau Showcase project mini sederhana dan gabut, semenjak free tier gemini pro yg bisa di akses memakai akun mahasisw. Yuii jadi ketagihan bikin project kecil-kecilan hehehe,  nama projectnya Sempro (seminar proposal) with Gemini project ini terinspirasi dari salah satu mahasiswa wpu yg pernah membuat project instagram roast dan github roast, tapi disini Yui design dengan flow yg sederhana, berbeda, dan minimalis. 🙇‍♂️✨
+
+  🌟 Fiturnya apa aja?
+  Nggak ribet kok~ karena Yui juga nggak suka yang ribet hehehe:v
+
+  ✍️ Input untuk Bab 1, 2, dan 3
+
+  🔊 Fitur Text-to-Speech
+
+  💾 History lokal pakai localStorage untuk input dan pertanyaan ke Gemini
+
+  🧠 Evaluasi jawaban dari Gemini
+
+  🌟 Apa aja yg dipake? 
+
+  * Express
+  * Static HTML5
+  * Gemini API Key
+  * Tailwind CSS
+
+  🤖 Role Gemini-nya apa?
+  * Perfectionist
+  * Logical
+  * Pragmatic
+
+  🔗 Live site: https://sempro-gemini.vercel.app
+
+  Untuk repo Yui taruh di website
+  (Untuk saat ink belum responsive di mobile yaa, Yui fokusin ke desktop dulu) 🖥️
+
+  Seperti biasa, project ini jauh dari kata sempurna. Jadi masukan, kritik, dan saran dari temen-temen WPU & Sandhika Sensei bakal Yui hargai banget! 🙇‍♂️✨
+
+  Sankyuu gozaimasu! 🙇‍♂️
+  Don't forget; keep learning, keep creating!
+
+<br>
+
+6. [https://firmanrf.vercel.app]  
+   **Firman RF**
+
+  **Halo Pak Dhika dan Teman-Teman WPU,**
+
+  Perkenalkan, saya **Firman** dari **Sumedang**.
+
+  Di kesempatan kali ini, saya ingin showcase project website portfolio pribadi yang saya kerjakan selama kurang lebih 3 bulan, karena proyek ini saya kerjakan di sela-sela pekerjaan utama dan sekaligus saya jadikan sebagai media belajar juga.
+
+  **Fitur Utama**:
+  - Blog List
+  - Project List
+  - Like & Comment di Blog
+  - Chat
+
+  **Teknologi yang Digunakan:**
+  - **Next.js**
+  - **TypeScript**
+  - **Firestore Database**
+  - **FireORM**
+  - **Ably Realtime**
+  - **Tailwind CSS**
+  - **Shadcn UI**
+  - **NextAuth**
+  - **React Icons**
+
+  💻 **URL Website:** https://firmanrf.vercel.app
+
+  Kalau ada saran, masukan, atau kritik yang membangun, saya sangat terbuka biar ke depannya bisa jadi lebih baik lagi 🙏🙏
+
+<br>
+
+7. [https://fanimelist.vercel.app/]  
+   **Fathin**
+
+  Halo semua, saya M.Fathin Halim (Bengkulu) lagi
+
+  saya mau showcase web anime list dengan fitur
+  1. Bisa mencari anime
+  2. Bisa mendapatkan informasi anime seperti voice actor dan staff
+  3. embed meta tag hehe
+  4. bisa ngeliat review anime
+
+  disini saya iseng fetch api anime, malah keterusan hehe
+
+  sebenarnya ini project biasa saja, tapi karena saya suka designnya saya izin showcase disini hehehe 🙏 
+
+  tech stack: NextJS, TailwindCSS
+
+  github: https://github.com/MFathinHalim/Fathin-Anime-List
+
+<br>
+
+8. [https://github.com/araxnoid-code/ROTTA-rs]  
+   **araxnoid**
+
+  halo perkenalkan saya arax, saya seorang programmer yang suka main main aja dan kali ini saya sedang membuat project kecil kecilan berupa framework AI yang dibangun diatas bahasa rust yang saya beri nama ROTTA
+
+  Ini masih pengembangan dan fitur masih terbatas antara lain
+  - fungi linear(function)
+  - Sum Square Residual(Loss function)
+  - SGD(optimazer)
+  - backpropagation
+  - penjumlahan
+  - perkalian
+  - masih terbatas pada tensor 2 dimensi(1d hingga diatas 2d masih belum tersedia)
+
+  namun seterusnya akan dikembangkan lagi dengan menambahkan lebih loss function, activation function, optimzar den fungsi fungsi lainnya
+  link github:
+  https://github.com/araxnoid-code/ROTTA-rs
+
+<br>
+
+9. [https://dikaptrw.com]  
+   **Dika Putra**
+
+  Halo, perkenalkan saya Dika,
+
+  Disini aku ingin showcase personal website yang sudah aku kerjakan sejak awal bekerja sebagai web developer. Salah satu bagian yang paling ingin saya tunjukkan adalah halaman Game, di mana saya berhasil membuat 5 game klasik dengan bantuan AI agent dari Manus.ai. Semua game ini saya kembangkan sendiri (di inisialisasi dengan Manus.ai), dan tentunya masih terbuka untuk kalian yang ingin fork atau ikut berkontribusi. Kalian bisa langsung mengunjungi halaman game dan klik tombol GitHub yang tersedia di sana.
+
+  Selain itu, ada banyak fitur lain yang bisa kalian eksplorasi di website ini. Aku harap kalian bisa menikmati hasil websitenya dan mungkin bisa ikut ambil bagian dalam mengembangkan setiap game yang ada bersama!
+
+  Tech Stack:
+  Next.js + Typescript, Tailwind CSS, Motion + GSAP, Contentful (Headless CMS), Firestore, Transformer.js (Huggingface), Graphql Codegen + Tanstack Query, TSParticles, i18n, Leaflet, Github API, Radix UI, Swiper.js (Slideshow)
+
+  Highlighted Features:
+  AI Playground + Custom Model
+  Mini Game + Game Center
+  Color Theme + Smooth Scroll + Magic Cursor
+  Page Summarization (Combined with AI Playground)
+  Photo and Video Slideshow
+
+  Website: https://dikaptrw.com
+  Github:  https://github.com/dikaptrw
+
+<br>
+
+10. [https://beo-echo.xyz]  
+   **Yoga Setiawan**
+
+  🦜 Beo Echo
+  Halo semua perkenalkan saya yoga.
+
+  saya mau showcase project vibe coding saya untuk bikin tools yang terinspirasi dari Beeceptor atau Mockoon, tapi bisa di self host biar lebih aman, khususnya buat nyimpen data response API client untuk kebutuhan testing di staging.
+  karena nyari2 yang bisa self host dan bisa di gunain bareng di tim, aku belum nemu dan kebanyakan cuma di local dan datanya di simpen dalam bentu file json.
+  jadi nyoba2 buat sendiri di bantuin github copilot agent.
+
+  ✨ Fitur:
+  1. Mock spesifik route
+  2. Mode proxy, forwarder, dan mock
+  3. Bisa proxy sebagian route, sisanya tetap di-mode mock
+  4. Multi project, workspace, dan user
+  5. Google SSO login
+  6. Auto-invite user ke workspace
+  7. Replay (mirip Postman versi web — belum selesai, tapi kalau kelar lumayan nggak perlu install-install Postman lagi)
+
+  🧰 Tech Stack
+  1. Backend: Golang
+  2. Frontend: Svelte + Tailwind
+
+  🚀 How to Run (Docker)
+  docker run -d \
+  --platform linux/amd64 \
+  -p 8080:80 \
+  -v $(pwd)/beo-echo-config/:/app/configs/ \
+  ghcr.io/yogasw/beo-echo:latest
+
+  📦 Repo
+  https://github.com/yogasw/beo-echo
+  Web
+  https://beo-echo.xyz
+
+  terima kasih 🙏
+
+<br>
+<br>
