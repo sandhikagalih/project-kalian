@@ -3456,3 +3456,377 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 14 Juli 2025
+
+1. [https://b2f.wildanm.my.id]  
+   **AwkwardMan**
+
+  Halo semuanya, perkenalkan saya Wildan Maulana,
+
+  Ini showcase project kedua saya setelah bertahun-tahun wkwk, project ini hasil ngegabut aja diwaktu luang, daripada jadi artefac mending saya share aja buat temen-temen disini siapa tau bisa bermanfaat, project ini terinspirasi dari situs goodbrief.io yang dimana mempunyai fitur utama yang sama, cuma kekuranganya kita ga bisa nyimpen brief yang udah dibuat, sama keterbatasan kategori dll, oleh karena itu saya nyoba bikin sendiri.
+
+  Jadi, project ini bernama **Briefbriefun**, ini adalah web app yang menghasilkan *fake brief project* dari klien fiktif menggunakan AI, untuk lebih lengkapnya ada di web nya langsung.
+
+  **✨Fitur**
+  - AI generate brief
+  - Autentikasi (Crendentials & Oauth)
+  - Kustom Kategori (Tipe & Industri)
+  - dll
+
+
+  **👉 Tech Stack**
+  - Nextjs 15
+  - Groq
+  - Drizzle ORM & Neon db
+  - Spline React
+  - Shadcn UI (pasti)
+  - Tailwind CSS
+
+  🌐Live Site
+  https://b2f.wildanm.my.id
+
+  📑Repo
+  https://github.com/Sisableng/briefbriefun
+
+  Sekian dan terimakasih.
+
+<br>
+
+2. [https://learnenglishwithfriends.web.id]  
+   **malll**
+
+  Halo semuanya, aku Akmal👋
+
+  Di sini aku mau showcase website yang aku buat untuk belajar bahasa Inggris, semacam catatan pribadi aku sendiri gitu. Awalnya website ini aku buat, buat bantu proses belajarku sendiri. Tapi seiring waktu, aku sadar kalau banyak juga orang yang pengen belajar bahasa Inggris dengan cara yang praktis dan gampang diakses. Jadi sekarang aku putuskan buat bikin website ini secara publik dan bisa diakses siapa aja secara gratis.
+
+  ✨ Fitur yang tersedia:
+  - 📚 Materi terstruktur: modul belajar grammar dan vocabulary
+  - 💬 Contoh kalimat + arti
+  - 🔤 Vocabulary lengkap dari level A1 sampai C2
+  - 🔍 Filter vocabulary: bisa cari lewat search, sort ascending / descending
+
+  🛠️ Teknologi yang digunakan:
+  - Next.js (Typescript)
+  - trpc
+  - Supabase
+  - Prisma
+  - Shadcn ui
+  - Nuqs
+  - Tanstack query dan table
+  dll
+
+  🔗 Link website:
+  https://learnenglishwithfriends.web.id
+
+  Untuk repositorinya aku belum bisa share secara publik ya teman-teman 🙏
+
+  Kalau ada saran, masukan, atau kritik, aku sangat terbuka banget supaya ke depannya bisa lebih baik lagi.
+  Terima kasih! 🤗
+
+<br>
+
+3. [https://mangaverse.my.id]  
+   **ajasyris**
+
+  haloo temen", saya yusuf
+
+  disini aku mau showcase website yang aku buat untuk seneng" + ngemudahin baca komik sih(males kena iklan mlu wkwk).
+
+  nah buat fitur nya ada:
+  - komentar
+  - history baca
+  - reader setting (saat baca komik)
+  - dll.
+
+  techstack nya:
+  - next js
+  - react native
+  - expo go
+  - express js (api)
+  - redis
+  - prisma
+  - pgsql
+  - dll (seperti next js pada umumnya lah ya)
+
+  buat demo nya ada di https://mangaverse.my.id (vps) kalau bingung bisa dicari di google ya "mangaverse"
+
+  apk juga udh ready nih temen" (webview): https://drive.google.com/file/d/1cnOHToJFWRedzmGZfMukRzs3UP-REqvs/view?usp=drivesdk
+
+  buat reponya aku masih private ya temen"🙏
+
+  kalau ada saran, masukan dan kritik boleh kok dipersilahkan. makasihh
+
+<br>
+
+4. [https://shinyou-chekku.vercel.app/]  
+   **Yui**
+
+  どうも! みんなと先輩たちとサンディカ先生✨
+  Kenalin aku Yuii🙇‍♂️✨. Kali ini Yuii mau showcase project lagi, projectnya mini  kenapa mini? ya karena simple satu halaman hehe 👀. Nama projectnya yaitu "Shinyou Chekku"  terbentuk dari kanji 信用 (Shinyou) yg berarti "Percaya" dalam konteks data. Sedangkan チェック (chekku) sebuah kata serapan bahasa inggris dari check. Jadi website Yuii ini bertujuan menganalisis secara sederhana ingredients dari produk makanan jepang simplenya, "apakah halal dikonsumsi atau tidak? "analisis menggunakan gemini, analisis mencangkup daftar ingredients dan daftar turunan ingredients jika produk memuat (minyak babi atau lemak babi) maka gemini akan memberi keterangan "Tidak Halal"
+
+  Project ini sebenernya permintaan dari dosen Yuii yg studi kasusnya itu mengarah pada problem dimana banyak produk makanan jepang yg ingredients nya memuat bahan-bahan dengan kandungan babi baik itu gelatin krim dll. faktanya di supermarket seperti konbini, family mart masih jarang produk yg menyertakan informasi khusus jika produk tersebut mengandung ingredients Babi. 
+
+  Alasan project ini yuii ciptakan disamping permintaan dosen, yuii gabut juga sih wkwkwk, owh iya project ini blm sepenuhnya komplit karena masih dalam bentuk prototipe (pengembangan) tapi untuk seluruh fitur sudah jalan kedepanya kalo serius yuii bisa lanjutin sih hehe👀 
+
+  Flow user :
+  1. User upload foto/gambar produk makanan jepang 
+  2. user mengklik する (suru) submit
+  Untuk sample produk makanan yuii sudh sediakan di website
+
+  Alat :
+  Express, OCR API, Gemini API, Tailwind, HTML5
+  (Gemini reference : https://lohaco.yahoo.co.jp/ ) 
+
+  Link Website : https://shinyou-chekku.vercel.app/
+  Repo : https://github.com/Yu1chiro/shinyou-chekku
+
+  Mohon  maaf ya temen temen dan sandhika sensei jika ada bug dan error serta bahasa di website yg keseluruhan menggunakan bahasa jepang wkwkwk karena ini project permintaan dosen wkwkwk. Seperti biasa kritik dan saran sangat Yuii butuhkan dari temen-temen dan shandika sensei🙏
+  ご覧くださってありがとうございました🙇‍♂️✨
+
+<br>
+
+5. [https://kitsumanga.whdzera.my.id]  
+   **whdzera**
+
+  Halo Pak Dhika dan teman-teman semua!
+  Perkenalkan saya whdzera. Ini pertama kalinya saya ikut showcase project, dan saya mau showcase website baca manga yang saya buat iseng2 beberapa bulan lalu.
+  maaf front end nya masih jelek, soalnya baru belajar 🙏 
+
+  Features:
+  - Users Role: Admin, Member
+  - Admin Role: Manage Manga (CRUD), Moderation Users
+  - Member Role: Bookmarks, Comments
+  - Admin Dashboard: User and Manga Management
+  - Users Profile
+
+  Techstacks:
+  - Ruby on Rails, Postgresql, Stimulus.js, Bulma
+
+  Link  :  https://kitsumanga.whdzera.my.id
+  Repo : https://github.com/whdzera/kitsu-manga
+
+  sekian dan terimakasih
+
+<br>
+
+6. [https://bylink.id]  
+   **StechySai?**
+
+  Halo Pak Dhika dan semuanya, nama saya Said👋 SMA kelas 2, umur 17 tahun 
+  Saya mau share project aplikasi saya yaitu Bylink, semacam platform link in bio yang saya buat dalam waktu yang cukup lama. Awalnya saya buat project ini hanya karena iseng, dan bahkan planning dan versi alpha nya sejak 2023 dan baru bisa lanjut lagi 2024. Tapi sekarang saya rilis secara publik dan bisa dipakai siapa aja secara gratis.
+
+  ✨ Fitur-fitur utama ByLink:
+      •    🔗 Buat halaman link in bio pribadi dengan tampilan simpel & rapi
+      •    Fitur insights yang bisa melacak hingga ke provinsi dan kota orang yang membuka
+      •    🖼️ Tambahkan gambar, ikon, dan preview link secara otomatis
+      •    📱 Responsif: tampil rapih di semua perangkat (di desktop udah bisa sih.. tapi masih ancurr dan kurang rapi sekali sih, kalo pa dhika mau coba pakai inspect terus tampilan hp aja <:hehehe:972470914488885288> 
+      •    ➕ Tambah, urutkan, dan atur link sesuai keinginan
+
+  🛠️ Teknologi yang aku gunakan:
+      •    HTML + Tailwind CSS
+      •    JavaScript
+      •    PHP (vanilla)
+      •    Sortable.js untuk urutan link
+      •    PHP Mailer (SMTP) untuk autentikasi email / kontak
+
+  • Dan lain2. 
+
+  🔗 Link demo / akses aplikasi:
+  https://bylink.id
+
+  Untuk sekarang source code-nya belum bisa saya share publik, tapi saya sangat terbuka untuk masukan, saran, atau bahkan kolaborasi ke depannya 🙌
+
+  Terima kasih udah mampir dan baca! Kalau ada yang sempat coba, kasih feedback yaa 💬😊
+
+  ⸻
+
+<br>
+
+7. [https://dropio.my.id/]  
+   **CookyNdi**
+
+  Yo, hi! Nama aku Yandi a.k.a CookyNdi👋
+  Kali ini aku pengen sharing project personal yang aku kerjain sendiri dari nol, mulai dari frontend, backend, database, deploy, setup server, sampai bikin logonya juga aku desain sendiri.
+
+  ### 🔰 Introduction : Dropio *(dro-pio, not drop-io)*
+
+  Dropio adalah aplikasi sederhana buat bantu proses upload file dari sisi klien sampai ke server.
+  Project ini terinspirasi dari Theo t3․gg, seorang YouTuber yang bikin versi serupa untuk luar negeri. Tapi karena sistem pembayarannya pakai Stripe yang butuh kartu kredit dan bikin ribet terutama buat sebagian orang indonesia contohnya aku.
+
+  Jadi aku coba bikin versi Indonesia-nya. Untuk sementara, sistem pembayarannya masih manual lewat server discord (belum otomatis pakai payment gateway).
+
+  ---
+
+  ### ✨ Fitur Utama Dropio
+
+  1. **Upload Langsung dari Klien**
+    Integrasi super gampang buat kamu yang pakai React, Next.js, atau framework modern lainnya. Cukup copy-paste aja code dari docs tanpa perlu install dependency tambahan.
+
+  2. **End-to-End Type Safety**
+    Semua API dan response udah diketik (TypeScript-friendly). Validasi file type, ukuran, dan autentikasi bisa kamu atur di backend kamu sendiri.
+
+  3. **Aturan Upload yang Fleksibel**
+    Kamu bisa atur sendiri aturan upload dari sisi backend. kayak jenis file, ukuran maksimal, atau jumlah file.
+    *Catatan: versi sekarang masih terbatas, baru support gambar maksimal 10MB dan 1 file per upload. Update segera menyusul.*
+
+  4. **Presigned URLs**
+    Proses upload pakai URL sementara yang aman dan scalable. Backend kamu nggak perlu proses file, cukup generate URL-nya aja.
+
+  5. **Penyimpanan di Cloud**
+    Semua file yang diupload bakal langsung disimpan ke cloud, bukan disisi server.
+
+  6. **Metadata File**
+    Setelah upload selesai, kamu bisa ambil metadata kayak nama file, ukuran, dan lain-lain.
+
+  7. **Public URL Generation**
+    File yang udah diupload bisa dibagikan lewat URL publik.
+
+  8. **Dashboard Monitoring**
+    Kamu bisa lihat statistik penggunaan dan file yang udah diupload langsung dari dashboard.
+
+  9. **Validasi Berlapis**
+    Proses validasi dilakukan dua tahap: pertama di backend kamu, lalu dikonfirmasi ulang dari server Dropio.
+
+  10. **Pricing & Free Tier**
+      Ada tier gratis dengan batasan tertentu dan juga paket berbayar kalau kamu butuh kapasitas lebih besar.
+
+  ---
+
+  ### 🛠️ Tech Stack
+
+  * `Next.js` –> Frontend
+  * `ShadcnUI` + `TailwindCSS` –> Styling
+  * `Clerk` –> Autentikasi
+  * `Fastify` –> Backend
+  * `PostgreSQL` –> Database
+  * `Object Storage` –> Penyimpanan file
+
+  ---
+
+  ### 🔗 Url
+
+  * 🔗 Repository: https://github.com/WeebzDev/dropio
+  * 📦 Coba langsung: https://dropio.my.id/
+  *  📖   Docs :  https://docs.dropio.my.id/
+
+  ---
+
+  ### 🚧 Catatan
+
+  Project ini masih eksperimental, jadi kemungkinan masih ada bug.
+  Kalau kamu nemuin error, punya saran fitur baru atau mau request fitur, bisa langsung dm aja
+
+  Kamu juga bisa kontribusi untuk kompatibilitas ke bahasa atau framework lain.
+  Presign URL yang digenerate dari backend-mu itu berbasis crypto HMAC, jadi walaupun pakai bahasa yang berbeda, selama field dan key-nya sama, hasilnya akan tetap persis sama. (Mohon dikoreksi kalau salah)
+  Untuk sekarang, baru tersedia untuk Next.js dan Express di sisi backend, serta React untuk frontend.
+
+<br>
+
+8. [https://github.com/araxnoid-code/ROTTA-rs]  
+   **araxnoid**
+
+  halo semua, perkenalkan nama saya araxnoid bisa dipanggil arax, saya mau sharing projekan saya yang berupa Framework AI menggunakan bahasa rust yang bernama ROTTA-rs.
+
+  Kali ini projekan saya telah saya update salah satunya tidak bergantung dengan library array dari luar(ndarray) dan kini menggunakan library array buatan sendiri untuk menjalankan operasi AI pada framework ini.
+
+  walaupun masih banyak kekurangan dari segi array dan framework AI, saya sebagai developer akan terus mengupdate dan memperbaruinya.
+  yang tertarik bisa langsung mengaksesnya melalui link dibawah
+  link github: https://github.com/araxnoid-code/ROTTA-rs
+
+<br>
+
+9. [https://github.com/darkterminal/mylibsqladmin]  
+   **darkterminal**
+
+  ### MylibSQLAdmin
+
+  Halo man-teman disini, perkenalkan saya darkterminal (bapak-bapak sok asik) yang pengin pamer mainan baru, yaa namanya juga bapak-bapak, biar ada cerita aja sama anak-anak muda di tongkrongan 😅 
+
+  Saya membuat My**libSQL**admin yaitu Web GUI open-source yang dibangun khusus untuk mengelola database [libSQL](https://github.com/tursodatabase/libsql). Dengan memanfaatkan potensi penuh fungsi `libSQL-Server` (`sqld`), proyek ini menyediakan platform intuitif dan komprehensif untuk administrasi basis data, membuatnya lebih mudah dari sebelumnya untuk mengelola sistem basis data Anda melalui antarmuka web yang dapat diakses. Anda dapat terhubung dengan `libSQL-Server` (`sqld`) dari Docker Service atau menggunakan instance `libSQL-Server` (`sqld`) yang ada.
+
+  Bahan Bangunan:
+  - Laravel 12 React Starter Kit
+  - Turso Driver Laravel (Community SDK) yang saya buat sebelumnya
+  - Turso Client PHP (Community SDK) yang saya buat sebelumnya
+
+  Yang di bungkus dalam Docker Container dan saling terhubung dengan Docker Compose. Jadi aplikasi ini merupakan aplikasi Docker (Docker App).
+
+  #### Emang Bisa Ngapain Aja?
+  - Buat database (libSQL) tentunya
+  - Grouping Databases
+  - Kerja bareng tim dengan membuat database berdasarkan Tim (Team Databases)
+  - Group Management
+  - Team Management
+  - Role Base Access Control (User Management)
+  - Ada Database Studio-nya juga lho! 😲 
+
+  Cekidot deh: https://github.com/darkterminal/mylibsqladmin
+
+  Note: gatau pass stream di YouTube aku ga bisa ikut live chat padahal udah subrek dari tau kapan... mengsad 😥
+
+<br>
+
+10. [https://lyra-ai-nine.vercel.app]  
+   **Daffa**
+
+  Halo, assallamualaikum teman-teman, perkenalkan nama saya Daffa pemula dalam barbagai hal. Pengen ikut showcase ke 2 setelah 3 tahun vacum di dunia coding.
+
+  🧠 LYRA - AI Shopping Assistant
+
+  LYRA adalah asisten AI berbasis chat yang memandu user memilih produk, menanyakan detail, mengelola keranjang, dan menyelesaikan pembayaran — semua langsung dari UI chat yang interaktif.
+
+
+  ---
+
+  🚀 Fitur Utama
+
+  💬 Chat interaktif ala Telegram
+
+  🛍️ Tanya produk & lihat semua katalog
+
+  🧺 Keranjang dinamis langsung di chat
+
+  💳 Checkout instan pakai Snap Midtrans
+
+  🧠 Intent detection via Groq / GPT API
+
+  🔐 Google Login + limit untuk chat guest
+
+  ⚡ Fast, mobile-first, dan tanpa reload
+
+
+
+  ---
+
+  ⚙️ Teknologi
+
+  Frontend: Vanilla JS + Tailwind
+
+  Backend: Firebase Auth + Firestore
+
+  AI Engine: Groq API / OpenAI
+
+  Pembayaran: Midtrans Snap 
+
+  Webhook: Telegram BotNotification, cloudflare workers + VK untuk limiter.
+
+
+
+  ---
+
+  🔗 Coba Sekarang!
+
+  🌐 Demo: https://lyra-ai-nine.vercel.app
+
+  🔒 Admin
+  https://lyra-ai-nine.vercel.app/admin
+
+  💾 Source Code: https://github.com/daffadevhosting/lyra-ai-chat
+
+  LYRA masih anak kecil, masih ambigu, LYRA bakal makin pintar seiring waktu, jadi terus coba aja ya 😉.
+  Penjelasan lebih lanjut ada di README repo.
+  Terima kasih..
+
+<br>
+<br>
