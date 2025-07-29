@@ -3830,3 +3830,282 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 29 Juli 2025
+
+1. [https://app-19b2d6c2-77d2-469d-ae28-b220a9ae62cf.cleverapps.io/]  
+   **RIzky**
+
+  Assalamu'alaikum, haii ヽ(✿ﾟ▽ﾟ)ノ
+  Perkenalkan nama saya Rizky, saya ingin nge-showcase website game yang sudah saya buat (btw ini salah satu projek yang paling niat).
+
+  > 🎮    SOS Game - Indonesian Online Game
+  > SOS Game adalah sebuah website game yang memiliki konsep game S-O-S yang mungkin beberapa dari kita sudah mengetahui baaimana cara memainkannya. Sebelum web ini ada, biasanya saya memainkannya dengan teman-teman hanya menggunakan kertas dan pensil. Setelah beberapa tahun, saya ingin bermain SOS lagi dengan teman yang bisa diajak main. Tapi, hal itu terhalang oleh jarak, zaman yang sudah modern, dan ketidaktertarikan dengan game-game lokal terdahulu. Oleh karena itu, saya membuat web ini agar orang-orang di seluruh dunia termasuk Indonesia, dapat merasakan permainan SOS yang mungkin nostalgia saat mereka kecil.
+  > 
+  > ✅   Fitur-Fitur yang Tersedia Saat Ini :
+  > - Langsung main tanpa harus login ataupun register
+  > - Buat room dengan kode room yang bisa dibagikan ke teman Anda untuk bermain bersama
+  > - Join room yang di buat temen Anda
+  > - Pengaturan timer (bisa diaktifkan atau tidak)
+  > - Gratis & Terbuka Untuk Semua Orang
+  > - Bisa kick player yang tidak diharapkan (only-host) :)
+  > - Bisa bubarin room (only-host)
+  > - Bisa surrend (tapi masih bisa main lagi)
+  > 
+  > ⚙  Teknologi yang Digunakan :
+  > - Frontend --> HTML, CSS, JS, Bootstrap
+  > - Backend --> Python, Flask
+  > - DBMS --> MySQL
+  > 
+  > 🌐  Link web-nya (belum punya domain): https://app-19b2d6c2-77d2-469d-ae28-b220a9ae62cf.cleverapps.io/
+  > 👨‍💻  Source Code: https://github.com/RizkySugiharto/SOS-Game
+  > 
+  > Maaf-maaf ya kalo ngeleg, soalnya masih pake yang gratisan, hehe (〃￣︶￣)人
+  > Juga maaf kalo ada bug, kalo misalkan ada bug atau saran, laporin aja ya, biar bisa dievaluasi agar makin bagus lagi 
+  > (。・∀・)ノ
+  > 
+  > Terima Kasih ☕ 🙏
+
+<br>   
+
+2. [https://fecstatic.com]  
+   **Ferdi**
+
+  Malam pak dhika. 
+
+  Saya lagi suka ngulik AI terutama Automation n8n, saking sukanya ngulik jadi terinspirasi untuk buat konten di Youtube tentang AI dan n8n terutama untuk saat ini. Oleh karena itu, saya butuh website pendukung untuk upload hasil workflown8n agar bisa di unduh oleh penonton. Bukan cuman produk aja, saya juga tambah fitur bio link page, short url dan webhook untuk livestreaming juga kedepannya. 
+
+  Sementara masih belum terhubung ke Payment Gateway, kedepannya akan dikembangkan lagi hingga Support Pembayaran untuk tiap produk. Kurang lebih, ini seperti gabungan bitly, saweria, lynk id dan linktree <:mantab:972471617923993600> 
+
+  Landing Page: https://fecstatic.com
+  Product Page: https://fecstatic.com/en/product/asisten-keuangan-2-medium-n8n
+
+  Untuk Github sekarang masih private tapi kedepannya saya ada rencana untuk buat ini open source, sedang berusaha buat kodenya lebih rapi 😂
+
+<br>   
+
+3. [https://gitstrava.vercel.app]  
+   **Zul Fadli**
+
+  Halo Pak Dhika..
+
+  Kenalin aku Zuma, dari Makassar. Aku ingin share side project aku, dibuat cuma buat seru-seruan.
+  Aku yakin Pak Dhika dan teman-teman WPU tau dengan trend strava yang buka kulkas itu kan. Nah, aku tuh kaya capek liat trend itu muncul di timeline IG aku. Lalu aku kepikiran, gimana kalau ada trend yang serupa tapi khusus buat para programmers.
+
+  Berangkat dari situ aku buat lah GitStrava. Sebuah aplikasi yang mengenerate commit summary selama sebulan dan menjadikannya PNG. Nah, png itu nantinya bisa didownload dan dipasang di video kita.
+
+  "Strava Overlay Trends, but for Developers."
+  Kalau pelari punya Strava, developer punya ini.
+
+  Untuk tech stack nya simple aja:
+  - NextJS
+  - Tailwind
+  - Github OAuth
+
+  Link Aplikasi: https://gitstrava.vercel.app
+  Repository: https://github.com/zumaku/git-strava
+
+  Jangan lupa kasi star ya guys, hehe..
+  Terima kasih.
+
+<br>   
+
+4. [https://indo-formatter.netlify.app/]  
+   **KaL_eL™**
+
+  Halo Pak Dhika...
+
+  Salam kenal, nama saya Fiki dari Makassar. pada kesempatan kali ini, saya mau share project perdana saya di sini. ngoahahaha, *excited & deg2an* 
+
+  sebelumnya mungkin Pernah kesulitan format nomor telepon Indonesia di aplikasi? Atau butuh parser NIK yang akurat? Saya membuat indonesia-formatter, NPM package untuk developer Indonesia! 🇮🇩. whahahahha. 
+
+  Features:
+  📱 Phone formatter (support +62 & 08)
+  💳 NPWP formatter & validator  
+  🆔 NIK parser (extract provinsi, tgl lahir, gender)
+  📅 Date formatter dengan bahasa Indonesia
+  🌙 Kalender Jawa (dengan Pasaran!) & Hijriah
+
+  Zero dependencies, fully typed, 100% test coverage ✨
+
+  untuk live demo bisa ke https://indo-formatter.netlify.app/
+  dan Repo guthibnya bisa ke https://github.com/codenamekii/indonesia-formatter
+
+  Ini project pertama saya, mohon feedback dari suhu-suhu di sini 🙏 and please leave a star ya. TQTQTQ!!!!
+
+<br>   
+
+5. [https://scanalyze-sepia.vercel.app]  
+   **beng**
+
+  Halo Pak Dika dan teman-teman semua,
+
+  Perkenalkan, saya Reint. Pada kesempatan kali ini, izinkan saya untuk mempresentasikan project saya yang bernama **Scanalyze**.
+
+  **Apa itu Scanalyze?**
+  Scanalyze adalah sebuah alat analisis dokumen berbasis AI yang dirancang untuk membantu pengguna memperoleh informasi penting dari dokumen mereka secara cepat, efisien, dan cerdas.
+
+  **Bagaimana Cara Kerjanya?**
+  Pengguna cukup mengunggah dokumen yang ingin dianalisis, lalu memasukkan perintah atau prompt analisis sesuai kebutuhan. Setelah itu, sistem akan memproses dan menampilkan hasil analisisnya dalam waktu singkat.
+  Saat ini, Scanalyze mendukung berbagai jenis dokumen, termasuk:
+  - PDF
+  - Gambar (JPEG, PNG, dan GIF)
+
+  **Teknologi yang Digunakan**
+  - Next.js & React untuk pengembangan frontend
+  - Tailwind CSS & Radix UI untuk tampilan antarmuka
+  - Gemini 1.5 sebagai model AI backend untuk analisis dokumen
+
+  **Repository dan Live Demo**
+  - Repository GitHub: https://github.com/ReintB/scanalyze
+  - Live Demo: https://scanalyze-sepia.vercel.app
+
+  Terima kasih banyak atas perhatiannya, Pak Dika dan teman-teman semua.
+
+<br>   
+
+6. [https://www.jawara-app.com/]  
+   **Filbert Fernandes**
+
+  Halo Pak Dhika & teman-teman semua..
+
+  Perkenalkan, saya Filbert Fernandes, dulu saya sempat share project juga disini tapi udah 4 tahun lalu, ini pertama kali setelah sekian lama ngga share hahaha
+
+  Kali ini, saya ingin share project bernama **Jawara**, yaitu aplikasi web yang dirancang untuk membantu user belajar bahasa Jawa melalui pengalaman interaktif dalam dunia 3D. Aplikasi ini dilengkapi dengan berbagai fitur, seperti:
+  - Dunia 3D interaktif dengan physics dan beberapa objek yang bisa diklik 🌏
+  - Minigames kosakata dengan sistem leaderboard 🎮
+  - Kalimat bahasa Jawa yang di-generate secara random untuk latihan terjemahan 🔁
+  - Kustomisasi karakter yang bisa di-save dan dilihat oleh user lain 🧍‍♂️
+  - Pembelajaran berbasis kurikulum dengan pretest dan posttest 📚
+  - Sistem pencapaian (achievements) 🏆
+  - Pilihan bahasa (Inggris & Indonesia)
+  - Dan masih banyak lagi!
+
+  Tech Stack:
+  - **Three.js / React Three Fiber **→ menampilkan elemen 3D
+  - **Next.js **→ sebagai fullstack framework
+  - **Zustand **→ state Management
+  - **Tailwind CSS **→ styling UI
+  - **Howler.js **→ background music & sound effects
+  - **GSAP **→ animasi kamera
+  - **MongoDB **→ database
+  - **OpenAI API **→ generate kalimat bahasa Jawa secara random
+  - **Blender **→ 3D modeling
+
+  Live: https://www.jawara-app.com/
+
+  Terima kasih Pak Dhika & teman-teman atas perhatiannya 🙏
+
+  *in case bgm-nya terlalu gede saat live, bisa mute dengan klik tombol ikon musik di pojok kiri atas
+
+<br>   
+
+7. [https://nameraid.is-a-fullstack.dev/]  
+   **Nameraid**
+
+  Halo Pak Dhika & teman-teman semua..
+
+  Perkenalkan, saya nemraid, dulu saya sempat share project juga disini tapi udah 3 minggu yang lalu, ini pertama kali setelah sekian lama ngga share project lagi 😛
+  ## 🌐 **Protogen – Personal Portfolio **
+
+  🔗 **Demo**: [nameraid.is-a-fullstack.dev](https://nameraid.is-a-fullstack.dev/)
+  💻 **Repository**: [GitHub - n3mr1d/protogen](https://github.com/n3mr1d/n3mr1d)
+  ☁️ **Hosted on**: Vercel
+  🛠️ **Tech Stack**:
+
+  * **Vanilla PHP** (tanpa framework)
+  * **MySQL Database**
+  * **Frontend & Backend**: Custom built from scratch
+
+  ---
+
+  ### ✨ **Fitur Utama**
+
+  * 🔐 **Login Page** – Akses pribadi untuk mengelola konten.
+  * 🛠️ ** Management showcase** – Tambah dan hapus showcase yang ingin ditampilkan.
+  * 📜 **Certification Showcase** – Pamerkan sertifikasi dengan detail dan tautan.
+  * 📁 **Project Listing** – Tampilkan proyek yang telah dikerjakan lengkap dengan  image , link demo atau repo beserta fitur tag.
+  * 📝 **Mudah Diedit** – Struktur kode bersih dan sederhana, cocok untuk pemula maupun pengembang berpengalaman.
+
+  ---
+
+  ### 📦 **Cocok Untuk Siapa?**
+
+  * Developer yang ingin punya portofolio online custom tanpa ribet.
+  * Pengguna yang ingin sistem yang ringan tanpa framework besar.
+
+
+  ---
+
+  Silakan clone dan sesuaikan!
+  Jika butuh bantuan setup atau ingin kontribusi, buka issue di repo! 💬
+
+<br>   
+
+8. [https://balsss.vercel.app/]  
+   **Balsss**
+
+  Assalamualaikum, 👋 halo pa dhika & kawan" wpu, pada kesempatan kali ini izin kan saya melakukan showcase sebuah project sederhana lagi, yaitu sebuah project portofolio saya yang terbaru. Dimana ini portofolio cukup simple dengan isi konten yang tidak terlalu banyak, pada project ini juga saya melatih skill saya untuk membuat sebuah animasi yang sederhana menggunakan gsap dan juga ini pertama kali nya saya mencoba sebuah framework nuxt.
+
+  Tech stack : Nuxt.js, GSAP
+
+  Site : https://balsss.vercel.app/
+  Github : https://github.com/Ibaliqbal/portofolio
+
+  Project masih ingin saya kembangkan lagi karena menurut saya untuk masih terlalu sedikit. Bila kawan" ada saran dan kritik saya akan menerima dengan senang hati. Terimakasih  🙏
+
+<br>   
+
+9. [https://maven-ai-webpage.vercel.app/]  
+   **rzky**
+
+  Halo Pak Dhika dan teman-teman WPU👋 perkenalkan saya Rizky Agung Prasetyo, alumni (2024) Universitas AKPRIND Indonesia jurusan Teknik Industri, kali ini saya ingin showcase project pribadi "Maven AI", AI-Powered Product Research Assistant & Data Driven Purchase Decision
+
+  Background case:
+  Temen-temen disini mungkin pernah struggle soal spesifikasi produk elektronik kayak gadget, laptop, pc part, dll. Sebagai contoh kasus banyak spesifikasi produk diantara produk dari brand yang sama atau tidak sama itu mirip-mirip dan bingungin, mungkin untuk tech savy yang paham soal teknis beginian pasti paham dari macro-micro specs-nya, tapi... buat majority yang enggak paham gimana? mereka harus riset dulu? tanya-tanya ke seller? ke temen? apa bener informasi yang mereka kasih itu akurat dan cocok sesuai kebutuhanmu?, mostly ini jadi paint-point untuk orang awam yang enggak tahu soal beginian.
+
+  Maven bakal bantu kamu yang awam soal per-elektronikan, mulai dari rekomendasi, cari produk, ambil informasi sekaligus kamu bisa tanya langsung soal spesifikasi produknya, kamu bisa bandingin produk dan poin tujuanmu ngebandinginnya buat apa, terakhir Maven juga bisa tanya balik kalau informasi yang kamu dikasih kurang jelas. Fitur tambahan, kamu juga bisa share artifacts dari chat dan chat kamu sepenuhnya, dan untuk pengakses gak perlu login/daftar.
+
+  Build with: Nextjs (TypeScript), Vercel AI SDK, Tailwind, Framer Motion, Shadcn, Neon, Upstash Redis, Zod, Zustand, etc
+  Model provider & APIs: Gemini, Firecrawl, Tavily, Serper
+  Auth provider: Google, Github
+
+  Site (open in desktop for best UX):
+  https://maven-ai-webpage.vercel.app/
+
+  Repository:
+  https://github.com/rizzzky78/market-maven
+
+  [Background case research]
+  https://grok.com/share/bGVnYWN5_fd046834-226e-4ffa-b80a-33939ffa8f5d
+
+<br>   
+
+10. [https://github.com/MFathinHalim/NggaBaik]  
+   **Fathin**
+
+  Halo teman temann, perkenalkan saya M.Fathin Halim 
+  project saya kali ini adalah ekstensi browser untuk parental control, dimana saya terinspirasi dari ai nya Lisa Simpson dari serial animasi "The Simpsons". saya beri nama **Ngga Baik**
+
+  Saya membuat karena parental control di browser itu jujur lumayan sedikit ketimbang di hp, karenanya saya mencoba membuat ekstensi sederhana
+
+  fitur yang ditawarkan:
+  1. monitor search anak
+  2. monitor web yang diakses anak
+  3. monitor apa yang diketik anak
+  4. laporkan ke orang tua (untuk sementara pake emailjs dulu, mungkin kedepannya mau dibuat dikirim ke WhatsApp karena lebih familiar hehe)
+  5. log hal hal yang tetap dilakukan anak meski sudah diperingatkan
+  6. AI yang monitor dan ngeliat apakah aman jika dikonsumsi anak
+
+  techstack:
+  javascript, html, chrometimerunner
+
+  ingin melanjutkan dan mengupdate agar lebih banyak fitur lagi, tapi untuk sekarang segini karena ... terbatas di biaya hehe
+
+  link: https://github.com/MFathinHalim/NggaBaik 
+  (karena chrome browser store extension berbayar jadi belum saya upload :") )
+
+  (tadi ingin saya upload ke firefox, tapi ternyata mozilla belum support service_worker background, jadi untuk sementara untuk chromium)
+
+<br>   
+<br>
