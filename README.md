@@ -4109,3 +4109,340 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>   
 <br>
+
+### 23 Agustus 2025
+
+1. [https://iqbalghifar.vercel.app]  
+   **Iqbal**
+
+  Halo Pak Dhika dan teman - teman WPU yang saya cintai dan banggakan, nama saya iqbal izin mengikuti showcase WPU untuk kesekian kalinya hehe<:iwakwok:967398978603851826> , disini saya revamp portfolio saya sendiri yang sangat sederhana dan banyak kurangnya ini untuk mengikuti kegiatan magang dari pemerintah yang web nya banyak sekali trouble<:hadeh:972855614818631681> . Dengan mengambil referensi dari website : diegovz.com
+
+  🛠️ Tech Stack : 
+  - <:nextjs:866437538255863818>  Next.js
+  - <:framermotion:1177561358070464592>  Framer Motion
+
+  🔗 Link : https://iqbalghifar.vercel.app/
+
+  Bila ada saran dan kritik dari pak dhika atau teman teman saya persilahkan
+
+<br>
+
+2. [https://azrl-webdev.vercel.app/]  
+   **azrlwebdev**
+
+  Halo Pak Dhika dan teman-teman WPU!
+  Perkenalkan, saya Azriel Rosadi, lulusan baru dari SMK Citra Negara. Ini adalah pertama kalinya saya ikut showcase WPU, jadi saya masih belajar dan mencoba membuat portfolio pribadi yang sederhana, tapi semoga bisa tetap nyaman dilihat dan digunakan 🙏
+
+  Saya terinspirasi dari beberapa website modern dan mencoba menggabungkan animasi serta elemen 3D agar tampil lebih menarik.
+
+  🛠️ Tech Stack Utama
+  - React 19
+  - Vite
+  - Tailwind CSS
+
+  3D & Animasi:
+  - Three.js
+  - React Three Fiber
+  - Framer Motion
+  - GSAP
+
+  UI Components:
+  - shadcn/ui
+  - Lucide React (icons)
+  - React Bits
+  - Aceternity UI
+  - Magic UI
+
+  Utilities:
+  - React Router (routing)
+  - EmailJS (contact form)
+
+  🔗 Live Website:
+  https://azrl-webdev.vercel.app/
+
+  🌐 Repository: 
+  https://github.com/AzrielRosadi/azriel-portofolio-new
+
+
+  Terima kasih sudah mampir! Kalau ada kritik atau saran dari Pak Dhika dan teman-teman, saya akan sangat senang menerimanya 😊
+
+<br>
+
+3. [https://github.com/miftakhulfalh/catatuangku]  
+   **Miftakhul Falah**
+
+  Hallo Pak Dhika dan kawan-kawan semua!
+  Saya Falah mau ikutan showcase. Saya mencoba membuat bot telegram pencatatan keuangan pribadi dengan spreadsheet. Jadi konsepnya, user akan dibikinin template catatan keuangan nanti pencatatannya bisa dilakukan lewat bot.
+
+  Fitur:
+  - Catat pengeluaran dan pendapatan via chat dan struk foto
+  - Catat pengeluaran dan pendapatan multiple dalam satu pesan chat
+  - Rekap bulanan
+  - Chat AI Keuangan
+
+  Tech stack:
+  Node.js, Telegraf, Google API, Groq AI (untuk kategorisasi), ocr.space (untuk scrape struk), Supabase (database), Vercel (webhook)
+
+  Kepoin bot telegramnya di: [@catatanuangkubot](https://t.me/catatanuangkubot). Repo: https://github.com/miftakhulfalh/catatuangku
+
+  Sebelumnya persiapkan folder google drive dulu dan bagikan/share ke email: uangku@financial-report-bot.iam.gserviceaccount.com
+
+  Bot dan template spreadsheet nya masih sederhana (literallly sederhana). Jadi mohon sarannya kawan-kawan. Thank you.
+
+<br>
+
+4. [https://nihongo-kiroku.vercel.app]  
+   **Yui**
+
+  Hallo minna & sandhika sensei kenalin aku Yui!👋🎌
+  ✨
+  Disini Yui mau showcase project minimalist tentunya project ini gajauh-jauh dari integrasi gemini di dalamnya, nama projectnya yakni "Nihongo Kiroku".
+  Nihongo Kiroku merupakan platform pembelajaran bahasa Jepang berbasis roadmap yg beginner friendly cocok buat kalian yg pengen coba-coba ngulik atau belajar bahasa jepang. 
+
+  Nihongo Kiroku merupakan salah satu project gabungan dari project experimental yg sudh pernah yui buat sebelumnya✨✨
+
+  Fiturnya ada apa aja? 
+  1. Pembelajaran hiragana katakana kanji berbasis flashcards
+  2. Pembelajaran bahasa jepang berbasis roadmap
+  3. Training conversation
+  4. Progress tracker
+  5. Quiz interaktif di setiap sesi pembelajaran
+
+  Masih dengan Tech stack yg sama : 
+  Express, Tailwind, Gemini Flash API, Firebase Authencation & Realtime database, 
+
+  Repo : https://github.com/Yu1chiro/nihongo-journey
+  Link website : https://nihongo-kiroku.vercel.app
+
+  Untuk informasi lebih lengkap terkait doumentasi/tentang platform ini ada di website ya! ✨🙇‍♂️
+
+  Mohon maaf jika struktur code masih kurang rapi dan terdapat bug di beberapa fitur serta UI UX yg masih belum memadai pada sisi platform
+  seperti biasa  kritikan dan saran dari teme-temen dan sandhika sensei sangat yuii harapkan & butuhkan 🙇‍♂🙇‍♂
+  みんなお勉強頑張ってね！見てくれてサンキューね！
+
+<br>
+
+5. [https://fee-rainbow.42web.io/]  
+   **Raewww**
+
+  Halo teman-teman, terima kasih sudah mampir.
+
+  Sebelumnya aku pernah bikin project katalog produk sederhana untuk toko buket. Dari situ aku banyak belajar soal struktur folder, fitur CRUD, dan tampilan user-friendly. Karena itu, aku memutuskan untuk bikin ulang dari awal dengan versi yang lebih rapi dan lengkap.
+
+  Aku masih pakai PHP procedural, MySQL, HTML, CSS, dan JavaScript. Kali ini aku juga dibantu AI seperti ChatGPT buat nyusun alur dan menyelesaikan error, jadi prosesnya lebih cepat dan seru.
+
+  Kalau mau lihat hasilnya, bisa cek di sini:
+
+  GitHub: https://github.com/siegrin/Fee-Rainbow
+  Website: https://fee-rainbow.42web.io/
+
+
+  Demo Website: https://onlinestoreeverthingur.infinityfreeapp.com/
+  username : admin1234
+  password : admin1234
+
+  Aku juga kepikiran buat web perlengkapan camping. Kalau ada saran teknologi yang asik atau hal penting yang perlu dipelajari, kasih tahu ya. Semua masukan sangat aku hargai.
+
+  Sampai jumpa di project selanjutnya.
+
+<br>
+
+6. [https://neocode-one.vercel.app/]  
+   **Avennathan**
+
+  Halo semua dan Pak Dhika! 
+
+  Perkenalkan aku Abdullah. Di sini aku mau share project open-source yang sedang aku kerjakan, namanya NeoCode. Project ini lahir dari eksplorasiku di ranah GenAI. Secara garis besar, NeoCode memang mirip chatbot, tapi dirancang khusus untuk build website hanya dari prompt yang diberikan user.
+
+  Usecase utamanya sederhana, user bisa menginputkan prompt, lalu aplikasi ini akan transform prompt-nya menjadi prompt untuk pembuatan web. Output dari prompt-nya adalah generated code + live preview dari website yang dijalankan di cloud sandbox. User nanti bisa melanjutkan percakapan dalam satu project/conversation untuk meng-update website yang sudah di-generate sebelumnya. 
+
+  Untuk tech stack yang saya gunakan di sini ada Next JS, Neon (serverless postgre), Prisma, tRPC, Docker, Gemini, Tailwind, dan E2B sebagai cloud sandbox.
+
+  Website yang akan di-generate oleh chatbot-nya adalah web berbasis React dengan framework NextJS. Selain itu fitur live preview di sini belum permanen, memiliki timeout 30 menit. Untuk fitur selanjutnya saya berencana menambahkan opsi publish langsung ke Vercel atau Netlify.
+
+  live demo: https://neocode-one.vercel.app/
+  github: https://github.com/devdezzies/neocode
+
+  Kalau kalian ada saran atau ide fitur baru, aku sangat terbuka untuk diskusi. Thank you! 🙌
+
+<br>
+
+7. [https://github.com/faizinuha/ZeroSrc]  
+   **-Frieren And Fern**
+
+  🚀  Assalamualaikum Halo Pak Dhika dan teman-teman semua,
+
+  Saya Zaki, dan hari ini saya ingin memperkenalkan salah satu proyek pribadi saya yang bernama ZeroSrc — sebuah lightweight search launcher untuk Windows yang bisa diakses hanya dengan menekan Shourcut Alt + Space
+
+  🧠 Problem yang Ingin Saya Selesaikan:
+  Kadang kita butuh buka aplikasi atau cari sesuatu dengan cepat, tapi harus klik ikon satu per satu. ZeroSrc hadir untuk mempercepat alur itu. Tinggal tekan hotkey, ketik perintah, enter — selesai.
+
+  💡 Apa itu ZeroSrc?
+  ZeroSrc adalah overlay pencarian minimalis yang memungkinkan pengguna:
+  Membuka aplikasi bawaan Windows (Notepad, CMD, Paint, dll)
+  Meluncurkan shortcut dari Desktop dan Start Menu
+  Mencari langsung di Google saat input tidak dikenali
+
+  🧰 Stack Teknologi yang Digunakan:
+
+  👨‍💻 .NET 8 + WPF (C#) vscode 
+  🎨 UI kustom dengan animasi fade-in & fade-out
+  ⚙️ Integrasi global hotkey (Alt + Space)
+  📦 Packaging installer menggunakan Inno Setup
+  ✨ Fitur Unggulan:
+
+  Global hotkey: Alt + Space untuk membuka launcher
+  Dukungan shortcut otomatis dari sistem
+  Integrasi browser: fallback ke Google Search jika perintah tidak dikenali
+  Ringan, responsif, dan tidak ganggu workflow
+
+  🎯 Next Plan:
+  Saya ingin menjadikan ZeroSrc 
+  sebagai alternatif launcher yang ringan, cepat,
+  dan cocok buat pengguna Windows yang ingin tetap fokus tanpa ribet klik sana-sini.
+
+  📎 Source Code & Demo:
+
+  🔗 Repo : GitHub: [https://github.com/faizinuha/ZeroSrc]
+  Karena download di Github Realse DI blokir saya Pindah ke Mega.nz
+  📥 Link Alternatif:https://mega.nz/folder/uEdWTbSJ#y1bCKlrXXy93gi3e5zeBXA
+
+  🤝 Open for Feedback!
+  Kalau teman-teman punya ide, saran, atau cuma pengen nyobain versi demonya — 
+  feel free join Discord saya atau kirim feedback via GitHub Issues! Atau Kalian Bisa Fork Dan bikin Branch Sendiri Karna kami Open Source.....
+
+  Terima kasih Pak Dhika dan Semua ya.....
+  Saya Pakai Email Kakak Saya, jadi Github Pakai Nama Kakak saya Terima kasih Atas Pengertian Ya : 😊 
+  --Zaki Pemubuat ZeroSrc
+
+<br>
+
+8. [https://pyrolab.streamlit.app]  
+   **rmaulvn**
+
+  Selamat malam pak Dhika dan temen temen 👋,
+
+  Saya Rifki, izin mau share project sederhana aja kebetulan pas SMA  pernah bikin karya tulis ilmiah tentang **pengolahan limbah plastik jadi bahan bakar alternatif**. Nah, dari situ kepikiran gimana kalau prosesnya bisa disimulasikan secara virtual?
+
+  Akhirnya lahirlah **PyroLab v1.0** – sebuah **virtual lab pirolisis plastik**.
+
+  🔧 Tech Stack
+
+  * **Python**
+  * **Streamlit** – buat UI-nya
+  * **scikit-learn** – buat prediksi AI sederhana
+  * **matplotlib** & **pandas** – buat visualisasi dan data
+  * **numpy** – buat kalkulasi & simulasi suhu
+
+  🚀 Fitur-fitur
+
+  * **Input Parameter Lengkap**
+    Bisa atur jenis plastik, suhu, durasi, katalis, tekanan, ukuran partikel, tipe reaktor, lingkungan, sampai sumber panas.
+
+  * **Simulasi Realtime**
+    Setiap parameter yang diubah langsung nunjukin hasil simulasi: berapa banyak minyak, gas, residu, bahkan komposisi gasnya.
+
+  * **Grafik Otomatis**
+    Pie chart untuk produk, bar chart buat gas, dan suhu realtime juga tampil.
+
+  * **Mode Multi-Batch**
+    Bisa bandingin beberapa kombinasi kondisi sekaligus (misalnya beda katalis atau suhu), hasilnya langsung ditampilin dalam bentuk grafik dan tabel.
+
+  * **Prediksi Pake AI (Linear Regression)**
+    Cobain simulasi AI buat nebak berapa output oil & gas berdasarkan suhu dan efisiensi.
+
+  * **Export ke PDF**
+    Semua hasil bisa diekspor jadi laporan PDF – cocok banget buat tugas akhir atau presentasi.
+
+  ---
+
+  Sekarang masih **versi 1.0**. Next plan-nya mau nambah:
+
+  * Perhitungan efisiensi energi
+  * Perbandingan sama BBM kayak solar/bensin
+  * Analisis ekonomi proses
+
+  📎 **Demo & Source Code** 
+  repository: https://github.com/kiisanz/pyrolab
+  demo: https://pyrolab.streamlit.app
+
+  Silakan dicoba, saran dan feedback sangat terbuka 🚀
+  Terimakasih🙏
+
+<br>
+
+9. [https://absensigurumtsalfalah.vercel.app/]  
+   **wapii**
+
+  Halo Pak Dhika dan teman‑teman semua👋
+
+  Perkenalkan saya Wafi. Kali ini saya ingin ikut Showcase WPU dengan memperkenalkan Aplikasi Absensi Guru & Karyawan berbasis web simpel dan sederhana yang saya kembangkan.
+
+  👀 Cerita di Baliknya
+  Awalnya Ayah saya meminta saya membuat sebuah aplikasi absensi yang tampilannya sederhana dan cepat dipakai—karena beliau tahu saya sering bilang bisa bikin website. Kami sempat mencoba Google AppSheet, tapi setelah beberapa kali pakai ternyata terkendala limitasi 10 pengguna dan biaya berbayar jika ingin lebih banyak. Dari situ saya berpikir: “Mengapa tidak membuat sendiri, berbasis web, yang bisa kita kustom sesuai kebutuhan Ayah?” Hasilnya adalah platform absensi ini, yang sepenuhnya dibangun dari nol agar fleksibel, ramah pengguna, dan bebas biaya tambahan.
+
+  Fitur :
+  - Real‑Time Sync
+  - Cerdas Urus Hari Libur
+  - Grafik & Laporan Instan
+
+  🛠️ Tech Stack
+  React.js + Zustand untuk state, Chart.js, jsPDF, SheetJS (xlsx), date-holidays, & Firebase Auth/Firestore.
+
+  ⚠️ Kekurangan:
+  • Ketergantungan data absensi pada konsistensi pengguna.
+
+  Untuk mengatasi ketergantungan data absensi pada konsistensi pengguna, saya berencana mengembangkan bot yang terintegrasi langsung dengan WhatsApp agar notifikasi “yang belum/lupa absen” bisa tersalurkan otomatis ke grup. Sayangnya, karena proyek ini dikerjakan 100% tanpa dana untuk VPS, hosting, atau layanan berbayar, fitur bot WhatsApp ini masih menjadi milestone berikutnya - siap dikembangkan begitu ada budget atau dukungan infrastruktur.
+
+  Demo & Source Code:
+  🔗 Demo live: https://absensigurumtsalfalah.vercel.app/
+  🛠️ Repo GitHub: https://github.com/muuwafi/absen-guru-mts-alfalah
+
+  📸 Penjelasan lebih detail cek Instagram saya: https://www.instagram.com/p/DHvLmqSyMq_/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+  Email dan password untuk login saya sudah dm di instagram pak dika yaa, Terima Kasih🙌
+
+<br>
+
+10. [https://ridwaanhall.com]  
+   **ridwaanhall**
+
+  ## FlexForge - Advanced Developer Portfolio Platform
+  Selamat malam pa dhika dan teman2.
+  ### Deskripsi
+  FlexForge, platform portfolio developer yang dibikin dari 0 pakai Django 5.2.x buat nunjukin karya dan aktivitas coding dengan style maksimal. Ngegabungin performa ngebut, keamanan enterprise-grade, dan sistem manajemen konten inovatif. Template portfolio yang bisa nyambungin data real-time dari GitHub & WakaTime, chat-like guestbook, plus sistem file terpisah yang fleksibel. PageSpeed 99+/100 dengan keamanan CSP, HSTS, dan XSS protection.
+  *Detail lebih jelas ada di `README.md`. Show project lagi karena ada **update fitur, interface, improvement**. Inspired UI from aulianza.*
+  ### Tech Stack
+  - Backend: Django 5.2.x, Python 3.12+, SQLite3/PostgreSQL, django-allauth, django-csp, django-permissions-policy
+  - Frontend: TailwindCSS, Vanilla JavaScript, Onest fonts
+  - APIs: GitHub (GraphQL), WakaTime (REST), OAuth (Google, GitHub), Web3Forms
+  - Deployment: Vercel (serverless), WhiteNoise, wsrv.nl CDN, Django cache, python-decouple
+  - Security: SSL/TLS, HSTS, CSP, CSRF protection, Input validation, Error logging
+  ### Fitur Utama
+  **Sistem File Individual**
+  - Setiap proyek & blog post disimpen dalam file Python terpisah (noDB)
+  **Analitik Real-time**
+  - GitHub API: contribution graph, streak, avg, etc.
+  - WakaTime API: tracking waktu coding & produktivitas
+  - Cache 3 jam buat optimasi performa
+  **Guestbook Interaktif (Opsional)**
+  - Interface chat-like yang modern
+  - OAuth login (Google & GitHub)
+  - Bisa diaktifin/matiin sesuai kebutuhan
+  - Real-time updates
+  **Performa & Keamanan**
+  - PageSpeed: Desktop 99.5/100, Mobile 99/100
+  - Format WebP + resize otomatis (wsrv.nl)
+  - CSP, HSTS, XSS protection
+  - CSRF protection & input validation
+  **Desain Responsif**
+  - TailwindCSS + Vanilla JavaScript
+  - Mobile-first optimization
+  - Smooth animations & interactive effects
+  ### Links
+  - GitHub Repo: https://github.com/ridwaanhall/ridwaanhall-com
+  - Demo: https://ridwaanhall.com
+  - Deploy in one click `README.md`
+
+<br>
+<br>
