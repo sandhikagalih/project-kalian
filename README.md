@@ -4446,3 +4446,288 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 30 Agustus 2025
+
+1. [https://glitchlab.pages.dev]  
+   **Daffa**
+
+  Assalamualaikum semuanya, saya daffa dari bandung, ikutan showcase project lagi deh.
+
+  Project kali ini GlitchLab v.1 (beta) - AI Text-to-Image Generator, masih tetap melibatkan AI untuk berperan di belakang monitor. Aplikasinya sangat sederhana, hanya merubah text menjadi gambar tapi dengan system Pay-per-Use, project ini cocok untuk di kembangkan lagi dan dijadikan ladang cuan.
+
+  Kegunaan:
+  - Thumbnail YouTube atau blog
+  - Prompt engineer showcase
+  - Desain cepat buat ide startup, UI, NFT, dll
+  - Monetisasi micro-service AI
+
+  Technologi:
+  - Backend: Cloudflare Workers (Hono.js)
+  - AI Engine: @cf/stabilityai/stable-diffusion-xl-base-1.0
+  - Frontend: React + Vite + Tailwind CSS
+  - Animation: GSAP ScrollTrigger
+  - Payment: Midtrans Snap (Live)
+  - Storage: Cloudflare KV Cache
+
+  GlitchLab v.1 dibangun untuk Pay-per-Use model:
+  🔒 Gratis 1x per user/bulan
+  💳 Snap Midtrans Rp 2.500 / generate
+  💵 Potensi revenue per 1000 generate = ±Rp 2.500.000
+  🧠 Bayar provider AI = ±15$ / 1000 
+
+  Link Demo: https://glitchlab.pages.dev
+  Bot discord: https://discord.gg/rSH6AymR
+  Link Repo: https://github.com/daffadevhosting/glitchlab-v1
+
+  Semoga bisa menjadi gambaran untuk AI kita menghasilkan cuan.
+  Dibangun dengan semangat indie dan semangat belajar. AI Model by StabilityAI, Midtrans for payment, React & Cloudflare power the rest.
+
+<br>   
+
+2. [https://filbert-fernandes-portfolio.vercel.app/]  
+   **Filbert Fernandes**
+
+  Halo Pak Dhika & teman-teman semua, perkenalkan saya Filbert Fernandes.
+
+  Sebelumnya saya sempat share project web dengan 3D experience menggunakan Three.js, yaitu Jawara.
+  Kali ini, saya ingin share project lagi, yaitu **personal web portfolio** saya yang tentunya juga dengan 3D experience.
+
+  Di portfolio ini, kita akan diperlihatkan sebuah ruang kerja, kita bisa *click and drag* untuk melihat sekeliling, *zoom in/out*, dan berinteraksi dengan beberapa objek.
+
+  Selain JavaScript, saya juga menggunakan bahasa pemrograman GLSL (OpenGL Shading Language) untuk membuat shaders, seperti efek uap asap pada cangkir kopi dan transisi perpindahan siang/malam.
+
+  Tech stack:
+  - **Three.js / React Three Fiber** → menampilkan elemen 3D
+  - **GLSL** → shaders
+  - **GSAP ** → animasi kamera
+  - **Blender ** → 3D modeling
+
+  Live: https://filbert-fernandes-portfolio.vercel.app/
+  GitHub Repo: https://github.com/filbertfernandes/filbert-fernandes-portfolio
+
+  Terima kasih Pak Dhika & teman-teman atas perhatiannya 🙏
+
+<br>   
+
+3. [http://gostage.vercel.app]  
+   **aseppp**
+
+  Halo pak Dhika & teman teman sekalian, saya Akbar
+  Disini saya mau showcase project lagi, web sederhana tentang event ticketing dan managing. Hampir sama seperti course yang disediakan oleh WPU bernama "GoStage".
+  Dibilang hampir sama dengan course yang disediakan WPU tapi sebenarnya project ini terinspirasi / hampir kloning dari web yesplis(.)com
+
+  Project GoStage ini bisa dibilang yang terkompleks dan paling 'rapi' yang pernah saya buat
+
+  Fiturnya
+  1. Manage event dan tiket kategori yang akan dijual
+  2. Pembelian tiket dengan Midtrans dan webhook untuk menghandling status pembayaran
+  3. Menyediakan QR Code per tiket yang dibeli
+  4. Scan QR code
+
+  Untuk teknologinya yang tentu adalah favorit saya
+  NextJS
+  Better-auth
+  Shadcn
+  Uploadthing
+  Midtrans
+  Resend
+
+  Repo: https://github.com/yomjsty/gostage
+  Live website: http://gostage.vercel.app
+
+  Pembayaran midtransnya tentu saja sandbox guys jadi bukan real money yang diambil xD
+
+  Untuk pertanyaan lebih lanjut bisa ditanya ke komentar disini ya atau jika termasuk FAQ next update akan menyediakan page FAQ nya
+  Untuk pak Dhika, email dan password dengan role yang berbeda sudah saya kirim melalui dm ya pak, silahkan login dengan credentials itu untuk demo project.
+  Juga jika temen temen penasaran pengen nyoba user dengan role yang lebih tinggi bisa dm ya! 
+
+  Tentu saja masih banyak kekurangan dari project ini, bug-bug kecil maupun besar, struktur kode yang masih berantakan, atau UI UX yang terlewatkan, saya dengan senang hati menerima kritik dan saran dari teman teman semua dan pak Dhika juga. Terimakasih semua!
+
+<br>   
+
+4. [https://mahiru-shiina.vercel.app/]  
+   **Fathin**
+
+  Halo semuanya, saya fathin lagi
+  kali ini projectku sangat random sekali, yaitu Mahiru Shiina Istri Saya Fan Page
+  jadi isinya ya fanpage tentang char mahiru shiina, aku bikin sekaligus showcase karena ingin belajar design hal yang unik dan berbeda gitu
+
+  teknologi:
+  next js
+  tailwind css
+  aos
+
+  fitur:
+  informasi mahiru shiina (istri saya)
+  my kisah 
+
+  github: https://github.com/MFathinHalim/Mahiru-Shiina
+  demo: https://mahiru-shiina.vercel.app/
+
+  intinya ini buat saya belajar bahasa design baru yang unik dan berbeda sekaligus ingin membuktikan kalau semua orang bebas membuat web apapun yang mereka mau sekreatif mungkin, bahkan di hal random seperti ini hehe
+
+  (kesimpulan: mahiru istri fathin)
+
+<br>   
+
+5. [https://nuradli.netlify.app]  
+   **PAKTIKUS**
+
+  Halo kwankawn! Karena lagi gabut, ak iseng ikut showcase, nih.
+
+  Ini sebenernya web lama, tapi masih ak pakai sampai sekarang. Kebetulan bentar lagi web ini mau ak ganti sama portofolio yang baru, jadi sekalian aja ak masukin ke sini buat nostalgia, yekan?
+
+  Web ini simpel banget kok — ak cuma pakai **React** sama **Tailwind**. Gak ribet.  
+  Fun fact: ini web pertama yang ak bikin pakai framework React, jadi yaa... agak jelek dikit wkwk.
+
+  Silakan banget kasih saran, tmantman!  
+  Walaupun sarannya nggak bakal ak implementasi di sini sih — mungkin di web barunya nanti wkwk.
+
+  Stay tune aj 
+
+  Oh iya, nama ak **Nuradli**, tapi seringnya dipanggil **Arthur** atau **Ame** — terserah mau pilih yang mana wkwk.
+
+  🌐 Web: https://nuradli.netlify.app  
+  💻 GitHub: https://github.com/pakjawir
+
+  *Oiya, teks ini ditulis sama mbak GPT ya, soalnya saya malas.*
+
+<br>   
+
+6. [https://dianmanurung.netlify.app/]  
+   **Dian**
+
+  Halo Pak Dhika dan Semua  teman-teman WPU!
+  Perkenalkan, saya Dian Manurung, Ini adalah pertama kalinya saya ikut showcase WPU, jadi saya masih belajar dan mencoba membuat portfolio pribadi yang sederhana, tapi semoga bisa tetap nyaman dilihat dan digunakan 🙏
+  Saya terinspirasi  tema luar angkasa sebenarnya cuma ini belum tau udah ada berbau" luar angkasanya atau belum hehehe.
+
+  🛠️ Tech Stack Utama
+  React 14
+  Tailwind CSS
+  3D & Animasi:
+  Framer Motion
+  GSAP
+
+  UI Components:
+  1.shadcn/ui
+  2.Lucide React (icons)
+  3.React Bits
+  4.Aceternity UI
+  5.Magic UI
+
+  Utilities:
+  React Router (routing)
+  EmailJS (contact form)
+  leaflet.JS
+  Firebase
+
+
+  🔗 Live Website:
+  https://dianmanurung.netlify.app/
+
+  untuk repositorynya masih privat 😊
+
+  Terima kasih sudah mampir! Kalau ada kritik atau saran dari Pak Dhika dan teman-teman, saya akan sangat senang menerimanya 😊
+
+<br>   
+
+7. []  
+   **devanka**
+
+  Halo, selamat sore, Pak Dhika dan teman-teman WPU. Saya Devanka, ingin share project hasil belajar saya setelah *bolak-balik* menonton tutorial manipulasi DOM dengan javascript, dan sass, tentu saja di channel WPU. Meskipun power-power yang dimiliki sass tidak begitu digunakan di sini. 
+
+  Project ini bernama **Kirimin Messenger**, sebuah aplikasi chatting mainstream, yang hingga saat ini belum saya ketahui keunggulannya. Pertama kali dikerjakan saat belajar dasar-dasar javascript dari channel WPU. Motivasi diteruskannya project ini adalah untuk sedikit lebih mendalami TypeScript.
+
+  > [!TIP]
+  > Tested Browsers: Safari 605, Chrome 72, Firefox 59
+
+  Fitur:
+  - Chat Pribadi & Grup
+  - Video & Voice Call
+  - Profil User
+  - Postingan Publik
+  - GenAI Chat
+
+  Bikinnya pake
+  - Express
+  - Express Session (OAuth: Google, Discord, GitHub)
+  - Nodemailer
+  - WebSocket & RTCPeerConnection
+  - Coturn (NAT Traversal, STUN/TURN)
+  - Google GenAI API
+  - TypeScript (BE - FE)
+  - SCSS
+  - TypeScript Go & Webpack
+
+  Repository: [github.com/devanka761/chat-app](https://github.com/devanka761/chat-app)
+
+  API Docs: [devanka761.github.io/kirimin-docs](https://devanka761.github.io/kirimin-docs)
+
+  Live Demo: [kirimin.devanka.id](https://kirimin.devanka.id/#credits)
+
+  Dipersilakan untuk ide expand ke mobile/desktop. Dokumentasi API akan saya terus kembangkan setidaknya jika sempat. Kritik, saran, dan masukkan sangat diperlukan untuk perkembangan dan perbaikan kedepannya.
+
+<br>   
+
+8. [https://calculator-iota-smoky.vercel.app/]  
+   **Aqil not Akil**
+
+  Assalamualaikum dan selamat Pagi, Siang, Sore, Malam dan kapanpun kalian membaca pesanku ini man-teman
+  Asik sekali rasanya mempelajari pemrograman ini hingga dapat membantu saya melupakan rasa sakit hati saya yang ditinggal pujaan hati, sudah lebih dari 1 ,5 bulan saya mempelajari web development  dan berikut merupakan project yang saya kerjakan, berawal dari video tutorial di youtube hingga saya bisa membuat website yang ala kadarnya ini yaitu :
+
+  Calculator yang dapat mengarahkan teman-teman sekalian ke link web yang teman-teman input, masih banyak kekurangan tapi insyaAllah kusahakan untuk selalu improve 
+
+  TechStack
+  - HTML
+  - CSS (TailwindCSS)
+  - Javascript
+
+  github repo : https://github.com/Korban-HTS3Bulan/Calculator
+  web : https://calculator-iota-smoky.vercel.app/
+
+  Jikalau teman-teman tidak keberatan untuk memberikan saran maupun tanggapan silahkan demi perkembangan saya di masa depan 🙏
+
+<br>   
+
+9. [https://creativeclub.vercel.app/]  
+   **Balsss**
+
+  Assalamualaikum,🙌  halo pa dhika dan kawan" wpu. Pada kesempatan ini izin kan saya untuk melakukan showcase sebuah project saya yang cukup sederhana. Project kali ini saya beri nama yaitu creative club, creative club merupakan sebuah project open source yang berisi  kumpulan animasi sederhana hasil pembelajaran saya selama 2 minggu akhir" ini menggunakan gsap untuk tech stack cukup sederhana juga yaitu html, css, dan sedikit menggunakan gsap, mungkin 2 atau 3 bulan kedepan baru bisa menggunakan framework js seperti nuxt atau next untuk membuat animasi yang cukup advance bagi saya seperti custom page transition, 3d animation, atau yang menurut saya masih cukup sulit untuk di pelajari saat ini yaitu svg animation. Project ini terbentuk berawal dari melihat beberapa web dengan animasi yang cukup sederhana namun memanjakan mata dan juga video tutorial di youtube, salah satu website yang membuat saya terinspirasi untuk mempelajari animasi/menggunakan gsap yaitu dari web elementis.co, web buatan mas <@409447589272879104> dari web ini saya terpukau dengan animasi nya, nah dari situ saya mulai untuk mencoba untuk memperdalam library gsap. Oh iya sebelum nya mas <@409447589272879104> aku izin menggunakan web tersebut sebagai tempat belajar/refrensi untuk membuat animasi.
+
+  Link website : https://creativeclub.vercel.app/
+  Link Repository : https://github.com/Ibaliqbal/gsap-collection
+
+  Jika teman-teman suka dengan animasi yang saya buat, jangan lupa untuk meninggalkan jejak dengan memberikan star pada repo nya supaya saya semakin tambah semangat untuk membuat animasi/membuat ulang animasi yang sudah ada. untuk demo nya teman" bisa lihat di instagram aku @muthahhary_iqbal terimakasih 🙏🙏 (use desktop view for more experience)
+
+<br>   
+
+10. [https://irtideath.vercel.app/]  
+   **yawsudah**
+
+  Halo Semuanya 👋😳
+
+  Halo Pak Sandhika Galih 👋😳
+
+  Perkenalkan nama saya Al Sakha. Saya mohon izin untuk mengikuti showcase project.
+  Saya ingin showcase project personal website portfolio.
+
+  Tech stack saya ada
+
+  - Typescript
+  - Next.js
+  - Tailwind CSS & Radix UI
+  - Motion
+  - MDX
+
+  Berikut untuk link nya
+  Demo : https://irtideath.vercel.app/
+
+  Dan jika ingin mengunjungi repo nya
+  Github : https://github.com/IRTIDEATH/Al-Sakha
+
+  Jika ada kritik dan saran dipersilahkan.
+  Jadi itu saja dari saya, Terima Kasih banyak, maaf jika ada kesalahan kata.
+
+<br>   
+<br>
