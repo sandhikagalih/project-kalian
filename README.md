@@ -4731,3 +4731,255 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>   
 <br>
+
+### 6 September 2025
+
+1. [https://pow.kim]  
+   **pow**
+
+  selamat malam semuanya,
+
+  malam ini saya mau share project saya yaitu personal web saya (yang keempat kalinya :v). tapi saya rasa kali ini adalah akhir dari perjalanan eksperimen personal website saya, karena setelah 4 kali berganti tech stack dan design, kali ini saya benar-benar niat untuk fokus ke penbuatan kontennya. 
+
+  website ini saya bangun pakai **sveltekit** sebagai main stack, **mdsvex** untuk menulis artikel, **tailwind css** untuk styling, **neon** untuk nyimpan data [guest book](https://pow.kim/guest-book), dan semuanya dideploy ke **cloudflare workers**. untuk yang lainnya bisa cek di repo atau ke halaman [attributions](https://pow.kim/attributions).
+
+  yang menjadi tantangan kali ini bukan saat developmentnya, tapi saat deployment. karena cloudflare workers sangat berbeda dengan node.js, saya harus mengubah beberapa bagian kode supaya semuanya bisa jalan dengan lancar.
+
+  saya anggap website ini bukan cuma sebagai portfolio, tapi lebih seperti catatan pribadi. tempat untuk nulis pemikiran, eksperimen, projek yang pernah saya buat, snippet yang sering saya pakai, sampai tujuan hidup saya juga ada di situ. 
+
+  di project ini juga saya tidak mengikuti tren penghitaman website :v dimana "modern" website sekarang berwarna gelap dan glowing dimana-mana, juga saya tidak melakukan scrolljacking dan animasi karena saya kali ini lebih mengutamakan kenyamanan user saat membaca di website saya.
+
+  url: https://pow.kim
+  repo: https://github.com/kimmyxpow/pow
+
+  jangan lupa isi guest book-nya :v terima kasih banyak.
+
+<br>
+
+2. [https://flappymon.javakoding.com/]  
+   **Redash**
+
+  Selamat malam semuanya, kenalin nama aku Ashof Zulkarnaen
+
+  Aku mau share project portfolio-ku, yaitu sebuah game web3 yang aku buat sendiri dari nol. Awalnya memang dari niat pengen bikin project yang serius, bukan cuma iseng, biar bisa aku masukin ke portfolio dan nunjukin skill aku di web dev dan blockchain.
+  Aku combine dua hal yang aku suka: game development dan teknologi blockchain. Ternyata nyambungin keduanya nggak semudah yang kupikir—apalagi ini pertama kalinya aku nyoba integrasi wallet, smart contract, dan game engine secara langsung. Tapi di situlah tantangannya, dan banyak banget hal baru yang akhirnya aku pelajari.
+
+  Game ini kubuat pakai:
+  - Phaser.js buat logic dan visual gamenya,
+  - Next.js 15 untuk nanganin frontend & backend,
+  - TypeScript biar lebih aman dan rapi,
+  - Wagmi + Viem untuk koneksi wallet dan interaksi smart contract,
+  - Solidity buat smart contract-nya,
+  - Sepolia testnet untuk uji coba semua fitur Web3-nya.
+
+  Semua logika kayak gacha, minting skill NFT, sampai marketplace pakai smart contract custom yang aku deploy sendiri. Selain itu juga aku pakai konsep gasless transaction pakai EIP-2612 permit biar UX-nya lebih nyaman.
+
+  Tapi ya, tolong maklumi, ini masih versi awal banget, dan masih banyak yang belum mulus. Kadang ada beberapa halaman yang butuh waktu buat loading atau bahkan harus di-refresh dulu biar data terbaru muncul.
+
+  Oh iya, untuk sekarang masih jalan di Ethereum testnet (Sepolia), tapi aku juga lagi ngulik versi Solana-nya, karena biaya transaksi di sana lebih rendah dan performanya lebih cepat.
+
+  Intinya, project ini aku bikin sebagai bukti nyata dari apa yang udah aku pelajari selama ini di dunia web development dan blockchain. Harapannya, ini bisa jadi langkah awal buat eksplor lebih dalam lagi ke dunia Web3.
+
+  Github Repository: https://github.com/i-Programer/flappymon
+  Demo Website: https://flappymon.javakoding.com/
+  Whitepaper: https://flappymonwhitepaper.javakoding.com/
+
+<br>
+
+3. [https://hashire.my.id]  
+   **SiBagood**
+
+  selamat malam semuanya, semoga sehat selalu!. belakangan ini lagi rame kuda-kudaann 🏇, jadi kepikiran desain web sederhana untuk memuat informasi kuda-kuda pacu di indonesia, untuk sumber datanya dari studbook indonesia dan PORDASI walaupun datanya terbatas. 
+
+  ohh iya mungkin nanti webnya kurang responsive dan agak lama loadingnya (karena ada 3d model yang perlu didownload kisaran 23mb)
+
+  web : https://hashire.my.id
+  repo : https://github.com/bagusindrayana/hashire-svelte
+
+  Stack :
+  Sveltekit
+  Tailwindcss
+  Three Js
+  Three VRM
+
+  Credit :
+  3D Model : Vroid Studio
+  Animasi : Mixamo
+
+<br>
+
+4. [https://odhyp.com/]  
+   **odai**
+
+  Selamat malam Pak Dhika dan temen" WPU semuanya
+
+  Perkenalkan nama saya Odi, saya ingin showcase project saya untuk pertama kalinya. Project kali ini adalah personal website yang sederhana dan minimalis, yang tujuan utamanya untuk tempat sharing tulisan saya
+
+  Saya bangun website ini dengan __Hugo__ (static site generator), __Markdown__ untuk pembuatan content, __TailwindCSS__ untuk styling, __Giscus__ untuk comment, __JavaScript__ dan __Bash__ untuk pemanis lainnya. Website dideploy ke __Cloudflare Pages__
+
+  Repo: https://github.com/odhyp/odhyp.com
+  Live: https://odhyp.com/
+  Guestbook: https://odhyp.com/guestbook/
+
+  Mohon kritik, saran, dan "say hi"-nya di guestbook <:gud:976023133481996298> 
+  Terima kasih semuanya!
+
+<br>
+
+5. [https://bchainchat.vercel.app]  
+   **zaadevofc**
+
+  Hallo guys gw Kejaa, akhirnya showcase lagi setelah di landa sama beberapa proyek pemerintah. Kali ini mau refreshing belajar Blockchain, penasaran sama konsepnya, terus kepikiran bikin Global Chat App, cukup simple dan tanpa database.
+
+  Stacknya:
+  - Ethers
+  - Hardhat
+  - Solidity
+  - HTML + JS + Tailwind
+
+  Login nya pakai MetaMask (pastiin sudah install extension nya) atau kalau bingung https://metamask.io
+
+  Demo: https://bchainchat.vercel.app
+  Repo: https://github.com/zeative/chat-blockchain
+
+  Berikan saran mu guys tuk projek yang out-of-planet, thank u pak sandika and you all guys 😊
+
+<br>
+
+6. [https://salmoon.vercel.app]  
+   **mon**
+
+  Malam semuanya,
+
+  Udah lama ga showcase _project_ karena level kena reset hehe
+
+  Ini portfolio yang udah ku bangun dan _upgrade_ dari tahun ke tahun, sekarang udah di-_upgrade_ ke Next 14 dan Tailwind V4, pake Typescript + GraphQL + MDX (Velite)
+
+  Repo: https://github.com/msafdev/salmoon
+  Live: https://salmoon.vercel.app
+
+  Beberapa _link_ yang mungkin bisa dilihat:
+  - guestbook: https://salmoon.vercel.app/guestbook
+  - learn: https://salmoon.vercel.app/learn
+  - contact: https://salmoon.vercel.app/contact (Integrasi dengan Google Calendar)
+  - lab: https://salmoon.vercel.app/lab
+  - material: https://salmoon.vercel.app/material
+  - personal: https://salmoon.vercel.app/personal
+  - bucket-list: https://salmoon.vercel.app/bucket-list
+
+<br>
+
+7. [https://anonlib.anonhs.icu/public/index.php]  
+   **Nameraid**
+
+  ## 📚 Anondir — Web-based Digital Library  
+
+  Hey everyone! perkenalkan aku adalah nemraid disini Aku baru aja ngerjain project bernama **Anondir**, sebuah **perpustakaan digital berbasis web**.  
+
+  ### ✨ Fitur Utama
+  - 📖 Upload & share buku digital (PDF)  
+  - ✍️ Menulis & mempublikasikan cerita sendiri  
+  - 🕊️ Gratis & anonim, tanpa batasan identitas  
+  - 🤝 Ruang aman & inklusif untuk penulis indie, pelajar, dan pembaca  
+
+  ### ⚙️ Teknologi
+  - Dibangun dengan **Laravel**  
+  - Sebelumnya aku biasa pakai **vanilla PHP** → jadi ini project **pertama kali** pakai framework 🚀  
+
+  ### ⚠️ Catatan
+  Karena ini masih **percobaan pertama dengan Laravel**, mungkin masih ada bug/error 😅  
+  Mohon dimaklumi & aku sangat terbuka dengan **masukan/saran** dari kalian 🙏  
+
+  ### 🔗 Link
+  - 📂 Repository: [GitHub](https://github.com/n3mr1d/libanon)  
+  - 🌍 Demo: [Anondir Demo](https://anonlib.anonhs.icu/public/index.php)  
+
+  ### 🤝 Kontribusi
+  Kalau ada yang ingin **berkontribusi di Anondir** (misalnya menambahkan fitur baru, memperbaiki bug, atau ide lain), langsung aja **commit/PR di GitHub** repo di atas 🚀  
+  *(Kecepatan upload agak lemot karena pakai server gratisan 😅)*  
+
+  > 💡 **Catatan dari sesama penulis:**  
+  > Meski hidup kadang terasa berat atau penuh kesulitan, jangan pernah menyerah.  
+  > Kamu selalu bisa menuliskan ceritamu sendiri — di mana kamu berhak menentukan jalan hidupmu, sesuai dengan apa yang kamu inginkan.  
+  > meski aku berharap titik koma hilang :))
+
+<br>
+
+8. [https://hire-filter.vercel.app]  
+   **im niner**
+
+  halo saya joan, mahasiswa telkom bandung, karena saya lagi bosan dan inseng buat projek ini dan saya rasa keren jadi saya showcase aja
+
+  ‼️KALO MAU NYOBA, WAJIB SEDIAIN ZIP YG BERISI CV-CV BUAT BAHAN PERCOBAAN‼️
+
+  tech stack : next js, tailwind css
+
+  🚀 Perkenalkan: Hire Filter – Platform yang mempermudah HR dalam proses seleksi CV! 🎯
+
+  🔍 Fitur Utama:
+  1️⃣ Upload ZIP berisi banyak CV sekaligus
+  2️⃣ CV otomatis dirender ulang di halaman khusus
+  3️⃣ Search keyword untuk menemukan kandidat sesuai kebutuhan
+  4️⃣ Lihat & download CV dengan sekali klik
+
+  Dengan Hire Filter, proses screening kandidat jadi lebih cepat, rapi, dan efisien.
+  Tidak perlu lagi membuka file CV satu per satu – cukup cari, temukan, dan ambil yang terbaik! 💼✨
+
+  🌐 Coba sekarang di: https://hire-filter.vercel.app
+
+  github : https://github.com/joanpurbaa/hire-filter
+
+<br>
+
+9. [https://prayer-schedules.vercel.app/]  
+   **Giri Diwa Adam**
+
+  Hallo pak Dhika dan temen-temen semua, saya Giri sudah lama nggak ikutan showcase  di server ini, kali ini saya mau nunjukin showcase baru saya tentang jadwal sholat. Ide showcase ini sendiri berawal Ketika saya sedang di kantor tidak sengaja terfikir buat jawal sholat untuk mempermudah saya mengetahui sudah masuk Waktu sholat atau belum.
+
+  Untuk Techstack sendiri bias di bilang nggak terlalu banyak, cuma pakai :
+  ** - AI Canva (Bantu Buat Desain Layout Frontend) **
+  ** - Shadcn UI (Combobox Menu Component)**
+  ** - Next JS (Frontend Untuk mengolah data dari My Qur'an API)**
+  ** - Chat GPT (Merubah Desain HTML AI Canva ke Next JS)**
+
+  ** Fitur : **
+  - Jadwal Sholat 
+  - Bisa pilih daerah
+
+
+  Mungkin terdengar sangat classic sih project saya yang satu ini, akan tetapi saya terus berusaha untuk berkembang ke depanya agar lebih baik lagi 
+
+  GITHUB :
+  https://github.com/giridiwa44/prayer-schedule
+
+  DEMO URL :
+  https://prayer-schedules.vercel.app/
+
+<br>
+
+10. [https://monli.fun]  
+   **kecoa jantan**
+
+  halo Pak Dhika dan teman-teman semua! 👋
+  udah lama nggak “pamer” di sini 😆. saya baru ngerilis Monli — aplikasi buat catat transaksi harian & budget bulanan, biar tiap akhir bulan nggak lagi nanya: “uangnya ke mana?” 💸
+
+
+  Tech:
+  - Nextjs
+  - Supabase (auth dan DB)
+
+  fitur utamanya:
+      •    Budget bulanan (account-agnostic): fokus ke bulan & kategori, bukan ribet pilih akun.
+      •    Transaksi cepat: expense / income / transfer — lengkap Budget Month (YYYY-MM) & Actual Date (YYYY-MM-DD).
+      •    Multi-akun: bank, e-wallet, & Cash (tarik tunai → otomatis pindah ke Cash).
+      •    Dashboard & grafik kategori: Planned vs Actual vs Diff — sekali lihat mana yang aman & mana yang kebablasan 📊
+      •    Mobile-first + Dark Mode, tombol “+ New Transaction” di dashboard.
+      •    Export CSV bulanan buat laporan/akuntansi.
+
+  coba langsung (demo):
+      •    App: https://monli.fun
+      •    Akun demo: test@monli.com / monlitest (data demo tersedia)
+      •    Source code: https://github.com/awahids/monli
+
+<br>
+<br>
