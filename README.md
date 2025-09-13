@@ -4983,3 +4983,234 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 13 September 2025
+
+1. [https://salmoon.vercel.app]  
+   **mon**
+
+  Malam semuanya,
+
+  Udah lama ga showcase _project_ karena level kena reset hehe
+
+  Ini portfolio yang udah ku bangun dan _upgrade_ dari tahun ke tahun, sekarang udah di-_upgrade_ ke Next 14 dan Tailwind V4, pake Typescript + GraphQL + MDX (Velite)
+
+  Repo: https://github.com/msafdev/salmoon
+  Live: https://salmoon.vercel.app
+
+  Beberapa _link_ yang mungkin bisa dilihat:
+  - guestbook: https://salmoon.vercel.app/guestbook
+  - learn: https://salmoon.vercel.app/learn
+  - contact: https://salmoon.vercel.app/contact (Integrasi dengan Google Calendar)
+  - lab: https://salmoon.vercel.app/lab
+  - material: https://salmoon.vercel.app/material
+  - personal: https://salmoon.vercel.app/personal
+  - bucket-list: https://salmoon.vercel.app/bucket-list
+
+<br>
+
+2. [https://ilhamranggakurniawan.vercel.app/]  
+   **IlhamRangga**
+
+  selamat sore semuanya 👋🏻
+  saya ilham rangga kurniawan, mau ikut showcase project lagi di server ini. Kali ini saya mau memamerkan project website portofolio sederhana yang saya buat dalam 2 hari, karena lagi iseng aja dan bingung mau buat projek apa
+
+  tech stack yang dipakai:
+  - React JS
+  - Tailwind CSS
+
+  Demo: https://ilhamranggakurniawan.vercel.app/
+  Repo: https://github.com/IlhamRanggaKurniawan/MyPortofolio
+
+  apabila ada yang butuh freelancer / mau ngerjain projek bareng, bisa langsung dm aja 💬
+
+  terimakasih semuanya
+
+<br>
+
+3. [https://mailtemp.my.id]  
+   **Bellawan Kusuma Aji**
+
+  **MailTemp (A Free Temporary Email Address)**
+
+  Selamat Malam Pak Dhika, perkenankan saya untuk submit showcase project sederhana yang mungkin akan berguna bagi para khalayak. Project ini berupa website untuk memberikan alamat email dan inbox gratis temporer. Mungkin bisa digunakan untuk mendaftarkan akun kawan2 di website yang mungkin dirasa kurang aman, atau kebutuhan lain yang cukup menggunakan email sekali saja. Bisa juga untuk coba register ke showcaster project lain tanpa harus menggunakan email pribadi.
+
+  Project ini terdiri dari 2 bagian, Main App dan Worker. Main App berupa website dan Worker berupa service yang menangkap email dan meneruskan ke API Main App dengan memanfaatkan fitur worker dari Cloudflare.
+
+  Fitur:
+
+  - Temporary email addresses, yang auto-expire setelah 1 jam tidak aktif (terima email)
+  - Tidak perlu akun atau sign up
+  - Pakai email yang sudah pernah tergenerate, atau buat baru
+  - Access token untuk gunakan email yang sudah tergenerate
+  - Attchment dan Gambar mungkin akan dibatasi
+
+  Tech Stack:
+
+  1. NextJS
+  2. TailwindCSS
+  3. Prisma ORM
+  4. Upstash Redis
+  5. Cloudflare Worker and Email
+
+  Link Repo: https://github.com/belankus/mailtemp
+
+  Live Demo: https://mailtemp.my.id
+
+<br>
+
+4. [https://death-typing.pages.dev]  
+   **SiBagood**
+
+  selamat malam lagi semuanya
+  semoga sehat dan bahagia selalu...
+
+  ijinkan saya share project iseng yang saya buat, project ini adalah web typing test sederhana dengan tema meme "Death Note". saya buat dengan sveltekit, tailwind dan page-flip js untuk efek bukunya.
+  untuk sekarang baru kata-kata/kalimat bahasa inggris dan indonesia dan webnya cuma support desktop
+
+  stack :
+  sveltekit
+  tailwind
+  page-flip js
+
+  web : https://death-typing.pages.dev
+  repo : https://github.com/bagusindrayana/death-typing
+
+<br>
+
+5. [https://github.com/AngkasaMuhammad/Silsilatayn-tanam-apokat]  
+   **⚙⚙WowGGGearing⚙⚙**
+
+  Bismillaahirrahmaanirrahiim
+  Assalaamu'alaykum Wr wb.
+
+  Animasi seorang petarung aku suruh tanam apokat 🥑🥑
+  Aku mau programmer juga animating, minimal utakatik warna bajunya 🧥 character, silakan baca reponya
+  `Jadi orang tidak cuma ahli main game, jadi orang juga ahli bikin game...`
+  Sebelum ke repo, monngo mampir sebentar ke https://kirim.in/u/AngkasaMuhammad/
+
+  Baru:
+  - Reset time/Replay
+  - Reset speed
+
+  Editor:
+  - Blender 4.3.0
+  - Text Area Kelap Kelip https://github.com/AngkasaMuhammad/TextAreaKelapKelip
+  - Notepad++
+
+  library:
+  - wgpu-matrix https://wgpu-matrix.org/docs/
+
+  Repo: https://github.com/AngkasaMuhammad/Silsilatayn-tanam-apokat
+  #### Buka dengan Chrome & Edge
+
+  #### ---------------------------
+  ####  🆓🆓 🇵🇸 🇱🇧 +Syria
+
+  Maturnuwun.
+
+<br>
+
+6. [https://filbot-3d.vercel.app/]  
+   **Filbert Fernandes**
+
+  Halo Pak Dhika dan teman-teman semua, perkenalkan kembali saya Filbert Fernandes.
+
+  Saya ingin share project dengan 3D experience lagi, yaitu FILBOT.
+
+  Idenya: sebuah website company profile (perusahaan fiksi) yang “menjual” robot. Di website ini, kita bisa ubah warna robot, menempelkan sticker image ke robotnya, cek fitur-fitur highlight dari robotnya, dan ada sedikit scroll animation. Mata robotnya juga akan mengikuti arah cursor kita.
+
+  3D model yang digunakan pada website ini diambil dari Sketchfab dengan lisensi CC, lalu saya edit di Blender supaya lebih mudah diintegrasikan ke dalam code.
+
+  Tech stack: 
+  - Three.js + React (React Three Fiber)
+  - GSAP
+  - Zustand
+  - Blender (untuk membuat animasi mata robot berkedip)
+
+  Live: https://filbot-3d.vercel.app/
+  GitHub Repo: https://github.com/filbertfernandes/filbot-3d
+
+  Terima kasih!!
+
+<br>
+
+7. [https://akbarknawan.vercel.app/]  
+   **aseppp**
+
+  Halo pak Dhika dan teman teman, aku Akbar
+  Dan kali ini saya mau showcase lagi, setelah dua kali ikut showcase baru pede mau ngasih liat web portfolio yang sederhana ini
+  Seperti web portfolio pada umumnya, web ini buat orang lebih mengenal saya dan mamerin project-project yang sudah saya buat sebelumnya
+
+  Stack yang dipake:
+  Seperti biasa next.js, shadcn, dan react bits
+
+  Live website: https://akbarknawan.vercel.app/
+  Github repo: tidak tersedia - private karena code berantakan 🙁
+
+  Terimakasih semua!
+
+<br>
+
+8. [https://kotoba-web.deno.dev]  
+   **神崎アフル**
+
+  Selamat Malam Pak Dhika,
+
+  Saya Fathul basyair pak, ingin submit showcase project sederhana yang lahir dari semangat saya belajar bahasa Jepang. Saat belajar, saya sering merasa butuh media yang praktis untuk mengingat kosakata sehari-hari. Dari situlah muncul ide membuat website ini, terinspirasi dari konsep flashcard, agar bisa dipakai bukan hanya oleh saya, tapi juga oleh teman-teman lain yang sedang belajar bahasa Jepang.
+
+  Kotoba-Web adalah website kosakata bahasa Jepang yang menampilkan arti, bacaan (furigana), dan contoh penggunaan. Harapannya bisa menjadi teman belajar ringan yang bisa diakses kapan saja tanpa perlu instal aplikasi tambahan.
+
+  Fitur:
+  - Daftar kosakata bahasa Jepang dengan arti bahasa Indonesia
+  - Furigana otomatis untuk membantu membaca kanji
+  - Mode kuis sederhana berbasis flashcard
+  - Tampilan ringan dan sederhana, cukup dibuka lewat browser
+
+  Tech Stack:
+  - Fresh (Deno)
+  - TailwindCSS
+  - Firebase Database
+
+  Link Repo: https://github.com/basyair7/Kotoba-Web
+  Live Demo: https://kotoba-web.deno.dev
+
+  Terima kasih semuanya, ありがとうございます 😄
+
+<br>
+
+9. [https://myslip.vercel.app/]  
+   **Dexter**
+
+  Selamat pagi semuanya.
+
+  Kali ini saya ingin share project sederhana saya, project ini adalah web buat nyatet pemasukan/pengeluaran dengan nama "MySlip", btw project ini baru MVP.
+
+  stack:
+  React 
+  Tailwind 
+  Recharts 
+  Dexie
+
+  Website : https://myslip.vercel.app/
+
+<br>
+
+10. [https://dhitzdev.vercel.app/]  
+   **dhitznswa**
+
+  Halo Pa Dhika dan teman teman sepuh web developer👋🏻
+
+  Kali ini saya mau share project kecil-kecilan saya nih, web portfolio yang dibuat dengan :
+
+  NextJS
+  TailwindCSS + Shadcn Ui
+  Motion
+
+  Website: https://dhitzdev.vercel.app/
+
+  Next nya kalo ada kesempatan lagi saya ingin share project saya D'Shows yang sedang saya buat.
+  Terima kasih semuanya.
+
+<br>
+<br>
