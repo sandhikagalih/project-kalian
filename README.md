@@ -5214,3 +5214,257 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 4 Oktober 2025
+
+1. [https://photobooth-miftah.vercel.app/]  
+   **M. Miftahurrahman**
+
+  Haloo Pak dhika & semuanya, Nama saya Muhammad Miftahurrahman. Kali ini saya akan pamerin project saya yang ke 2x yaitu project Photo Booth, web ini dibuat karena iseng dan ingin mencoba hal unik dan lucu agar orang lain dapat merasakan photo booth . dan untuk saat ini website masih dalam tahap pengembangan lebih lanjut, jadi tidak bisa share secara public untuk link github nya.
+
+  Fitur :
+  - Bisa memilih waktu
+  - Filter
+  - Jumlah Take foto
+  - Tata letak foto seperti :  Strip / Grid 2x2
+  - Bisa pilih frame
+  - Bisa download gambar nya
+
+  Tech Stack :
+  - React JS
+  - TailwindCSS
+
+  Link Website : https://photobooth-miftah.vercel.app/
+
+  Terima Kasih
+
+<br>
+
+2. [https://whdzera.github.io/totp]  
+   **whdzera**
+
+  Halo pak dhika dan semuanya,
+  saya mau share project aplikasi web sederhana untuk mengelola kode TOTP (time-based one-time password), seperti google authenticator.
+  disini data nya disimpan di localstorage browser.
+
+  Tech Stack :
+  Jekyll
+  Vite
+  Stimulus.js
+  jsSHA
+  Tailwindcss
+
+  Link : https://whdzera.github.io/totp
+  Repo : https://github.com/whdzera/totp
+
+<br>
+
+3. [https://github.com/araxnoid-code/ROTTA-rs]  
+   **araxnoid**
+
+  Halo pak dhika dan teman teman, perkenalkan nama saya araxnoid bisa di panggil arax. dan kali ini saya ingin memperkenalkan project library deeplearning untuk membuat AI menggunakan `rust`  yaitu `ROTTA-rs` yang telah pak dhika showcase saat versi `0.0.5` dan kini telah di update menjadi versi `0.1.0` yang merupakan `stable` pertama dari ROTTA-rs saat ini.
+
+  bisa langsung diakses repo nya melalui link ini:
+  https://github.com/araxnoid-code/ROTTA-rs
+
+  Tech Stack:
+  - rust language
+
+  # Backstory pengembangan ROTTA-rs
+  karena ini versi `stable` maka saya akan memberikan sejarah pengembangan ROTTA-rs secara singkat.
+  saya awalnya menggunakan `python` dan menggunakan `pytorch` untuk membuat AI depplearning. setelah beberapa lama saya memutuskan untuk mempelajari `rust` dan ingin menggunakan `rust` untuk mengembangkan `AI`. Namun saat itu saya merasakan bahwa library dan framework AI di rust saat itu sangatlah rumit dan terlalu teknis untuk digunakan oleh orang-orang yang hanya ingin membuat model AI saja. Karena saya menyukai syntax di rust dan juga menyukai penggunaan pytorch, karena itu saya berencana membuat sebuah `library AI DeppLearning di rust dengan penggunaan yang sederhana seperti di pytorch`, itulah visi dari ROTTA-rs.
+
+  Singkat cerita, sebelum dikembangkan di rust, saya terlebih dahulu mengembangkan prototipenya di javascript dan typescript saat saya SMA. Setelah setengah tahun saya memulai pengambangan `ROTTA` (saat itu masih belum bernama ROTTA-rs) lalu saat saya rewriting dengan nama `ROTTA-rs` yang dirilis versi `0.0.1` setelah beberapa bulan lulus SMA dan dikembangkan hingga saat ini. bisa dikatakan project ini telah di develop kurang lebih selama 2 tahun.
+
+  # Apa saja yang baru di versi `0.0.6` - `0.1.0`
+  bisa langsung dilihat melalui link ini:
+  https://github.com/araxnoid-code/ROTTA-rs/blob/main/version.md
+
+  # Tutorial
+  Bisa mempelajari bagaimana alur sederhana dalam menggunakan ROTTA-rs:
+  https://github.com/araxnoid-code/ROTTA-rs/blob/main/book/learn.md
+
+<br>
+
+4. [https://zeromix.pages.dev]  
+   **-Frieren And Fern**
+
+  ~ 🚀 Assalamualaikum, Halo Pak Dhika dan teman-teman semua!
+
+  ~ Perkenalkan, saya Zaki. Hari ini saya ingin memamerkan Update project saya yang kemarin telah rilis.
+  - Shourcut New : ctrl+enter -> Open default Browsers Enter biasah Dekstop Only..
+  ~ Sekali lagi terima kasih sudah review, Pak Dhika 🙏
+
+  ~ 📎 : Source Code & Demo
+  ~ 🔗 : GitHub: https://github.com/faizinuha/ZeroSrc
+  ~ 📥 : Download: (https://mega.nz/folder/uEdWTbSJ#y1bCKlrXXy93gi3e5zeBXA)
+  ~🔗  : Website sederhana untuk informasi lebih terbuka: https://zeromix.pages.dev
+
+  ~ ✨ Update Terbaru 1.5.5:
+  ~ - Nama project kini menjadi **ZeroMix** → karena menurut kami lebih cocok, artinya “Campuran dari berbagai teknologi dalam satu wadah”.
+  ~ - **UI baru yang lebih clean & modern**, →  **Animasi saat search bar Saat muncul** 
+  ~ - **Auto Suggestion (Desktop Only)** untuk mempercepat pencarian, 1 Kata aplikasi di Dekstop.
+  ~ - Versi **Versi Extension** lengkap dengan API Suggestion → cukup tekan `Ctrl + Shift + Space` untuk langsung search. 
+  ~   Terinspirasi dari Opera GX, tapi dengan sentuhan khas kami.
+  ~ - Note : Update 1.5.5 ini tidak banyak Tapi Lebih menyempurnakan Fitur dari Sebelumnya ( terkena Bugs )
+
+
+  Tech Vers Chrom : 
+  ~ - **Html + Css + Javascript + Api Google **
+  ~ - ** Manifest.json Versi V3 **
+
+  ~ 🤝 Open for Feedback!
+  ~ Kalau teman-teman punya ide, saran, atau sekadar mau coba versi demonya — 
+  ~ feel free join Discord saya, kirim feedback via GitHub Issues, 
+  ~ atau bahkan fork & bikin branch sendiri karena project ini open source.
+
+  ~ Terima kasih banyak Pak Dhika dan semua teman-teman 🙏
+  ~ (By the way, saya pakai email kakak saya, jadi GitHub masih atas nama kakak saya 😅)
+
+  ~ — Zaki, Pembuat ZeroMix
+
+<br>
+
+5. [https://github.com/0xFA99/Pixie]  
+   **mochi**
+
+  Halo Pak Dhika dan teman-teman WPU.
+  Saya mau coba ikutan showcase project. Project saya ini game sederhana yang belum selesai sepenuhnya, masih belajar soal game-dev untuk implementasi semua fiturnya.
+
+  Project ini menggunakan teknologi:
+  - Assembly (FASM) - Sekalian belajar asm.
+  - SIMD (SSE) - mau pakai AVX belum nemu case yang cocok.
+  - Raylib
+  - Linux x86_64 only
+  - GNU ld & make - untuk pura-pura otomatis.
+
+  **Fitur Saat ini**
+  - DrawSprite
+  - Camera2D
+  - FlipSprite
+  - Sprite Animation
+  - Movement
+  - Parallax Background
+
+  **Recana Kedepan**
+  - Buat Camera Linear Interpolation
+  - Tilemap
+
+  **Disclaimer**
+  - Memory sedikit lebih besar (VIRT 383MB, MEM% < 100MB) untuk alignment + SIMD.
+
+  https://github.com/0xFA99/Pixie
+
+<br>
+
+6. [https://kynay-assistent.vercel.app]  
+   **Farhan**
+
+  Assalamu’alaikum warahmatullahi wabarakatuh.
+  Salam hormat saya sampaikan kepada Bapak Sandhika Galih dan para senior di sini.
+
+  Saya ingin memperkenalkan project saya, Kynay Assistant (🌐 https://kynay-assistent.vercel.app), sebuah aplikasi web asisten cerdas berbasis percakapan. Walaupun dibangun secara mandiri, project ini saya rancang dengan standar setara platform AI modern seperti DeepSeek, Gemini, GPT, dan Claude.
+
+  Fitur utama yang tersedia meliputi login & registrasi dengan token, manajemen sesi chat (buat, rename, hapus), memori kontekstual agar AI dapat mengingat percakapan, interaksi multimodal melalui teks maupun suara, serta antarmuka modern responsif dengan animasi GSAP dan AOS.
+
+  Tech stack yang saya gunakan adalah HTML, JavaScript, TailwindCSS, GSAP, AOS, Font Awesome, dan Web Speech API di sisi frontend, serta Node.js, Express.js, REST API, dan JWT di sisi backend. Frontend di-host di Vercel dengan konfigurasi proxy vercel.json, sedangkan backend berjalan di panel Pterodactyl HTTP.
+
+  Project ini saya kembangkan menggunakan perangkat sederhana yaitu Android Oppo A12 (3/32 GB) dengan editor dari Play Store. Tantangan terbesar adalah konflik HTTP–HTTPS ketika menghubungkan backend dan frontend, namun berhasil saya atasi melalui konfigurasi proxy di Vercel.
+
+  Saya sendiri adalah Farhan Kertadiwangsa, berusia 13 tahun, seorang full stack developer otodidak dengan pengalaman lebih dari 3 tahun mendalami JavaScript. Project ini merupakan project ke-13 yang saya bangun untuk memperkuat portofolio dan mengasah kemampuan di bidang teknologi.untuk sourcodenya tidak saya share dulu karna masih berantakan banget
+
+<br>
+
+7. [https://fulusin.vercel.app/]  
+   **musyaffa**
+
+  Halo selamat malam Pa Dhika dan kawan-kawan semua, semoga semuanya dalam keadaan yang baik-baik saja ya dan sehat selalu ya. Saya Ammar izin untuk memperkenalkan project yang saya buat selama 2 bulan ini yang bertujuan untuk mencatat keuangan dari segi pemasukan dan pengeluaran. Project ini saya buat dengan menggunakan NextJs framework dengan dilengkapi PostgreSQL sebagai DBMS nya yang dibantu dengan Prisma ORM. Project ini juga sudah didukung dengan konfigurasi containerization dengan menggunakan Docker. Saya sangat ingin mendapatkan saran dan masukan dari Pa Dhika dan kawan-kawan agar saya dapat mengembangkan fitur-fitur dari project ini agar nantinya dapat bermanfaat bagi orang banyak. 
+
+  URL Project : 
+  https://fulusin.vercel.app/
+
+  URL Github :
+  https://github.com/ahmadammarm/fulusin
+
+  Sekian terima kasih semuanyaa
+
+<br>
+
+8. [https://arka-studio.vercel.app/]  
+   **awikwok-beut-dah**
+
+  Halo Pak Dika dan teman-teman semua. Perkenalkan saya Shifyan, kali ini mau share project pribadi yang lagi aku kerjain . 
+  Arka Studio, sistem booking studio foto berbasis Web.
+  Konsepnya simple: booking gampang tanpa login, cukup isi data → pilih paket & jadwal → selesai.
+
+  - Tech Stack:
+  Framework Fullstack: Next.js 15.3.5 (App Router + API Routes)
+  Runtime: Node.js
+  Database & ORM: PostgreSQL + Prisma
+  Styling & UI: Tailwind CSS v4, ShadCN/UI (Radix UI), Lucide React
+  State Management: Zustand
+  Dev Tools: ESLint, NPM, Turbopack
+
+  - Fitur Utama:
+  Multi-step booking dengan validasi
+  Manajemen paket foto (durasi, harga, dll)
+  Pemilihan jadwal dengan slot otomatis berurutan
+  Invoice unik auto-generate
+  Status booking: Pending → Paid → Completed/Cancel
+
+  URL Project:
+  https://arka-studio.vercel.app/
+
+  URL Github:
+  https://github.com/Shifyan/arka-studio
+
+  Mohon Kritik dan Sarannya, Terimakasih
+
+<br>
+
+9. [https://rzkyprasetyo.vercel.app/]  
+   **rzky**
+
+  Hallo Pak Dika dan Teman-teman semua, perkenalkan saya Rizky ingin men-showcase Web Portfolio saya yang berisikan project-project yang pernah saya kerjakan.
+
+  Link: https://rzkyprasetyo.vercel.app/ 
+
+  Build with: Next.js, Tailwindcss, GSAP
+
+  Saya open to hire atau kolaborasi untuk keperluan project. 
+  Terimakasih!.
+
+<br>
+
+10. [https://vnath-wisata.vercel.app/]  
+   **NATH_Ady**
+
+  Selamat malam, Pak Dhika dan teman-teman semua.
+
+  Perkenalkan, saya Nathan. Pada kesempatan kali ini, saya ingin memperkenalkan project kelima saya.
+  Kali ini yang ingin saya pamerkan yaitu projek web wisata saya.
+  Jadi, ini project kecil-kecilan yang dulu aku buat untuk tugas kuliah. Awalnya project ini aku bikin pakai *PHP* (belajar dari materi Pak Dhika - Playlist PHP ). Karena tugasnya cuma butuh jalan di localhost dan aku nggak ada niat hosting, akhirnya aku bikin versi *frontend only* biar gampang dipamerin online.
+
+  Nah, jadilah website sederhana ini: **Pesona Flobamora** ✨
+  Kenapa namanya gitu? Karena isinya tentang destinasi wisata di **Nusa Tenggara Timur (NTT)**, yang juga sering disebut **Flobamora**.
+
+  **Apa aja isinya?**
+
+  * Beberapa halaman simpel buat showcase tempat wisata di NTT.
+  * Data tempat wisatanya disimpan di *array of objects JavaScript* (kontennya belum bisa dikatakan benar 😎).
+  * Ada *form kontak* yang langsung nyambung ke *Google Sheets* via *Sheet Monkey*.
+
+  **Tech stack:**
+
+  * *Vue.js*
+  * *Tailwind CSS*
+  * *Sheet Monkey API* buat form → Google Sheets.
+
+  Web ini masih simpel banget, lebih ke media buat pamer hasil belajar + nunjukin keindahan wisata NTT. Jadi kalau ada saran atau masukan, bakal aku terima dengan senang hati biar project ini bisa makin oke. 🙌
+
+  Tautan :
+  Website : https://vnath-wisata.vercel.app/
+  Repo : https://github.com/nathAd17/vnath-wisata
+
+<br>
+<br>
