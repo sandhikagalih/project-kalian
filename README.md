@@ -5270,17 +5270,17 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
   Tech Stack:
   - rust language
 
-  # Backstory pengembangan ROTTA-rs
+  ### Backstory pengembangan ROTTA-rs
   karena ini versi `stable` maka saya akan memberikan sejarah pengembangan ROTTA-rs secara singkat.
   saya awalnya menggunakan `python` dan menggunakan `pytorch` untuk membuat AI depplearning. setelah beberapa lama saya memutuskan untuk mempelajari `rust` dan ingin menggunakan `rust` untuk mengembangkan `AI`. Namun saat itu saya merasakan bahwa library dan framework AI di rust saat itu sangatlah rumit dan terlalu teknis untuk digunakan oleh orang-orang yang hanya ingin membuat model AI saja. Karena saya menyukai syntax di rust dan juga menyukai penggunaan pytorch, karena itu saya berencana membuat sebuah `library AI DeppLearning di rust dengan penggunaan yang sederhana seperti di pytorch`, itulah visi dari ROTTA-rs.
 
   Singkat cerita, sebelum dikembangkan di rust, saya terlebih dahulu mengembangkan prototipenya di javascript dan typescript saat saya SMA. Setelah setengah tahun saya memulai pengambangan `ROTTA` (saat itu masih belum bernama ROTTA-rs) lalu saat saya rewriting dengan nama `ROTTA-rs` yang dirilis versi `0.0.1` setelah beberapa bulan lulus SMA dan dikembangkan hingga saat ini. bisa dikatakan project ini telah di develop kurang lebih selama 2 tahun.
 
-  # Apa saja yang baru di versi `0.0.6` - `0.1.0`
+  ### Apa saja yang baru di versi `0.0.6` - `0.1.0`
   bisa langsung dilihat melalui link ini:
   https://github.com/araxnoid-code/ROTTA-rs/blob/main/version.md
 
-  # Tutorial
+  ### Tutorial
   Bisa mempelajari bagaimana alur sederhana dalam menggunakan ROTTA-rs:
   https://github.com/araxnoid-code/ROTTA-rs/blob/main/book/learn.md
 
