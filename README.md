@@ -5468,3 +5468,312 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 11 Oktober 2025
+
+1. [https://photographer-balssss-portfolio.vercel.app/]  
+   **Balsss**
+
+  Halo pa Dhika dan rekan-rekan wpu, pada kesempatan kali ini izinkan saya untuk showcase project yang sederhana saja. Project nya cuman berupa landing page portfolio untuk seorang photographer.
+
+  Site : https://photographer-balssss-portfolio.vercel.app/
+
+  Techstack : Nuxt, GSAP
+
+  Terimakasih!!
+
+<br>
+
+2. [https://dipa.koncohost.site]  
+   **!KochoDesu**
+
+  Hallo pa Dhika dan konco konco wpu, kenalin saya dipa, ini pertama kalinya saya ngirim project saya untuk di showcase, project sederhana dari saya sebagai halaman portofolio saya.
+
+  site : https://dipa.koncohost.site
+
+  Techstack : 
+  . JS
+  . GSAP
+  . TAILWIND
+
+  Terima kasih....
+
+<br>
+
+3. [https://marketplace.visualstudio.com/items?itemName=rizkykurniawan.dbml-previewer]  
+   **Rizky Kurniawan**
+
+  Halo Pak Dhika dan semuanya, saya Rizky Kurniawan. Izin share dan ikutan showcase project open source saya bernama DBML Previewer.
+
+  Ini adalah sebuah visual studio code extension untuk membuat menampilkan preview dari schema DBML dalam bentuk diagram. Project ini dibuat karena saya sering sekali nulis DBML sambil ngerjain aplikasinya.
+  Biasanya, saya menggunakan dbdiagram.io, tapi source nya akan tersimpan di situ dan saya perlu bolak-balik dari VSCode ke browser. Berhubung saya iseng dan kebetulan saya sedang coba pindah agent coding ke Claude,
+  akhirnya saya manfaatkanlah moment ini untuk sekalian bikin project :v.
+
+  Tech-stack yang digunakan:
+  - Javascript
+  - React
+  - XYFlow
+  - DBMl
+
+  Link GitHub: https://github.com/kykurniawan/vscode-dbml-previewer
+  Link VSCode Marketplace: https://marketplace.visualstudio.com/items?itemName=rizkykurniawan.dbml-previewer
+
+  Project-nya open source, jadi silahkan kalau teman-teman ada yang ingin ikut berkontribusi.
+
+  Terima kasih.
+
+<br>
+
+4. [https://ujian.nvteam.biz.id]  
+   **! Nizar**
+
+  Halo semuanya, perkenalkan saya Nizar Rahman.  
+  Ini adalah pertama kalinya saya ikut showcase project pribadi saya, yaitu **Aplikasi Ujian Online**.  
+
+  Project ini adalah sebuah platform ujian berbasis web yang memiliki 3 role utama: Admin, Guru, dan Siswa.  
+  Tujuannya untuk mempermudah manajemen soal, ujian, hasil, serta monitoring secara online.  
+
+  Pada sisi **Admin**, dapat mengelola user, kelas, mata pelajaran, bank soal, hingga token ujian.  
+  Pada sisi **Guru**, tersedia fitur untuk membuat soal/ujian, memantau ujian aktif, serta melihat hasil siswa.  
+  Sedangkan **Siswa** memiliki dashboard pribadi untuk mengikuti ujian, melihat riwayat, dan membaca pengumuman terbaru.  
+
+  Aplikasi ini juga sudah dilengkapi dengan sistem **anti-cheat**, di antaranya:  
+  - Anti copy/paste  
+  - Deteksi pindah tab/halaman  
+  - Lock fullscreen mode  
+  - Auto save jawaban  
+  - Log aktivitas peserta  
+
+  Tech-stack yang digunakan:  
+  - PHP  
+  - MySQL/MariaDB  
+  - TailwindCSS  
+  - Javascript    
+
+  link https://ujian.nvteam.biz.id  
+
+  akun peserta: 
+  username: test
+  password: test
+
+  akun admin dan guru nya aku kirim ke dm pak dhika
+
+  Mohon maaf, saya tidak bisa share source code dari project ini karena saya berencana menjual aplikasinya. Namun, saya tetap terbuka untuk diskusi, feedback, maupun kolaborasi.
+
+<br>
+
+5. [https://github.com/RenzMc/RenzmcLang]  
+   **RenzMc**
+
+  Halo semuanya!
+
+  Aku ingin memperkenalkan RenzmcLang, bahasa pemrograman yang menggunakan Bahasa Indonesia. Belajar coding jadi lebih mudah karena sintaksnya pakai kata-kata yang familiar, tetap bisa bikin program nyata.
+
+  Fitur utama:
+
+  Sintaks Bahasa Indonesia yang mudah dipahami
+
+  Pemrograman Berbasis Objek (kelas, konstruktor, metode)
+
+  Integrasi langsung dengan Python
+
+
+  Contoh cepat:
+
+  #### Kelas sederhana
+  kelas Mahasiswa:
+      konstruktor(nama, nim):
+          diri.nama itu nama
+          diri.nim itu nim
+      selesai
+
+      metode info():
+          tampilkan f"Nama: {diri.nama}, NIM: {diri.nim}"
+      selesai
+  selesai
+
+  mhs1 itu Mahasiswa("Budi Santoso", "12345")
+  mhs1.info()
+
+  #### Integrasi Python
+  impor_python "math"
+  tampilkan panggil_python math.sqrt(16)  # output: 4.0
+
+  Mau coba sendiri? Lihat di sini: https://github.com/RenzMc/RenzmcLang
+
+  atau install cepat *pip install renzmc*
+
+  Masukan & ide & issue dari kalian bakal bantu RenzmcLang jadi lebih powerfull.
+
+<br>
+
+6. [https://hekbai.jefripunza.com/]  
+   **Jefri Herdi Triyanto**
+
+  ### 🔥 Assalamualaikum, Halo Pak Dhika dan teman-teman semua!
+
+  - Perkenalan, saya **Jefri Herdi Triyanto**. Sudah lama tidak ikut showcase terakhir ketemu di acara GDE Jogja kemaren hehee, Hari ini saya ingin memamerkan **HEKBAI** project saya
+  • **Description** : ini adalah project untuk sekedar edukasi terhadap XSS (Cross Site Scripting) dan Web Attack Simulation Framework
+  • **Note** : ini adalah project yang dibuat untuk sekedar edukasi dan penelitian, jadi jangan sampai digunakan untuk serangan yang tidak sah.
+  - Sekali lagi terima kasih sudah review, Pak Dhika 🙏
+
+  #### 🔗 Source Code & Demo
+  - 🔧 : GitHub: https://github.com/jefripunza/hekbai
+  - 🔗 : Demo: https://hekbai.jefripunza.com/
+
+  #### 📚 Tutorial
+  - buka Web Demo
+  - masukkan room_id (bebas aja isi nya)
+  - klik tombol "Connect"
+  - masukkan configurasi
+  - klik tombol "Save Configuration"
+  - klik tombol "Copy Intercept Code"
+  - buka tab baru dengan akses website target, contoh saja misalnya https://dpr.go.id/
+  - pastekan intercept code di dalam inspect -> console
+  - kembali ke halaman hekbai dan klik tombol "Attack!"
+  - lalu kembali ke tab target dan Tadaa !!
+
+  #### 📋 Fitur
+  - **Real-time WebSocket Communication** - Komunikasi real-time antara attacker dan target
+  - **Anti-exit Protection** - Mekanisme perlindungan anti-keluar
+  - **Logo & Music Integration** - Integrasi logo dan musik dalam simulasi
+
+  ##### 🔧 Teknologi yang Digunakan
+  - **Backend**: TypeScript + Express.js + Websocket + Helmet.js + CORS + Bun Runtime
+  - **Frontend**: Vanilla
+  - **Database**: tidak ada
+
+  ##### 🎯 Web Attack Simulation Framework
+  - **Educational Purpose Only** - Framework untuk pembelajaran keamanan web
+
+<br>
+
+7. [https://zeromix.pages.dev/]  
+   **-Frieren And Fern**
+
+  Assalamualaikum, Halo Pak Dhika dan teman-teman semua!
+
+  Kita enggak perlu perkenalan dulu ya 🙂 Karena semua sudah kenal saya xixi. Tapi buat yang belum tahu, nama saya `Zaki`. Salam kenal 🙂
+
+  Hari ini saya mau memamerkan update terbaru yang baru saja rilis!
+  Karena Kemarin Belum Ada Penjelasan terkait Exstension Chrome Sekarang Kita sudah Sertakan Penjelasan di Bawah terima kasih : )
+
+  ---
+
+  Versi 1.6.0
+
+  `Peningkatan UI/UX:`
+
+  * Menambahkan ikon untuk membedakan antara Aplikasi Desktop (💻) dan Pencarian Web (🔍)
+  * Mengelompokkan hasil pencarian ke dalam kategori Aplikasi Desktop dan Pencarian Web agar tampilan lebih rapi
+  * Tampilan jendela modern: efek blur (frosted glass) dan bingkai halus ala macOS untuk kesan elegan dan profesional
+
+  `Perbaikan Logika Pencarian:`
+
+  * Memperbaiki bug di mana menekan Enter langsung mencari di web. Sekarang Enter akan memprioritaskan saran yang ada di daftar
+  * Menghilangkan bug auto-enter yang langsung menjalankan perintah saat memilih saran dengan tombol panah
+  * Peningkatan stabilitas: berbagai perbaikan kecil untuk meningkatkan performa dan pengalaman pengguna
+
+  ---
+
+  `Update di Extension Chrome:`
+  `Windows : Shourcut : Ctrl + shift + space `
+  MacBox Apakah Masih perlu kan udh canggih Xixix : )
+
+  1. Memperbaiki beberapa bug pada bagian ekstensi
+  2. Menambahkan fitur baru Seperti `History` , Memperjelas UI Dan Sebagainya Yang Belum Sempurna
+
+  ---
+
+  `Catatan:`
+  Jika menemukan bug atau kendala, silakan beri tahu kami. Masukan kalian sangat berarti untuk pengembangan selanjutnya. Terima kasih 🙂
+
+  `Link Download:` https://mega.nz/folder/uEdWTbSJ#y1bCKlrXXy93gi3e5zeBXA
+
+  `Website:` https://zeromix.pages.dev/
+
+  `GitHub:` https://github.com/faizinuha/ZeroSrc
+
+  `Demo versi 1.6.6:` Akan segera diperbarui!
+
+  Terima kasih : )
+
+<br>
+
+8. [https://makiapp.vercel.app/]  
+   **adityo
+**
+
+  ### Maki — Smooth scroll config generator for Lenis!
+  Assalamu'alaikum, Pak Dika dan teman-teman WPU semua! Izinkan saya perkenalkan diri, nama saya Ramz atau biasa dipanggil Adit, Kali ini saya akan showcase project kedua saya (terakhir showcase di tahun 2022, udah lama sekali ya wkwkwkkwk) yaitu Maki.
+
+  #### Maki itu apa?
+  Maki (巻, yang berarti gulungan) adalah sebuah tool generator kode sederhana untuk membuat sebuah kode konfigurasi untuk library smooth scroll, khususnya untuk Lenis! Tujuan dalam pembuatan projek ini adalah untuk memudahkan teman-teman dalam mengkonfigurasi smooth scroll yang pas buat website teman-teman, terutama yang berkutat di bidang web animation atau semacamnya.
+  #### Tech Stacks
+  1. NextJS
+  2. Tailwind
+  3. GSAP
+  4. Lottie
+  5. Lenis
+  #### Fitur-fitur
+  Untuk sekarang, fitur-fitur di dalam projek yaitu:
+
+  1. Live Scroll Preview
+  2. Custom Controls (lerp, duration, wheel multiplier, touch multiplier, dll)
+  3. Easing
+  4. Misc Options (Saat ini hanya pilihan Overscroll, Auto Resize, Smooth Wheel, Anchors, dll. Pilihan-pilihan tersebut akan selalu diupdate)
+
+  Tidak menutup kemungkinan bakal ada penambahan fitur lagi, namun saya perlu belajar lebih lanjut untuk fitur lainnya.
+
+  ## Penutup
+  Terima kasih teman-teman WPU sudah menyempatkan visit ke website maupun yang membaca showcase ini. Jikalau ada saran, gas lontarkan ke thread 
+
+  Website: https://makiapp.vercel.app/
+
+<br>
+
+9. [https://jekyll-buildr.vercel.app]  
+   **Daffa**
+
+  🎉 Jekyll Buildr v.2.1 - Mini-IDE Modern untuk Jekyll!
+
+  Assalammualaikum pak Dika,
+  Halo semuanya! Saya Daffa Aditya kembali berbagi project terbaru  tapi sudah lama, dan sudah menghasilkan cuan. Jekyll Buildr - mini-IDE modern untuk Jekyll dengan dukungan AI!
+
+  **Fitur Unggulan:**
+  ✨ Generate komponen Jekyll pakai AI
+  🖼️ Generate post image dari judul blog untuk prompt
+  🔧  Auto-fix code error
+  📁 Clone & push langsung ke GitHub
+  💾 Auto-save setiap 2 detik
+  🌀 Terintegrasi dengan VSCode: Semua fitur AI juga tersedia dalam ekstensi VSCode (DaffaDev.jekyll-buildr).
+  👑 Model Berlangganan (Pro Tier): Fitur AI yang lebih canggih (seperti perbaikan kode semua file, generasi konten, dll) dapat diakses dengan upgrade ke akun Pro melalui PayPal.
+
+  **Konsep Utama:**
+  IDE berbasis web yang menyederhanakan pengembangan website Jekyll dengan integrasi AI dan GitHub.
+
+  **Teknologi:**
+  -Next.js,
+  -TypeScript,
+  -Tailwind CSS,
+  -Firebase,
+  -Gemini AI (free tier),
+  -DeepSeek AI (pro tier),
+  -PayPal
+
+  Cara Pakai:
+
+  1. Login pakai GitHub
+  2. Connect GitHub di Settings
+  3. Pilih repository & branch
+  4. Edit file di browser
+  5. Gunakan fitur AI (klik ✨)
+  6. Push langsung atau buat PR
+
+  🌐 Website: https://jekyll-buildr.vercel.app
+  🐙 GitHub: https://github.com/daffadevhosting/jekyll-buildr
+
+  Perfect buat yang pengen streamline workflow Jekyll! 👨💻
+
+<br>
+<br>
