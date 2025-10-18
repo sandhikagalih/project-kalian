@@ -5821,7 +5821,7 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 <br>
 
 2. [https://gaman.7togk.id]  
-   ****
+   **Angga7Togk**
 
   **Assalamualaikum, Pak DIka dan teman-teman**
 
@@ -5887,7 +5887,7 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 
-4. []  
+4. [https://mega.nz/folder/uEdWTbSJ#y1bCKlrXXy93gi3e5zeBXA ]  
    **-Frieren And Fern**
 
   Assalamualaikum, Halo Pak Dhika dan teman-teman semua!
