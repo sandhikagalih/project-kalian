@@ -5777,3 +5777,266 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 18 Oktober 2025
+
+1. [https://www.heartpredict.online]  
+   **Agaam**
+
+  ### Prediksi Penyakit Jantung dengan Machine Learning
+  **Assalamualaikum,**
+  Hallo Pak Dika dan para suhu-suhu di sini! 
+
+  Perkenalkan, saya **M. Cita Prasetya Agam**, biasa dipanggil **Agam**.
+  Ini adalah **pertama kalinya saya ikut showcase**, biasanya cuma jadi penonton saja 😥
+  izin saya ingin share project, jadi ini sebenarnya adalah **project skripsi S1 Teknik Komputer** saya kemarin 2025 ini yang digarap agak tryhard karena ini pertama kalinya belajar machine learning dan langsung dijadikan skripsi hehehe.
+  untuk dataset ini saya ambil dari kaggle
+  **Dataset** : https://www.kaggle.com/datasets/kirollosashraf/heart-disease-csv
+
+  #### btw project ini juga sudah bisa disearch di Google dengan keyword **"heart predict"**
+  Jadi, Langsung saja monggo yang mau nyoba
+  #### **Project:** : https://www.heartpredict.online
+  Repo GitHub: https://github.com/Agaam03/heartpredict
+  #### ⚙️ **Fitur Utama:**
+
+  * Prediksi penyakit jantung
+  * Chat dengan AI untuk penjelasan hasil prediksi
+  #### 🧠 **Metode (Stacking Ensemble):**
+
+  1. Random Forest
+  2. Neural Network
+  3. XGBoost
+  4. Logistic Regression *(meta model untuk stacking)*
+
+  #### 🧩 **Tech Stack:**
+
+  * **Frontend:** Next.js, Tailwind CSS
+  * **Backend:** FastAPI, Prisma ORM, MongoDB
+  * **Authentication:** Auth.js
+  * **AI Integration:** LLaMA (via Groq Cloud)
+  * **Machine Learning:** TensorFlow, Scikit-learn, Pandas, NumPy
+  * **Deployment:** Docker, Google Cloud Platform (GCP)
+  #### Terima kasih kepada teman-teman WPU yang sudah mampir
+
+<br>
+
+2. [https://gaman.7togk.id]  
+   ****
+
+  **Assalamualaikum, Pak DIka dan teman-teman**
+
+  Perkenalkan nama saya **Angga** saya gatau role saya apa penting saya ngoding yang perlu di koding entah itu **Mobile Application**, **Website** apapun lah saya coba, dan juga saya otodidak juga belajar ngodingnya dari 2020
+
+  Btw dari dulu udah ngirim showcase kesini tapi malah masuk thread :V entahlah semoga ini kaga 
+
+  **Project Yang Mau Saya Showcase disini yaitu**
+  Saya awalnya bosen dan bingung mau buat apa, dan saya penasaran gimana sih cara kerja framework itu ?, dari routingnya, middlewarenya, dan logika di dalamnya, dan saya mencoba membuat framework saya sendiri bernama **GamanJS**
+
+  dan sebenernya dari dulu saya membuat proyek banyak yang tidak jadi ya jadi sih cuman ga di update lagi aja di tengah jalan males :V, tapi entah knp gw sayang banget ama **GamanJS** ini karna saya banyak dapet pelajaran dari sini padahal di awal pengen tau cara kerja routing middleware dll, tapi malah saya dapet ilmu lebih dari sini, dari cara buat builder framework nya, mengetahui, cara kerja Cors, Rate Limit, Websocket dll semua jadi kebayang di otak saya 🙂 ya gitulah jadi banyak yapping mhwehehe
+
+  **Tech Stack**
+  - Javascript
+  - Typescript
+  - NodeJS 
+
+  **Repository** https://github.com/7TogkID/gaman
+  **Website** https://gaman.7togk.id
+
+  Btw dokumentasi bahasa indonesia jadi semoga mudah di pahami hehe
+
+  **Cara Pakai**
+  tinggal jalanin command di bawah ini
+  ```bash
+  npm create gaman@latest
+  ```
+
+  terimakasih semua 🙂
+
+<br>
+
+3. [https://sofaknows.com/]  
+   **Suryaaditya**
+
+  Halo semuanya. Perkenalkan aku Surya Aditya, Independent Web Developer. Hari ini mau sharing salah satu freelance project yang aku kerjakan untuk SofaKnows, seorang tattoo artist sekaligus creative director. Untuk project ini aku berkolaborasi dengan Artem Militonian, designer asal Finland. Website ini targetnya memang pure art, punya niche art direction yg kami bilangnya brutalist, gritty, distorted, and stretched. Asumsi saya AI pun bingung mau bikinnya gimana dan tidak semua orang akan suka bentuk ini.
+
+  Dari sisi development, tantangannya ada di layering dan z-index, karena elemen yang dipakai banyak banget dan saling tumpang tindih. Blending antar layer juga tricky, jadi perlu perhatian khusus supaya tetap efisien dan smooth.
+
+  Technical notes:
+  * Website ini seperti biasa di develop dengan native technology CSS, JS, dan WebGL. 
+  * Semua sistem seperti SPA, WebGL engine, split text, virtual scroll, dan animation engine dibuat sendiri dengan pure JavaScript.
+  * Untuk compiler aku pakai Bun.build() dan bikin plugin custom untuk:
+      * calc() resolver di CSS
+      * px → vw conversion
+      * Minifier
+      * WebGL variable obfuscation
+
+  Highlighted features:
+  * Custom cursor morphing animation, perhatikan bagaimana cursor interaksi dengan link, ketika pada page work dan view fullscreen ketika dari plus menuju arrow.
+  * WebGL slider distortion pada work page di fullscreen view
+  * Zoom In/Out feature
+
+  Website ini punya karakter yang sangat unik dan eksperimental dengan caranya sendiri. 
+  Kalau mau coba versi mobile, cukup aktifkan Inspect Mode di browser karena detection-nya berbasis navigator.maxTouch.
+
+  Live Site: https://sofaknows.com/ 
+
+  Credit designer: https://artmilitonian.com/
+  Awards:
+  * FWA of The Day (https://thefwa.com/cases/sofaknows)
+  * Awwwards (On going)
+
+<br>
+
+4. []  
+   **-Frieren And Fern**
+
+  Assalamualaikum, Halo Pak Dhika dan teman-teman semua!
+
+  perkenalkan Nama saya  Zaki  Salam Kenal semuany!
+
+  Hari ini saya mau memamerkan update Terbaru!! versi ke 1.6.0 -> 1.6.6  , Banyak Waktu Yang Saya Habiskan di Sini Karena, Saya Cari Cara Buat Fitur  Auto Update 🙂   , Meskipun Belum Sempurna Kami Yakin 1.7.0 Bisa Lebih Bagus
+  ---
+  [ Note ]
+  -Saya Sudah Modifikasi Program agar Bisa lolos Anti Virus tapi tidak kemungkinan berhasil  50%, mungkin akan di cap mencurigakan oleh system karena agar bisa 100%, yang sudah dibuat Resmi oleh Sertifikat dari Otoritas Sertifikat (CA):
+  Versi 1.6.6
+
+  ( Saya hapus Karena terlalu Panjang ) Bisa di Lihat di Repo 🙂 
+
+  Manajemen Shortcut Kustom:
+  Jendela Khusus: Menambahkan antarmuka baru untuk membuat dan mengelola pintasan keyboard kustom.
+  Perekaman Hotkey Intuitif: Merekam hotkey kini lebih mudah. Cukup tekan kombinasi tombol yang diinginkan (misal: Ctrl+V), dan sistem akan merekamnya secara otomatis.
+  Penemuan Aplikasi Cerdas: Mempermudah pemilihan aplikasi dengan menampilkan daftar aplikasi yang terinstal dari Start Menu dan Desktop secara otomatis.
+  Peningkatan UI/UX (Dalam Pengembangan): Antarmuka untuk fitur ini masih dalam tahap awal. Peningkatan desain dan pengalaman pengguna akan menjadi fokus pada versi 1.7.0.
+
+  ---
+  Update di Extension Chrome:
+  Windows : Shourcut : Ctrl + shift + space 
+  MacBox Apakah Masih perlu kan udh canggih Xixix : )
+
+  Memperbaiki beberapa bug pada bagian Search Bar
+  Meperbaiki fitur baru Seperti History Search Bar
+  3.Penambahan Partikel DI Latar belakang
+  ---
+  Catatan:
+  Jika menemukan bug atau kendala, silakan beri tahu kami. Masukan kalian sangat berarti untuk pengembangan selanjutnya. Terima kasih 🙂
+
+  Link Download: https://mega.nz/folder/uEdWTbSJ#y1bCKlrXXy93gi3e5zeBXA 
+  Website: https://zeromix.pages.dev/
+  GitHub: https://github.com/faizinuha/ZeroSrc
+
+  Demo versi 1.7.0: Besok DI Uploads!
+  Terima kasih : )  Bantu saya dapatkan achivmen Star
+
+<br>
+
+5. [https://github.com/hallykoppter/Bell/releases/tag/v1.0]  
+   **hallykoppter**
+
+  **Bel Sekolah Otomatis**
+
+  Assalamualaikum, Selamat Malam Pak Dhika dan teman-teman WPU.
+
+  Perkenalkan nama saya Kurnia Sandi, biasa dipanggil "San". Saya seorang staf Tata Usaha di SMPN 3 Rancah Kab. Ciamis.
+  Sebelumnya terima kasih, berkat channel WPU, saya bisa menambah keahlian saya (walaupun saya masih malas-malasan) selama pandemi Covid-19 berawal dari belajar PHP dasar. 
+
+  Project yang mau saya share di sini yaitu "Program Bel Otomatis". Awal mula saya membuat project ini dikarenakan belum ada aplikasi Bel Otomatis yang beredar di Internet yang sesuai dengan keinginan saya, baik itu dari tampilan maupun fitur. Daripada saya harus nunggu, mending bikin sendiri 😂. 
+
+  Tapi rintangan dalam pembuatannya lumayan juga, saya harus banyak belajar lagi mengenai bahasa lain selain PHP yang pernah saya pelajarai sewaktu pandemi di channel WPU. Saya belajar kembali dari rekan-rekan Pak Dhika, terima kasih kepada Pak Eko untuk materi Golangnya dan Kang Dea untuk materi NextJS nya. Dan sekali lagi terima kasih kepada pak Dhika yang mengawali saya menekuni "Coding" walaupun hanya untuk hobby.
+
+  **Catatan Penting:**
+  1. Aplikasi ini dapat berjalan di OS Windows 10 ke atas, untuk win 7 ke bawah masih dalam tahap pengembangan.
+  2. Format suara hanya "*.mp3"
+  3. Mohon maaf karena masih belum konsisten penggunaan Bahasa Indonesia dan Bahasa Inggrisnya.
+
+  **Fitur:**
+  ✅ Profil Sekolah Dinamis
+  ✅ Tambah Jadwal
+  ✅ Tambah Suara
+  ✅ "Ringan"
+
+  **Tech Stack:** 
+  🚀 Front-End    : Javascript, NextJS, Tailwind.
+  🚀 Back-End    : Go, Wails.
+  🚀 Database    : SQLite, GORM.
+
+  Repository:
+  🌎 Front-End    : https://github.com/hallykoppter/frontend
+  🌎 Back-End    : https://github.com/hallykoppter/Bell
+
+  Download Aplikasi:
+  🌎 Executable    : https://github.com/hallykoppter/Bell/releases/tag/v1.0
+
+  Password Admin Panel : admin
+
+  Terima kasih.
+
+<br>
+
+6. [https://glb-gltf-viewer-adydetra.vercel.app]  
+   **Dewa**
+
+  Halo Pak Dhika dan teman-teman, mau share proyek simple gabut 🗿 terbaru: **GLB/GLTF Viewer**.
+
+  Viewer ini buat ngecek tampilan GLB/GLTF tanpa perlu buka software Blender. Bisa drag & drop upload, ganti warna, atur skala, geser posisi pakai gizmo ala Blender, dan ubah background biar cocok sama scene. Ada fitur screenshot langsung dari canvas.
+
+  Tech Stack: React 19, Vite, Three.js, @react-three/fiber, @react-three/drei, Vanilla CSS.  
+
+  Demo: https://glb-gltf-viewer-adydetra.vercel.app  
+  Repo: https://github.com/adydetra/glb-gltf-viewer  
+
+  Sample GLB: https://www.mediafire.com/file/totyte6p2rdpmwp/glb.zip/file
+
+  Terima kasih!
+
+<br>
+
+7. [https://enfileup.prtcl.icu]  
+   **Nameraid**
+
+  Halo semuanya!
+  Aku ingin memperkenalkan kembali project ini. Sebelumnya, versi lamanya sudah pernah tampil di showcase — namun saat itu masih dibuat menggunakan pure PHP tanpa framework.
+
+  Karena semakin banyak pengguna Enfileup, aku memutuskan untuk membangun ulang project ini menggunakan framework modern (Laravel) agar lebih stabil, aman, dan mudah dikembangkan.
+
+  Selain itu, aku juga menggunakan domain baru, karena domain lama sudah di-takedown.  Enfileup gen 2 
+
+  A modern, privacy-focused platform for sharing files and text securely — built with Laravel 12, PHP 8.3, and Tailwind CSS.
+
+  FEATURES
+
+  PRIVACY & SECURITY  
+  - Anonymous uploads — no registration required  
+  - UUID-based file access  
+  - Optional password protection  
+  - Cookie-based temporary access  
+  - IP logging (admin only)  
+  - Secure delete tokens  
+
+  FILE MANAGEMENT  
+  - Upload up to 100 files at once (max 100 MB per file)  
+  - Bulk file handling & automatic cleanup  
+  - Smart file previews (images, text, others)  
+  - File expiration & download tracking  
+
+  PASTEBIN  
+  - Share code, notes, or text snippets easily  
+  - Syntax highlighting for many languages  
+  - Password & expiration options  
+
+  USER INTERFACE  
+  - Modern dark theme with aqua glow  
+  - Responsive design (desktop & mobile)  
+  - Real-time upload progress  
+  - Simple and clean UX  
+
+  ADMIN TOOLS  
+  - Dashboard to monitor uploads & trends  
+  - File moderation & cleanup tools  
+  - Visitor and download analytics  
+  Enfieup — Anonymous. Secure. Fast.  
+  "Share files & text privately — no sign-up, no tracking."
+  Demo: domain lama https://anonlib.anonhs.icu (di takedown ) pindah ke https://enfileup.prtcl.icu 
+  Source Code: https://github.com/n3mr1d/uploadAnonv2
+
+<br>
+<br>
