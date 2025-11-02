@@ -6040,3 +6040,328 @@ Haloww Pak Dhika dan teman-teman WPU. saya Mifta anak SMP pembuat Low Cost Robot
 
 <br>
 <br>
+
+### 2 November 2025
+
+1. [https://web-rpl-usti.vercel.app]  
+   **indra**
+
+  Assalamu'alaikum pak dika dan kawan-kawan semoga sehat selalu. Kembali lagi bersama Indra dan kali ini saya kembali ikut showcase project karena sudah lama sekali gak ikut semenjak saya sudah kerja. Adapun showcase project yang akan saya tampilkan untuk tahun ini adalah web rpl sederhana yang mana sekaligus portfolio real time pertama. Adapun tech stack nya adalah sebagai berikut:
+  Frontend:
+  1. Html
+  2. Css
+  3. Js
+  4. Scroll reveal.js
+  5. Bootstrap 5(halaman admin) 
+  Backend:
+  1. Php
+  2. MySQL
+
+  Singkat cerita projek ini dibuat atas permintaan dari wakil rektor I yang mana beliau meminta saya utk membuat kan sebuah website pendaftaran mahasiswa rpl pada akhir Agustus lalu. sebelumnya saya sudah minta izin dari beliau utk showcase project ini sebagai promosi kampus, bagi yang ingin melihat projek nya silahkan kunjungi link di bawah ini:
+  Link frontend(hanya tampilannya saja, tidak bisa memasukkan data ke database) 
+  https://web-rpl-usti.vercel.app
+
+  Link repo GitHub:
+  https://github.com/alfarabygit/web-rpl-usti
+  Link backend untuk memasukkan data pendaftaran via localhost, silahkan download project nya terlebih dahulu beserta panduannya melalui link di bawah ini:
+  https://drive.google.com/drive/folders/1LYVPUYhemDs8t1OkAHG1OME4d48rhFpH
+  jangan lupa feedback dari pak dika dan kawan-kawan untuk pengembangan projek ini jadi lebih baik lagi. Mungkin itu saja yang bisa sampaikan, kurang lebih mohon maaf apa bila ada kesalahan dalam penyampaian kata-kata. 
+  Wassalamu'alaikum warahmatullahi wabarakatuh, jangan lupa titik koma.
+
+<br>   
+
+2. [https://zerotrillion.com/]  
+   **Suryaaditya**
+
+  Halo semuanya, aku Surya Aditya mau sharing lagi website freelance yang kami kerjakan untuk Zerotrillion. Untuk project ini aku berkolaborasi dengan Luis Bizarro, Staff Engineer Airbnb.Website ini dibuat menggunakan framework yang beliau buat bernama Lisergia (masih pada tahap pengembangan), dengan stack:
+  - Node.js
+  - Sanity (Headless CMS)
+  - OGL WebGL
+  - SCSS
+  - TypeScript
+  - GSAP
+  - Twig (Template Engine)
+
+  Highlighted features:
+  - Scramble text reveal and hover effect
+  - WebGL Image reveal, logo  and cursor animation on mouse move
+
+  Seperti yg pernah di mention ini tidak se aneh yg kemarin 😆
+
+  Live Site: https://zerotrillion.com/
+
+  Credit Collaborator: https://bizar.ro
+
+<br>   
+
+3. [https://uploadxam.fostiums.org]  
+   **Rangga**
+
+  Assalamu’alaikum pak Dika dan teman-teman semuanya, semoga sehat selalu.
+  Kembali lagi bersama saya, Rangga. Kali ini saya ingin ikut showcase project yang baru saja saya selesaikan, yaitu sebuah platform berbasis web bernama UploadXam.
+
+  Singkat cerita, platform ini saya buat berangkat dari keresahan kecil di kampus saya — di mana soal-soal ujian tahun-tahun sebelumnya biasanya dibagikan lewat Google Drive secara terpisah tiap angkatan dan prodi. Akibatnya, penyebarannya tidak terpusat, sulit dicari ulang, dan seringkali hilang begitu saja.
+
+  Dari situ saya berpikir: kenapa tidak dibuatkan saja satu wadah yang bisa menampung semua soal ujian dari seluruh mahasiswa, lintas prodi dan angkatan, agar bisa saling bantu untuk belajar bersama? Maka lahirlah UploadXam, sebuah platform kolaboratif di mana mahasiswa bisa mengunggah dan mengakses soal ujian yang telah mereka ikuti, supaya dapat dimanfaatkan oleh adik tingkat untuk persiapan UTS/UAS.
+
+  Adapun tech stack yang saya gunakan sebagai berikut:
+  Frontend:
+  - Next.js
+  - Tailwind CSS
+
+  Backend:
+  - Express.js (TypeScript)
+  - Prisma ORM
+
+  Database & Storage:
+  - PostgreSQL Serverless (Neon)
+  - EdgeStore
+
+  Hosting:
+  - Vercel
+
+  Bagi teman-teman yang ingin mencoba atau sekadar melihat tampilan platformnya, bisa langsung kunjungi link berikut:
+  🔗 https://uploadxam.fostiums.org
+
+  🔗 https://github.com/airlanggapradana/uploadxam
+
+  * untuk testing dapat menggunakan nim L200240178 (saya memohon untuk tidak mengupload file dikarenakan ini sudah dipakai ratusan mahasiswa di fakultas saya Terimakasih 🙏 )
+
+  Projek ini tentu masih jauh dari kata sempurna dan masih terus saya kembangkan, jadi saya sangat terbuka dengan segala bentuk masukan atau saran dari teman-teman agar bisa lebih bermanfaat bagi komunitas mahasiswa ke depannya.
+
+  Jangan lupa titik koma.
+  Wassalamu’alaikum warahmatullahi wabarakatuh.
+
+<br>   
+
+4. [https://zeromix.vercel.app]  
+   **-Frieren And Fern**
+
+  **Assalamualaikum, Halo Pak Dhika dan teman-teman semua!**
+  Perkenalkan, nama saya **Zaki** — salam kenal semuanya!
+
+  Saya mengucapkan **terima kasih banyak** untuk *Star* di repositori saya 😊
+
+  ---
+
+  ###Penjelasan Update
+
+  **Versi 1.7.0 - 1.7.2**
+  Karena update kali ini cukup besar dan rumit, jadi langsung saya gabung dari 1.7.0 ke 1.7.2 agar lebih mudah dijelaskan.
+
+  ---
+
+  ### ✨ Fitur Baru
+
+  * **Tampilan Latar Belakang:** Transparansi latar belakang disesuaikan agar lebih nyaman dilihat.
+  * **Pencarian Channel YouTube:** Kini bisa cari channel langsung!
+    Ketik `ytc` diikuti nama channel (contoh: `ytc WPU`) lalu tekan **Enter**.
+
+  ---
+
+  ### 🪠 Perbaikan
+
+  * Memperpanjang tampilan search bar
+  * Memperbaiki *auto-close suggestion* / listbox search bar
+  * Memperbaiki UI/UX manajemen shortcut
+  * Memperbaiki bug
+  * Menambahkan fungsi auto link: https://youtube.com/result/Wpu
+
+  ###Chrome Exstension :
+
+  *Tidak Ada Pembaruan 
+
+  ---
+
+  🌐 **Website:** https://zeromix.vercel.app
+  🐙 **GitHub Release:**https://github.com/faizinuha/ZeroMix/releases
+  🐙 **GitHub:**https://github.com/faizinuha/ZeroMix
+  💮 **Mega.nz:**https://mega.nz/folder/uEdWTbSJ#y1bCKlrXXy93gi3e5zeBXA
+
+  DI usahakan Untuk menganti audio ke bhs inggris , Jika suara saya kurang 
+  Jelas Terima kasih DI bawah ini Video Install , Mungkin bisa membantu
+  Instalasi : https://youtu.be/0XcP66JpNSg?si=5jtHLpiTAaw6A1r6
+
+  ---
+
+  > **Catatan:**
+  > Update v1.7.2 – v1.7.5 merupakan versi *stop version*.
+  > Jangan lupa kasih ⭐ ya Kak Xixi Makasih
+
+<br>   
+
+5. [https://syclestore.com]  
+   **Sycle**
+
+  Selamat malam Pak Dhika dan teman-teman semua!
+
+  Perkenalkan nama saya Rivaldo Tandoko, mahasiswa semester 5 di Telkom University. Pada sesi showcase saya yang ke sekian kalinya, saya ingin menshowcase project revamp platform untuk top up game yang sudah pernah saya submit di tanggal 09/12/2024.
+
+  Tech Stack yang digunakan:
+  - Nextjs + Typescript
+  - TailwindCSS
+  - Postgres + Prisma
+  - Shadcn UI
+  - NextAuth
+
+  Fitur Utama:
+  - Top-up game bisa login atau tanpa login
+  - Login dengan Google
+  - FlashSale
+  - Cashback setiap transaksi berupa SycleStore Coins untuk semua user yang Logged In (kecuali transaksi dengan SycleStore Coins)
+  - Email notifications terkait update status pesanan (Logged In User)
+  - Dynamic Metadata
+
+  Upcoming Features:
+  - Leaderboard
+  - Running Trade (Tabel untuk lihat transaksi yang berlangsung)
+
+  Bagi teman-teman yang menemukan minor bug maupun major bisa langsung kirim email ke help@syclestore.com beserta dengan kronologinya. Namun untuk saat ini, sayangnya saya hanya mampu memberikan ucapan terima kasih karena platform ini dibuat dengan dana pelajar (masih minus) 😔. Mohon pengertiannya, dukungan, dan feedback dari Pak Dhika dan teman-teman sekalian agar saya dapat mengembangkan project ini menjadi lebih besar lagi. Terima kasih!
+
+
+  Live Demo: https://syclestore.com
+
+<br>   
+
+6. [https://ctf.ariaf.my.id]  
+   **ef_aira 01010100**
+
+  Assalamu’alaikum pak Dika dan teman-teman semuanya, semoga sehat selalu.
+  Saya Aria, dan kali ini saya ingin memperkenalkan project saya: CTFS (Capture The Flag Simple), sebuah web platform untuk latihan dan kompetisi CTF.
+
+  Walaupun saya bukan orang yang fokus di pemrograman, karena penasaran saya mencoba membuat platform CTF pribadi. Berkat beberapa percobaan dan bantuan AI, akhirnya web ini berhasil jalan, dan sekarang sudah berjalan 1 bulan dan dipakai beberapa orang untuk mencoba dan bermain CTF.
+
+  Platform ini gratis, sederhana, dan mudah dijalankan menggunakan Vercel + Supabase. Jadi siapa pun yang tertarik bisa langsung mencoba dan eksplor platform ini.
+
+  🔗 Demo: https://ctf.ariaf.my.id
+  🔗 GitHub: https://github.com/ariafatah0711/ctfs
+
+  Project ini saya buat murni dari rasa penasaran dan semangat belajar. Semoga bisa jadi inspirasi buat teman-teman yang ingin mencoba bikin project serupa atau sekadar eksperimen dengan web platform.
+
+  Wassalamu’alaikum warahmatullahi wabarakatuh.
+
+<br>   
+
+7. [https://kulon.devanka.id/#requirements]  
+   **devanka**
+
+  Halo, selamat siang, Pak Dhika dan teman-teman WPU. Saya Devanka, ingin share project hasil belajar saya setelah menamatkan playlist *Belajar NodeJS* di channel WPU, dan playlist *REST API dengan TypeScript* di channel Kang Avip (VIP Code Studio). Sehingga saya sedikit bisa menggunakan database, khususnya MongoDB di dalam project ini.
+
+  Namanya **Kulon**, sebuah game kecil bertemakan survival puzzle, dengan grafik pixel 2d, yang memiliki mekanik multiplayer online untuk mode coop dan versus. Saya kembali *men-showcase* Kulon setelah menata ulang codebase menggunakan full TypeScript, yang akhirnya dapat cocok dimainkan di mobile maupun desktop, tanpa perlu menggerakkan mouse sedikitpun di ingame-nya.
+
+  > [!TIP]
+  > Tested Browsers: Safari 12, Chrome 64, Firefox 69, Edge 79.
+
+  > [!IMPORTANT]  
+  > Device mobile disarankan untuk install sebagai PWA, atau buka gamenya dengan mode fullscreen.
+
+  Fitur
+  - Story (coop/solo 5 - 10 menit)
+  - Minigame (versus 0 - 3 menit)
+  - Pertemanan (buat bikin tim privat)
+  - Pengaturan Audio, Kontrol, Notif, Bahasa
+  - Surat (sistem hadiah), Achievement, Toko
+  - Akun & tanpa akun - (Cloud Save)
+
+  Fitur Internal - private (hire me pls)
+  - Game/Map Editor (in-app engine)
+  - Moderasi - ban/unband/access bypass (in-app)
+  - Micro-transaction + dashboard (in-app)
+
+  Bikinnya pake
+  - Express
+  - Mongoose
+  - Nodemailer
+  - WebSocket & PeerDataChannel
+  - TypeScript & TSGO
+  - SCSS
+  - Webpack
+
+  Info lengkap tech dan asset ada di homepage
+
+  Repository: [github.com/devanka761/kulon](https://github.com/devanka761/kulon)
+
+  Live Demo: [kulon.devanka.id](https://kulon.devanka.id/#requirements)
+
+<br>   
+
+8. [https://paperline.vercel.app/]  
+   **Fathin**
+
+  > "With a supply that has become saturated
+  > Even the cycle will speed up
+  > Don't worry about the reputation
+  > Let’s do whatever we want"
+  lirik lagu dari Obsolote Meat by 32ki
+
+  jadi HALOO SEMUANYAAA saya M.Fathin Halim (lagi whehehee), seorang siswa yang sekarang baru masuk 1 SMA (YEYYYY). 
+
+  Jadi kali ini aku ingin share project random yang lumayan fun aku dan temenku bikin, yaitu **Paperline**
+
+  jadi intinya ini tuh kayak game typing yangg super simple dengan konsep Story Chat gitu. Kami bikin karena guru kami bilang kalau banyak keluhan siswa sekarang gak bisa ngetik, padahal itu skill yang dibutuhkan untuk pelajaran Informatika dan KKA. Jadi kami iseng aja bikin ini hehehe buat latihan kami sekaligus mungkin bisa membantu teman teman yang ingin latihan mengetik cepat tapi pengen ada storynya
+
+  Tech Stack:
+  1. NextJS
+  2. TailwindCSS
+  3. Suno AI (biar gak kena Royalti, jadi bgm nya aman :D)
+
+  Link Demo: https://paperline.vercel.app/
+  Link Github: https://github.com/MFathinHalim/Paperline
+
+  Synopsis:
+  Menceritakan seorang anak laki-laki yang lahir dari keluarga kaya — putra seorang perancang busana ternama dunia. Setelah ibumu meninggal, hidupmu tak lebih dari sekadar aturan, jadwal, dan sorotan. Kamu tak pernah bersekolah di sekolah biasa, tak pernah punya teman sejati — hingga sekarang.
+
+  Awalnya, kehidupan sekolah terasa asing dan jauh. Namun perlahan, kamu mulai merasakan kehangatan yang tak pernah kamu kenal sebelumnya: tawa, persahabatan, dan seorang gadis bernama Mira, yang melihatmu apa adanya — bukan putra sang desainer, melainkan dirimu sendiri.
+
+<br>   
+
+9. [https://itsme-hera.vercel.app]  
+   **Yui**
+
+  こんにちはみんなさん! お元気ですか?神様のおかげで元気になりますように!🙇‍♂️ 
+  Hallo sandhika sensei dan temen temen WPU
+  kenalin aku Yuii, disini aku mau showcase project portfolio pribadi hitung-hitung udah lama banget ga showcase konsep dan designya itu sederhana dan ringan untuk konsepnya yuii terinspirasi dari filosofi khas jepang yakni Wabi-sabi. 
+  Apa itu Wabi-sabi? Singkatnya,
+  "Wabi" berarti kesederhanaan dan ketenangan dalam hal yang sederhana atau tidak mewah.
+  "Sabi" berarti keindahan yang muncul seiring waktu dan penuaan alami. Jadi Wabi-sabi yakni menerima ketidaksempurnaan dan perubahan sebagai bagian alami dari kehidupan.
+
+  Techstacknya itu :
+  Express, Postgree SQL (untuk database), Tailwind, dan untuk static template masih pake HTML
+  Bisa dibilang project ini sudah fullstack secara sederhana/dasar 
+
+  Live site : https://itsme-hera.vercel.app
+
+  Untuk link github projectnya private karena codenya masih berantakan. Kritik dan saran dari sensei dan temen temen seperti biasa sangat Yuii hargai🙇‍♂️ アドバイスをお待ちしております! 先生。お仕事を頑張ってください!
+
+<br>   
+
+10. [https://mikroweb.pages.dev]  
+   **Daffa**
+
+  Halo manteman semua! Assalamualaikum pa dika, daffa disini.  Project saya kali ini adalah MikroWeb v.2.0.1, yang saya bangun dan sudah di pakai usaha penyewaan wifi di rumah sejak covid hingga sekarang.
+  
+  🚀 Apa itu MikroWeb?
+  MikroWeb adalah dashboard open-source fullstack untuk mengelola hotspot MikroTik RouterOS. Tujuannya adalah menggantikan sistem voucher kertas, memudahkan ISP lokal, RT/RW Net, dan warnet mengelola user, paket, dan statistik secara otomatis dan modern.
+
+  🛠️ Teknologi yang Digunakan
+  Backend: Menggunakan PHP sebagai API, library PEAR2 routerOS untuk koneksi ke MikroTik, dan Firebase Admin SDK.
+  Frontend: Dibangun dengan Jekyll (static site) agar ringan dan cepat, serta HTML/CSS/Bootstrap/js.
+  Database & Auth: Memakai Firebase Realtime Database untuk data user/statistik dan Firebase Auth untuk login admin yang aman. 
+
+  ✨ Fitur Unggulan
+  Sistem Voucherless: Admin bisa top-up atau mengaktifkan user expired (paket data / waktu) langsung dari dashboard.
+  AutoKiller: Skrip di MikroTik akan menonaktifkan user secara otomatis saat paket data atau masa aktifnya user sudah habis.
+  Fitur Lain: Tersedia statistik income/traffic, manajemen paket, bandwidth, dan fitur Terminal via web. 
+
+  🧠 Cara Kerja "AutoKiller"?
+  Fitur ini menggunakan dua skrip di MikroTik:
+  Skrip on-login (Penanda Waktu): Saat user login pertama kali, skrip ini otomatis memberi "cap" waktu kedaluwarsa di kolom comment user (misal: exp:28/10/2025 10:00).
+  Skrip on-event (Sang Eksekutor): Skrip ini berjalan setiap 30 detik untuk mengecek semua user. Jika comment user menunjukkan waktu yang sudah lewat, skrip akan otomatis men-set limit-uptime=1s dan menonaktifkan / mendisabled user tersebut. 
+  Secara singkat: PHP & Firebase mengelola data topup user, sementara Skrip di MikroTik bertugas sebagai eksekutor otomatis.
+
+  🌏 Demo: https://dummy-mikroweb.pages.dev
+  🌏 Live: https://mikroweb.pages.dev
+  🐙 Repo: https://github.com/daffadevhosting/mikroweb-v.2.0.1
+
+<br>   
+<br>
